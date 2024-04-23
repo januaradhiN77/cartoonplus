@@ -1,0 +1,3284 @@
+        // Mengambil data JSON dari server atau file lokal
+        const data = {
+            "bos": {
+                "title": "Battle Of Surabaya",
+                                "terjemah": "Episode 1",
+                "rating": "6.4",
+                "studio": "MSV Pictures",
+                "rilis": "20 Agustus 2015",
+                "gendre1": "Action",
+                "gendre2": "Historicial",
+                "gendre3": "Drama",
+                "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg",
+                "trailer": "https://www.youtube.com/embed/nKpH1z4NewI?si=kYUSt35V_haUIOon",
+                "duration": "1 jam 45m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Battle Of Surabaya",
+                "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda.",
+       "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP",
+       
+            },
+       
+    
+        ],
+                
+ },
+"boboiboythemovie": {
+                "title": "Boboiboy The Movie",
+            "terjemah": "Episode 1",
+                "rating": "4.8",
+                "studio": "Monsta",
+                "gendre1": "Action",
+                "gendre2": "Comedy",
+                "gendre3": "Adventure",
+                "rilis": "3 Maret 2016",
+                "description": "Ochobot, si robot teman BoBoiBoy, telah diculik oleh sebuah komplotan pemburu harta karun asing berjulukan The Tengkotak, dan akan mereka gunakan untuk melacak lokasi Sfera Kuasa kuno yang bersembunyi di Bumi.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/2f/Boboiboy_The_Movies.jpg",
+                "trailer": "https://www.youtube.com/embed/PSnxXrS151g?si=z8BmMo9lVVx0L6DI",
+"duration": "1 jam 40m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Boboiboy The Movie",
+                "description": "Ochobot, si robot teman BoBoiBoy, telah diculik oleh sebuah komplotan pemburu harta karun asing berjulukan The Tengkotak, dan akan mereka gunakan untuk melacak lokasi Sfera Kuasa kuno yang bersembunyi di Bumi.",
+
+       "episodeUrl": "https://acefile.co/player/51182839",
+
+                    
+       }
+        ]
+            },
+
+            "upinipinkerissiamangtunggal": {
+                "title": "Upin & Ipin : Keris Siamang Tunggal",
+            "terjemah": "Episode 1",
+                "rating": "7.3",
+                "gendre1": "Comedy",
+                "gendre2": "Animasi",
+                "gendre3": "Adventure",
+                "studio": "Les' Copaque Production",
+                "rilis": "9 Mei 2019",
+                "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/lD8Z7GpR45U?si=fFNDnShLZxXYa01N",
+                "duration": "1 jam 45m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Upin & Ipin : Keris Siamang Tunggal",
+                "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
+       "episodeUrl": "https://drive.google.com/file/d/1vGNhff-_ge8iEN9BEX9pWI_qfz0Q-z9E/preview",
+
+                    
+       }
+        ]
+                
+            },
+            "onepiecemv14": {
+                "title": "One Piece Movie 14 : Stampede",
+                "terjemah": "Episode 1",
+                "rating": "8.3",
+                "studio": "Toei Animation",
+                "rilis": "18 September 2019",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Fantasy",
+                "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
+                "bgimg": "https://nimegami.id/wp-content/uploads/2020/02/images-2020-02-22T112315.305.jpeg",
+                "trailer": "https://www.youtube.com/embed/S8_YwFLCh4U?si=CCsgoUjJOB_WYoY3",
+                "duration": "1 jam 41m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "One Piece Movie 14",
+                "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
+
+       "episodeUrl": "https://acefile.co/player/19320220",
+
+                    
+       }
+        ]
+                
+            },
+"mashleseason2": {
+                "title": "Mashle Season 2",
+                "terjemah": "Episode 1",
+                "rating": "7.6",
+                "studio": "A-1 Pictures",
+                "rilis": "6 Januari 2024",
+                "gendre1": "Action",
+                "gendre2": "Comedy",
+                "gendre3": "Fantasy",
+                "description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2wCYBc9vA_7Ozookt3gIpnOqclHMAXrLI6GO4AaE6Pq-RIsX2y3j7NKR&s=10",
+                "trailer": "https://www.youtube.com/embed/GZcva77qzb4?si=e1tQkKzpN9EMUKZs",
+                "duration": "23 menit",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Mashle Season 2",
+                "description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
+       "episodeUrl": "https://acefile.co/player/102743749",
+
+                    
+       }
+        ]
+                
+            },
+
+"findingnemo": {
+                "title": "Finding Nemo",
+                "terjemah": "Episode 1",
+                "rating": "8.2",
+                "studio": "Walt Disney Pictures",
+                "rilis": "30 Mei 2003",
+                "gendre1": "Adventure",
+                "gendre2": "Drama",
+                "gendre3": "Animasi",
+                "description": "Dua ikan badut bernama Marlin dan istrinya Coral, mengagumi rumah baru mereka di Great Barrier Reef dan kopling mereka telur ketika barracuda menyerang, mengetuk Marlin sadar. Dia bangun untuk mengetahui bahwa Coral dan semua kecuali satu dari telur telah dimakan oleh barracuda. Marlin namakan telur terakhir ini Nemo, nama yang Coral sukai.",
+                "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
+                "trailer": "https://www.youtube.com/embed/WpOXa4uqqfA?si=uRR_XwMOh2bAp8HB",
+                "duration": "1 jam 40m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Finding Nemo",
+                "description": "Dua ikan badut bernama Marlin dan istrinya Coral, mengagumi rumah baru mereka di Great Barrier Reef dan kopling mereka telur ketika barracuda menyerang, mengetuk Marlin sadar. Dia bangun untuk mengetahui bahwa Coral dan semua kecuali satu dari telur telah dimakan oleh barracuda. Marlin namakan telur terakhir ini Nemo, nama yang Coral sukai.",
+
+       "episodeUrl": "https://drive.google.com/file/d/1E8G3JGM_NVdpruETrtlL35CwdJky4Gvj/preview",
+
+                    
+       }
+        ]
+                
+            },
+
+
+"lightyear": {
+                "title": "Lightyear",
+                "terjemah": "Episode 1",
+                "rating": "6.1",
+                "studio": "Walt Disney Pictures",
+                "rilis": "17 Juni 2022",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Horor",
+                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
+                "trailer": "https://www.youtube.com/embed/BwZs3H_UN3k?si=OseZGf5ghva1WCvL",
+                "duration": "1 jam 47m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Lightyear",
+                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
+
+       "episodeUrl": "https://drive.google.com/file/d/1js9RL9N1xrifob2yEoDgzYGUOjcpey8K/preview",
+
+                    
+       }
+        ]
+                
+            },
+"jujutsukaisenseason2": {
+                "title": "Jujutsu Kaisen Season 2",
+                "terjemah": "Episode 1-23",
+                "rating": "8.6",
+                "studio": "MAPPA",
+                "rilis": "6 Juli 2023",
+                "gendre1": "Action",
+                "gendre2": "Fantasy",
+                "gendre3": "School",
+                "description": "menceritakan mengenai masa lalu Gojo dan Arc Insiden Shibuya. Masa lalu Gojo Satoru dimulai sejak 11 tahun sebelum Yuji Itadori masuk SMA Jujutsu Tokyo. Gojo Satoru bersahabat dengan Suguru Geto, yakni sama-sama murid kedua di SMA Jujutsu Tokyo yang menerima tugas dari master Tengen untuk mengantar Riko Amanai kembali ke sekolah.",
+                "bgimg": "https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg",
+                "trailer": "https://www.youtube.com/embed/muSr2NVs1oM?si=TLIS3UM2EPjb1yYd",
+                "duration": "Tidak diketahui",
+"episodes": [
+        {
+                
+                
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+       "episodeUrl": "",
+
+
+       },
+       {
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+       "episodeUrl": "",
+
+
+       },
+       {
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+       "episodeUrl": "",
+
+
+       },
+              {
+                      "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                      "episodeUrl": "",
+       
+       
+              },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                    {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },,
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                    {
+                                   "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                                   "episodeUrl": "",
+       
+       
+                           },
+                    {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+        ]
+                
+            },
+"cyberpunkedgerunners": {
+                "title": "Cyberpunk: Edgerunners",
+                "terjemah": "Episode 1-10",
+                "rating": "8.3",
+                "studio": "CD Projekt",
+                "rilis": "13 September 2022",
+                "gendre1": "Cyberpunk",
+                "gendre2": "Laga",
+                "gendre3": "Animasi",
+                "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+                "bgimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW",
+                "trailer": "https://www.youtube.com/embed/ax5YUmkWf_Y?si=zFK9CNxOLLiXMxut",
+                "duration": "4 jam 00m",
+"episodes": [
+       {
+                      "episodeTitle": "Episode 10",
+                      "episodeUrl": "https://drive.google.com/file/d/1hlE8_Tha-eYCXeMgDM9tCkVDwkdA5J3T/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 10) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+               "episodeTitle": "Episode 9",
+               "episodeUrl": "https://drive.google.com/file/d/1gh4wEolxCsw9oez8teNzoQ_ntxl_wxPS/preview",
+       "episodeJudul": "Cyberpunk: Edgerunners (EP 9)",
+"description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+
+       
+       },
+       {
+                      "episodeTitle": "Episode 8",
+                      "episodeUrl": "https://drive.google.com/file/d/1ijB3ixXgRAa2XAYJEarwF6LTJsgjFXde/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 8)",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 7",
+                      "episodeUrl": "https://drive.google.com/file/d/1gm_WLZYcnC4piDtqau356q0i6fw4m6Ev/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 7) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 6",
+                      "episodeUrl": "https://drive.google.com/file/d/1gO3-6srBEFbu96L_aJ-XElxaEfYd8TFb/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 6) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 5",
+                      "episodeUrl": "https://drive.google.com/file/d/1iwN0zweAOxgxMsmdgwVPBDaEydBRp-tf/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 5) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 4",
+                      "episodeUrl": "https://drive.google.com/file/d/1gNBr88wkWzfwGHG1E1g2DWmRpvtuKHja/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 4) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+
+       
+              },
+       {
+                      "episodeTitle": "Episode 3",
+                      "episodeUrl": "https://drive.google.com/file/d/1ia9_jvBQdomJnxrXNaLf3ZUtcy1Rfpmd/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 3) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 2",
+                      "episodeUrl": "https://drive.google.com/file/d/1gLGuG-M9g4JSf1tg1xKiSsz8Eibp0kA0/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 2) ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+                      "episodeTitle": "Episode 1",
+                      "episodeUrl": "https://drive.google.com/file/d/1gI6Qgd9hmkZIWsss98ohTWST8u8CzoFk/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 1)  ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+        ]
+                
+            },
+"cars3": {
+                "title": "Cars 3",
+                "terjemah": "Episode 1",
+                "rating": "6.7",
+                "studio": "Walt Disney Pictures",
+                "rilis": "16 Agustus 2016",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Drama",
+                "description": "Reputasi pebalap legendaris Lightning McQueen mulai tersaingi dengan kemunculan pebalap-pebalap muda. Bersama rekannya, Cruz Ramirez, McQueen berusaha mempertahankan gelarnya sebagai raja sirkuit.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQ4vK2-KysVXNtSOuqELwVhVXDjLdFqRPP07QJGoS9638KAI2ISc5J9Pb&s=10",
+                "trailer": "https://www.youtube.com/embed/2LeOH9AGJQM?si=HB-ByNlfio2R9bdD",
+                "duration": "1 jam 42m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Cars 3",
+                "description": "Reputasi pebalap legendaris Lightning McQueen mulai tersaingi dengan kemunculan pebalap-pebalap muda. Bersama rekannya, Cruz Ramirez, McQueen berusaha mempertahankan gelarnya sebagai raja sirkuit.",
+
+       "episodeUrl": "https://drive.google.com/file/d/1ntPxX9MJ7C4EhIwwSLQz6aTirQUrvClK/preview",
+
+                    
+       }
+        ]
+                
+            },
+"toystory4": {
+                "title": "Toy Story 4",
+                "terjemah": "Episode 1",
+                "rating": "7.7",
+                "studio": "Walt Disney Pictures",
+                "rilis": "21 Juni 2019",
+                "gendre1": "Animasi",
+                "gendre2": "Horor",
+                "gendre3": "Adventure",
+                "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/wmiIUN-7qhE?si=_eZqsY50zotP4sgh",
+                "duration": "1 jam 40m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Toy Story 4",
+                "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
+
+       "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
+
+                    
+       }
+        ]
+                
+            },
+"bighero6": {
+                "title": "Big Hero 6",
+                "terjemah": "Episode 1",
+                "rating": "7.8",
+                "studio": "Walt Disney Pictures",
+                "rilis": "23 Oktober 2014",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Adventure",
+                "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
+                "trailer": "https://www.youtube.com/embed/d2S8D_SCAJY?si=78bwl9afwrQ9WoLa",
+                "duration": "1 jam 48m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton ", 
+       "episodeJudul": "Big Hero 6",
+                "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
+
+       "episodeUrl": "https://acefile.co/player/103558787",
+
+                    
+       }
+        ]
+                
+            },
+"theincredibles2": {
+                "title": "The Incredibles 2",
+                "terjemah": "Episode 1",
+                "rating": "7.5",
+                "studio": "Walt Disney Pictures",
+                "rilis": "15 Juni 2018",
+                "gendre1": "Laga",
+                "gendre2": "Animasi",
+                "gendre3": "Adventure",
+                "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
+                "trailer": "https://www.youtube.com/embed/i5qOzqD9Rms?si=67P3fmxLjQphqxTN",
+                "duration": "1 jam 58m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "The Incredibles 2",
+                "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
+
+       "episodeUrl": "https://acefile.co/player/95131020",
+
+                    
+       }
+        ]
+                
+            },
+"bolt": {
+                "title": "Bolt",
+                "terjemah": "Episode 1",
+                "rating": "6.8",
+                "studio": "Walt Disney Pictures",
+                "rilis": "3 Desember 2008",
+                "gendre1": "Drama",
+                "gendre2": "Adventure",
+                "gendre3": "Dokumenter",
+                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
+                "trailer": "https://www.youtube.com/embed/7I8vTSxQTPM?si=dTmOIfKJG4xj90lW",
+                "duration": "1 jam 36m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Bolt",
+                       "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+
+       "episodeUrl": "https://drive.google.com/file/d/1eQnJadStAKlJ7G5hTVsRYozkFvywbsQb/preview",
+                    
+       }
+        ]
+},
+            
+"transformersdarkofthemoon": {
+                "title": "Transformers: Dark of the Moon",
+                "terjemah": "Episode 1",
+                "rating": "6.2",
+                "studio": "Paramount Pictures",
+                "rilis": "5 Agustus 2015",
+                "gendre1": "Laga",
+                "gendre2": "Animasi",
+                "gendre3": "Adventure",
+                "description": "Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/E-Sg_zJrDxc?si=3KgjLVtgD7efgXHe",
+                "duration": "2 jam 34m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Transformers: Dark of the Moon",
+"description": "Menceritakan tentang Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
+       "episodeUrl": "https://acefile.co/player/43028505",
+
+                    
+       }
+        ]
+                
+            },
+"thesupermariobrosmovie": {
+        "title": "The Super Mario Bros. Movie",
+        "terjemah": "Episode 1",
+        "rating": "7.2",
+        "studio": "Universal Pictures",
+        "rilis": "5 April 2023",
+        "gendre1": "Animasi",
+        "gendre2": "Laga",
+        "gendre3": "Comedy",
+        "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
+        "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROONlJDncg8rbgNqSb2BrbSE6zPPRukuIhEA&usqp=CAU",
+        "trailer": "https://www.youtube.com/embed/TnGl01FkMMo?si=OVfYnNcXmeEBat2a",
+        "duration": "1 jam 44m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "The Super Mario Bros. Movie",
+                        "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
+                        "episodeUrl": "https://drive.google.com/file/d/1pzaJVfzaBfsjx9rk7sE3iTp94bnYLi1-/preview",
+
+
+       }
+        ]
+
+},
+"standbymedoraemon2": {
+                "title": "Stand by Me Doraemon 2",
+                "terjemah": "Episode 1",
+                "rating": "7.5",
+                "studio": "Shin-Ei Animation",
+                "rilis": "19 Februari 2021",
+                "gendre1": "Animasi",
+                "gendre2": "Comedy",
+                "gendre3": "Drama",
+                "description": "Suatu hari Nobita menemukan boneka beruang yang ditambal jahit tangan oleh nenek tercinta. Hal tersebut memicu kenangan mengharukan untuknya dan menanyakan kepada Doraemon apakah mereka dapat menggunakan mesin waktu untuk mengunjungi Nenek di masa lampau.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/3/3c/Stand_by_Me_Doraemon_2.jpg?20230316055948",
+                "trailer": "https://www.youtube.com/embed/A0wg3Zkxq1c?si=KR1XdpB1wAnA0TPW",
+                "duration": "1 jam 36m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Stand by Me Doraemon 2",
+"description": "Suatu hari Nobita menemukan boneka beruang yang ditambal jahit tangan oleh nenek tercinta. Hal tersebut memicu kenangan mengharukan untuknya dan menanyakan kepada Doraemon apakah mereka dapat menggunakan mesin waktu untuk mengunjungi Nenek di masa lampau.",
+       "episodeUrl": "https://drive.google.com/file/d/10pqXo58qrGnUsWDOD1MeX-C-PxMMt_y2/preview",
+
+                    
+       }
+        ]
+                
+            },
+"doraemonmovie42": {
+                "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
+                "terjemah": "Episode 1",
+                "rating": "7.2",
+                "studio": "Shin-Ei Animation",
+                "rilis": "3 Maret 2023",
+                "gendre1": "Adventure",
+                "gendre2": "Comedy",
+                "gendre3": "Sci-Fi",
+                "description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/27/Doraemon-_Nobita%27s_Sky_Utopia.jpg?20240208075258",
+                "trailer": "https://www.youtube.com/embed/RNDYR00jE9k?si=Fx0ZuggTSMEWkk4S",
+                "duration": "1 jam 50m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Doraemon Movie 42: Nobita to Sora no Utopia",
+"description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
+       "episodeUrl": "https://acefile.co/f/100874237",
+
+                    
+       }
+        ]
+                
+            },
+"arcaneleagueoflegends": {
+                "title": "Arcane: League of Legends",
+                "terjemah": "Episode 1-6",
+                "rating": "9.0",
+                "studio": "Riot Games",
+                "rilis": "6 November 2021",
+                "gendre1": "Action",
+                "gendre2": "Fantasy",
+                "gendre3": "Adventure",
+                "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BM2MyOWYwYjAtNWNiYS00NWI4LTkwNjYtYzU1NGEyYzMwYzliXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+                "trailer": "https://www.youtube.com/embed/fXmAurh012s?si=FyBodMSBcUVA2-Gl",
+                "duration": "6 jam 00m",
+"episodes": [
+        {
+       "episodeTitle": "Episode 6", 
+       "episodeJudul": "Arcane: League of Legends (EP 6)",
+"description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+       "episodeUrl": "https://drive.google.com/file/d/1kZWLjJzoMIsiOU6UB-oAsMu5NNjiLlil/preview",
+
+                    
+       },
+{
+       "episodeTitle": "Episode 5", 
+       "episodeJudul": "Arcane: League of Legends (EP 5)",
+"description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+       "episodeUrl": "https://drive.google.com/file/d/1ksyREyfsRkHoHBhFCuRwZNm3YeFEeBx0/preview",
+       },
+{
+       "episodeTitle": "Episode 4", 
+       "episodeJudul": "Arcane: League of Legends (EP 4)",
+"description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+       "episodeUrl": "https://drive.google.com/file/d/1kTT6OLfvKTUFcaCv8jCpcQoq4voVcEPo/preview",
+       },
+{
+        "episodeTitle": "Episode 3",
+        "episodeJudul": "Arcane: League of Legends (EP 3)",
+        "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+        "episodeUrl": "https://drive.google.com/file/d/1kqYYNVL6YnjRwbUJzW1zodxpxY7cLLnu/preview",
+},
+{
+        "episodeTitle": "Episode 2",
+        "episodeJudul": "Arcane: League of Legends (EP 2)",
+        "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+        "episodeUrl": "https://drive.google.com/file/d/1kQhH59HHcbPBrsr91z2RUisqFoshMQ-l/preview",
+},
+{
+        "episodeTitle": "Episode 1",
+        "episodeJudul": "Arcane: League of Legends (EP 1)",
+        "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+        "episodeUrl": "https://drive.google.com/file/d/1kQYbEzB_c8pA5UB2Sbr-UulkmphuZb3h/preview",
+},
+        ]
+                
+            },
+"avataraangs1": {
+                "title": "Avatar: The Legend of Aang Season 1",
+                "terjemah": "Episode 1-20",
+                "rating": "9.3",
+                "studio": "Nickelodeon Animation",
+                "rilis": "21 Feb 2005",
+                "gendre1": "Adventure",
+                "gendre2": "Fantasy",
+                "gendre3": "Action",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAlH1w1DBMZLa1JH2T55a-5FBdPGwYI_6Swk4l67AkTyzwnisgm70GHE&s=10",
+                "trailer": "https://www.youtube.com/embed/UxHn_Oy58bQ?feature=shared",
+                "duration": "7 jam 00m",
+"episodes": [
+        
+        {
+                "episodeTitle": "Episode 20",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 20)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1ovPPB5tc4t7hKVghCrgdJ43xi_67kVGM/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 19",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 19)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1ouW5nllnmD8Fd1dV81ucrYGPpxwEyLOL/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 18",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 18)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1ohrJsHI1r9doFnQX7NHPtL74r5pic7_L/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 17",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 17)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o_V-mwHdYhR8G0RUXY7vmuwm0aSdr8hg/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 16",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 16)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o_Kxk4HurgIkpS_F57O5j-SYyEBEAj6_/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 15",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 15)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oYSvzM7-3MMWR50kzid-u7xszgDZG89P/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 14",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 14)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oRBwLcEwcPWIkDGNOJYqqmuFGjJuAI_N/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 13",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 13)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oQGsHKixL2EQLLlrcfs56tzhVUh5yU1C/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 12",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 12)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oOahz4oPX_lCxCW7z8E5-v9GbrVPveAk/preview",
+
+
+        },
+
+        {
+                "episodeTitle": "Episode 11",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 11)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oIUxwIqPpyoYY-zjLY7PaxgI0Z9KVevH/preview",
+
+
+        },
+
+        {
+                "episodeTitle": "Episode 10",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 10)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oDYoijXShtrBJbhWY-E6E5_TIaVXxiXr/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 9",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 9)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1oAzorreNiJOnTB_l2ZRQpc5d4bzZAuPs/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 8",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 8)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o9ohrD5k8z9YnnSQmmpkecs--bMylzZX/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 7",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 7)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o9hU8JoqTEVy8Is8hR_3Hnt0FCCJZi05/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 6",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 6)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o3EmhSYbjsB2_gNKcU2_9XjlRwF76-Po/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 5",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 5)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o2PfP5vfHpLljkvalToR_-xSScqty7ym/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 4)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1o-jNYT-UmOUPcJ4D365ym4xaQoe5Tu2_/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 3",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 3)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1mPah665MfQkq0BrB7hDzjxTmonm80tDr/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 2",
+                "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 2)",
+                "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+                "episodeUrl": "https://drive.google.com/file/d/1mMPBjvkMvx_xZhCCV6esIyLxsWWQf7gZ/preview",
+
+
+        },
+
+        {
+       "episodeTitle": "Episode 1", 
+       "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 1)",
+"description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
+       "episodeUrl": "https://drive.google.com/file/d/1mCZdydxR36FFC2dTx2Alu2Qdt7jAAJLe/preview",
+
+                    
+       },
+        ]
+                
+            },
+
+"kungfupanda4": {
+                "title": "Kung Fu Panda 4",
+                "terjemah": "Episode 1",
+                "rating": "6.5",
+                "studio": "Universal Pictures",
+                "rilis": "3 Maret 2024",
+                "gendre1": " Adventure",
+                "gendre2": "Comedy",
+                "gendre3": "Fantasy",
+                "description": "Po yang akan menjadi Pemimpin Rohani Lembah Kedamaian mencari penggantinya sebagai Pendekar Naga baru sambil melawan musuh baru yang bisa berubah bentuk bernama Bunglon.",
+                "bgimg": "https://i0.wp.com/image.tmdb.org/t/p/w300/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+                "trailer": "https://www.youtube.com/embed/_inKs4eeHiI?si=1NPO67h56K11tops",
+                "duration": "1 jam 44m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton ", 
+       "episodeJudul": "Kung Fu Panda 4",
+"description": "Po yang akan menjadi Pemimpin Rohani Lembah Kedamaian mencari penggantinya sebagai Pendekar Naga baru sambil melawan musuh baru yang bisa berubah bentuk bernama Bunglon.",
+       "episodeUrl": "https://drive.google.com/file/d/1w0K8vd-VYyr96tmF6JJyYLFjZgXEufPw/preview",
+
+                    
+       }
+        ]
+                
+            },
+"kungfupandathepaws": {
+                "title": "Kung Fu Panda: The Paws of Destiny",
+                "terjemah": "Episode 1-13",
+                "rating": "7.3",
+                "studio": "DreamWorks",
+                "rilis": "16 November 2018",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Comedy",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok. ",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/en/b/bf/Kung_Fu_Panda_The_Paws_of_Destiny.jpg",
+                "trailer": "https://www.youtube.com/embed/WD0WmYwlcDI?si=dSDLIXIdS4_youlU",
+                "duration": "4 jam 59m",
+                
+"episodes": [
+        {
+       "episodeTitle": "Episode 13", 
+       "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 13)",
+"description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+       "episodeUrl": "https://acefile.co/player/51840020/kung-fu-panda-2018-13-mp4",
+
+                    
+       },
+        {
+                "episodeTitle": "Episode 12",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 12)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840000/kung-fu-panda-2018-12-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 11",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 11)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840032/kung-fu-panda-2018-11-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 10",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 10)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840005/kung-fu-panda-2018-10-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 9",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 9)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51839987/kung-fu-panda-2018-9-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 8",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 8)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51839992/kung-fu-panda-2018-8-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 7",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 7)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51839984/kung-fu-panda-2018-7-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 6",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 6)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840009/kung-fu-panda-2018-6-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 5",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 5)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840026/kung-fu-panda-2018-5-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 4)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51839990/kung-fu-panda-2018-4-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 3",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 3)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51839996/kung-fu-panda-2018-3-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 2",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 2)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840015/kung-fu-panda-2018-2-mp4",
+
+
+        },
+        {
+                "episodeTitle": "Episode 1",
+                "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 1)",
+                "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
+                "episodeUrl": "https://acefile.co/player/51840003/kung-fu-panda-2018-1-mp4",
+
+
+        },
+        ]
+                
+            },
+
+"godzilaxkingkongtne": {
+                "title": "Godzilla x Kong: The New Empire",
+                "terjemah": "Episode 1",
+                "rating": "6.6",
+                "studio": "Legendary Pictures",
+                "rilis": "27 Maret 2024",
+                "gendre1": "Adventure",
+                "gendre2": "Fantasy",
+                "gendre3": "Drama",
+                "description": "Menceritakan tentang Godzilla dan Kong akan melawan kekuatan baru yang sangat berbahaya. Kedua raksasa kuno itu akan menghadapi ancaman besar dari dasar bumi. Ancaman yang bisa membuat Godzilla maupun Kong punah.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8FLSr7piX8lSt3im5Bn4fxrgynhe8sL74kSvhkTqnU0r_T1yS2R-Jx4&s=10",
+                "trailer": "https://www.youtube.com/embed/lV1OOlGwExM?si=JZ3dbz1VVnJT8KtV",
+                "duration": "1 jam 55m", 
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Godzilla x Kong: The New Empire",
+"description": "Menceritakan tentang Godzilla dan Kong akan melawan kekuatan baru yang sangat berbahaya. Kedua raksasa kuno itu akan menghadapi ancaman besar dari dasar bumi. Ancaman yang bisa membuat Godzilla maupun Kong punah.",
+       "episodeUrl": "https://drive.google.com/file/d/1v0WGdhdqDryWUVw5tqjx1D_HfwLAUh7f/preview",
+
+                    
+       }
+        ]
+                
+            },
+"aquamanatlk": {
+                "title": "Aquaman and the Lost Kingdom",
+                "terjemah": "Episode 1",
+                "rating": "5.6",
+                "studio": "DC Studios",
+                "rilis": "19 Desember 2023",
+                "gendre1": "Laga",
+                "gendre2": "Adventure",
+                "gendre3": "Horor",
+                "description": "Dari sosok ayah yang sederhana, kehidupan Arthur Curry (Jason Momoa) berubah drastis menjadi Aquaman atau Raja Atlantis yang harus memimpin setengah miliar lebih makhluk-makhluk yang hidup di laut Atlantis.<br><br>Namun, sosok Black Manta (Yahya Abdul Mateen II) yang murka atas kematian ayahnya dalam konfrontasi dengan Aquaman sebelumnya, bertekad untuk balas dendam dan menghancurkan kerajaan Atlantis.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLLQc-QKYx6MXqceEPyto5v1u2S-_GzqmcgQjbCdokHNDVfPR3Dr7pzw&s=10",
+                "trailer": "https://www.youtube.com/embed/Tx2Q93x0P0s?si=AU9vbHriL7psLHcE",
+                "duration": "2 jam 04m", 
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Aquaman and the Lost Kingdom",
+"description": "Dari sosok ayah yang sederhana, kehidupan Arthur Curry (Jason Momoa) berubah drastis menjadi Aquaman atau Raja Atlantis yang harus memimpin setengah miliar lebih makhluk-makhluk yang hidup di laut Atlantis.<br><br>Namun, sosok Black Manta (Yahya Abdul Mateen II) yang murka atas kematian ayahnya dalam konfrontasi dengan Aquaman sebelumnya, bertekad untuk balas dendam dan menghancurkan kerajaan Atlantis.",
+       "episodeUrl": "https://drive.google.com/file/d/1vKFVzH3XvrQE0zhTmAXBQhCG3UfXyCbT/preview",
+
+                    
+       }
+        ]
+                
+            },
+
+"mariposa": {
+        "title": "Mariposa",
+        "terjemah": "Episode 1",
+        "rating": "6.7",
+        "studio": "Falcon Pictures",
+        "rilis": "31 Desember 2020",
+        "gendre1": "Drama",
+        "gendre2": "Romance",
+        "gendre3": "Comedy",
+        "description": "Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin. Sahabat Acha, AMANDA, berusaha mencegah niat Acha untuk mendekati Iqbal. Amanda takut Acha akan terluka dan sakit hati.",
+        "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgly1SjUOH5W6UYCs-Dy0azMVHSx9_i2g5yILe9OGRlu7eJWqgxo7OkRZ&s=10",
+        "trailer": "https://www.youtube.com/embed/N9PUbRIKYOA?si=3uyt8l48UcbPYVkv",
+        "duration": "1 jam 53m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Mariposa",
+                        "description": "Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin. Sahabat Acha, AMANDA, berusaha mencegah niat Acha untuk mendekati Iqbal. Amanda takut Acha akan terluka dan sakit hati.",
+                        "episodeUrl": "https://drive.google.com/file/d/1vRVvrjzQohwoGHyPWgZEnJUoT9n5SPnD/preview",
+
+
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Angga_Yunanda_Interview_on_Media_Indonesia.png/440px-Angga_Yunanda_Interview_on_Media_Indonesia.png",
+"namaAktor": "Angga Yunanda",
+"karakter": "(Iqbal)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Adhisty_Zara_SK_04Dec19_IMG_0071.jpg/440px-Adhisty_Zara_SK_04Dec19_IMG_0071.jpg",
+        "namaAktor": "Adhisty Zara",
+        "karakter": "(Acha)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dannia_Salsabila_in_2021.png/440px-Dannia_Salsabila_in_2021.png",
+        "namaAktor": "Dannia Salsabilla",
+        "karakter": "(Amanda)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abun_Sungkar_in_2020.png/440px-Abun_Sungkar_in_2020.png",
+        "namaAktor": "Abun Sungkar",
+        "karakter": "(Rian)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Junior_Roberts_in_2021.png/440px-Junior_Roberts_in_2021.png",
+        "namaAktor": "Junior Roberts",
+        "karakter": "(Glen)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Syakir Daulay",
+        "karakter": "(Juna)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEQJhjiQcmpinJtjEj44Yjs5FE4VPqZJEqQ&s",
+        "namaAktor": "Irgy Ahmad Fahrezi",
+        "karakter": "(Henry Kusuma)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ariyo_Wahab_Pic.jpg",
+        "namaAktor": "Aryo Wahab",
+        "karakter": "(Pak Bov / Ayah Iqbal)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPi0FP1Dch2goMntUy_BXckMdyEqKBIPUCOA&s",
+        "namaAktor": "Ersa Mayori",
+        "karakter": "(Kirana / Ibu Acha)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmQUYxiclnM5_tBNbmbu5iZbfKomKit4_eA&s",
+        "namaAktor": "Baim",
+        "karakter": "(Teddy / Ayah Acha)"
+},
+{
+        "image aktor": "https://cdn0-production-images-kly.akamaized.net/TBfVFF2-BgradubFxxZ8zqr0Fxw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1016898/original/038114500_1444539104-iszur-muchtar-ig1.jpg",
+        "namaAktor": "Iszur Muchtar",
+        "karakter": "(Pak Bambang)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Aris Nugraha",
+        "karakter": "(Dokter)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tjsinden.jpg/440px-Tjsinden.jpg",
+        "namaAktor": "TJ",
+        "karakter": "(Suster)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBd7SlZe_G82SF55UYQ4HsrrimPTF9JxwDg&s",
+        "namaAktor": "Yudha Keling",
+        "karakter": "(Pedagang kipas)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Alesha Fadillah",
+        "karakter": "(Anak Iqbal & Acha)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVETeTD9hnZMKCpsWPM7Xy-o9PYbRqWDdPiA&s",
+        "namaAktor": "Widi Dwinanda",
+        "karakter": "(Ibu Perpustakaan)"
+},
+]
+
+},
+
+"kkndidesapenari": {
+                "title": "KKN di Desa Penari",
+                "terjemah": "Episode 1",
+                "rating": "5.9",
+                "studio": "MD Pictures",
+                "rilis": "30 April 2022",
+                "gendre1": "Horror",
+                "gendre2": "Misteri",
+                "gendre3": "Drama",
+                "description": "KKN Di Desa Penari diadaptasi dari salah satu cerita horror yang telah viral di tahun 2019 melalui Twitter, menurut sang penulis, cerita ini diambil dari sebuah kisah nyata sekelompok mahasiswa yang tengah melakukan program KKN (Kuliah Kerja Nyata) di Desa Penari. Tak berjalan mulus, serentetan pengalaman horror pun menghantui mereka hingga program KKN tersebut berakhir tragis.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPM8QvloENhQMewYPt4gUhQI51vxfQA-LRGv4EeAIE1WiFSEth4AAZGPt&s=10",
+                "trailer": "https://www.youtube.com/embed/01BPk6M37qs?si=qs1vzUJXNVgPjzik",
+                "duration": "2 jam 01m", 
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "KKN di Desa Penari",
+"description": "KKN Di Desa Penari diadaptasi dari salah satu cerita horror yang telah viral di tahun 2019 melalui Twitter, menurut sang penulis, cerita ini diambil dari sebuah kisah nyata sekelompok mahasiswa yang tengah melakukan program KKN (Kuliah Kerja Nyata) di Desa Penari. Tak berjalan mulus, serentetan pengalaman horror pun menghantui mereka hingga program KKN tersebut berakhir tragis.",
+       "episodeUrl": "https://drive.google.com/file/d/1vnDerSjmD9qslsg1KCiTmnp5eDBud5Ua/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgt8HkHxNksIgeTTvDfESNN17vXGsq0uTQEg&s",
+"namaAktor": "Haghniny Haque",
+"karakter": "(Ayu)"
+},
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__fUwSybHn1Pw3HTnnG5Md_omOcAoLH1thA&s",
+"namaAktor": "Aulia Sarah",
+"karakter": "(Badarawuhi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeqrx33jv66SchWjNC-mRjelxf3HKKhz9IQ&s",
+        "namaAktor": "Achmad Megantara",
+        "karakter": "(Bima)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGQ70gUUfpmRlD1Z-8MQ415118duG5KHYZQ&s",
+        "namaAktor": "Adinda Thomas",
+        "karakter": "(Widya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSkZtnR4XQSPTx-EG3etux9f9RidscLPoAg&s",
+        "namaAktor": "Tissa Biani",
+        "karakter": "(Nur)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxxMS0O6XeypdAZcxWgDMQsluUBybrGvwgA&s",
+        "namaAktor": "Fajar Nugra",
+        "karakter": "(Wahyu)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoq_DRmdF8YBpLxakol3d10XQDPSpq3hHUrQ&s",
+        "namaAktor": "Diding Boneng",
+        "karakter": "(Mbah Buyut)"
+},
+{
+        "image aktor": "https://cdn0-production-images-kly.akamaized.net/PetWjpy5Fw-HwQhukUDDG81eboM=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4042634/original/092890800_1654340617--transformasi-makeup-dewi-sri.jpg",
+        "namaAktor": "Dewi Sri",
+        "karakter": "(Mbah Dok)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQcyr-wBzldDEOMMRi54W7XSmCI6QLWohsbwutXrVugEDrZWWH3eg&s=19",
+        "namaAktor": "Calvin Jeremy",
+        "karakter": "(Anton)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wD12ZopQIc3zmhWwWISwdMw_wkivh9qQmA&s",
+        "namaAktor": "Kiki Narendra",
+        "karakter": "(Mr. Prabu)"
+},
+{
+        "image aktor": "https://akcdn.detik.net.id/visual/2016/08/12/4fb7af5a-ca3d-413f-9a8c-261833e96a79_43.jpg?w=720&q=90",
+        "namaAktor": "Lydia Kandou",
+        "karakter": "(Widya's Mother)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBW5YS6NQuJgFuKxfkaZIDYAPv7_q5wI2Bw&s",
+        "namaAktor": "Andri Mashadi",
+        "karakter": "(Ilham)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutiJHCZmWgr5aT0oL9-Nru7ecVmYbt-kUVg&s",
+        "namaAktor": "Aty Cancer",
+        "karakter": "(Bu Sundari)"
+},
+]
+                
+            },
+
+"duagarisbiru": {
+                "title": "Dua Garis Biru",
+                "terjemah": "Episode 1",
+                "rating": "7.8",
+                "studio": "Wahana Kreator",
+                "rilis": "11 Juli 2019",
+                "gendre1": "Drama",
+                "gendre2": "Romance",
+                "gendre3": "Comedy",
+                "description": "Bima dan Dara adalah sepasang kekasih yang masih duduk di bangku SMA. Pada usia 17 tahun, mereka nekat bersanggama di luar nikah. Dara pun hamil. Keduanya kemudian dihadapkan pada kehidupan yang tak terbayangkan bagi anak seusia mereka, kehidupan sebagai orangtua.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Dua_Garis_Biru.jpg?20200113133153",
+                "trailer": "https://www.youtube.com/embed/MpqZ8wchdwk?si=svYcYOZJtjv7lGDu",
+                "duration": "1 jam 53m", 
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Dua Garis Biru",
+       "description": "Bima dan Dara adalah sepasang kekasih yang masih duduk di bangku SMA. Pada usia 17 tahun, mereka nekat bersanggama di luar nikah. Dara pun hamil. Keduanya kemudian dihadapkan pada kehidupan yang tak terbayangkan bagi anak seusia mereka, kehidupan sebagai orangtua.",
+       "episodeUrl": "https://drive.google.com/file/d/1wKxr6gmJx4egZGNgrSNXlVjrhgKMh0l1/preview",
+        }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Adhisty_Zara_SK_04Dec19_IMG_0071.jpg/1200px-Adhisty_Zara_SK_04Dec19_IMG_0071.jpg",
+"namaAktor": "Adhisty Zara",
+"karakter": "(Dara)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/2/20/Angga_Yunanda_Interview_on_Media_Indonesia.png",
+        "namaAktor": "Angga Yunanda",
+        "karakter": "(Bima)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzTKwR19JVTo4pVwZ_F5TiwFz90p6ietXjcMTkxJmmLWISKlYzcb0SsE&s=10",
+        "namaAktor": "Lulu Tobing",
+        "karakter": "(Rika)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Shakira_Jasmine_Interview_on_Star_Glam_Magazine.png",
+        "namaAktor": "Shakira Jasmine",
+        "karakter": "(Vini)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Rachel_Amanda_recommend_her_favorite_books_on_Narasi.png",
+        "namaAktor": "Rachel Amanda",
+        "karakter": "(Dewi)"
+},
+{
+        "image aktor": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQ9nndvUNbe7A27X6VISAe-qgUYqhhI25ANOYTYGr126FBEKdub048j4HXY9RW4YuwT",
+        "namaAktor": "Dwi Sasono",
+        "karakter": "(David Farhadi)"
+},
+{
+        "image aktor": "https://cdn1-production-images-kly.akamaized.net/JF0pUwbygI8rnpwUOEPd3CU6ahw=/0x0:1920x1280/1200x1200/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-square-new.png,1100,20,0)/kly-media-production/medias/2844412/original/051514800_1562222118-cut_mini-20190703-006-adrian.jpg",
+        "namaAktor": "Cut Mini Theo",
+        "karakter": "(Yuni)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maisha_Kanna_on_Motion_Radio_in_2018.png",
+        "namaAktor": "Maisha Kanna",
+        "karakter": "(Putri / Puput)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/7/74/Asri_Welas.JPG",
+        "namaAktor": "Asri Welas",
+        "karakter": "(Ibu hamil)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bintang_Emon_Mata_Najwa_2020.png",
+        "namaAktor": "Bintang Emon",
+        "karakter": "(Bike Driver)"
+},
+{
+        "image aktor": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRy8W1TBVmwXfxsnQBAnpBHefz7hb0IJo34BznROKqLZ3wNQW-xywBkdtCI0uqeHfLx",
+        "namaAktor": "Arswendy Bening Swara",
+        "karakter": "(Bima's father)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/jv/e/e7/Irgy_fahrezi1.jpg",
+        "namaAktor": "Irgy Ahmad Fahrezy",
+        "karakter": "(Adi)"
+},
+{
+        "image aktor": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTHPRgOSqn7HHhAx5dfh2e5sHfI7L6C3H2jMXpe5R0x4_r7rgBFkvvSeOF8gMQqRpBj",
+        "namaAktor": "Cindy Hapsari",
+        "karakter": "(Melly)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/c/c7/20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Ariella_Calista_Ichwan_%28Ariel%29_%282%29_%28cropped%29.jpg",
+        "namaAktor": "Ariella Calista",
+        "karakter": "(Lika)"
+},
+{
+        "image aktor": "https://media.licdn.com/dms/image/C4D03AQGSHYpZIj07yA/profile-displayphoto-shrink_200_200/0/1639023903486?e=2147483647&v=beta&t=w0_K0W0rCGFJT2QGULu2jxqV-iGY1oXcmhxdzDCHdsE",
+        "namaAktor": "Ligwina Hananto",
+        "karakter": "(Dr. Fiza Hatta)"
+},
+{
+        "image aktor": "https://cdn1-production-images-kly.akamaized.net/YoF6vG2zxIuecyo_QWQjREn56OI=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/746401/original/052856600_1412347031-Ernest_Samudera.jpg",
+        "namaAktor": "Ernest Samudera",
+        "karakter": "(Pak Rinto)"
+},
+{
+        "image aktor": "https://media.licdn.com/dms/image/C5103AQHZtyGKg9-lyg/profile-displayphoto-shrink_200_200/0/1583817301456?e=2147483647&v=beta&t=o5t4-OoltEFOm8hZNIqmabAwoGY_ajIzryxXLfl-XbA",
+        "namaAktor": "Meirina Alwie",
+        "karakter": "(Biology Teacher)"
+},
+]
+                    
+       
+        
+                
+            },
+"minionsmore1": {
+                "title": "Minions & More 1",
+                "terjemah": "Episode 1",
+                "rating": "6.5",
+                "studio": "Illumination Ent.",
+                "rilis": "27 September 2022",
+                "gendre1": "Animasi",
+                "gendre2": "Adventure",
+                "gendre3": "Comedy",
+                "description": "Koleksi celana pendek Minion dari waralaba “Despicable Me” ini mencakup film mini seperti “Training Wheels,” “Puppy” dan “Yellow Is the New Black.”",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0AI76CR1UH0poUac07RnLtT2nGwvGhAnGIQdXoirYA&s",
+                "trailer": "https://www.youtube.com/embed/Bi2hMGJpRJA?si=PRrYFulZUtD80-ZP",
+                "duration": "48m", 
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Minions & More 1",
+       "description": "Koleksi celana pendek Minion dari waralaba “Despicable Me” ini mencakup film mini seperti “Training Wheels,” “Puppy” dan “Yellow Is the New Black.”",
+       "episodeUrl": "https://acefile.co/player/85066497",
+
+                    
+       }
+        ]
+                
+            },
+
+"panggonanwingit": {
+                "title": "Panggonan Wingit",
+                "terjemah": "Episode 1",
+                "rating": "6.5",
+                "studio": "Hitmaker Studios",
+                "rilis": "30 November 2023",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Misteri",
+                "description": "Raina dan adiknya, Fey, pindah dari Jakarta ke Semarang untuk mengelola Hotel Ambar Mangun, sebuah hotel warisan ayah mereka yang tidak pernah mereka kunjungi sebelumnya yang selama ini dikelola oleh Suktini dan Garinto, nenek dan kakek mereka.<br><br>Suatu malam, Raina mendengar suara tangis dari lantai tiga yang dilarang dimasuki siapapun.Lalu dia membuka pintu sebuah kamar tak bernomor di sana.Ternyata kamar itu disebut“ Panggonan Wingit”, sebuah tempat yang sudah lama dihuni oleh sosok gaib.Jika ada yang membuka kamar itu, dia akan melihat sosok wanita berkulit putih dan berambut putih yang mengatakan“ Telung dino, tengah wengi” yang artinya“ Tiga hari, tengah malam”.Lalu, tiga hari kemudian akan mati dikuliti saat tengah malam.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/9/9b/Poster_Panggonan_Wingit.jpg",
+                "trailer": "https://www.youtube.com/embed/-sm6TqfB70Q",
+                "duration": "1 jam 50m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Panggonan Wingit",
+"description": "Raina dan adiknya, Fey, pindah dari Jakarta ke Semarang untuk mengelola Hotel Ambar Mangun, sebuah hotel warisan ayah mereka yang tidak pernah mereka kunjungi sebelumnya yang selama ini dikelola oleh Suktini dan Garinto, nenek dan kakek mereka.<br><br>Suatu malam, Raina mendengar suara tangis dari lantai tiga yang dilarang dimasuki siapapun.Lalu dia membuka pintu sebuah kamar tak bernomor di sana.Ternyata kamar itu disebut“ Panggonan Wingit”, sebuah tempat yang sudah lama dihuni oleh sosok gaib.Jika ada yang membuka kamar itu, dia akan melihat sosok wanita berkulit putih dan berambut putih yang mengatakan“ Telung dino, tengah wengi” yang artinya“ Tiga hari, tengah malam”.Lalu, tiga hari kemudian akan mati dikuliti saat tengah malam.",
+       "episodeUrl": "https://drive.google.com/file/d/1wkLp1tDf1j4XEIKe_lyzoSKnNAL6EiH4/preview",
+
+                    
+       }
+        ],
+        
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/8/86/LunaMaya-cropped.jpg",
+"namaAktor": "Luna Maya",
+"karakter": "(Raina)"
+},
+{
+        "image aktor": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRFb8CIoyPfhnc_wSVc0gBRrZUEN_cnozGDuQgcidVxzZ0rOW1DnmJtMezMvc4SgAo9",
+        "namaAktor": "Christian Sugiono",
+        "karakter": "(Ardo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorRSOLbt0L9mw0ZFUHV1JsxG7tcSVVTH17Q&usqp=CAU",
+        "namaAktor": "Bianca Hello",
+        "karakter": "(Fey)"
+},
+{
+        "image aktor": "https://images.mubicdn.net/images/cast_member/201469/cache-187540-1482203120/image-w856.jpg?size=800x",
+        "namaAktor": "Egi Fedly",
+        "karakter": "(Ki Danang)"
+},
+{
+        "image aktor": "https://media.suara.com/pictures/original/2021/07/28/51281-firstriana-aldila.jpg",
+        "namaAktor": "Firstriana Aldila",
+        "karakter": "(Menoer)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxBby08XFEDU0ecHrpt6VZNZLJrAoyLkLEw&usqp=CAU",
+        "namaAktor": "Rafael Adwer",
+        "karakter": "(Baskara)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1K7hMFtcG7KcfxwOcWHDUDGgrb9owXmwb06egOW6BOP0taS7GKOABPBE&s=10",
+        "namaAktor": "Nesya Chandria",
+        "karakter": "(Karin)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Oce Permatasari",
+        "karakter": "(Suktini)"
+},
+{
+        "image aktor": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/09/24/foto-adegan-film-penyalin-cahaya-20210924074121.jpeg",
+        "namaAktor": "Landung Simatupang",
+        "karakter": "(Soemardi)"
+},
+{
+        "image aktor": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/hami-diah-40.jpg",
+        "namaAktor": "Hami Diah",
+        "karakter": "(Ningrum)"
+},
+{
+        "image aktor": "https://blogger.googleusercontent.com/img/a/AVvXsEjV8yR-8WbAIHSUTwsOkQi_T7FD-0hVSpeHrFA6EBbnpjuu_ttePLhF3ZeuyacDIDQI58boebXLqKJt2gJ7a6U5_VJch-7RdAh_te_tWW4LGY1-FPpkwgfWBETGQjEssQ14COq2Vd-FDJ0MdQOIXxv5rBkuAsXLf5f46ukEehNgAMpHWkgSri1uWjnE=s16000",
+        "namaAktor": "Budi Ros",
+        "karakter": "(Garinto)"
+},
+]
+        
+        
+                
+            },
+
+"thetigeraptc": {
+                "title": "The Tiger's Apprentice",
+                "terjemah": "Episode 1",
+                "rating": "5.7",
+                "studio": "Paramount Animation",
+                "rilis": "27 Januari 2024",
+                "gendre1": "Animation",
+                "gendre2": "Adventure",
+                "gendre3": "Action",
+                "description": "Tom Lee, seorang anak laki-laki Tionghoa-Amerika, setelah kematian neneknya, harus magang di harimau yang bisa berbicara, Tuan Hu dan mempelajari sihir kuno untuk menjadi penjaga baru burung phoenix kuno.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Hz35mcRnmgi7swF21xV_jJDHzBAkbBuMcZGplVfmOK0_yNJRIDnhXAk&s=10",
+                "trailer": "https://www.youtube.com/embed/GGJnmXpT3Og",
+                "duration": "1 jam 24m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "The Tiger's Apprentice",
+"description": "Tom Lee, seorang anak laki-laki Tionghoa-Amerika, setelah kematian neneknya, harus magang di harimau yang bisa berbicara, Tuan Hu dan mempelajari sihir kuno untuk menjadi penjaga baru burung phoenix kuno.",
+       "episodeUrl": "https://drive.google.com/file/d/1P-kxz6_omy6QmItJ1YunbLqgECy-ZA25/preview",
+
+                    
+       }
+        ]
+                
+            },
+            
+            
+"diambangkematian": {
+                "title": "Di Ambang Kematian",
+                "terjemah": "Episode 1",
+                "rating": "6.5",
+                "studio": "MVP Pictures",
+                "rilis": "28 September 2023",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Cerita Seru",
+                "description": "Hidup seorang perempuan muda bernama Nadia berada di ambang kematian. Hal ini bisa terjadi karena Nadia ternyata menjadi tumbal dari pesugihan yang dilakukan oleh ayahnya sendiri. Pesugihan tersebut ternyata meminta tumbal setiap 10 tahun sekali. Tumbal pertama terjadi pada tahun 2002 yaitu ibunya meninggal dunia dengan cara yang mengenaskan. Sepuluh tahun kemudian, kakak kandung dari Nadia yang bernama Yoga juga bernasib sama seperti ibunya.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_DAK.jpg",
+                "trailer": "https://www.youtube.com/embed/CNWdWAK0rOQ?si=YksANfpRuobtA4dy",
+                "duration": "1 jam 37m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Di Ambang Kematian",
+"description": "Hidup seorang perempuan muda bernama Nadia berada di ambang kematian. Hal ini bisa terjadi karena Nadia ternyata menjadi tumbal dari pesugihan yang dilakukan oleh ayahnya sendiri. Pesugihan tersebut ternyata meminta tumbal setiap 10 tahun sekali. Tumbal pertama terjadi pada tahun 2002 yaitu ibunya meninggal dunia dengan cara yang mengenaskan. Sepuluh tahun kemudian, kakak kandung dari Nadia yang bernama Yoga juga bernasib sama seperti ibunya.",
+       "episodeUrl": "https://drive.google.com/file/d/1PFS_Qzkz9SleU5x32Ms2fUBPnydOzYHG/preview",
+
+                    
+       }
+        ],
+"aktor": [
+        {
+                "image aktor": "https://asset-2.tstatic.net/wartakota/foto/bank/images/taskya-namya-dk.jpg",
+                "namaAktor": "Taskya Namya",
+                "karakter": "(Nadia)"
+},
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/4/43/Teuku_Rifnu_Wikana_as_Daud_Beureueh.jpg",
+                "namaAktor": "Teuku Rifnu",
+                "karakter": "(Suyatmo)"
+        },
+        
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCE1yaGpz0B2dCYVhIOv-NqRQwh6qKbomgd2hRvIff&s",
+                "namaAktor": "Kinaryosih",
+                "karakter": "(Ibu)"
+        },
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wafda_Saifan_2016.jpg/640px-Wafda_Saifan_2016.jpg",
+                "namaAktor": "Wafda Saifan",
+                "karakter": "(Yoga)"
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgZmGxD1qb8zNmYYFoet2ByootYZZ1RlWmA&usqp=CAU",
+                "namaAktor": "Farras Fatik",
+                "karakter": "(Yoga Kecil)"
+        },
+        {
+                "image aktor": "https://cdn0-production-images-kly.akamaized.net/2s_rdTZZaiU0JEmZY3YLC39NWhc=/85x130:999x1349/800x1066/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1877014/original/031411100_1518060066-20225337_1898631587129070_4215543695610478592_n.jpg",
+                "namaAktor": "Giulio Parengkuan",
+                "karakter": "(Bastala)"
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Andi Bersama",
+                "karakter": "(Mbah Jerat)"
+        },
+        {
+                "image aktor": "https://imgcdn.solopos.com/@space/_large/2010/09/z6ituLBw-elly-d-luthan.jpg",
+                "namaAktor": "Elly D. Luthan",
+                "karakter": "(Mbah Unjuk)"
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Taskya Giantri",
+                "karakter": "(-)"
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+]
+                
+            },
+            
+"kalianpantasmati": {
+        "title": "Kalian Pantas Mati",
+        "titleaktor": "Aktor",
+        "terjemah": "Episode 1",
+        "rating": "5.3",
+        "studio": "Paragon Pictures",
+        "rilis": "13 Oktober 2022",
+        "gendre1": "Horror",
+        "gendre2": "Drama",
+        "gendre3": "Misteri",
+        "description": "Kisah Rakka (Emir Mahira) yang terlahir indigo. Ia pun dapat berkomunikasi dengan roh orang yang sudah meninggal. Kemampuan itu pun membuat Rakka merasa terbebani dan kerap membuatnya di-bully di sekolah.",
+        "bgimg": "https://m.media-amazon.com/images/M/MV5BMzVmYmMzNzAtMjkwZS00MzRjLTgxNzItOTlkYzkxMTU4YmZmXkEyXkFqcGdeQXVyNzYzNjM4MzY@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+        "trailer": "https://www.youtube.com/embed/QeltDNKIQCs?si=SmGg4lzbvPi_kSZE",
+        "duration": "1 jam 45m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Kalian Pantas Mati",
+                        "description": "Kisah Rakka (Emir Mahira) yang terlahir indigo. Ia pun dapat berkomunikasi dengan roh orang yang sudah meninggal. Kemampuan itu pun membuat Rakka merasa terbebani dan kerap membuatnya di-bully di sekolah.",
+                        "episodeUrl": "https://drive.google.com/file/d/1Pqr_xULKPhNGt6cYIXDtmWr4KS6LP9mv/preview"
+                        
+       }
+        ],
+        "aktor": [
+      {
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXuv__cki7j0iMfw9CIRiVRxOfdWLb3IlBpRRxCW1Cclr3s74S7K4NzHH&s=10",
+        "namaAktor": "Azizi Asadel",
+        "karakter": "(Dini)"
+      },
+      {
+                    "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnKDckxZoclF0JwA2Wxj2nujGJPCTZtYcMg&s",
+                    "namaAktor": "Emir Mahira",
+                    "karakter": "(Raka)"
+            },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYRU6u243arM7iJU_t6QqhE6b6AgZsCHDfA&s",
+              "namaAktor": "Gaby Warouw",
+              "karakter": "(Vanessa)"
+      },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy_N-EFBCXWDUylfr_pyqofIBt0bpB2ptYQ&s",
+              "namaAktor": "Nesya Chandria",
+              "karakter": "(Erlin)"
+      },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7l0EQC4AydBTPH9ZUD3barp9EttcURianUSU3CMBrnQ&s",
+              "namaAktor": "Angel Sianturi",
+              "karakter": "(Sonya)"
+      },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBQWRwCq2BlRbPBu1G25JWoLf_ShnOsLHOA&s",
+              "namaAktor": "Aryo Wahab",
+              "karakter": "(Pak Didik)"
+      },
+      {
+              "image aktor": "https://media.suara.com/pictures/970x544/2022/11/22/93261-profil-jenny-zhang-instagramatjenny-zhangwiradinata.jpg",
+              "namaAktor": "Jenny Zhang",
+              "karakter": "(Tara)"
+      },
+      {
+              "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Randhikadjamil.jpg/640px-Randhikadjamil.jpg",
+              "namaAktor": "Randhika Djamil",
+              "karakter": "(Ajat)"
+      },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwI2TwgjLJOvLSX-2nKD89cbhBwklpJo1e3g&usqp=CAU",
+              "namaAktor": "Farandika",
+              "karakter": "(Nino)"
+      },
+      {
+              "image aktor": "https://cdn0-production-images-kly.akamaized.net/TBfVFF2-BgradubFxxZ8zqr0Fxw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1016898/original/038114500_1444539104-iszur-muchtar-ig1.jpg",
+              "namaAktor": "Iszur Muchtar",
+              "karakter": "(Dudung)"
+      },
+      {
+              "image aktor": "https://image.popbela.com/content-images/avatar/kezia-caroline_20230523170347.jpg?width=150&height=150?width=1600&format=webp&w=1600",
+              "namaAktor": "Kezia Caroline",
+              "karakter": "(Nara)"
+      },
+      {
+              "image aktor": "https://media.suara.com/suara-partners/denpasar/thumbs/336x189/2022/08/25/1-andrew-barret-1.jpg",
+              "namaAktor": "Andrew Barret",
+              "karakter": "(Dodit)"
+      },
+      {
+              "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRag94Fu1yaZYX6s1eaEuxEBBniaQ1dFtmGZriKFEsRhuZsXCB2qHE-5Pw&s=10",
+              "namaAktor": "Joshua Yori Rundengan",
+              "karakter": "(-)"
+      },
+
+
+
+            
+            
+            
+    ]
+   },
+   
+"ancika1995": {
+        "title": "Ancika: Dia yang Bersamaku 1995 (2024)",
+        "terjemah": "Episode 1",
+        "rating": "7.5",
+        "studio": "MD Pictures",
+        "rilis": "11 Januari 2024",
+        "gendre1": "Drama",
+        "gendre2": "Romance",
+        "gendre3": "Comedy",
+        "description": "Dikisahkan tentang persahabatan dan jalin hubungan antara Dilan dan Ancika Mehrunisa Rabu. Hubungan mereka yang semakin erat membuat benih-benih cinta tumbuh dan hubungan mereka pun menanjak hingga ke jenjang kekasih. Di tahun 1995, Dilan si mantan panglima geng motor jatuh cinta pada Ancika, perempuan yang sangat membenci geng motor.",
+        "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/2b/Poster_Ancika_-_Dia_yang_Bersamaku_1995_%282024%29.jpg",
+        "trailer": "https://www.youtube.com/embed/DbOa2bGLNWA",
+        "duration": "1 jam 40m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Ancika: Dia yang Bersamaku 1995 (2024)",
+                        "description": "Dikisahkan tentang persahabatan dan jalin hubungan antara Dilan dan Ancika Mehrunisa Rabu. Hubungan mereka yang semakin erat membuat benih-benih cinta tumbuh dan hubungan mereka pun menanjak hingga ke jenjang kekasih. Di tahun 1995, Dilan si mantan panglima geng motor jatuh cinta pada Ancika, perempuan yang sangat membenci geng motor.",
+                        "episodeUrl": "https://drive.google.com/file/d/1kSJH09Jzu76TyVQCOq7rBGcgL4OjMJwg/preview",
+
+
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXuv__cki7j0iMfw9CIRiVRxOfdWLb3IlBpRRxCW1Cclr3s74S7K4NzHH&s=10",
+"namaAktor": "Azizi Asadel",
+"karakter": "(Ancika)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg_g2p-XQZ_95sCCfpTcUGNAprWWv71mlKw&s",
+        "namaAktor": "Arbana Yasiz",
+        "karakter": "(Dilan)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06u8ZwGRV6pvmvifwQ8G-eoqvu-R3CAatLg&usqp=CAU",
+        "namaAktor": "Kenzi Taulany",
+        "karakter": "(Dudi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaDQkm--XehYZntZXkQd7_z8URA6HzGPxog&s",
+        "namaAktor": "Daffa Wardhana",
+        "karakter": "(Yadit)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRyoTAjbXne0g6BDBUxprIpvaH9p57QpD4w&usqp=CAU",
+        "namaAktor": "Nyimas Ratu Rafa",
+        "karakter": "(Indri)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCWldtVcSgKCMhub8ukAXneiZgIPmEeHECw&s",
+        "namaAktor": "Caitlin Halderman",
+        "karakter": "(Milea)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shania_Gracia_%2821Dec19%29_IMG_0180.jpg/169px-Shania_Gracia_%2821Dec19%29_IMG_0180.jpg",
+        "namaAktor": "Shania Gracia",
+        "karakter": "(Risa)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstayoc84WMjU1k2bFUDbwQiSOAULqCuNXww&s",
+        "namaAktor": "Jefan Nathanio",
+        "karakter": "(Bono)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Dito Darmawan",
+        "karakter": "(Anwar)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUpGpTMfCmbTHCl9ePg4kZePgBc7czU0qxg&s",
+        "namaAktor": "Putri Ziani",
+        "karakter": "(Nyanya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwI2TwgjLJOvLSX-2nKD89cbhBwklpJo1e3g&usqp=CAU",
+        "namaAktor": "Farandika",
+        "karakter": "(Bagas)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWowx0OCgKn6ZeNzuk1TRA4giWnRgO9uVHw&s",
+        "namaAktor": "Yeyen Lidya",
+        "karakter": "(Bu Opi)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "M. Adhiyat",
+        "karakter": "(Beni)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SWtoyjAz-rYtwWaUO0D0mbcQMFEgRq2bug&s",
+        "namaAktor": "Ira Wibowo",
+        "karakter": "(Ibu Dilan)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6CPi9MnJ9PzwFzZ3PDpPkIjwMzcEGmCZtA&s",
+        "namaAktor": "Mathias Muchus",
+        "karakter": "(Abah Ancika)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxlNaDJRK4W1RrbsSyK-esv-nn9VaAlSUCg&s",
+        "namaAktor": "Marcell Darwin",
+        "karakter": "(Herdi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEQJhjiQcmpinJtjEj44Yjs5FE4VPqZJEqQ&s",
+        "namaAktor": "Irgy Ahmad Fahrezy",
+        "karakter": "(Ayah Ancika)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6dncwES1-Yrh3_a6wY3gqO74NFvQ1rBD6pA&s",
+        "namaAktor": "Kenes Andari",
+        "karakter": "(Ibu Ancika)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/id/thumb/e/e8/Tri_Budiman.jpg/440px-Tri_Budiman.jpg",
+        "namaAktor": "Tri Yudiman",
+        "karakter": "(Nenek Ancika)"
+},
+]
+},
+"sijjin": {
+                "title": "Sijjin ",
+                "terjemah": "Episode 1",
+                "rating": "5.1",
+                "studio": "Rapi Films",
+                "rilis": "9 November 2023",
+                "gendre1": "Horror",
+                "gendre2": "Religi",
+                "gendre3": "Cerita Seru",
+                "description": "Teror itu dibuat oleh Irma yang jatuh cinta kepada sepupunya sendiri yaitu Galang. Galang yang telah memiliki istri dan anak sangat sayang kepada mereka, dan menganggap Irma hanya sebagai sepupunya saja. Oleh karena itu, Irma sangat terobsesi ingin menjadi perempuan satu-satu nya di hidup Galang, bahkan ingin dinikahi.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/8/8a/Poster_Sijjin.jpg",
+                "trailer": "https://www.youtube.com/embed/WyU4MbsCjYo",
+                "duration": "1 jam 40m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Sijjin",
+"description": "Teror itu dibuat oleh Irma yang jatuh cinta kepada sepupunya sendiri yaitu Galang. Galang yang telah memiliki istri dan anak sangat sayang kepada mereka, dan menganggap Irma hanya sebagai sepupunya saja. Oleh karena itu, Irma sangat terobsesi ingin menjadi perempuan satu-satu nya di hidup Galang, bahkan ingin dinikahi.",
+       "episodeUrl": "https://drive.google.com/file/d/1z8tdocOPROvzt_PeIQTze6-ql7p7MEzh/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAu1UJxdgLAJ8DrDpyZOyViLVatfu98GYTOA&s",
+"namaAktor": "Anggika Bölsterli",
+"karakter": "(Irma)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwZKfWgV8YrLR9R1ZmusM5t4TWL8e9qie0g&s",
+        "namaAktor": "Ibrahim Risyad",
+        "karakter": "(Galang)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnroDGJh-HuFJ6LQyXxCcs6z0s1_xszheNiA&s",
+        "namaAktor": "Niken Anjani",
+        "karakter": "(Nisa)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnQ0PxLI6gBsTtlhM85HtkLCTxOex81ev7z3xq60z4PeHk24i3Bteot0&s=10",
+        "namaAktor": "Delia Husein",
+        "karakter": "(Wulan)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuLjrHhOIUfm2SG_hIRb0bVFAs1VHSDvW60w&s",
+        "namaAktor": "Messi Gusti",
+        "karakter": "(Sofia)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Oce Permatasari",
+        "karakter": "(Bu Farah)"
+},
+{
+        "image aktor": "https://image.tmdb.org/t/p/w500/9VqvXriHKYJyo5cOHnF8pyU9ouA.jpg",
+        "namaAktor": "Dewi Pakis",
+        "karakter": "(Bu Anah)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Deni Saputra",
+        "karakter": "(Aa Syakir)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfh47c6qndLWEWkVKP0Vn5oFUOrl91pqS2A&s",
+        "namaAktor": "Elly D. Luthan",
+        "karakter": "(Bu Teti)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "M.N. Qomaruddin",
+        "karakter": "(Ikhsan)"
+},
+]
+                
+            },
+"kenapague": {
+                "title": "Kenapa Gue?",
+                "terjemah": "Episode 1-6",
+                "rating": "5.7",
+                "studio": "Anami Films",
+                "rilis": "7 Januari 2022",
+                "gendre1": "Drama",
+                "gendre2": "Cerita Seru",
+                "gendre3": "Comedy",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/a/a6/Poster_Kenapa_Gue%3F.jpg",
+                "trailer": "https://www.youtube.com/embed/St61FgorzEA?si=cBeZ8EuiTs05KrQM",
+                "duration": "3 jam 30m",
+"episodes": [
+        {
+       "episodeTitle": "Episode 6", 
+       "episodeJudul": "Kenapa Gue? (EP 6)",
+"description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+       "episodeUrl": "https://drive.google.com/file/d/1zSrZX4IK5jEvihWtgC-5Xn9slfvtd2_F/preview",
+
+                    
+       },
+        {
+                "episodeTitle": "Episode 5",
+                "episodeJudul": "Kenapa Gue? (EP 5)",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "episodeUrl": "https://drive.google.com/file/d/1zPfdK5bXZnTiqusdBs4JDMaCOjfV4hlR/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "Kenapa Gue? (EP 4)",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "episodeUrl": "https://drive.google.com/file/d/1ze5VfqLTbbScgyfEjeeH2_TgkY5Jh-cE/preview",
+
+
+        },
+        {
+                "episodeTitle": "Episode 3",
+                "episodeJudul": "Kenapa Gue? (EP 3)",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "episodeUrl": "https://drive.google.com/file/d/1zCKWJlzoq1KLbzJ_uYi_Ca_x5ZFnvtHn/preview",
+
+
+        },
+
+        {
+                "episodeTitle": "Episode 2",
+                "episodeJudul": "Kenapa Gue? (EP 2)",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "episodeUrl": "https://drive.google.com/file/d/1zBuyaOqzDFRsIhXVi2e4-kI166KIXO-d/preview",
+
+
+        },
+
+        {
+                "episodeTitle": "Episode 1",
+                "episodeJudul": "Kenapa Gue? (EP 1)",
+                "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
+                "episodeUrl": "https://drive.google.com/file/d/1zB_4tfXlcDeHCqBrQ0IJRSOly7pMRHjD/preview",
+
+
+        }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS91toyD5SaEzRE8jjvA0ElIT79Bjcvk3YKgw&s",
+"namaAktor": "Agnes Naomi",
+"karakter": "(Alana)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1T5XbiMnrqcRWBovmHI8KTIGnGwfOhVsbvA&s",
+        "namaAktor": "Abidzar Al-Ghifari",
+        "karakter": "(Timo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_n-rLFZv81CwT8nDANAKW6LWZtwWUfMG94g&s",
+        "namaAktor": "Omara Esteghlal",
+        "karakter": "(Radit)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgu_oPOpWM9nWszgsyH2YZUWQP9RQeQifitQ&s",
+        "namaAktor": "Aisyah Aqila",
+        "karakter": "(Fifi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXpV6iERu7kZrD46aeyKK57TmqR4xPq08-A&s",
+        "namaAktor": "Susan Sameh",
+        "karakter": "(Nora)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz3dVrzGMjH77EwcIiBQqrhj5ctAHx8OPJw&s",
+        "namaAktor": "Bisma Karisma",
+        "karakter": "(Danu)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg4IKSq3q6trrlkfzQ9pm6Nd7RZ9VtmsliZg&s",
+        "namaAktor": "Teuku Rifnu Wikana",
+        "karakter": "(Bondan Susilo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7872ztlELPf4xwDIK5CQqjZR47Id2zhrH1Q&s",
+        "namaAktor": "Djenar Maesa Ayu",
+        "karakter": "(Ibu Nora)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1FFWLnNsW9ngKCNVYviSZBm9PZKTssM-0A&s",
+        "namaAktor": "Angga Putra",
+        "karakter": "(Rendi)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Revaldo Surya Permana",
+        "karakter": "(Deny)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Kathy Indera",
+        "karakter": "(Nadia)"
+},
+]
+        
+        
+                
+            },
+"pamali": {
+                "title": "Pamali (2022)",
+                "terjemah": "Episode 1",
+                "rating": "5.3",
+                "studio": "Lyto Pictures",
+                "rilis": "6 Oktober 2022",
+                "gendre1": "Horror",
+                "gendre2": "Misteri",
+                "gendre3": "Drama",
+                "description": "Jaka Sunarya (Marthino Lio), yang baru saja kehilangan pekerjaan, bersama sang istri, Rika (Putri Ayudya) ingin menjual rumah peninggalan orang tuanya untuk memulai hidup baru. Di desa tersebut, mereka tanpa sengaja melanggar adat yang telah menjadi tradisi, sehingga menghadapi keberadaan makhluk halus yang mengancam nyawa mereka.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/9/98/Film_pamali.jpeg",
+                "trailer": "https://www.youtube.com/embed/qCjWY46TLm0?si=-jqQBTA2kcRuB9z6",
+                "duration": "1 jam 39m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Pamali (2022)",
+"description": "Jaka Sunarya (Marthino Lio), yang baru saja kehilangan pekerjaan, bersama sang istri, Rika (Putri Ayudya) ingin menjual rumah peninggalan orang tuanya untuk memulai hidup baru. Di desa tersebut, mereka tanpa sengaja melanggar adat yang telah menjadi tradisi, sehingga menghadapi keberadaan makhluk halus yang mengancam nyawa mereka.",
+       "episodeUrl": "https://drive.google.com/file/d/1zpVf5UrtWJRozI1HD3LSA1dP4aADD75o/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marthino_Lio.jpg/440px-Marthino_Lio.jpg",
+"namaAktor": "Marthino Lio",
+"karakter": "(Jaka Sunarya)"
+},
+
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Jordan Omar",
+                "karakter": "(Jaka Kecil)"
+},
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/6831%C2%A9MiguelBueno.jpg/440px-6831%C2%A9MiguelBueno.jpg",
+                "namaAktor": "Putri Ayudia",
+                "karakter": "(Rika Retnosari)"
+        },
+
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftWzVcuxblaQTQbypLtU_JzAiRm_Txzxsww&s",
+                "namaAktor": "Taskya Namya",
+                "karakter": "(Nenden Sunarya)"
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1xS5BDCAHCemtmZyvtBUCm1RbzhIvuZufA&s",
+                "namaAktor": "Unique Priscilla",
+                "karakter": "(Lilis)"
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxxMS0O6XeypdAZcxWgDMQsluUBybrGvwgA&s",
+                "namaAktor": "Fajar Nugraha",
+                "karakter": "(Cecep)"
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1DRN7yBToG3rLs2o8EmMr3cR4kfNO1VHTg&s",
+                "namaAktor": "Rukman Rosardi",
+                "karakter": "(Dadang Sunarya)"
+},
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Iangbaru.jpg/440px-Iangbaru.jpg",
+                "namaAktor": "Iang Darmawan",
+                "karakter": "(Kang Dede)"
+        },
+        {
+                "image aktor": "https://media.suara.com/pictures/653x366/2022/10/01/81080-profil-dan-biodata-inayma-instagramatinayma.jpg",
+                "namaAktor": "Inayma",
+                "karakter": "(Pembeli Rumah)"
+        },
+
+
+]
+                
+            },
+"aliceinborderland": {
+                "title": "Alice in Borderland",
+                "terjemah": "Season 1-2 | Episode 1-16",
+                "rating": "7.7",
+                "studio": "Robot Communication Inc.",
+                "rilis": "10 Desember 2020",
+                "gendre1": "Drama",
+                "gendre2": "Science",
+                "gendre3": "Thriller",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuF-lsu-dCdzN3aFRHWNeE17xjQRMelH2hZ0l31XZ6w&s",
+                "trailer": "https://www.youtube.com/embed/49_44FFKZ1M?si=85mcF1EeTN0u6Vae",
+                "duration": "6 jam 00m",
+"episodes": [
+        
+        {
+                "episodeTitle": "Episode 16 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 16)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90774086",
+
+
+        },
+        {
+                "episodeTitle": "Episode 15 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 15)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90772768",
+
+
+        },
+        {
+                "episodeTitle": "Episode 14 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 14)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90768644",
+
+
+        },
+        {
+                "episodeTitle": "Episode 13 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 13)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90767026",
+
+
+        },
+        {
+                "episodeTitle": "Episode 12 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 12)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90759055",
+
+
+        },
+        {
+                "episodeTitle": "Episode 11 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 11)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90750862",
+
+
+        },
+        {
+                "episodeTitle": "Episode 10 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 10)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90747296",
+
+
+        },
+        {
+                "episodeTitle": "Episode 9 (S2)",
+                "episodeJudul": "Alice in Borderland: S2 (EP 9)",
+                "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+                "episodeUrl": "https://acefile.co/player/90738995",
+
+
+        },
+
+
+
+
+    
+        {
+       "episodeTitle": "Episode 8 (S1)", 
+       "episodeJudul": "Alice in Borderland: S1 (EP 8)",
+"description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+       "episodeUrl": "https://acefile.co/player/85357527",
+
+                    
+       },
+  {
+          "episodeTitle": "Episode 7 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 7)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85356395",
+
+
+  },
+  {
+          "episodeTitle": "Episode 6 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 6)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85353945",
+
+
+  },
+  {
+          "episodeTitle": "Episode 5 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 5)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85353523",
+
+
+  },
+  {
+          "episodeTitle": "Episode 4 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 4)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85351422",
+
+
+  },
+  {
+          "episodeTitle": "Episode 3 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 3)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85341321",
+
+
+  },
+  {
+          "episodeTitle": "Episode 2 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 2)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85337861",
+
+
+  },
+  {
+          "episodeTitle": "Episode 1 (S1)",
+          "episodeJudul": "Alice in Borderland: S1 (EP 1)",
+          "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
+          "episodeUrl": "https://acefile.co/player/85335651",
+
+
+  }
+       
+       
+       
+        ]
+                
+            },
+            
+"mangkujiwo2": {
+                "title": "Mangkujiwo 2",
+                "terjemah": "Episode 1",
+                "rating": "5.7",
+                "studio": "MVP Pictures",
+                "rilis": "26 Januari 2023",
+                "gendre1": "Horror",
+                "gendre2": "Cerita Seru",
+                "gendre3": "Drama",
+                "description": "Setelah peristiwa kematian Cokrokusumo, Uma berusaha melawan trauma sambil mencari jawaban atas misteri keterlibatan Kuntilanak dalam hidupnya. Sementara itu, Brotoseno, Nyi Kenanga, dan Karmila menempuh cara keji untuk membawa Mangkujiwo ke puncak kejayaan, di mana darah akan kembali tumpah.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/3/31/Poster_Mangkujiwo_2.jpg",
+                "trailer": "https://www.youtube.com/embed/ea3XGYVRI-I?si=BDvJzB5vzVNGjtDm",
+                "duration": "2 jam 01m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Mangkujiwo 2",
+"description": "Setelah peristiwa kematian Cokrokusumo, Uma berusaha melawan trauma sambil mencari jawaban atas misteri keterlibatan Kuntilanak dalam hidupnya. Sementara itu, Brotoseno, Nyi Kenanga, dan Karmila menempuh cara keji untuk membawa Mangkujiwo ke puncak kejayaan, di mana darah akan kembali tumpah.",
+       "episodeUrl": "https://drive.google.com/file/d/1-Ddeaf1Dld51ebQ7gQotlJvRFD0lwJ9i/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDErD75H6oWXM89R3eujXaEVJDGHCtAUF6Ug&s",
+"namaAktor": "Yasamin Jasem",
+"karakter": "(Uma)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1S6evEAIki9jG4Y4QlaEVIesf6O5jj8isNg&s",
+        "namaAktor": "Widika Sidmore",
+        "karakter": "(Maureen)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7872ztlELPf4xwDIK5CQqjZR47Id2zhrH1Q&s",
+        "namaAktor": "Djenar Maesa Ayu",
+        "karakter": "(Nyi Kenanga)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJL8C7c08cl5OVkSmHeoA_v2inyuA4-ihTA&s",
+        "namaAktor": "Sujiwo Tejo",
+        "karakter": "(Brotoseno)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hep5THf2wsVwr2NKFTcKTK6-kQOXGucj5g&s",
+        "namaAktor": "Karina Suwandi",
+        "karakter": "(Karmila)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKs2nMk9OKrPtb-TRHqHJIDOX_-Y3SC1pRw&s",
+        "namaAktor": "Narthino Lio",
+        "karakter": "(Rimba)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wD12ZopQIc3zmhWwWISwdMw_wkivh9qQmA&s",
+        "namaAktor": "Kiki Narendra",
+        "karakter": "(Jendral Amperawan)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkW3ov52MiSX9z34x6aDuumoOouc47DxMMw&s",
+        "namaAktor": "Sara Wijayanto",
+        "karakter": "(Sri Sukma Rahayu)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnUdL6KxHw9AYdYiR0dNI1Q4OgfURYlRxMA&s",
+        "namaAktor": "Kimberly Ryder",
+        "karakter": "(Sri Sukma Rahimi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSr2xkwn722yPMGW7emVgOtQemGgnGi0c3TevCtyDt-ErmU4jXz4A&s=19",
+        "namaAktor": "Yayu Unru",
+        "karakter": "(Dargo Sentono)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGduASx8IPEK40j8ghf7PNy_h5fCtN_MeQRA&s",
+        "namaAktor": "Pritt Timothy",
+        "karakter": "(Kunto Haryo)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Yuyun Arfah",
+        "karakter": "(Kanthi)"
+},
+{
+        "image aktor": "https://images.mubicdn.net/images/cast_member/552849/cache-874542-1683105378/image-w856.jpg?size=800x",
+        "namaAktor": "Ibnu Widodo",
+        "karakter": "(Arsya)"
+},
+]
+                
+            },
+            
+"sewudino": {
+        "title": "Sewu Dino",
+        "terjemah": "Episode 1",
+        "rating": "6.0",
+        "studio": "MD Pictures",
+        "rilis": "19 April 2023",
+        "gendre1": "Horror",
+        "gendre2": "Thriller",
+        "gendre3": "Drama",
+        "description": "Demi pengobatan bapaknya yang sakit-sakitan, Sri Rahayu, seorang wanita sederhana yang tinggal di sebuah desa di Jawa Timur, memutuskan untuk melamar sebagai pembantu di kediaman keluarga Atmodjo. Meskipun Sri tidak memiliki gelar sarjana, dia langsung saja diterima kerja oleh Mbah Karsa Atmodjo, karena keunikannya sebagai anak yang lahir di Jumat Kliwon, hari keramat dalam budaya Jawa. Bersama dengan Erna dan Dini, mereka diantarkan oleh Sugik, supir keluarga Atmodjo, menuju sebuah gubuk di tengah hutan. Sri sadar bahwa tangannya saat ini mempunyai lambang keluarga Atmodjo, begitu pula dengan Erna, Dini, dan Sugik.",
+        "bgimg": "https://upload.wikimedia.org/wikipedia/id/0/0c/Sewu_Dino.jpg",
+        "trailer": "https://www.youtube.com/embed/12sXNFbQa6I",
+        "duration": "2 jam 01m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Sewu Dino",
+                        "description": "Demi pengobatan bapaknya yang sakit-sakitan, Sri Rahayu, seorang wanita sederhana yang tinggal di sebuah desa di Jawa Timur, memutuskan untuk melamar sebagai pembantu di kediaman keluarga Atmodjo. Meskipun Sri tidak memiliki gelar sarjana, dia langsung saja diterima kerja oleh Mbah Karsa Atmodjo, karena keunikannya sebagai anak yang lahir di Jumat Kliwon, hari keramat dalam budaya Jawa. Bersama dengan Erna dan Dini, mereka diantarkan oleh Sugik, supir keluarga Atmodjo, menuju sebuah gubuk di tengah hutan. Sri sadar bahwa tangannya saat ini mempunyai lambang keluarga Atmodjo, begitu pula dengan Erna, Dini, dan Sugik.",
+                        "episodeUrl": "https://drive.google.com/file/d/1wnnw2uqDs59Fb3fNa_EbN6Dm92zKUzU2/preview",
+
+
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmaOuwZGpj59RYB6dJP5w7cJvNSvTaDxF6a7Q1WnLDtB9LSgJCk-njoZB&s=10",
+"namaAktor": "Dayinga Melira",
+"karakter": "(Sengarturih)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyh6kFOfy_Mjw8vt8Hov7vQhI2K6MH0GWP6FmOW_aitSOYtYkrCw_hAyU&s=10",
+        "namaAktor": "Gisellma Firmansyah",
+        "karakter": "(Dela)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9lANHiHvQlZCP0HQMQC_cB0FbUVuv2HWpA&s",
+        "namaAktor": "Mikha Tambayong",
+        "karakter": "(Sri)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbnUcJMLhYJbi4NbiWEO24U7aP32EbUTfJA&s",
+        "namaAktor": "Givina Lukita Dewi",
+        "karakter": "(Erna)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hep5THf2wsVwr2NKFTcKTK6-kQOXGucj5g&s",
+        "namaAktor": "Karina Suwandi",
+        "karakter": "(Karsa Atmojo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzL_a_P5vAApIPOdO6G8AO5oTnGeCC4PUVQ&s",
+        "namaAktor": "Agla Artalidia",
+        "karakter": "(Dini)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VFpz9GvDQ2bqZ7hMC-I4K7DlDvoDAd36XA&s",
+        "namaAktor": "Rio Dewanto",
+        "karakter": "(Sugik)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtU-OHrIS3KlbkOFFyUcq7d85LryQRo8BGQ&s",
+        "namaAktor": "Delia Husein",
+        "karakter": "(Jum)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Karina Ranau",
+        "karakter": "(Lydia)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKs2nMk9OKrPtb-TRHqHJIDOX_-Y3SC1pRw&s",
+        "namaAktor": "Marthino Lio",
+        "karakter": "(Sabdo Kuncoro)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGduASx8IPEK40j8ghf7PNy_h5fCtN_MeQRA&s",
+        "namaAktor": "Pritt Timothy",
+        "karakter": "(Grandma Tamin)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_Xb7AosNWPMJYuO-cREI8aVtG7vuXWqfQg&s",
+        "namaAktor": "Maryam Supraba",
+        "karakter": "(Minah)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWH3ENqVhBKkx_eT47M4Q2xjj0NySccqdVMg&s",
+        "namaAktor": "Ayez Kassar",
+        "karakter": "(Jatmiko)"
+},
+]
+
+},
+
+"suzzannamalamjumatkliwon": {
+                "title": "Suzzanna: Malam Jumat Kliwon",
+                "terjemah": "Episode 1",
+                "rating": "5.8",
+                "studio": "Soraya Intercine Films",
+                "rilis": "3 Agustus 2023",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Misteri",
+                "description": "Berlatar tahun 1986 di sebuah desa yang letaknya di Jawa Timur, Suzzanna dan Surya adalah sepasang kekasih yang akan segera menikah. Namun karena utang yang dimiliki oleh orangtua Suzzanna terhadap Raden Aryo, orang terkaya di desa mereka, membuat hubungan keduanya kandas. Raden Aryo akan menganggap utang orangtua Suzzanna lunas apabila Suzzanna mau dijadikan istri keduanya.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/SMJK_%282023%29.jpg/440px-SMJK_%282023%29.jpg",
+                "trailer": "https://www.youtube.com/embed/W3OiJi8UyUk",
+                "duration": "2 jam 10m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Suzzanna: Malam Jumat Kliwon",
+"description": "Berlatar tahun 1986 di sebuah desa yang letaknya di Jawa Timur, Suzzanna dan Surya adalah sepasang kekasih yang akan segera menikah. Namun karena utang yang dimiliki oleh orangtua Suzzanna terhadap Raden Aryo, orang terkaya di desa mereka, membuat hubungan keduanya kandas. Raden Aryo akan menganggap utang orangtua Suzzanna lunas apabila Suzzanna mau dijadikan istri keduanya.",
+       "episodeUrl": "https://drive.google.com/file/d/11IzJ1-bVLwFFuAPudqMSiyVtqYHJJURD/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_CBxTx-ZxdSHiw9sXS4wA1ox97SPKtwzvYA&s",
+"namaAktor": "Luna Maya",
+"karakter": "(Suzzanna)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeqrx33jv66SchWjNC-mRjelxf3HKKhz9IQ&s",
+        "namaAktor": "Achmad Megantara",
+        "karakter": "(Surya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScaU0szjnu4eAx7QyyvFBgx_ulP6cZW0Y6OQ&s",
+        "namaAktor": "Sally Marcelina",
+        "karakter": "(Minati)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXQi4KcNqBbLaeYDN3XHXMA-OY5XpaPBdEg&s",
+        "namaAktor": "Clift Sangra",
+        "karakter": "(Pak Bekti)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftWzVcuxblaQTQbypLtU_JzAiRm_Txzxsww&s",
+        "namaAktor": "Taskya Namya",
+        "karakter": "(Ratih)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdqtj3_Jva7fF9IUwTMzd3NU8x4Qpf_b-3SQ&s",
+        "namaAktor": "Yurike Prastika",
+        "karakter": "(Dukun Beranak)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXz3KA3ilXmBJVurjpGfHoHdHwJnORrCNdg&s",
+        "namaAktor": "Tio Pakusadewo",
+        "karakter": "(Raden Aryo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJWAgFO1qnh8PzWBDhyJ8wT0yYQeYBcTmgpw&s",
+        "namaAktor": "Adi Bing Slamet",
+        "karakter": "(Japra)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27W9rhHiTbJWkMAKOSmI3Fq65Vy7jFuRNsA&s",
+        "namaAktor": "Opie Kumis",
+        "karakter": "(Pak Rojali)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9gBo9OrGeWoHTvmnBRvSlH6g6uGzq6ddig&s",
+        "namaAktor": "Ence Bagus",
+        "karakter": "(Tohir)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwjglrD_hcyR6fJwVG3ZqJ2zwpW22f_LBpQ&s",
+        "namaAktor": "Egi Fedly",
+        "karakter": "(Samil)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbUCpZEdJvEgWvMGIU-agkcKQPbOQBnrZ2w&s",
+        "namaAktor": "Lela Anggraini",
+        "karakter": "(Ibu Suzzanna)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaNOQlwFHTlVPQe6WbP-XUJ2M5q0DmIGddg&s",
+        "namaAktor": "Baron Hermanto",
+        "karakter": "(Ki Jaya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzuCceUAJnewvOZ7RsSOI8CANkglJsDtkyA&s",
+        "namaAktor": "Max Yanto",
+        "karakter": "(Pegulat)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZecmQH7GtO_kDK3aMZBQfUMKawFInJnTL6g&s",
+        "namaAktor": "Deden Bagaskara",
+        "karakter": "(Ayah Suzzanna)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKBnxNKenoqYcelJwNl3fC4KQ_o-As5hoJQ&s",
+        "namaAktor": "Afrizal Anoda",
+        "karakter": "(Ustadz Imam)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IMG-20191103-WA0024.jpg/640px-IMG-20191103-WA0024.jpg",
+        "namaAktor": "Fredy Amin",
+        "karakter": "(Wakil Camat)"
+},
+]
+                
+            },
+            
+"vivajkt48": {
+                "title": "Viva JKT48 (2014)",
+                "terjemah": "Episode 1",
+                "rating": "10.0",
+                "studio": "Maxima Pictures",
+                "rilis": "5 Juni 2014",
+                "gendre1": "Musikal",
+                "gendre2": "Drama",
+                "gendre3": "Dokumenter",
+                "description": "Tiba-tiba JKT48 dibubarkan secara sepihak oleh Miss Kejora. Penggemar yang telah menunggu-nunggu penampilan JKT48 harus kecewa karena idolanya digantikan oleh grup baru bernama BKT48. Miss Kejora menantang para anggota JKT48 untuk mengumpulkan uang sebesar Rp 1 miliar jika ingin membeli kembali posisi mereka. Semua anggota JKT48 berusaha keras mengumpulkan uang dan memulai kembali karier mereka dari bawah.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/ad/Poster_Viva_JKT48.jpg/440px-Poster_Viva_JKT48.jpg",
+                "trailer": "https://www.youtube.com/embed/5iugzyrmTP0?si=Pg7Zoa941dkLUgM_",
+                "duration": "1 jam 21m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Viva JKT48 (2014)",
+"description": "Tiba-tiba JKT48 dibubarkan secara sepihak oleh Miss Kejora. Penggemar yang telah menunggu-nunggu penampilan JKT48 harus kecewa karena idolanya digantikan oleh grup baru bernama BKT48. Miss Kejora menantang para anggota JKT48 untuk mengumpulkan uang sebesar Rp 1 miliar jika ingin membeli kembali posisi mereka. Semua anggota JKT48 berusaha keras mengumpulkan uang dan memulai kembali karier mereka dari bawah.",
+       "episodeUrl": "https://acefile.co/player/32867411",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Melody_Nurramdhani_Laksani_%2822493920964%29.jpg/440px-Melody_Nurramdhani_Laksani_%2822493920964%29.jpg",
+"namaAktor": "Melody Nurramdhani Laksani",
+"karakter": "(Melody & Delomy)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nabilah_Azalia_%2812907078975%29.jpg/440px-Nabilah_Azalia_%2812907078975%29.jpg",
+        "namaAktor": "Nabilah Ratna Ayu Azalia",
+        "karakter": "(Nabilah & Balinah)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ayana_Shahab.jpg/440px-Ayana_Shahab.jpg",
+        "namaAktor": "Ayana Shahab",
+        "karakter": "(Ayana & Anaya)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shania_Junianatha_%2823102656732%29.jpg/440px-Shania_Junianatha_%2823102656732%29.jpg",
+        "namaAktor": "Shania Junianatha",
+        "karakter": "(Shania & Nashia)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kaleidoskop_Ini_Talkshow_2016_-_Keren%21_Ini_Talkshow_Sampai_ke_Negeri_Sakura_2m20s.jpg/440px-Kaleidoskop_Ini_Talkshow_2016_-_Keren%21_Ini_Talkshow_Sampai_ke_Negeri_Sakura_2m20s.jpg",
+        "namaAktor": "Haruka Nakagawa",
+        "karakter": "(Haruka & Kahura)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cindy_Yuvia_Senbatsu_2018.jpg/440px-Cindy_Yuvia_Senbatsu_2018.jpg",
+        "namaAktor": "Cindy Yuvia",
+        "karakter": "(Yuvia & Ivayu)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/131130_JKT48_Press_Conference_-_Meet_and_Greet_2.jpg/440px-131130_JKT48_Press_Conference_-_Meet_and_Greet_2.jpg",
+        "namaAktor": "Rona Anggraeni",
+        "karakter": "(Rona & Nora)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naomi_that%27s_how_to_call_%22My_One%22_%2811453065876%29.jpg/440px-Naomi_that%27s_how_to_call_%22My_One%22_%2811453065876%29.jpg",
+        "namaAktor": "Shinta Naomi",
+        "karakter": "(Naomi & Maoni)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Meirayni Fauziah",
+        "karakter": "(Vega)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/JKT48.svg/300px-JKT48.svg.png",
+        "namaAktor": "Para Member JKT48",
+        "karakter": "(Lainnya)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Ayu Dewi",
+        "karakter": "(Miss Kejora)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Toni Taulo",
+        "karakter": "(Jimmy)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/id/e/e5/Tigor.jpeg",
+        "namaAktor": "Djaitov Yanda",
+        "karakter": "(Bang Tigor)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Mario Maulana",
+        "karakter": "(Oi)"
+},{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Bobby Samuel",
+        "karakter": "(Bobby)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Stephanus Tjiproet",
+        "karakter": "(Miko)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Nobuyuki Suzuki",
+        "karakter": "(Takeshi-san)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/6/68/Babe_Cabita_in_2017.png",
+        "namaAktor": "Babe Cabita",
+        "karakter": "(Pelayan Lawson)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Rony Immanuel",
+        "karakter": "(Mongol Stres)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Soleh_Solihun_on_Ini_Talkshow_Netmediatama.png/440px-Soleh_Solihun_on_Ini_Talkshow_Netmediatama.png",
+        "namaAktor": "Soleh Solihun",
+        "karakter": "(Penjaga Kebun Binatang)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Muhadkly_Acho.jpg/440px-Muhadkly_Acho.jpg",
+        "namaAktor": "Muhadkly Acho",
+        "karakter": "(Fans JKT48)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxeWL_EqRO30Uk7vVmV-p_lyhfs-6hf3RwA&usqp=CAU",
+        "namaAktor": "700+",
+        "karakter": "(Fans JKT48)"
+},
+]
+                
+            },
+            
+"iblisdalamkandungan": {
+                "title": "Iblis dalam Kandungan",
+                "terjemah": "Episode 1",
+                "rating": "6.4",
+                "studio": "DHF Entertainment",
+                "rilis": "10 Maret 2022",
+                "gendre1": "Horror",
+                "gendre2": "Laga",
+                "gendre3": "Drama",
+                "description": "Setelah lima belas tahun menikah dan mengadopsi dua kakak-beradik bernama Alani (Denira Wiraguna) dan Vito (Adhiyat), Amelia (Nafa Urbach) akhirnya bisa hamil. Untuk menjaga istrinya yang juga menderita penyakit darah tinggi, suaminya, Verdi (Ali Syakieb), berpindah dari Jakarta ke perusahaan perkebunan di kaki gunung Salak. Persoalan mulai muncul ketika rumah yang mereka tinggali ternyata dihuni oleh arwah wanita, yang di masa lalunya kehilangan bayi dalam kandungan karena sebuah peristiwa mistis. Kini, arwah itu mencoba merasuk ke dalam tubuh Amelia untuk menghaki bayi dalam kandungannya. Vito dan Alani berupaya melindungi ibu mereka, meskipun harus menghadapi serangkaian teror yang membahayakan nyawa. Ternyata, arwah wanita itu bukanlah satu-satunya bahaya yang harus dihadapi. Ada kekuatan lain yang lebih jahat dan tidak pernah terpikirkan sebelumnya.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/7/79/Iblisdalamkandungan2022_official_Poster.jpeg",
+                "trailer": "https://www.youtube.com/embed/BJfkJZs7hKk?si=rRDktYgecGpdxM9T",
+                "duration": "1 jam 26m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Iblis dalam Kandungan",
+"description": "Setelah lima belas tahun menikah dan mengadopsi dua kakak-beradik bernama Alani (Denira Wiraguna) dan Vito (Adhiyat), Amelia (Nafa Urbach) akhirnya bisa hamil. Untuk menjaga istrinya yang juga menderita penyakit darah tinggi, suaminya, Verdi (Ali Syakieb), berpindah dari Jakarta ke perusahaan perkebunan di kaki gunung Salak. Persoalan mulai muncul ketika rumah yang mereka tinggali ternyata dihuni oleh arwah wanita, yang di masa lalunya kehilangan bayi dalam kandungan karena sebuah peristiwa mistis. Kini, arwah itu mencoba merasuk ke dalam tubuh Amelia untuk menghaki bayi dalam kandungannya. Vito dan Alani berupaya melindungi ibu mereka, meskipun harus menghadapi serangkaian teror yang membahayakan nyawa. Ternyata, arwah wanita itu bukanlah satu-satunya bahaya yang harus dihadapi. Ada kekuatan lain yang lebih jahat dan tidak pernah terpikirkan sebelumnya.",
+       "episodeUrl": "https://drive.google.com/file/d/1WP6Tm-QHNEKY323-5tF1Xr2gN7Doz_jd/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHRvct1nL97dsoEfwVod2VT-kdDdg5yrvng&s",
+"namaAktor": "Denira Wiraguna",
+"karakter": "(Alani)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Anggia Chan",
+        "karakter": "(Atikah)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/7/73/KPU_Nafa_Urbach.jpg",
+        "namaAktor": "Nafa Urbach",
+        "karakter": "(Amelia)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYifZJh1A0hpLAg77Hku7xsd-mooghocga4g&s",
+        "namaAktor": "Ali Syakieb",
+        "karakter": "(Verdi)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_UVKewU3wUW33wdflA8mFth_yyY7cYKJQA&s",
+        "namaAktor": "Yati Surachman",
+        "karakter": "(Nyak Enoh)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjEhym3ov6uD6YizLtkIwAyBCcTBjN0FOHbA&usqp=CAU",
+        "namaAktor": "Ananda George",
+        "karakter": "(Pak Bagya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapH-nA2PHETvPqlD3bm65v7HHqBOcC9xb2A&s",
+        "namaAktor": "Inggrid Widjanarko",
+        "karakter": "(Nyai Respati)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Iang Darmawan",
+        "karakter": "(Mang Ujang)"
+},
+{
+        "image aktor": "https://cdns.klimg.com/resized/476x/selebriti/Rendy_Herpy/p/rendy-herpy-004.jpg",
+        "namaAktor": "Rendy Herpy",
+        "karakter": "(Dokter)"
+},
+]
+                
+            },
+"jinqorin": {
+                "title": "Jin Qorin",
+                "terjemah": "Episode 1",
+                "rating": "5.9",
+                "studio": "IDM Film",
+                "rilis": "23 Maret 2023",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Religi",
+                "description": "Seno (Marthino Lio) sangat mencintai istrinya Alya (Tyara Vanessa) dan putrinya Reva (Kanaya Gleadys). Bagi Seno tak ada yang dapat memisahkan mereka. Akan tetapi ada rahasia besar yang harus ditutupi Seno di dalam rumah tangganya. Sementara itu Wina (Annisa Hasim), bos di tempat Seno bekerja sebenarnya juga mencintai Seno. Sementara itu Abdi (Rama Michael), sahabat sekaligus kakak ipar Seno, mulai mencurigai ada hubungan spesial antara Wina dan Seno. Apakah Seno berselingkuh dan mengkhianati Alya, adiknya?Dalam penyelidikannya, Abdi mulai menemukan kejanggalan pada diri Seno. Di saat bersamaan Wina yang masih bersikeras mendapatkan cinta Seno, menemukan bukti yang memperkuat rahasia yang ditutupi oleh Seno.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EuUj1icrvCXyLapH7KErqPSNVRNBcVwLiw&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/q1e_U_LkWRw?si=I-sertFdH3zZ9AAD",
+                "duration": "1 jam 27m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Jin Qorin",
+"description": "Seno (Marthino Lio) sangat mencintai istrinya Alya (Tyara Vanessa) dan putrinya Reva (Kanaya Gleadys). Bagi Seno tak ada yang dapat memisahkan mereka. Akan tetapi ada rahasia besar yang harus ditutupi Seno di dalam rumah tangganya. Sementara itu Wina (Annisa Hasim), bos di tempat Seno bekerja sebenarnya juga mencintai Seno. Sementara itu Abdi (Rama Michael), sahabat sekaligus kakak ipar Seno, mulai mencurigai ada hubungan spesial antara Wina dan Seno. Apakah Seno berselingkuh dan mengkhianati Alya, adiknya?Dalam penyelidikannya, Abdi mulai menemukan kejanggalan pada diri Seno. Di saat bersamaan Wina yang masih bersikeras mendapatkan cinta Seno, menemukan bukti yang memperkuat rahasia yang ditutupi oleh Seno.",
+       "episodeUrl": "https://drive.google.com/file/d/12wZZPgESd0RvXw4tMxvgp5le-uomzM_y/preview",
+
+                    
+       }
+        ],
+        
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marthino_Lio.jpg/440px-Marthino_Lio.jpg",
+"namaAktor": "Marthino Lio",
+"karakter": "(Seno)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66pAQu7ClIFUESQDTWgpgNHzjOh4MNHla2Q&s",
+        "namaAktor": "Rama Michael",
+        "karakter": "(Abdi)"
+},
+{
+        "image aktor": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/tyara-vanesha.jpg",
+        "namaAktor": "Tyara Vanesha",
+        "karakter": "(Alya)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlbNkKAExGcdJJg24DTatj-Zd6i0Q5BekoQ&usqp=CAU",
+        "namaAktor": "Annisa Hasim",
+        "karakter": "(Wina)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Kanaya Gleadys",
+        "karakter": "(Reva)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Harin Sumonah",
+        "karakter": "(Istri Alam)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Kukuh Riyadi",
+        "karakter": "(Alam)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Indrasati Rumluan",
+        "karakter": "(Istri Seno)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Heru Prasetyo",
+        "karakter": "(Raja Jin)"
+},
+]
+        
+                
+            },
+"mumun": {
+                "title": "Mumun (2022)",
+                "terjemah": "Episode 1",
+                "rating": "5.6",
+                "studio": "Dee Company",
+                "rilis": "1 September 2022",
+                "gendre1": "Horror",
+                "gendre2": "Laga",
+                "gendre3": "Comedy",
+                "description": "Mumun (Acha Septriasa) dan Juned (Dimas Aditya) merupakan sepasang kekasih yang saling mencintai. Namun, Mumun tewas secara mengenaskan dalam sebuah kecelakaan dan Juned sangat terpukul karenanya. Setelah jasad Mumun dikuburkan, ternyata Husein (Mandra) selaku penggali kubur lupa membuka tali pocong Mumun pada saat prosesi penguburan, sehingga ia bangkit dari kubur untuk meminta agar tali pocongnya dibukakan.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/4/4e/Mumun_official_poster.jpeg",
+                "trailer": "https://www.youtube.com/embed/Rnx4EL8LalU",
+                "duration": "1 jam 46m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Mumun (2022)",
+"description": "Mumun (Acha Septriasa) dan Juned (Dimas Aditya) merupakan sepasang kekasih yang saling mencintai. Namun, Mumun tewas secara mengenaskan dalam sebuah kecelakaan dan Juned sangat terpukul karenanya. Setelah jasad Mumun dikuburkan, ternyata Husein (Mandra) selaku penggali kubur lupa membuka tali pocong Mumun pada saat prosesi penguburan, sehingga ia bangkit dari kubur untuk meminta agar tali pocongnya dibukakan.",
+       "episodeUrl": "https://drive.google.com/file/d/13-EQ8xeqZt1oGCeMmUCx3DJTiVzkGzFz/preview",
+
+                    
+       }
+        ],
+
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acha_Septriasa_on_Festival_Film_Indonesia_2015.jpg/440px-Acha_Septriasa_on_Festival_Film_Indonesia_2015.jpg",
+"namaAktor": "Acha Septriasa",
+"karakter": "(Mumun, Mimin)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDeIBcyr3WKro_ib0vnvVY3-GVDZQ0t6bhw&s",
+        "namaAktor": "Mandra",
+        "karakter": "(Husein)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatQJZQvfErFmAr94sr1nJ47SznNkYKpd0rQ&s",
+        "namaAktor": "Eddies Adelia",
+        "karakter": "(Empok Kokom)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJEYc3ISkABwjyIbiQuWDMW6sh3RyfIUuOA&s",
+        "namaAktor": "Dimas Aditya",
+        "karakter": "(Juned)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Atet Zakaria",
+        "karakter": "(H. Muis)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhDl-VFO0kwMzJ_V4Pwpwk0yfGIknOHSG7w&s",
+        "namaAktor": "Bedu",
+        "karakter": "(Jack)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7YJzu-AX-wDVTlKOFm51QEGLfMntYlheKA&s",
+        "namaAktor": "Malih",
+        "karakter": "(Marbun)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxxMS0O6XeypdAZcxWgDMQsluUBybrGvwgA&s",
+        "namaAktor": "Fajar Nugra",
+        "karakter": "(Sanip)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9gBo9OrGeWoHTvmnBRvSlH6g6uGzq6ddig&s",
+        "namaAktor": "Ence Bagus",
+        "karakter": "(Susilo)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Sabar Bokir",
+        "karakter": "(Hansip)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Oce Permatasari",
+        "karakter": "(Nyak Sopiah)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNWMn_Pu6szEYsWUr2u3ezdt-Ql-Je5ypLQ&s",
+        "namaAktor": "Volland Humonggio",
+        "karakter": "(Jefri)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX7rhYRkYuVX4G1QkYvajQCydhZkFwu0bVw&usqp=CAU&&",
+        "namaAktor": "Chacha Marisa",
+        "karakter": "(Markoneng)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Adam Jackson",
+        "karakter": "(Ustadz Udin)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Diky Otoy",
+        "karakter": "(Hengky)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Sujad Samiaji",
+        "karakter": "(Pengunjung)"
+},
+]
+                
+            },
+            
+            
+"waktumaghrib": {
+                "title": "Waktu Maghrib",
+                "terjemah": "Episode 1",
+                "rating": "5.9",
+                "studio": "Rapi Films",
+                "rilis": "9 Februari 2023",
+                "gendre1": "Horror",
+                "gendre2": "Misteri",
+                "gendre3": "Thriller",
+                "description": "Adi, Saman, dan Ayu tinggal di Desa Jatijajar, sebuah desa terpencil di Jawa Tengah. Karena harus membantu keluarga mereka di ladang, Adi dan Saman sering terlambat masuk sekolah. Akibatnya, keduanya sering dihukum oleh Bu Woro, guru mereka yang disiplin dan galak. Suatu hari, kekesalan Adi dan Saman terhadap Bu Woro memuncak. Mereka menyumpahi Bu Woro, bahkan berharap agar guru itu mati saja. Sumpah ini terucap bersamaan dengan berkumandangnya adzan Maghrib. Tak lama sesudahnya, Bu Woro meninggal secara mengenaskan.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/220px-Poster_Waktu_Maghrib.jpg",
+                "trailer": "https://www.youtube.com/embed/0YNXK2AfISo?si=8F_hjgYo2vnr4UK2",
+                "duration": "1 jam 44m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Waktu Maghrib",
+"description": "Adi, Saman, dan Ayu tinggal di Desa Jatijajar, sebuah desa terpencil di Jawa Tengah. Karena harus membantu keluarga mereka di ladang, Adi dan Saman sering terlambat masuk sekolah. Akibatnya, keduanya sering dihukum oleh Bu Woro, guru mereka yang disiplin dan galak. Suatu hari, kekesalan Adi dan Saman terhadap Bu Woro memuncak. Mereka menyumpahi Bu Woro, bahkan berharap agar guru itu mati saja. Sumpah ini terucap bersamaan dengan berkumandangnya adzan Maghrib. Tak lama sesudahnya, Bu Woro meninggal secara mengenaskan.",
+       "episodeUrl": "https://drive.google.com/file/d/1A8JbQ4l0qwSUbnzAOe3yda9F2vkUhMIr/preview",
+
+                    
+       }
+        ],
+"aktor": [
+        {
+                "image aktor": "https://cdn.idntimes.com/content-images/community/2024/02/mixcollage-02-feb-2024-02-29-pm-9649-823de747b296349351d8e33efe78ad90-1f5dd748ae91f24bba3f95eeeba9f598_600x400.jpg",
+                "namaAktor": "Ali Fikry",
+                "karakter": "(Adi)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Bima Sena",
+                "karakter": "(Saman Abdullah)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Nafiza Fatia Rani",
+                "karakter": "(Ayu)",
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEt1X3TkDU_FS5zYoHNLZd9CsT97T5BFncdIFUpPExLsIQAuXv2E91&s=0",
+                "namaAktor": "Andri Mashadi",
+                "karakter": "(Karta)",
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QsBgQUuub4l5-u6HABVW5M-r8V9j4xcqAA2Ny_57Iy_JEPJXzdBu&s=0",
+                "namaAktor": "Aulia Sarah",
+                "karakter": "(Sri Woro Hadisono)",
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFG_SINuzBe6RzRH8Na4_q2adPlSB0GITDeJ8VymoLeOp-j6l3J8sIwA&s=10",
+                "namaAktor": "Taskya Namya",
+                "karakter": "(Ningsih)",
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3tkWlKpJeYtnbSt4odKu0Z36uc-TaXrzFIZBve4&s=10",
+                "namaAktor": "Sadana Agung",
+                "karakter": "(Hansip)",
+        },
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHRMR4iD8hZyf6-eXIGe0nW_cPg5BgxwzEiQf6uIEZrbUR94TBd0phrw&s=10",
+                "namaAktor": "Muhammad Abbe",
+                "karakter": "(Lurah)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Sulis Kusuma",
+                "karakter": "(Bu Lurah)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Nasarius",
+                "karakter": "(Marto / Bapak Ayu)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Bambang Paningron",
+                "karakter": "(Ustadz)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Bebe Gracia",
+                "karakter": "(Wati)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Kevin Abani",
+                "karakter": "(Samiun)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Malvin JJ",
+                "karakter": "(Karta kecil)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Riyanto",
+                "karakter": "(Kasan / Bapak Adi)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Heru Prasetyo",
+                "karakter": "(Jin Ummu)",
+        },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Bevan Putra",
+                "karakter": "(Drajat)",
+        },
+
+] 
+            },
+            "comic81-2": {
+                "title": "Comic 8",
+                                "terjemah": "Season 1 & 2",
+                "rating": "6.8",
+                "studio": "Falcon Pictures",
+                "rilis": "29 Januari 2014",
+                "gendre1": "Action",
+                "gendre2": "Comedy",
+                "gendre3": "Crime",
+                "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/ac/Comic_8.jpg/220px-Comic_8.jpg",
+                "trailer": "https://www.youtube.com/embed/3DSldkw35n4?si=ZrbINh-Aqr5s2sus",
+                "duration": "3 jam 17m",
+"episodes": [
+        {
+       "episodeTitle": "Season 2", 
+              "episodeJudul": "Comic 8 Season 2",
+                "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
+       "episodeUrl": "https://acefile.co/player/94598641/",
+       
+            },
+            {
+                "episodeTitle": "Season 1", 
+                       "episodeJudul": "Comic 8 Season 1",
+                         "episodeUrl": "https://acefile.co/player/94591251/",
+                "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
+                
+                     },
+    
+        ],
+                
+ },
+            
+};
+
+        // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
+        const urlParams = new URLSearchParams(window.location.search);
+        const animation = urlParams.get("animation");
+
+        // Mengatur konten detail animasi berdasarkan animasi yang dipilih
+        if (animation && data.hasOwnProperty(animation)) {
+                
+            const trailerIframe = document.getElementById("trailer");
+            const detailContainer = document.getElementById("detailContainer");
+            const titleElement = document.getElementById("title");
+            const terjemahElement = document.getElementById("terjemah");
+            const rilisElement = document.getElementById("rilis");
+            const durationElement = document.getElementById("duration");
+            const ratingElement = document.getElementById("rating");
+            
+const studioElement = document.getElementById("studio");
+const imgElement = document.getElementById("bgimg");
+
+const descriptionElement = document.getElementById("description");
+const episodeContainer = document.getElementById("episodeContainer");
+
+const gendre1Element = document.getElementById("g1");
+const gendre2Element = document.getElementById("g2");
+const gendre3Element = document.getElementById("g3");
+
+
+// Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
+// Mengatur konten detail animasi berdasarkan animasi yang dipilih
+
+    
+
+    // Mengambil data episode dari objek data
+    const episodes = data[animation].episodes;
+
+    // Membuat tombol episode untuk setiap episode
+    
+    //episodes.forEach((episode) => {
+      //  const episodeButton = document.createElement("button");
+        
+      //  episodeButton.textContent = episode.episodeTitle;
+       // episodeButton.addEventListener("click", function() {
+//window.location.href = episode.episodeUrl;
+      //  });
+     //   episodeContainer.appendChild(episodeButton);
+        
+  //  });//*
+
+
+episodes.forEach((episode) => {
+  const episodeButton = document.createElement("button");
+  const iconElement = document.createElement("span");
+  iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
+iconElement.style.fontSize = "30px";
+
+
+  episodeButton.textContent = episode.episodeTitle;
+ // episodeButton.addEventListener("click", function() {
+   // window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);
+   episodeButton.addEventListener("click", function() {
+  const episodeUrl = encodeURIComponent(episode.episodeUrl);
+  const episodeJudul = encodeURIComponent(episode.episodeJudul);
+  const description = encodeURIComponent(episode.description);
+  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}`;
+});
+//  });
+
+  episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+  episodeContainer.appendChild(episodeButton);
+});
+            
+           // const watchButton = document.getElementById("watchButton");
+
+durationElement.textContent = data[animation].duration;
+            titleElement.textContent = data[animation].title;
+            imgElement.src = data[animation].bgimg;
+                        rilisElement.textContent = data[animation].rilis;
+            ratingElement.textContent = data[animation].rating;
+            studioElement.textContent = data[animation].studio;
+            terjemahElement.textContent = data[animation].terjemah;
+            descriptionElement.innerHTML = data[animation].description;
+gendre1Element.innerHTML = data[animation].gendre1;
+gendre2Element.innerHTML = data[animation].gendre2;
+gendre3Element.innerHTML = data[animation].gendre3;
+trailerIframe.src = data[animation].trailer;
+
+
+            
+       
+        
+// Memeriksa apakah animasi yang dipilih memiliki data aktor
+}
+// Ambil data dari JSON
+
+
+if (data.hasOwnProperty(animation)) {
+  // Menampilkan data aktor jika tersedia
+  displayActors(data[animation]);
+}
+
+// Inisialisasi variabel untuk memeriksa apakah ada data aktor
+function displayActors(film) {
+  const aktorContainer = document.getElementById("aktorContainer");
+  const aktorTitle = document.getElementById("aktorTitle");
+  const moviesContainer = document.getElementById("moviesContainer");
+
+  let isAktorExist = false;
+
+  // Cek apakah film memiliki properti "aktor"
+  if (film.hasOwnProperty("aktor")) {
+    aktorContainer.innerHTML = '';
+
+    film.aktor.forEach(actor => {
+      isAktorExist = true;
+
+      // Membuat elemen div untuk setiap aktor
+      const aktorDiv = document.createElement("div");
+      aktorDiv.classList.add("aktor-box");
+
+      // Membuat elemen gambar untuk setiap aktor
+      const img = document.createElement("img");
+      img.src = actor["image aktor"];
+      img.alt = actor.namaAktor;
+      aktorDiv.appendChild(img);
+
+      // Membuat elemen div untuk nama aktor
+      const namaAktorDiv = document.createElement("div");
+      namaAktorDiv.classList.add("aktor-name");
+      aktorDiv.appendChild(namaAktorDiv);
+
+      // Membuat elemen untuk nama aktor
+      const namaAktor = document.createElement("h1");
+      namaAktor.innerHTML = actor.namaAktor;
+      namaAktorDiv.appendChild(namaAktor);
+
+      // Membuat elemen untuk karakter aktor
+      const karakter = document.createElement("span");
+      karakter.textContent = actor.karakter;
+      namaAktorDiv.appendChild(karakter);
+
+      // Menambahkan div aktor ke dalam kontainer aktor
+      aktorContainer.appendChild(aktorDiv);
+    });
+  }
+
+  // Sembunyikan judul "Aktor", kontainer aktor, dan kontainer film jika tidak ada data aktor
+  if (!isAktorExist) {
+    aktorContainer.style.display = "none";
+    moviesContainer.style.display = "none";
+  }
+
+  aktorTitle.textContent = isAktorExist ? "Aktor" : "";
+}

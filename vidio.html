@@ -1,0 +1,36 @@
+Maaf atas kebingungan sebelumnya. Berikut adalah contoh kode untuk file vidio.html:
+ 
+ 
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+   <title>Video Player</title>
+   <!-- Custom Styles -->
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <h1 style="color: white;"id="episodeTitle"></h1>
+   <iframe id="videoPlayer" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%" allowfullscreen="true"></iframe>
+   <script src="main.js"></script>
+   <script>
+      // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
+      const urlParams = new URLSearchParams(window.location.search);
+      const episodeUrl = decodeURIComponent(urlParams.get("episodeUrl"));
+      const episodeTitle = decodeURIComponent(urlParams.get("episodeTitle"));
+
+      // Mengatur judul episode
+      document.getElementById("episodeTitle").textContent = episodeTitle;
+
+      // Mengatur sumber iframe berdasarkan episode yang dipilih
+      document.getElementById("videoPlayer").src = episodeUrl;
+   </script>
+</body>
+</html>

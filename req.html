@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+  <title>Cartoonn</title>
+  
+  <!-- HTML -->
+  <style>
+ .search-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+   flex-direction: column;
+   margin-top: 30px;
+   margin-left: 20px;
+    border-radius: 0px;
+    gap: 10px;
+    
+  }
+
+  .search-icon {
+    
+    font-size: 45px;
+    color: #FFC000;
+    margin-right: 10px;
+  }
+
+  .search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: #2A2A2AAB; 
+    color: white;
+    padding: 13px 20px;
+    
+    border-radius: 10px 10px 10px 0px;
+    font-size: 16px;
+  }
+    .search-input-saran{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: #2A2A2AAB; 
+    color: white;
+    padding: 30px 40px;
+    
+    border-radius: 10px 10px 10px 0px;
+    font-size: 16px;
+  }
+  </style>
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<header>
+                <div class="header_app">
+                <div class="header_logo">
+                <img src="asset/cplus_logo.png">
+                </div>
+
+        </div>
+</header>
+<body>
+        <section style=" width: 95%; height: 80px;  display: flex; flex-direction: column; margin-top: 90px;">
+                        <div class="header-movies-text">
+                <h1 style="margin-left: 20px;">Lapor Bug / Saran Animasi</h1>
+        </div>
+
+          <form action="https://formspree.io/f/mwkdppzl"   method="POST">
+                <div class="search-wrapper">
+
+               <input type="email" name="email" class="search-input" placeholder="Email (Tidak Wajib)">
+<input type="text" name="dari" required data-form-input class="search-input" placeholder="Nama">
+            <textarea name="laporan" class="form-input" placeholder="Tulis saran / lapor bug" required data-form-input></textarea>
+                </div>
+      <div class="button-nonton">
+         <button style="width: 70%;" href="index.html" type="sumbit"  ><span style="transform: rotate(310deg); font-size: 25px;" class="mdi mdi-send-variant"></span>Kirim</button>
+        
+      </div>
+
+</form>
+</div>
+<div style="text-align: center ; margin-top: 70px;" class="header-movies-text">
+         <button class="buttongoweb" onclick="goToWebsite('https://www.tiktok.com/@januaradhin')"><h1 style="font-size: 15px; color: #CCCCCCBA;">@januaradhin</h1></button>
+        </div>
+
+        </section>
+
+<script src="main.js"></script>
+<script src="data_play_video.js"></script>
+</script>
+</body>
+
+
+
+
+</html>

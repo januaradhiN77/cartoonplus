@@ -1,0 +1,111 @@
+Maaf atas kebingungan sebelumnya. Jika Anda ingin menampilkan data judul, deskripsi, dan episode pada tampilan video iframe, Anda perlu memperbarui kode JavaScript dalam file video_testing.html. Berikut adalah contoh kode yang diperbarui:
+ 
+ 
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+   <title>Video Testing</title>
+   <!-- Custom Styles -->
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div id="detailContainer">
+      <h1 id="title"></h1>
+      <h2 id="terjemah"></h2>
+      <p id="rating"></p>
+      <p id="studio"></p>
+      <p id="rilis"></p>
+      <img id="bgimg" src="" alt="Background Image">
+      <div id="description"></div>
+      <div id="episodeContainer"></div>
+   </div>
+   <iframe id="videoPlayer" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%" allowfullscreen="true"></iframe>
+   <script src="main.js"></script>
+   <script src="data_video.js"></script>
+   <script>
+      // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
+      const urlParams = new URLSearchParams(window.location.search);
+      const episodeUrl = urlParams.get("episodeUrl");
+      const episodeTitle = urlParams.get("episodeTitle");
+
+      // Mengambil data episode dari objek data
+      const episodeData = data.bos.episodes.find(episode => episode.episodeTitle === episodeTitle);
+
+      if (episodeData) {
+         // Mengatur judul episode
+         document.getElementById("title").textContent = episodeData.episodeTitle;
+
+         // Mengatur deskripsi episode
+         const descriptionElement = document.getElementById("description");
+         const descriptionParagraphs = data.bos.description.split("<br><br>");
+         descriptionParagraphs.forEach(paragraph => {
+            const p = document.createElement("p");
+            p.innerHTML = paragraph;
+            descriptionElement.appendChild(p);
+         });
+
+         // Mengatur sumber iframe berdasarkan episode yang dipilih
+         document.getElementById("videoPlayer").src = episodeUrl;
+      }
+
+      // Mengatur konten detail animasi berdasarkan animasi yang dipilih
+      const animation = urlParams.get("animation");
+      if (animation && data.hasOwnProperty(animation)) {
+         const animationData = data[animation];
+
+         // Mengatur judul animasi
+         document.getElementById("title").textContent = animationData.title;
+
+         // Mengatur terjemahan animasi
+         document.getElementById("terjemah").textContent = animationData.terjemah;
+
+         // Mengatur rating animasi
+         document.getElementById("rating").textContent = `Rating: ${animationData.rating}`;
+
+         // Mengatur studio animasi
+         document.getElementById("studio").textContent = `Studio: ${animationData.studio}`;
+
+         // Mengatur tanggal rilis animasi
+         document.getElementById("rilis").textContent = `Rilis: ${animationData.rilis}`;
+
+         // Mengatur gambar latar belakang animasi
+         document.getElementById("bgimg").src = animationData.bgimg;
+
+         // Mengatur deskripsi animasi
+         const descriptionParagraphs = animationData.description.split("<br><br>");
+         descriptionParagraphs.forEach(paragraph => {
+            const p = document.createElement("p");
+            p.innerHTML = paragraph;
+            document.getElementById("description").appendChild(p);
+         });
+
+         // Membuat tombol episode untuk setiap episode
+         animationData.episodes.forEach(episode => {
+            const episodeButton = document.createElement("button");
+            const iconElement = document.createElement("span");
+            iconElement.classList.add("mdi", "mdi-play-circle");
+            iconElement.style.fontSize = "30px";
+            episodeButton.textContent = episode.episodeTitle;
+            episodeButton.addEventListener("click", function() {
+               const episodeUrl = encodeURIComponent(episode.episodeUrl);
+               const episodeTitle = encodeURIComponent(episode.episodeTitle);
+               window.location.href = `vidio.html?episodeUrl=${episodeUrl}&episodeTitle=${episodeTitle}`;
+            });
+            episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+            document.getElementById("episodeContainer").appendChild(episodeButton);
+         });
+      }
+   </script>
+</body>
+</html>
+ 
+ 
+Dalam kode di atas, saya telah men⚫

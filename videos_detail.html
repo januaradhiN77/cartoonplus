@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+  <title>Cartoonn</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<header>
+                <div class="header_app">
+<button class="buttongoweb" onclick="goToWebsite('index.html')"> <div class="header_logo">
+
+<span class="mdi mdi-arrow-left"></span>
+                </div></button>
+
+        </div>
+</header>
+<body>
+        
+<section class="header-image-v">
+                <div class="header-image">
+                <div class="image-videos">
+                        
+                <img id="bgimg" src="">
+                <div class="image-overlay-videos"></div>
+                </div>
+
+        </div>
+</section>
+<section class="cartoon-detail">
+        <div class="cartoon-detail-cont">
+                <h1 id="title"></h1>
+              <div style="display: flex; gap: 6px;  align-items: center;">
+                <span id="terjemah"></span>
+                <span style="color: #FFFFFF9C; font-size: 10px;">•</span>
+<span style="color: #FFFFFFE8;" id="duration"></span>
+
+                </div>
+                <div class="keterangan-videos">
+                        <span class="mdi mdi-star"></span>
+                        <span id="rating" style="color: white;"></span>
+                        <div class="garis"></div>
+                        <span id="studio" style="color: white; font-weight: 300;"></span>
+                        <div class="garis"></div>
+                        <span id="rilis" style="color: white; font-weight: 300;"></span>
+                </div>
+                <div class="genre-v">
+                        <div class="genre-videos">
+                                <h1 id="g1"></h1>
+                        </div>
+                        <div class="genre-videos">
+                                <h1 id="g2"></h1>
+                        </div>
+                        <div class="genre-videos">
+                                <h1 id="g3"></h1>
+                        </div>
+                </div>
+                <div class="sinopsis">
+                        <span id="description"> </span>
+                </div>
+                <h1 style="margin-top: 30px; font-size: 25px;">Official Trailer</h1>
+                <div class="trailer-iframe" style="display:flex;justify-content: center;width:90%;flex-direction: column;margin-top:10px;">
+                        <iframe src="" id="trailer" allowfullscreen frameborder="0" style="width:357px;height:200px;border-radius: 20px;box-shadow:  0 0 6px  #FFFFFF6E;"></iframe>
+                </div>
+
+
+<h1 id="aktorTitle" style="margin-top: 30px; font-size: 33px;"></h1>
+                <div id="moviesContainer" class="movies-container" style="height: auto; width: 363px; background: transparent;margin-top: -20px;">
+
+                        <div class="movies" style="background: transparent;" id="aktorContainer">
+
+
+
+
+
+
+
+
+                                
+                        </div>
+                                
+                        </div>
+
+                
+                <h1 style="margin-top: 30px; font-size: 28px;color: white;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
+                         <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
+
+<span id="episodeTitle"></span>
+
+                </div>
+        </div>
+
+</section>
+<section class="movies-container">
+        <div class="header-movies-text">
+                <h1 style="font-size: 20px;">Ongoing</h1>
+        </div>
+        <div class="movies">
+
+
+
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jujutsukaisenseason2')"><div id="jjtsuk2" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
+                  <img src="https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg">
+                  <div class="image-overlay"></div>
+                  <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Jujutsu Kaisen Season 2</h1></div>
+                </div></button>
+
+
+        </div>
+</section>
+
+<script src="main.js"></script>
+    <script src="data_video.js"></script>
+</body>
+
+</html>

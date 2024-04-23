@@ -1,0 +1,698 @@
+* {
+
+  margin: 0;
+
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+  user-select: none;
+}
+body,
+
+html {
+
+  background: #090909;
+}
+
+@media (max-width: 810px){
+        .header_app{
+
+               position: fixed;
+
+               top: 0;
+               left: 0;
+               width: 100%;
+               height: 60px;
+               display: flex;
+               border-bottom: 1px #000000A3 solid;
+               z-index: 999999;
+               background-color: #171C28C4;
+               backdrop-filter: blur(7px);
+        }
+        .header_logo{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width:100%;
+                
+        }
+        .header_logo img{
+               width: 60px;
+               
+        }
+        .header_logo span{
+                color: white;
+                margin-right: auto;
+                font-size: 40px;
+                margin-left: 15px;
+        }
+
+.banner-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+}
+.banner-img img{
+        width: 100%;
+}
+.movies-container{
+
+
+
+  margin: 0 0px 0 0px;
+  margin-top: 30px;
+  height: 300px;
+  background: #090909;
+  border-radius: 20px;
+  width: 100%;
+  margin-left: 0px;
+
+}
+.movies{
+
+  display: flex;
+  margin-top: 15px;
+  overflow: auto;
+  flex-direction: row;
+  scroll-behavior: smooth;
+  padding-left: 0px;
+}
+ .movies-box{
+  margin: auto;
+  width:140px;
+  display: flex;
+  flex-direction: column;
+  height: 235px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background: transparent;
+  margin-right: 7px;
+  padding: 0 -50px;
+  margin-left: 7px; 
+  
+}
+
+.movies-box img{
+  width: 140px;
+  margin-top: 0px;
+  height: 210px;
+  border-radius: 10px;
+  z-index: 2;
+  object-fit: cover;
+}
+.header-movies-text{
+        color: white;
+        
+        margin-left: 7px;
+        
+        font-size: 20px;
+display: flex;
+        
+        align-items: center;
+}
+.header-movies-text h1{
+        font-family: 'Zen Maru Gothic';
+        
+}
+.image-overlay{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+}
+.image-overlay-videos{
+
+    position: absolute;
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(9, 9, 9, 1), rgba(0, 0, 0, 0));
+}
+.judul-movies{
+        color: white;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        width: 100%;
+        justify-content: left;
+        margin-top: 8px;
+
+}
+.judul-movies h1{
+        font-family: 'Barlow Condensed';
+        font-weight: 500;
+        font-size: 17px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+}
+.skeleton {
+
+    position: relative;
+
+}
+.skeleton::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    border-radius: 10px;
+    background: linear-gradient(to right, #090909, rgba(205, 205, 205, 1), #090909);
+  animation: skeleton 1.5s linear infinite;
+    background-size: 200%;
+    
+}
+@keyframes skeleton {
+    0% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: -100% 0;
+    }
+}
+
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transition: background-color 0.3s ease;
+  border-radius: 1px;
+}
+
+.overlay.active {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.genre-container{
+
+
+
+
+
+  margin: 0 0px 0 0px;
+  margin-top: 20px;
+  height: 150px;
+  background: #0000009E;
+  border-radius: 20px;
+  width: 100%;
+  margin-left: 0px;
+
+}
+.genre{
+
+  display: flex;
+  margin-top: 15px;
+  overflow: auto;
+  flex-direction: row;
+  scroll-behavior: smooth;
+  padding-left: 0px;
+}
+ .genre-box{
+  margin: auto;
+  width:auto;
+  display: flex;
+  flex-direction: column;
+  height: 35px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 0px;
+  background: #171C28;
+  color: #FFCA5A;
+  margin-right: 7px;
+  padding: 0 30px;
+  
+  margin-left: 7px; 
+  
+
+}
+.genre-box h1{
+        font-family: 'Zen Maru Gothic';
+        font-size: 18px;
+        font-weight: 700;
+}
+.ig-dn{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        color: white;
+        gap: 1rem;
+}
+.ig-dn h1{
+        
+
+  width:180px;
+
+  display: flex;
+  
+  height: 35px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 10px;
+  background: #171C28;
+  color: #FFCA5A;
+  
+}
+.ig-dn h1{
+        font-family: 'Zen Maru Gothic';
+
+        font-size: 18px;
+
+        font-weight: 700;
+}
+.buttongoweb{
+
+  background-color: transparent;
+
+  border: 0px solid transparent; /* Atur warna dan ukuran garis sesuai kebutuhan */
+  color: transparent; /* Atur warna teks sesuai kebutuhan */
+  padding: 0px 0px; /* Atur ukuran padding sesuai kebutuhan */
+  text-align: left;
+  margin: 0;
+  border-radius: 5px; /* Atur radius border sesuai kebutuhan */
+}
+        .header-image-v{
+
+
+
+               position: fixed;
+
+               top: 0;
+               left: 0;
+               width: 100%;
+               
+               
+               
+               
+        }
+        .image-videos{
+                
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width:100%;
+                height: 430px;
+                position: relative;
+                flex-direction: column;
+                margin-top: 0px;
+                z-index: 99
+        }
+        .image-videos img{
+               width: 100%;
+               object-fit: cover;
+               height: 430px;
+        }
+        .cartoon-detail{
+                display: flex;
+                flex-direction: column;
+           
+             
+        }
+        .cartoon-detail-cont{
+                color: white;
+                width: 90%;
+                     z-index: 99;
+                margin-top: 430px;
+                margin-left:15px;
+                
+        }
+        .cartoon-detail-cont h1{
+                font-family: 'Zen Maru Gothic';
+                font-size: 35px;
+                display: -webkit-box;
+
+        -webkit-box-orient: vertical;
+
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        }
+        .cartoon-detail-cont span{
+                color: #FFC759;
+                font-size: 19px;
+                font-family: 'Inter';
+        }
+        .keterangan-videos{
+                display: flex;
+                margin-top: 20px;
+                
+                align-items: center ;
+                gap: 10px;
+        }
+        .keterangan-videos span{
+                color: #FFE466;
+        }
+        .garis{
+                width: 1px;
+                background: #FFFFFFA3;
+                height: 20px;
+        }
+        .genre-v{
+                display: flex;
+                flex-wrap: wrap;
+        
+        
+        margin-top: 20px;
+        color: white;
+        gap: 1rem;
+        }
+        .genre-videos h1{
+                width:auto;
+
+  display: flex;
+  padding: 0px 20px;
+  height: 35px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 0px;
+  background: #171C28;
+  font-family: 'Zen Maru Gothic';
+
+
+
+        font-size: 18px;
+
+        font-weight: 700;
+  color: #FFCA5A;
+        }
+        .sinopsis{
+                margin-top: 20px;
+                color: white;
+                
+        }
+        .sinopsis-vplayer{
+                margin-top: 40px;
+                display: flex;
+                flex-direction: column;
+        }
+                .sinopsis-vplayer span{
+
+                font-family: 'Inter';
+
+                letter-spacing: 0.20px;
+                color: white;
+                font-size: 17px;
+        }
+        .sinopsis-vplayer h1 {
+                font-family: 'Zen Maru Gothic';
+                font-size: 35px;
+        }
+        .sinopsis span{
+                font-family: 'Inter';
+                letter-spacing: 0.20px;
+                color: white;
+                font-size: 17px;
+        }
+        .button-nonton{
+
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        width: 102%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5px;
+        text-align: center;
+        
+        
+}
+
+.button-nonton button{
+        
+background-color: transparent;
+
+
+
+  border: 0px solid transparent; /* Atur warna dan ukuran garis sesuai kebutuhan */
+  color: transparent; /* Atur warna teks sesuai kebutuhan */
+  padding: 0px 0px; /* Atur ukuran padding sesuai kebutuhan */
+  text-align: left;
+  margin: 0;
+  border-radius: 5px; /* Atur radius border sesuai kebutuhan */
+  width:100%;
+
+  display: flex;
+  gap: 10px;
+  height: 60px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 10px;
+  background: #171C28;
+  color: #FFCA5A;
+  
+}
+.button-nonton button{
+        font-family: 'Zen Maru Gothic';
+
+        font-size: 25px;
+
+        font-weight: 700;
+}
+.video-controller{
+       display: flex;
+       position: fixed;
+       width: 100%;
+       flex-direction: column;
+       top: 0;
+       height: 250px;
+       background: #090909;
+       left: 0;
+       z-index: 999;
+       margin-top: 30px;
+}
+.video-controller iframe{
+        width: 100%;
+        height: 250px;
+}
+
+.judul-v-fr{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        margin-left: 15px;
+        
+        margin-top: 20px;
+}
+.judul-v-fr h1{
+        font-family: 'Barlow Condensed';
+        font-size: 35px;
+        letter-spacing: 1px;
+}
+.judul-v-fr span{
+        margin-top: 5px;
+        font-size: 20px;
+}
+.sinopsis h1{
+        font-family: 'Zen Maru Gothic';
+        font-size: 35px;
+}
+.judul-vr{
+        margin-top: 270px;
+        display: flex;
+        flex-direction: column;
+}
+.search-container{
+        justify-content: left; display: flex; flex-wrap: wrap;
+        
+}
+.container.active{
+        display: flex;
+        flex-wrap: wrap;
+       
+}
+.container{
+        width: 100%; height: auto; justify-content: left; gap: 20px; margin-top: 130px;display:none;
+}
+.button.active {
+        background-color: #FFB10FFA;
+        color: white;
+        border-radius: 10px 10px 0px 0px;
+}
+.search-list{
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  background: white;
+  margin-top: 0px;
+  height: 50px;
+}
+.search{
+
+   display: flex;
+
+   justify-content: center;
+   align-items: center;
+   color: white;
+width: 340px;
+
+   height: 40px;
+
+   text-align: center;
+   background: #2A2A2AAB;
+   font-size: 15px;
+   box-shadow: rgba(64, 60, 67, 0.3) 0px 1px 2px 0px, rgba(64, 60, 67, 0.15) 0px 0px 2px 0px;
+   margin-top: 20px;
+   border-radius: 10px 10px 10px 0px;
+   border: 0px solid;
+   text: #FFFFFF;
+   
+}
+
+.search:hover{
+   border: 0px solid transparent;
+}
+
+.form-input {
+  color: var(--white-2);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-400);
+  padding: 13px 20px;
+  border: 1px solid var(--jet);
+  border-radius: 14px;
+  outline: none;
+  background: #2A2A2AAB; 
+  color: white;
+}
+
+.form-input::placeholder { font-weight: var(--fw-500); }
+
+.form-input:focus { border-color: var(--orange-yellow-crayola); }
+
+textarea.form-input {
+  min-height: 100px;
+  height: 120px;
+  max-height: 200px;
+  resize: vertical;
+  margin-bottom: 25px;
+}
+
+textarea.form-input::-webkit-resizer { display: none; }
+
+.button{
+
+        margin: auto;
+
+
+  width:auto;
+
+  display: flex;
+  flex-direction: column;
+  border: none;
+  height: 35px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #60606052;
+  color: #FFFFFF;
+  z-index: 9999;
+  
+  margin-right: 0px;
+  padding: 0 20px;
+
+  margin-left: 0px; 
+  
+}
+.button h1{
+        font-family: 'Zen Maru Gothic';
+}
+.aktor-box{
+
+  margin: auto;
+
+  width:270px;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-right: 15px;
+  padding: 0 -5px;
+  margin-left: 15px; 
+  
+}
+
+.aktor-box img{
+  width: 120px;
+  margin-top: 0px;
+  height: 120px;
+  border-radius: 50%;
+  z-index: 2;
+  box-shadow:  0 0 6px  #FFFFFF6E;
+  object-fit: cover;
+}
+.aktor-name h1{
+        font-size: 25px;
+        display: -webkit-box;
+
+        -webkit-box-orient: vertical;
+        text-align: center;
+
+        -webkit-line-clamp: 1;
+        
+        overflow: hidden;
+        
+        
+}
+.aktor-name{
+        display: flex;
+       flex-direction: column;
+       margin-top: 10px;
+       width: 150px;
+       justify-content: center;
+       align-items: center;
+}
+.aktor-name span{
+        text-align: center;
+        color: white;
+}
+.lainnya{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 300px;
+}
+.lainnya-box{
+        display: flex;
+       
+        color: white;
+        gap: 280px;
+        margin-right: auto;
+        margin-left: 15px;
+        font-size: 23px;
+}
+
+.lainnya-box p{
+
+}
+}
