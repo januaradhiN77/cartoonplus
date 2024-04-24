@@ -20,10 +20,7 @@ function removeOverlay(event) {
 
 
 
-function goToWebsite(websiteURL) {
-      //window.location.href = websiteURL;
-      alert("Oops! Terjadi kesalahan pada server.");
-    }
+
 function goToError(websiteURL) {
       //window.location.href = websiteURL;
       alert("Fitur segera hadir!");
@@ -69,6 +66,6 @@ function tampilkanSection(id) {
   });
 }
 function goToWebsite(websiteURL) {
-      window.location.href = websiteURL;
-      //alert("Oops! Terjadi kesalahan. 4000");
+      //window.location.href = websiteURL;
+alert("Oops! Terjadi kesalahan pada server. 4000");
     }
