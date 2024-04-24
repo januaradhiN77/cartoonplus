@@ -3127,6 +3127,94 @@
         ],
                 
  },
+ "onepieceliveaction": {
+                "title": "OnePiece Live Action",
+                "terjemah": "Episode 1-8",
+                "rating": "8.4",
+                "studio": "Kaji Productions",
+                "rilis": "31 Agustus 2023",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Fantasy",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "bgimg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFlWNoHwZtCcgtIK4E-e0TBQDq19ObmzcQv4ofFbk74zXhPKod8-SiKIDQCBBmS8vsnbzzSxrDt2DruJOCO958f3nrRvAyeQLPfI6N0qH1PvTU4gUJ8m4Yvsfi4e-OJFdrs7KOw98cSjTi6HpVRh0E6LOm1L0gHaS-vN0I3Hyk663WMU0dPCeBaRbPdHI/w600/One-Piece-Live-Action-Cover.jpg",
+                "trailer": "https://www.youtube.com/embed/Ades3pQbeh8?si=cex6vKdV_6sjeSqb",
+                "duration": "8 jam 00m",
+"episodes": [
+        {
+       "episodeTitle": "Episode 8", 
+       "episodeJudul": "OnePiece Live Action (EP 8)",
+"description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+       "episodeUrl": "https://acefile.co/player/100465992",
+
+                    
+       },
+        {
+                "episodeTitle": "Episode 7",
+                "episodeJudul": "OnePiece Live Action (EP 7)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100465648",
+
+
+        },
+        {
+                "episodeTitle": "Episode 6",
+                "episodeJudul": "OnePiece Live Action (EP 6)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100466242",
+
+
+        },
+        {
+                "episodeTitle": "Episode 5",
+                "episodeJudul": "OnePiece Live Action (EP 5)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100455719",
+
+
+        },
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "OnePiece Live Action (EP 4)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100455485",
+
+
+        },
+        {
+                "episodeTitle": "Episode 3",
+                "episodeJudul": "OnePiece Live Action (EP 3)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100455297",
+
+
+        },
+        {
+                "episodeTitle": "Episode 2",
+                "episodeJudul": "OnePiece Live Action (EP 2)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100458309",
+
+
+        },
+        {
+                "episodeTitle": "Episode 1",
+                "episodeJudul": "OnePiece Live Action (EP 1)",
+                "description": "Hampir tidak bisa bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di kapal yang diserang oleh bajak laut yang menakutkan. Meski terlihat remaja yang naif, ia tidak bisa dianggap remeh. Tak tertandingi dalam pertempuran, Luffy sendiri adalah seorang bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.<br><br>Almarhum Raja Bajak Laut, Gol D. Roger, menggemparkan dunia sebelum kematiannya dengan mengungkapkan keberadaan timbunan kekayaannya dan menantang semua orang untuk mendapatkannya. Sejak saat itu, tak terhitung banyaknya bajak laut kuat yang mengarungi lautan berbahaya demi One Piece yang berharga, namun tidak pernah kembali. Meskipun Luffy kekurangan kru dan kapal yang layak, dia diberkahi dengan kemampuan manusia super dan semangat yang tidak dapat dipatahkan yang membuatnya tidak hanya menjadi musuh yang tangguh tetapi juga menjadi inspirasi bagi banyak orang.",
+                "episodeUrl": "https://acefile.co/player/100454082",
+
+
+        },
+
+
+
+
+
+
+
+        ],
+                
+            },
             
 };
 
