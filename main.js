@@ -67,7 +67,7 @@ function tampilkanSection(id) {
 }
 function goToWebsite(websiteURL) {
       //window.location.href = websiteURL;
-alert("Oops! Terjadi kesalahan pada server. 4000");
+alert("Server sedang menyiapkan data, mohon menunggu.");
     }
 function goToLink(websiteURL) {
       window.location.href = websiteURL;
