@@ -22,7 +22,7 @@ function removeOverlay(event) {
 
 function goToWebsite(websiteURL) {
       //window.location.href = websiteURL;
-      alert("Oops! Terjadi kesalahan pada server. 4000");
+      alert("Oops! Terjadi kesalahan pada server.");
     }
 function goToError(websiteURL) {
       //window.location.href = websiteURL;
