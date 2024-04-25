@@ -699,7 +699,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   overflow: hidden;
   width: 100%;
   position: relative;
- 
+
 }
 
 .slides {
@@ -712,6 +712,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   height: auto;
   transition: transform 0.5s ease;
   border-radius: 20px;
-  box-shadow:  0 0 1px  #FFFFFF;
+  
+  object-fit: cover;
 }
 }
