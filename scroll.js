@@ -58,6 +58,6 @@ slides.forEach((slide) => {
   slide.addEventListener('touchmove', handleTouchMove);
 });
 
-setInterval(nextSlide, 9000); // Geser otomatis setiap 3 detik (ganti 3000 sesuai dengan kebutuhan)
+setInterval(nextSlide, 5000); // Geser otomatis setiap 3 detik (ganti 3000 sesuai dengan kebutuhan)
 
 showSlides();
