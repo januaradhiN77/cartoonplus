@@ -704,7 +704,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .slides {
   display: flex;
-  
+  width: 100%;
 }
 
 .slides img {
