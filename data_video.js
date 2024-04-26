@@ -3216,6 +3216,127 @@
                 
             },
             
+"siksaneraka": {
+                "title": "Siksa Neraka",
+                "terjemah": "Episode 1",
+                "rating": "5.0",
+                "studio": "Dee Company",
+                "rilis": "14 Desember 2023",
+                "gendre1": "Horror",
+                "gendre2": "Film jagal",
+                "gendre3": "Cerita seru",
+                "description": "Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/8/89/Poster_Siksa_Neraka_%28film%29.jpg",
+                "trailer": "https://www.youtube.com/embed/0bmvYIV97js",
+                "duration": "1 jam 38m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Siksa Neraka",
+"description": "Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.",
+       "episodeUrl": "https://acefile.co/player/104797253/siksa-neraka-mp4",
+
+                    
+       }
+        ],
+"aktor": [
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ratu_Sofya_in_2022.png/440px-Ratu_Sofya_in_2022.png",
+                "namaAktor": "Ratu Sofya",
+                "karakter": "(Tyas)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OUVqCbZcGn3Xz2JviDgkUtaxdB3V9rTLaA&s",
+                "namaAktor": "Kiesha Alvaro",
+                "karakter": "(Fajar)"
+        },
+
+        {
+                "image aktor": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ariyo_Wahab_Pic.jpg",
+                "namaAktor": "Aryo Wahab",
+                "karakter": "(Syakir)"
+        },
+        
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoXioNlfC8horAbylZCkFI-_jyuNwdHyFNQ&s",
+                "namaAktor": "Nayla D. Purnama",
+                "karakter": "(Azizah)"
+        },
+        
+
+        {
+                "image aktor": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/09/01/1468277/540x270/main-di-love-story-the-series-ini-4-potret-rizky-fachrel-saat-main-bola.png",
+                "namaAktor": "Rizky Fachrel",
+                "karakter": "(Saleh)"
+        },
+        
+
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOHwh4SkV2k_k0zFB-N0zGTbnkdKbU_0w6w&s",
+                "namaAktor": "Astri Nurdin",
+                "karakter": "(Ibu Rika)"
+        },
+        
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qLGHJ16AwgyvHSR6mOZNG4LJmqVAZ854Hw&s",
+                "namaAktor": "Slamet Rahardjo",
+                "karakter": "(Pak Harjo)"
+        },
+        
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapH-nA2PHETvPqlD3bm65v7HHqBOcC9xb2A&s",
+                "namaAktor": "Ingrid Widjanarko",
+                "karakter": "(Mbok Inah)"
+        },
+        
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Joseph Kara",
+                "karakter": "(Pak Haji)"
+        },
+        
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Yassien Omar",
+                "karakter": "(Saleh kecil)"
+        },
+        
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Zidan Zhu",
+                "karakter": "(Fajar kecil)"
+        },
+        
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Kanaya Tsabitah",
+                "karakter": "(Tyas kecil)"
+        },
+        
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Gattleya Zyanyani",
+                "karakter": "(Azizah kecil)"
+        },
+        
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUdgLlH3QjPsSX52XHQPpDs4URQra9gJ_j9g&usqp=CAU",
+                "namaAktor": "Wina Marrino",
+                "karakter": "(Ibu Dini)"
+        },
+        
+
+
+
+
+
+
+]
+                
+            },
+            
+            
+            
 };
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
