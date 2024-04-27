@@ -3218,7 +3218,7 @@
             
 "siksaneraka": {
                 "title": "Siksa Neraka",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.0",
                 "studio": "Dee Company",
                 "rilis": "14 Desember 2023",
