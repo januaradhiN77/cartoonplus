@@ -1105,7 +1105,7 @@
 
 "mariposa": {
         "title": "Mariposa",
-        "terjemah": "Episode 1",
+        "terjemah": "Film Bioskop",
         "rating": "6.7",
         "studio": "Falcon Pictures",
         "rilis": "31 Desember 2020",
@@ -1213,7 +1213,7 @@
 
 "kkndidesapenari": {
                 "title": "KKN di Desa Penari",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.9",
                 "studio": "MD Pictures",
                 "rilis": "30 April 2022",
@@ -1306,7 +1306,7 @@
 
 "duagarisbiru": {
                 "title": "Dua Garis Biru",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "7.8",
                 "studio": "Wahana Kreator",
                 "rilis": "11 Juli 2019",
@@ -1445,7 +1445,7 @@
 
 "panggonanwingit": {
                 "title": "Panggonan Wingit",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "6.5",
                 "studio": "Hitmaker Studios",
                 "rilis": "30 November 2023",
@@ -1558,7 +1558,7 @@
             
 "diambangkematian": {
                 "title": "Di Ambang Kematian",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "6.5",
                 "studio": "MVP Pictures",
                 "rilis": "28 September 2023",
@@ -1641,7 +1641,7 @@
 "kalianpantasmati": {
         "title": "Kalian Pantas Mati",
         "titleaktor": "Aktor",
-        "terjemah": "Episode 1",
+        "terjemah": "Film Bioskop",
         "rating": "5.3",
         "studio": "Paragon Pictures",
         "rilis": "13 Oktober 2022",
@@ -1738,7 +1738,7 @@
    
 "ancika1995": {
         "title": "Ancika: Dia yang Bersamaku 1995 (2024)",
-        "terjemah": "Episode 1",
+        "terjemah": "Film Bioskop",
         "rating": "7.5",
         "studio": "MD Pictures",
         "rilis": "11 Januari 2024",
@@ -1859,7 +1859,7 @@
 },
 "sijjin": {
                 "title": "Sijjin ",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.1",
                 "studio": "Rapi Films",
                 "rilis": "9 November 2023",
@@ -2062,7 +2062,7 @@
             },
 "pamali": {
                 "title": "Pamali (2022)",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.3",
                 "studio": "Lyto Pictures",
                 "rilis": "6 Oktober 2022",
@@ -2293,7 +2293,7 @@
             
 "mangkujiwo2": {
                 "title": "Mangkujiwo 2",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.7",
                 "studio": "MVP Pictures",
                 "rilis": "26 Januari 2023",
@@ -2386,7 +2386,7 @@
             
 "sewudino": {
         "title": "Sewu Dino",
-        "terjemah": "Episode 1",
+        "terjemah": "Film Bioskop",
         "rating": "6.0",
         "studio": "MD Pictures",
         "rilis": "19 April 2023",
@@ -2479,7 +2479,7 @@
 
 "suzzannamalamjumatkliwon": {
                 "title": "Suzzanna: Malam Jumat Kliwon",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.8",
                 "studio": "Soraya Intercine Films",
                 "rilis": "3 Agustus 2023",
@@ -2592,7 +2592,7 @@
             
 "vivajkt48": {
                 "title": "Viva JKT48 (2014)",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "10.0",
                 "studio": "Maxima Pictures",
                 "rilis": "5 Juni 2014",
@@ -2729,7 +2729,7 @@
             
 "iblisdalamkandungan": {
                 "title": "Iblis dalam Kandungan",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "6.4",
                 "studio": "DHF Entertainment",
                 "rilis": "10 Maret 2022",
@@ -2801,7 +2801,7 @@
             },
 "jinqorin": {
                 "title": "Jin Qorin",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.9",
                 "studio": "IDM Film",
                 "rilis": "23 Maret 2023",
@@ -2875,7 +2875,7 @@
             },
 "mumun": {
                 "title": "Mumun (2022)",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.6",
                 "studio": "Dee Company",
                 "rilis": "1 September 2022",
@@ -2985,7 +2985,7 @@
             
 "waktumaghrib": {
                 "title": "Waktu Maghrib",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.9",
                 "studio": "Rapi Films",
                 "rilis": "9 Februari 2023",
