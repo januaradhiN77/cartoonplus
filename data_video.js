@@ -3380,7 +3380,74 @@
                 
             },
             
-            
+"derailments1": {
+                "title": "Derailment (2023)",
+                "terjemah": "Episode 1-30",
+                "rating": "7.8",
+                "studio": "Shen Yang",
+                "type": "HD",
+                "rilis": "14 Desember 2023",
+                "gendre1": "K-Drama",
+                "gendre2": "Romance",
+                "gendre3": "Fantasy",
+                "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu. ",
+                "bgimg": "https://i.mydramalist.com/2wOAoR_4c.jpg?v=1",
+                "trailer": "https://www.youtube.com/embed/Qhp0nZGTeWg?si=Ncgd13SE6u1zFaFf",
+                "duration": "Tidak ada data",
+"episodes": [
+
+
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "Derailment (2023) Episode 4",
+                "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
+                "episodeUrl": "",
+
+
+        },
+        {
+                
+                "episodeTitle": "Episode 3",
+                "episodeJudul": "Derailment (2023) Episode 3",
+                "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
+                "episodeUrl": "",
+
+
+        },
+        
+        {
+                "episodeTitle": "Episode 2",
+                "episodeJudul": "Derailment (2023) Episode 2",
+                "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
+                "episodeUrl": "",
+
+
+        },
+        {
+       "episodeTitle": "Episode 1", 
+       "episodeJudul": "Derailment (2023) Episode 1",
+"description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
+       "episodeUrl": "",
+
+                    
+       },
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrLxbhx5oDVcfSUy7R2SFUkM3wpKC3X0nsRajkPGgsP4wk3phK91RLm4&s=10",
+"namaAktor": "Lin Yi",
+"karakter": ""
+},
+
+{
+"image aktor": "https://i.pinimg.com/474x/75/1e/a1/751ea17b36a187449f9304865c1fbc8d.jpg",
+"namaAktor": "Huang Shengchi",
+"karakter": ""
+},
+]
+
+                
+            },
             
 };
 
