@@ -3235,7 +3235,6 @@
        "episodeJudul": "Siksa Neraka",
 "description": "Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.",
        "episodeUrl": "https://drive.google.com/file/d/1nEqisT95EgEdjvBaNpxgfGTrgRN2WsvC/preview",
-
                     
        }
         ],

@@ -712,7 +712,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   height: auto;
   transition: transform 0.5s ease;
   border-radius: 20px;
-  
   object-fit: cover;
 }
 }
