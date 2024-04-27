@@ -3219,6 +3219,7 @@
 "siksaneraka": {
                 "title": "Siksa Neraka",
                 "terjemah": "Film Bioskop",
+                "type": "HD+",
                 "rating": "5.0",
                 "studio": "Dee Company",
                 "rilis": "14 Desember 2023",
@@ -3352,6 +3353,7 @@
             const rilisElement = document.getElementById("rilis");
             const durationElement = document.getElementById("duration");
             const ratingElement = document.getElementById("rating");
+            const typeElement = document.getElementById("type");
             
 const studioElement = document.getElementById("studio");
 const imgElement = document.getElementById("bgimg");
@@ -3422,6 +3424,7 @@ gendre1Element.innerHTML = data[animation].gendre1;
 gendre2Element.innerHTML = data[animation].gendre2;
 gendre3Element.innerHTML = data[animation].gendre3;
 trailerIframe.src = data[animation].trailer;
+typeElement.src = data[animation].type;
 
 
             
