@@ -3424,7 +3424,7 @@ gendre1Element.innerHTML = data[animation].gendre1;
 gendre2Element.innerHTML = data[animation].gendre2;
 gendre3Element.innerHTML = data[animation].gendre3;
 trailerIframe.src = data[animation].trailer;
-typeElement.src = data[animation].type;
+typeElement.innerHTML = data[animation].type;
 
 
             
