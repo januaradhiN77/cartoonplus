@@ -744,6 +744,14 @@ textarea.form-input::-webkit-resizer { display: none; }
 .lainnya-box h2{
         margin-top: 20px;
 }
+.informasi-tambahan{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+}
 .lainnya-box h1{
         font-family: 'Zen Maru Gothic';
         margin-top: 25px;
