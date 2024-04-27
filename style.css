@@ -731,20 +731,27 @@ textarea.form-input::-webkit-resizer { display: none; }
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-top: 300px;
+        margin-top: 100px;
 }
 .lainnya-box{
         display: flex;
-       
+        justify-content: center;
+        flex-direction: column;
         color: white;
-        gap: 280px;
-        margin-right: auto;
-        margin-left: 15px;
-        font-size: 23px;
+        align-items: center;
+        width: 100%;
 }
-
-.lainnya-box p{
-
+.lainnya-box h2{
+        margin-top: 20px;
+}
+.lainnya-box h1{
+        font-family: 'Zen Maru Gothic';
+        margin-top: 25px;
+}
+.lainnya-box img{
+        width: 150px;
+        border-radius: 50%;
+          box-shadow:  0 0 6px  #FFFFFF6E;
 }
 .slider {
   overflow: hidden;
