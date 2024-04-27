@@ -1561,6 +1561,7 @@
                 "title": "The Tiger's Apprentice",
                 "terjemah": "Episode 1",
                 "rating": "5.7",
+                                "type": "HD+",
                 "studio": "Paramount Animation",
                 "rilis": "27 Januari 2024",
                 "gendre1": "Animation",
