@@ -37,8 +37,10 @@ html {
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-                width: 60px;
+                
+                
                 height: 60px;
+                width: 60px;
         }
         .navbar-box span{
                 font-size: 25px;
@@ -51,18 +53,24 @@ html {
                 font-family: 'Zen Maru Gothic';
                 
         }
-        .navbar-box:hover{
-                background: #CECECE7A;
-                transition: 0.2s ease;
-                border-radius: 50%;
-        }
-        .navbar-box:not(:hover){
-                
-                background: transparent;
 
-                transition: 0.5s ease;
-                
-        }
+        .overlay-navbar{
+
+  width: 60px;
+
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 0;
+  
+  z-index: 1;
+  transition: background-color 0.3s ease;
+  border-radius: 50%;
+}
+
+.overlay-navbar.active {
+  background-color: rgba(255, 255, 255, 0.5);
+}
         .batas{
                 display: flex;
                 width: 100%;
@@ -253,6 +261,7 @@ display: flex;
 .overlay.active {
   background-color: rgba(255, 255, 255, 0.5);
 }
+
 .genre-container{
 
 
