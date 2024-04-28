@@ -1075,7 +1075,7 @@
 
 "godzilaxkingkongtne": {
                 "title": "Godzilla x Kong: The New Empire",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "6.6",
                 "studio": "Legendary Pictures",
                 "type": "HD Cam",
