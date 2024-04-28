@@ -3397,12 +3397,19 @@
                 "duration": "Tidak ada data",
 "episodes": [
 
+{
+                "episodeTitle": "Episode 5",
+                "episodeJudul": "Derailment (2023) Episode 5",
+                "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
+                "episodeUrl": "https://drive.google.com/file/d/17uIr1Vn2gVnMRWqKNfA1QQESoyIt7vbD/preview",
 
+
+        },
         {
                 "episodeTitle": "Episode 4",
                 "episodeJudul": "Derailment (2023) Episode 4",
                 "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
-                "episodeUrl": "",
+                "episodeUrl": "https://drive.google.com/file/d/17Jmys19vF3VY1HSz5Im_J-iLaWnYZ7hE/preview",
 
 
         },
@@ -3411,7 +3418,7 @@
                 "episodeTitle": "Episode 3",
                 "episodeJudul": "Derailment (2023) Episode 3",
                 "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
-                "episodeUrl": "",
+                "episodeUrl": "https://drive.google.com/file/d/16zeBrtRB09Sl_KkzMxZkN954FMoMM19L/preview",
 
 
         },
@@ -3420,7 +3427,7 @@
                 "episodeTitle": "Episode 2",
                 "episodeJudul": "Derailment (2023) Episode 2",
                 "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
-                "episodeUrl": "",
+                "episodeUrl": "https://drive.google.com/file/d/16sL28Jo5aXqocPwjmPWiAGUMXPFnRlCs/preview",
 
 
         },
@@ -3428,7 +3435,7 @@
        "episodeTitle": "Episode 1", 
        "episodeJudul": "Derailment (2023) Episode 1",
 "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/16X3_7ryPjqOidnstmIfAVgaR0eH09SoU/preview",
 
                     
        },
