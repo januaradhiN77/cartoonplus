@@ -64,7 +64,7 @@ html {
   top: 0;
   
   z-index: 1;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.1s ease;
   border-radius: 50%;
 }
 
