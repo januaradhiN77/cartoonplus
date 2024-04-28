@@ -3442,15 +3442,20 @@
         ],
 "aktor":[
 {
+"image aktor": "https://i.mydramalist.com/RB3b6z_5s.jpg",
+"namaAktor": "Liu Hao Cun",
+"karakter": "Jiang Xiao Yuan"
+},
+{
 "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrLxbhx5oDVcfSUy7R2SFUkM3wpKC3X0nsRajkPGgsP4wk3phK91RLm4&s=10",
 "namaAktor": "Lin Yi",
-"karakter": ""
+"karakter": "Qi Lian"
 },
 
 {
 "image aktor": "https://i.pinimg.com/474x/75/1e/a1/751ea17b36a187449f9304865c1fbc8d.jpg",
 "namaAktor": "Huang Shengchi",
-"karakter": ""
+"karakter": "Jiang Bo"
 },
 ]
 
