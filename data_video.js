@@ -3397,12 +3397,6 @@
                 "duration": "Tidak ada data",
 "episodes": [
 {
-                        "episodeTitle": "Kocheng",
-                "episodeJudul": "Kocheng",
-                "description": "",
-                "episodeUrl": "https://gdriveplayer.to/embed2.php?link=jSXdGlQz7Y9LJKSD5uUydAiqcezVaZAw5qL5h7aeZZmnIDKOrmvpqCLTqXjo3ki79Ogqlv63nCnbTgUJ0uqrWN6zPaM8ZjCOdGHEpWkqE0jBNnbix1kDjs7Jl9exyRW1hK6%252BloSiKzbO%252BqdOr%252F22LWGOUe%252Ffpg8FGz04o7bQ3vJCc%252BxWN9s3sdeaCwY0I2otI%253D",
-},
-{
                 "episodeTitle": "Episode 5",
                 "episodeJudul": "Derailment (2023) Episode 5",
                 "description": "bercerita tentang gadis kaya yang tiba-tiba melakukan perjalanan melintasi ruang dan waktu.",
