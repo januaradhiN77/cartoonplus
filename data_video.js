@@ -2098,7 +2098,7 @@
                 "title": "Pamali (2022)",
                 "terjemah": "Film Bioskop",
                 "rating": "5.3",
-                "studio": "Lyto Pictures",
+                "studio": "LYTO Pictures",
                 "rilis": "6 Oktober 2022",
                 "type": "HD+",
                 "gendre1": "Horror",
