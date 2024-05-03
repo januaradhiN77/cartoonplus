@@ -3476,8 +3476,8 @@
                 "duration": "1 jam 37m",
 "episodes": [
         {
-       "episodeTitle": "Ongoing!", 
-       "episodeJudul": "Pamali: Dusun Pocong (Ongoing!)",
+       "episodeTitle": "Segera!", 
+       "episodeJudul": "Pamali: Dusun Pocong (Segera)",
 "description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
        "episodeUrl": "",
 
@@ -3535,6 +3535,132 @@
         "namaAktor": "Sarah Viloid",
         "karakter": "(Tim SAR 2)"
 },
+]
+                
+            },
+
+"13bomdijakarta": {
+                "title": "13 Bom di Jakarta",
+                "terjemah": "Film Bioskop",
+                "rating": "6.9",
+                "type": "HD+",
+                "studio": "Visinema Pictures",
+                "rilis": "28 Desember 2023",
+                "gendre1": "Aksi",
+                "gendre2": "Kriminal",
+                "gendre3": "Thriller",
+                "description": "Film ini menceritakan tentang teror sekumpulan teroris yang ingin menyerang Jakarta, ibukota Indonesia. Serangan 13 Bom ini akan menghancurkan kota dan menimbulkan banyak korban jiwa yang tak terhitung jumlahnya. Badan Kontra Terorisme Indonesia",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg",
+                "trailer": "https://www.youtube.com/embed/uXJHPMKLgiI",
+                "duration": "2 jam 23m",
+"episodes": [
+        {
+       "episodeTitle": "Segera!", 
+       "episodeJudul": "13 Bom di Jakarta (Segera)",
+"description": "Film ini menceritakan tentang teror sekumpulan teroris yang ingin menyerang Jakarta, ibukota Indonesia. Serangan 13 Bom ini akan menghancurkan kota dan menimbulkan banyak korban jiwa yang tak terhitung jumlahnya. Badan Kontra Terorisme Indonesia",
+       "episodeUrl": "",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "",
+"namaAktor": "Niken Anjani",
+"karakter": "(Gita)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Chicco Kurniawan",
+        "karakter": "(Oscar)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Chicco Jeriko",
+        "karakter": "(Petugas ICTA)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Lutesha",
+        "karakter": "(Agnes)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Putri Ayudya",
+        "karakter": "(Karin)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Rio Dewanto",
+        "karakter": "(Arok, Ismail Gani)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Ardhito Pramono",
+        "karakter": "(William)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Ganindra Bimo",
+        "karakter": "(Emil)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Muhammad Khan",
+        "karakter": "(Waluyo)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Mila Jamila",
+        "karakter": "(Tia)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Rukman Rosadi",
+        "karakter": "(Damaskus)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Andri Mashadi",
+        "karakter": "(Fajar)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Alyssa Abidin",
+        "karakter": "(Malik's Wife)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Raeshard Octaviansha",
+        "karakter": "(Penjaga Truk Uang)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Aksara Dena",
+        "karakter": "(Malik)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Akbarry Noor",
+        "karakter": "(Firewall Officer)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Yusuf Ozkan",
+        "karakter": "(Pengamen)"
+},
+{
+        
+        "image aktor": "",
+        "namaAktor": "Andi Sujono",
+        "karakter": "(Gita's Assistant)"
+},
+{
+        "image aktor": "",
+        "namaAktor": "Toran Waibro",
+        "karakter": "(Karin's Assistant)"
+},
+
 ]
                 
             },
