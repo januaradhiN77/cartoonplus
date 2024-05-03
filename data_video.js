@@ -3565,98 +3565,98 @@
         ],
 "aktor":[
 {
-"image aktor": "",
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnroDGJh-HuFJ6LQyXxCcs6z0s1_xszheNiA&s",
 "namaAktor": "Niken Anjani",
 "karakter": "(Gita)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbkL3SohezT0d9lpNLqTW4IoezckJFxMTuQ&s",
         "namaAktor": "Chicco Kurniawan",
         "karakter": "(Oscar)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRlpQ2MM13HB5lzoE7Af6H2-doVlQz0rSb1DJZ-JAg2k4Fr2H1Veg&s=19",
         "namaAktor": "Chicco Jeriko",
         "karakter": "(Petugas ICTA)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUfWH31LhGe9QrtqK1aBEf5mKGzKY4zmUQA&s",
         "namaAktor": "Lutesha",
         "karakter": "(Agnes)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJXEQqDVaL4rgL1mjsVCjKBNtdhd9EjROZg&s",
         "namaAktor": "Putri Ayudya",
         "karakter": "(Karin)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9kAGpSU1PWez0JerlazTpVrMatvS5HM7Yg&s",
         "namaAktor": "Rio Dewanto",
         "karakter": "(Arok, Ismail Gani)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7Lcoepo2WIZavCnNjEKEFeTSRAYul2bVcw&s",
         "namaAktor": "Ardhito Pramono",
         "karakter": "(William)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPg9WwDwLrkTUDqQB8b9LZpsTYGpLrrs7FA&s",
         "namaAktor": "Ganindra Bimo",
         "karakter": "(Emil)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaknkf1g6ecu2avbkWyin0ADHZGov_hrMFA&s",
         "namaAktor": "Muhammad Khan",
         "karakter": "(Waluyo)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
         "namaAktor": "Mila Jamila",
         "karakter": "(Tia)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1DRN7yBToG3rLs2o8EmMr3cR4kfNO1VHTg&s",
         "namaAktor": "Rukman Rosadi",
         "karakter": "(Damaskus)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBW5YS6NQuJgFuKxfkaZIDYAPv7_q5wI2Bw&s",
         "namaAktor": "Andri Mashadi",
         "karakter": "(Fajar)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShD41Dcr9sqHboxlOQ_wEsm8nU7GJBErMMsg&usqp=CAU",
         "namaAktor": "Alyssa Abidin",
         "karakter": "(Malik's Wife)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46ejYPR5WnGIYx3ffQlUN7yFUbMDEcrXyoQ&s",
         "namaAktor": "Raeshard Octaviansha",
         "karakter": "(Penjaga Truk Uang)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
         "namaAktor": "Aksara Dena",
         "karakter": "(Malik)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
         "namaAktor": "Akbarry Noor",
         "karakter": "(Firewall Officer)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
         "namaAktor": "Yusuf Ozkan",
         "karakter": "(Pengamen)"
 },
 {
         
-        "image aktor": "",
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
         "namaAktor": "Andi Sujono",
         "karakter": "(Gita's Assistant)"
 },
 {
-        "image aktor": "",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xIoszK7suf27PGblo84rEA0Hs7zlvlpKaA&s",
         "namaAktor": "Toran Waibro",
         "karakter": "(Karin's Assistant)"
 },
