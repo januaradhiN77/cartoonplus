@@ -3476,8 +3476,8 @@
                 "duration": "1 jam 37m",
 "episodes": [
         {
-       "episodeTitle": "Tonton", 
-       "episodeJudul": "Pamali: Dusun Pocong",
+       "episodeTitle": "Ongoing!", 
+       "episodeJudul": "Pamali: Dusun Pocong (Ongoing!)",
 "description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
        "episodeUrl": "",
 
