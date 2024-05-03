@@ -3460,7 +3460,84 @@
 
                 
             },
-            
+"pamalidusunpocong": {
+                "title": "Pamali: Dusun Pocong",
+                "terjemah": "Film Bioskop",
+                "rating": "6.5",
+                "type": "HD+",
+                "studio": "LYTO Pictures",
+                "rilis": "12 Oktober 2023",
+                "gendre1": "Horror",
+                "gendre2": "Misteri",
+                "gendre3": "Drama",
+                "description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_Pamali_2.jpg",
+                "trailer": "https://www.youtube.com/embed/noFWKx8laVA?si=007xwxynFBX2goQ5",
+                "duration": "1 jam 37m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Pamali: Dusun Pocong",
+"description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
+       "episodeUrl": "",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDErD75H6oWXM89R3eujXaEVJDGHCtAUF6Ug&s",
+"namaAktor": "Yasamin Jasem",
+"karakter": "(Mila)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySb78grheBmp73LHSCKqkYK4JMTLkbv-THw&s",
+        "namaAktor": "Arla Ailani",
+        "karakter": "(Puput)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxxMS0O6XeypdAZcxWgDMQsluUBybrGvwgA&s",
+        "namaAktor": "Fajar Nugra",
+        "karakter": "(Cecep)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5DnDv-4s6qsedGHQ2YN_0ZfGk7hDvC_FGVQ&s",
+        "namaAktor": "Dea Panendra",
+        "karakter": "(Gendis)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9gBo9OrGeWoHTvmnBRvSlH6g6uGzq6ddig&s",
+        "namaAktor": "Ence Bagus",
+        "karakter": "(Mang Yusuf)"
+},
+{
+        "image aktor": "https://cdn.idntimes.com/content-images/community/2022/09/227085242-196819352466782-3366439294286083457-n-da8d38c789b465218f295612fb813f37-b9325463e370692b704bb73f01d36500.jpg",
+        "namaAktor": "Bukie B. Mansyur",
+        "karakter": "(Deden)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQk_Sxan6oTLqfqGq2ELlcibk7Igr8CpLhA&s",
+        "namaAktor": "Whani Darmawan",
+        "karakter": "(Mang Ujang)"
+},
+{
+        "image aktor": "https://www.kabaresi.com/wp-content/uploads/2019/11/Art.png",
+        "namaAktor": "Wina Marrino",
+        "karakter": "(Ceu Imah)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Dyland Pros",
+        "karakter": "(Tim SAR 1)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Sarah Viloid",
+        "karakter": "(Tim SAR 2)"
+},
+]
+                
+            },
 };
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
