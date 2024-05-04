@@ -391,7 +391,7 @@
 
 <section class="movies-container-2" style="display: flex;  flex-direction: column;margin-top: 20px;" id="cinema+">
         <div class="header-movies-text">
-                <h1>Cinema+ <span style="font-family: 'Zen Maru Gothic';font-size: 17px; margin-left: 1px;color:#FFCA5A;">(SEGERA TAYANG)</span></h1>
+                <h1>Cinema+ <span style="font-family: 'Zen Maru Gothic';font-size: 17px; margin-left: 1px;color:#FFCA5A;"id="countdown"></span></h1>
         </div>
         <div style="background: #1A1A1AC7; padding-top: 30px;border-radius: 20px;padding-bottom: 30px;display: flex; flex-direction: column;margin-top: 20px;">
         <div class="movies-2" style="display: flex; justify-content: center; align-items: center; gap: 20px; ">
@@ -429,5 +429,34 @@
         <div class="batas"></div>
   <script src="main.js"></script>
   <script src="scroll.js"></script>
+  <script>
+// Tanggal dan waktu tujuan (jam 14:00)
+var targetDate = new Date();
+targetDate.setHours(14, 0, 0, 0);
+
+// Update hitungan mundur setiap detik
+var countdown = setInterval(function() {
+    // Waktu saat ini
+    var now = new Date().getTime();
+    
+    // Selisih waktu antara sekarang dan target
+    var difference = targetDate - now;
+    
+    // Menghitung waktu yang tersisa
+    var hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((difference % (1000 * 60)) / 1000);
+    
+    // Menampilkan hasil pada elemen dengan ID "countdown"
+    document.getElementById("countdown").innerHTML ="( " + hours + "h "
+    + minutes + "m " + seconds + "s " + ")";
+    
+    // Jika hitungan mundur selesai, tampilkan pesan
+    if (difference < 0) {
+        clearInterval(countdown);
+        document.getElementById("countdown").innerHTML = "Waktunya menonton!";
+    }
+}, 1000);
+  </script>
 </body>
 </html>
