@@ -448,13 +448,13 @@ var countdown = setInterval(function() {
     var seconds = Math.floor((difference % (1000 * 60)) / 1000);
     
     // Menampilkan hasil pada elemen dengan ID "countdown"
-    document.getElementById("countdown").innerHTML ="( " + hours + "h "
+    document.getElementById("countdown").innerHTML ="( Segera Tayang : " + hours + "h "
     + minutes + "m " + seconds + "s " + ")";
     
     // Jika hitungan mundur selesai, tampilkan pesan
     if (difference < 0) {
         clearInterval(countdown);
-        document.getElementById("countdown").innerHTML = "Waktunya menonton!";
+        document.getElementById("countdown").innerHTML = "Film Terbaru!";
     }
 }, 1000);
   </script>
