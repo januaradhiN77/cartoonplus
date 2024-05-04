@@ -789,4 +789,25 @@ textarea.form-input::-webkit-resizer { display: none; }
   border-radius: 20px;
   object-fit: cover;
 }
+.button-cinema-plus{
+        display:flex;
+        
+        margin-top: 30px;
+        justify-content: center;
+        
+        align-items: center;
+       width: 100%;
+}
+.decoration-button{
+        border: 2px #FFCA5A solid;
+        width: 80%;
+        border-radius: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+text-align: center;
+}
+.decoration-button h1{
+        font-family: 'Zen Maru Gothic';
+        color:#FFCA5A;
+}
 }
