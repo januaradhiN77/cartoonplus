@@ -11,13 +11,12 @@
   user-select: none;
 }
 body,
-
 html {
 
   background: #090909;
 }
 
-@media (max-width: 810px){
+@media only screen and (max-width: 810px){
         .navbar-container{
                 position: fixed;
                 bottom: 0;
