@@ -1101,7 +1101,7 @@
             },
 "aquamanatlk": {
                 "title": "Aquaman and the Lost Kingdom",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "5.6",
                 "type": "HD+",
                 "studio": "DC Studios",
