@@ -576,7 +576,7 @@ background-color: transparent;
         flex-direction: column;
 }
 .search-container{
-        justify-content: space-between; display: flex; flex-wrap: wrap;
+        justify-content: left; display: flex; flex-wrap: wrap;
         
 }
 .container.active{
@@ -585,7 +585,7 @@ background-color: transparent;
        
 }
 .container{
-        width: 100%; height: auto; justify-content: space-between; gap: 20px; margin-top: 130px;display:none;
+        width: 100%; height: auto; justify-content: center; gap: 20px; margin-top: 130px;display:none;
 }
 .button.active {
         background-color: #FFB10FFA;
