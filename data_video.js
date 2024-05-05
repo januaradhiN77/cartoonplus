@@ -3476,10 +3476,10 @@
                 "duration": "1 jam 37m",
 "episodes": [
         {
-       "episodeTitle": "Segera!", 
-       "episodeJudul": "Pamali: Dusun Pocong (Segera)",
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Pamali: Dusun Pocong",
 "description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1e3AU0Do_sS_lgx6jguK294MuMi1pqnsz/preview",
 
                     
        }
@@ -3555,10 +3555,10 @@
                 "duration": "2 jam 23m",
 "episodes": [
         {
-       "episodeTitle": "Segera!", 
-       "episodeJudul": "13 Bom di Jakarta (Segera)",
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "13 Bom di Jakarta",
 "description": "Film ini menceritakan tentang teror sekumpulan teroris yang ingin menyerang Jakarta, ibukota Indonesia. Serangan 13 Bom ini akan menghancurkan kota dan menimbulkan banyak korban jiwa yang tak terhitung jumlahnya. Badan Kontra Terorisme Indonesia",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1XBtC-_gHDYt9CS9YFc6mnDV1cE21ki2t/preview",
 
                     
        }
