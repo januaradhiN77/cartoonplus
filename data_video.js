@@ -3686,7 +3686,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Jatuh Cinta Seperti di Film-film",
 "description": "Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.",
-       "episodeUrl": "https://pixeldrain.com/u/o2q83c1m?embed",
+       "episodeUrl": "https://pixeldrain.com/api/file/o2q83c1m",
 
                     
        }
