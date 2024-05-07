@@ -3664,6 +3664,94 @@
 ]
                 
             },
+            
+            
+            
+"jatuhcintasepertidifilm": {
+                "title": "Jatuh Cinta Seperti di Film-film",
+                "terjemah": "Film Bioskop",
+                "rating": "8.4",
+                "type": "HD",
+                "studio": "Imajinari",
+                "rilis": "30 November 2023",
+                "gendre1": "Comedy",
+                "gendre2": "Drama",
+                "gendre3": "Romance",
+                "description": "Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/0/0c/Poster_Jatuh_Cinta_Seperti_di_Film-Film.jpg",
+                "trailer": "https://www.youtube.com/embed/FmsljtjpvpU?si=hRF1nn0-Lg_iWTjO",
+                "duration": "1 jam 58m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Jatuh Cinta Seperti di Film-film",
+"description": "Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.",
+       "episodeUrl": "https://pixeldrain.com/u/o2q83c1m?embed",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://asset.kompas.com/crops/j7J5tdPHKZiG_Z--sTyW0u4LPD0=/0x0:0x0/750x500/data/photo/2022/06/20/62b0719bc1468.jpeg",
+"namaAktor": "Ringgo Agus Rahman",
+"karakter": "(Bagus Rahmat)"
+},
+{
+        "image aktor": "https://cdn.antarafoto.com/cache/800x1200/2011/08/18/nirina-zubir-3hvf-dom.jpg",
+        "namaAktor": "Nirina Zubir",
+        "karakter": "(Hana)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alex_Abbad%2C_slate_id%2C_03.43.jpg/220px-Alex_Abbad%2C_slate_id%2C_03.43.jpg",
+        "namaAktor": "Alex Abbad",
+        "karakter": "(Pak Yoram)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sheila_Dara_in_2020.png",
+        "namaAktor": "Shella Dara",
+        "karakter": "(Cheline)"
+},
+{
+        "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRulraycObs50t_mqreGu5aBiWowZI8ywcf2LyTSK0RSDGXDsImP-u-zIBrkdMmGuCpUz0nZup4iltyzO-Tz-vZg5bhLiQmqoKcsjYczQ",
+        "namaAktor": "Dion Wiyoko",
+        "karakter": "(Dion Wiyoko / Bagus)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hxB4uJeeCpHQZjr6EquiA1FD4hbSGfc5kDv_0YdcqbddzrpUAZB77EuVLqQttfWK7UZearJtfaNZ4Cfs_yJGL4VUVJqbZlRiePFwQg",
+        "namaAktor": "Julie Estelle",
+        "karakter": "(Julie Estelle / Hana)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDoTJ9F3ztTC-Lt2uhtdizLXeyxkCkybz6w&usqp=CAU",
+        "namaAktor": "Donne Maula",
+        "karakter": "(Denny)"
+},
+{
+        "image aktor": "https://images.mubicdn.net/images/cast_member/446364/cache-484330-1572623846/image-w856.jpg?size=800x",
+        "namaAktor": "Abdurrahman Arif",
+        "karakter": "(Asisten sutradara)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Emily Yorda",
+        "karakter": "(Yati)"
+},
+]
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 };
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
