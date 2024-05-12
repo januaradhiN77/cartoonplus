@@ -1772,7 +1772,7 @@
         "title": "Ancika: Dia yang Bersamaku 1995 (2024)",
         "terjemah": "Film Bioskop",
         "rating": "7.5",
-        "type": "HD Cam",
+        "type": "HD",
         "studio": "MD Pictures",
         "rilis": "11 Januari 2024",
         "gendre1": "Drama",
@@ -1787,7 +1787,7 @@
                         "episodeTitle": "Tonton",
                         "episodeJudul": "Ancika: Dia yang Bersamaku 1995 (2024)",
                         "description": "Dikisahkan tentang persahabatan dan jalin hubungan antara Dilan dan Ancika Mehrunisa Rabu. Hubungan mereka yang semakin erat membuat benih-benih cinta tumbuh dan hubungan mereka pun menanjak hingga ke jenjang kekasih. Di tahun 1995, Dilan si mantan panglima geng motor jatuh cinta pada Ancika, perempuan yang sangat membenci geng motor.",
-                        "episodeUrl": "https://drive.google.com/file/d/1kSJH09Jzu76TyVQCOq7rBGcgL4OjMJwg/preview",
+                        "episodeUrl": "https://drive.google.com/file/d/1ZXyOcSORwa3kmbQDFlAC07Rsjs9BGBil/preview",
 
 
        }
