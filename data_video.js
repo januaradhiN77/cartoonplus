@@ -3740,7 +3740,33 @@
 },
 ]
             },
-            
+
+"frozen2": {
+                "title": "Frozen 2",
+                "terjemah": "Episode 1",
+                "rating": "6.8",
+                "type": "HD",
+                "studio": "Walt Disney Pictures",
+                "rilis": "20 November 2019",
+                "gendre1": "Animasi",
+                "gendre2": "Komedi",
+                "gendre3": "Laga",
+                "description": "Raja Agnarr dari Arendelle menceritakan sebuah kisah kepada anak-anaknya yang masih kecil, Elsa dan Anna, bahwa kakek mereka, Raja Runeard, membuat perjanjian dengan suku tetangga Northuldra dengan membangun bendungan di tanah air mereka, Hutan Ajaib. Namun, perkelahian terjadi, yang mengakibatkan kematian Runeard. Pertempuran membuat marah roh unsur Bumi, Api, Air, dan Udara hutan. Roh-roh itu menghilang dan dinding kabut menjebak semua orang di Hutan Ajaib. Agnarr nyaris lolos karena bantuan penyelamat yang tidak dikenal.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/6/6d/Frozen_II_%282019_poster%29.jpg",
+                "trailer": "https://www.youtube.com/embed/a7MKjWtnzNQ",
+                "duration": "1 jam 43m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Frozen 2",
+"description": "Raja Agnarr dari Arendelle menceritakan sebuah kisah kepada anak-anaknya yang masih kecil, Elsa dan Anna, bahwa kakek mereka, Raja Runeard, membuat perjanjian dengan suku tetangga Northuldra dengan membangun bendungan di tanah air mereka, Hutan Ajaib. Namun, perkelahian terjadi, yang mengakibatkan kematian Runeard. Pertempuran membuat marah roh unsur Bumi, Api, Air, dan Udara hutan. Roh-roh itu menghilang dan dinding kabut menjebak semua orang di Hutan Ajaib. Agnarr nyaris lolos karena bantuan penyelamat yang tidak dikenal.",
+       "episodeUrl": "https://drive.google.com/file/d/1fA5SIEH5B3V8KZ1oSCI95irlPQf5AOYI/preview",
+
+                    
+       }
+        ]
+                
+            },
             
             
             
