@@ -3809,7 +3809,7 @@
                 "description": "Rara dan Sutan, pasangan baru menikah yang kembali ke rumah Rara di perkebunan teh setelah pernikahan mereka. Namun, Rara mulai mengalami kejadian mistis, termasuk gangguan dari sosok gaib saat mandi dan lampu yang sering mati. ",
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/5/50/Poster_Trinil-_Kembalikan_Tubuhku_%282024%29.jpg",
                 "trailer": "https://www.youtube.com/embed/3jAKbvrptRk?si=UU20cMtUIOpwXUiH",
-                "duration": "1 jam 01m",
+                "duration": "1 jam 45m",
 "episodes": [
         {
        "episodeTitle": "Tonton", 
