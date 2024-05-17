@@ -3768,7 +3768,32 @@
                 
             },
             
-            
+"spidermanacross": {
+                "title": "Spider-Man: Across the Spider-Verse",
+                "terjemah": "Episode 1",
+                "rating": "8.6",
+                "type": "HD+",
+                "studio": "Marvel Entertainment",
+                "rilis": "30 Mei 2023",
+                "gendre1": "Laga",
+                "gendre2": "Komedi",
+                "gendre3": "Petualangan",
+                "description": "Miles Morales / Spider-Man berpetualang melintasi multisemesta dengan Gwen Stacy / Spider-Woman dan tim baru Spider-People yang harus menghadapi penjahat yang kuat.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg",
+                "trailer": "https://www.youtube.com/embed/oyKyhVcBycY",
+                "duration": "2 jam 20m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Spider-Man: Across the Spider-Verse",
+"description": "Miles Morales / Spider-Man berpetualang melintasi multisemesta dengan Gwen Stacy / Spider-Woman dan tim baru Spider-People yang harus menghadapi penjahat yang kuat.",
+       "episodeUrl": "https://drive.google.com/file/d/1s5H_ze05i9kCq61f3UaRokvMTn6Mx5IR/preview",
+
+                    
+       }
+        ]
+                
+            },
             
             
             
