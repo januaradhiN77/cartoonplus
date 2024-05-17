@@ -3796,8 +3796,74 @@
             },
             
             
-            
-            
+"trinilkembalikantubuhku": {
+                "title": "Trinil: Kembalikan Tubuhku",
+                "terjemah": "Film Bioskop",
+                "rating": "5.0",
+                "type": "HD+",
+                "studio": "Dapur Film",
+                "rilis": "4 Januari 2024",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Thriller",
+                "description": "Rara dan Sutan, pasangan baru menikah yang kembali ke rumah Rara di perkebunan teh setelah pernikahan mereka. Namun, Rara mulai mengalami kejadian mistis, termasuk gangguan dari sosok gaib saat mandi dan lampu yang sering mati. ",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/5/50/Poster_Trinil-_Kembalikan_Tubuhku_%282024%29.jpg",
+                "trailer": "https://www.youtube.com/embed/3jAKbvrptRk?si=UU20cMtUIOpwXUiH",
+                "duration": "1 jam 01m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Trinil: Kembalikan Tubuhku",
+"description": "Rara dan Sutan, pasangan baru menikah yang kembali ke rumah Rara di perkebunan teh setelah pernikahan mereka. Namun, Rara mulai mengalami kejadian mistis, termasuk gangguan dari sosok gaib saat mandi dan lampu yang sering mati. ",
+       "episodeUrl": "https://drive.google.com/file/d/1f0RGx-ZIRgaKgHsJ0ntQp_OIzf5q2GJH/preview",
+
+                    
+       }
+        ]
+                
+            },
+"aktor":[
+{
+"image aktor": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh3dIUbL8al4sFz6J5t4Dp8UeO0X631DRQe6NXoeloV7yItYbzJPxcPTpEXEhjZwiN5DqZ",
+"namaAktor": "Carmela van der Kruk",
+"karakter": "(Rara)"
+},
+{
+        "image aktor": "https://image.tmdb.org/t/p/w500/gWu5yeT85LC29Ng7o3jrKQ6DqRK.jpg",
+        "namaAktor": "Fattah Amin",
+        "karakter": "(Yusof)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/7/78/Wulan_Guritno_on_Festival_Film_Indonesia_2015.jpg",
+        "namaAktor": "Wulan Guritno",
+        "karakter": "(Rahayu)"
+},
+{
+        "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_EXNe9jM2zl37vcHHHJdFXP8iQf1XJwL6UkWnbbpUbJ7l6zLn",
+        "namaAktor": "Rangga Nattra",
+        "karakter": "(Sutan)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwLurk0RSo6eMtavSoMNc0aHEzrIDmYdf3ugql0ZWqODlKhQ6",
+        "namaAktor": "Shalom Razade",
+        "karakter": "(Rahayu Muda)"
+},
+{
+        "image aktor": "https://asset.tix.id/wp-content/uploads/2023/01/5TnaOOqNc5KEoIUbQZ83qDwkNYZ.jpg",
+        "namaAktor": "Willem Bevers",
+        "karakter": "(William)"
+},
+{
+        "image aktor": "https://imgcdn.solopos.com/@space/_large/2010/09/z6ituLBw-elly-d-luthan.jpg",
+        "namaAktor": "Elly D. Luthan",
+        "karakter": "(Nyai Rondoalas)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Alexzander Wlan",
+        "karakter": "(Bagus Sujiwo)"
+},
+]
             
             
             
