@@ -3819,9 +3819,7 @@
 
                     
        }
-        ]
-                
-            },
+        ],
 "aktor":[
 {
 "image aktor": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh3dIUbL8al4sFz6J5t4Dp8UeO0X631DRQe6NXoeloV7yItYbzJPxcPTpEXEhjZwiN5DqZ",
@@ -3864,6 +3862,10 @@
         "karakter": "(Bagus Sujiwo)"
 },
 ]
+        
+                
+            },
+
             
             
             
