@@ -84,28 +84,24 @@ function goToLink(websiteURL) {
       window.location.href = websiteURL;
 
     }
-function filterBoxes(studio) {
-    // Save the selected studio to localStorage
-    localStorage.setItem('selectedStudio', studio);
-
-    // Get all box elements
-    const boxes = document.querySelectorAll('.data-item');
-
-    // Loop through all boxes and display only those that match the selected studio
-    boxes.forEach(box => {
-        if (studio === 'all') {
-            box.style.display = 'block';
-        } else if (box.classList.contains(studio)) {
-            box.style.display = 'block';
+function tampilkanStudio(studioId) {
+    // Menampilkan studio yang dipilih atau semua studio
+    var studios = document.querySelectorAll('.movies-box');
+    
+    studios.forEach(function(studio) {
+        if (studioId === 'all' || studio.id === studioId) {
+            studio.style.display = 'flex'; // Menampilkan studio dengan display flex jika ID sesuai atau 'all'
         } else {
-            box.style.display = 'none';
+            studio.style.display = 'none'; // Menyembunyikan studio yang tidak dipilih
+        }
+    });
+
+    // Menghapus kelas active dari semua tombol studio
+    var buttons = document.querySelectorAll('.studio-button');
+    buttons.forEach(function(button) {
+        button.classList.remove('active');
+        if (button.getAttribute('data-studio-id') === studioId) {
+            button.classList.add('active');
         }
     });
 }
-
-// When the page loads, retrieve the selected studio from localStorage
-window.onload = () => {
-    const selectedStudio = localStorage.getItem('selectedStudio') || 'all';
-    filterBoxes(selectedStudio);
-};
-    

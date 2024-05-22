@@ -898,7 +898,7 @@ text-align: center;
   padding: 30px;
   margin-left: 15px; 
   background: #262626;
-  
+  border: 1px solid transparent;
 }
 
 .studio-filter-box img{
@@ -934,5 +934,8 @@ position: relative;
   width: 100%;
   scroll-behavior: smooth;
   padding-left: 0px;
+}
+.studio-filter-box.active{
+        border: 1px solid #FFBA2AFA;
 }
 }

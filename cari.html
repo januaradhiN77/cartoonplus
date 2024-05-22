@@ -105,28 +105,35 @@
               <div class="filter-studio">
                       
                       
-                <button class="buttongoweb" onclick="filterBoxes('md-pictures')">
-                      <div class="studio-filter-box">
+                      <div class="studio-filter-box studio-button active"data-studio-id="all" onclick="tampilkanStudio('all')">
+                              <span style="font-size: 50px; transform: rotate(90deg);" class="mdi mdi-tally-mark-4"></span>
+                              <h2 style=" font-family: 'Zen Maru Gothic'; font-size: 20px;">Show All</h2>
+                      </div>
+                      
+                      
+                      
+                      <div class="studio-filter-box studio-button"data-studio-id="mdpictures" onclick="tampilkanStudio('mdpictures')"
+                  >
                               <img src="https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_MD_Pictures.png">
                       </div>
-                </button>
+
                 
                 
-                <button class="buttongoweb" onclick="filterBoxes('all')">
-                      <div class="studio-filter-box">
+
+                      <div class="studio-filter-box studio-button"data-studio-id="deecompany" onclick="tampilkanStudio('deecompany')">
                               <img src="https://www.deecompany.co.id/images/logo.png?date=20200223">
                       </div>
-                </button>
-                      <div class="studio-filter-box">
+
+                      <div class="studio-filter-box studio-button"data-studio-id="falconpict" onclick="tampilkanStudio('falconpict')">
                               <img src="asset/falconpict.png">
                       </div>
-                      <div class="studio-filter-box">
+                      <div class="studio-filter-box studio-button"data-studio-id="mvppict" onclick="tampilkanStudio('mvppict')">
                               <img src="https://seeklogo.com/images/M/mvp-pictures-logo-BAAF8C672C-seeklogo.com.png">
                       </div>
-                      <div class="studio-filter-box">
+                      <div class="studio-filter-box studio-button"data-studio-id="rapifilms" onclick="tampilkanStudio('rapifilms')">
                               <img src="asset/rapifilms.png">
                       </div>
-                      <div class="studio-filter-box">
+                      <div class="studio-filter-box studio-button"data-studio-id="lytopict" onclick="tampilkanStudio('lytopict')">
                               <img src="asset/lytopict.png">
                       </div>
                       
@@ -137,6 +144,7 @@
                       
               </div>
       </div>
+    </div>
     </div>
 
  <div style="width: 100%; display: flex; justify-content: center; align-items:center; gap: 20px;margin-top: -10px;" >
@@ -189,7 +197,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamalidusunpocong')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamalidusunpocong')"><div class="data-item"><div id="lytopict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_Pamali_2.jpg">
                   <div class="image-overlay"></div>
@@ -200,7 +208,7 @@
 
 
 
-          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=siksaneraka')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=siksaneraka')"><div class="data-item"><div id="deecompany" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
             <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/8/89/Poster_Siksa_Neraka_%28film%29.jpg">
             <div class="image-overlay"></div>
@@ -221,7 +229,7 @@
 
           </div>       <div style="width: 100%; height: 20px;"></div></button>
           
-          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=comic81-2')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=comic81-2')"><div class="data-item"><div id="falconpict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
             <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/a/ac/Comic_8.jpg/220px-Comic_8.jpg">
             <div class="image-overlay"></div>
@@ -230,7 +238,7 @@
 
           </div>       <div style="width: 100%; height: 20px;"></div></button>
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=waktumaghrib')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=waktumaghrib')"><div class="data-item"><div id="rapifilms" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/220px-Poster_Waktu_Maghrib.jpg">
                   <div class="image-overlay"></div>
@@ -238,7 +246,7 @@
                   <div class="judul-movies skeleton"><h1>Waktu Maghrib</h1></div></div>
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mumun')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mumun')"><div class="data-item"><div id="deecompany" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/4/4e/Mumun_official_poster.jpeg">
                   <div class="image-overlay"></div>
@@ -285,7 +293,7 @@
 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sewudino')"><div class="data-item md-pictures"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sewudino')"><div class="data-item"id="mdpictures"><div id="mdpictures" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/0/0c/Sewu_Dino.jpg">
                   <div class="image-overlay"></div>
@@ -294,7 +302,7 @@
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mangkujiwo2')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mangkujiwo2')"><div class="data-item"><div id="mvppict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/3/31/Poster_Mangkujiwo_2.jpg">
                   <div class="image-overlay"></div>
@@ -317,7 +325,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamali')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamali')"><div class="data-item"><div id="lytopict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/9/98/Film_pamali.jpeg">
                   <div class="image-overlay"></div>
@@ -338,7 +346,7 @@
 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sijjin')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sijjin')"><div class="data-item"><div id="rapifilms" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/8/8a/Poster_Sijjin.jpg">
                   <div class="image-overlay"></div>
@@ -348,7 +356,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=ancika1995')"><div class="data-item md-pictures"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=ancika1995')"><div class="data-item"id="mdpictures"><div id="mdpictures" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/2/2b/Poster_Ancika_-_Dia_yang_Bersamaku_1995_%282024%29.jpg">
                   <div class="image-overlay"></div>
@@ -367,7 +375,7 @@
                   <div class="judul-movies skeleton"><h1>Kalian Pantas Mati</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=diambangkematian')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=diambangkematian')"><div class="data-item "><div id="mvppict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_DAK.jpg">
                   <div class="image-overlay"></div>
@@ -382,7 +390,7 @@
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>Panggonan Wingit</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
                   
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kkndidesapenari')"><div class="data-item md-pictures"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kkndidesapenari')"><div class="data-item"><div id="mdpictures" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPM8QvloENhQMewYPt4gUhQI51vxfQA-LRGv4EeAIE1WiFSEth4AAZGPt&s=10">
                   <div class="image-overlay"></div>
@@ -395,7 +403,7 @@
                   <div class="image-overlay"></div>
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>Dua Garis Biru</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mariposa')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mariposa')"><div class="data-item"><div id="falconpict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgly1SjUOH5W6UYCs-Dy0azMVHSx9_i2g5yILe9OGRlu7eJWqgxo7OkRZ&s=10">
                   <div class="image-overlay"></div>
