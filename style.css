@@ -854,12 +854,14 @@ text-align: center;
     transition: bottom 0.5s ease;
 }
 
-.filter-container .box {
+.filter-container .header {
     max-width: 600px;
     margin: 0 auto;
 }
-.box h2{
+.header h2{
         font-family: 'Zen Maru Gothic';
+        margin-top: 30px;
+        font-size: 25px;
 }
 .filter-container .handle {
     width: 70px;
