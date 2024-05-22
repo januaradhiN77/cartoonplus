@@ -89,7 +89,7 @@ function filterBoxes(studio) {
     localStorage.setItem('selectedStudio', studio);
 
     // Get all box elements
-    const boxes = document.querySelectorAll('.movies-box');
+    const boxes = document.querySelectorAll('.data-item');
 
     // Loop through all boxes and display only those that match the selected studio
     boxes.forEach(box => {
