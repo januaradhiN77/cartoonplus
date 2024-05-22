@@ -10,6 +10,8 @@
    <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+
+
   <title>Cartoonn</title>
   
   <!-- HTML -->
@@ -84,10 +86,22 @@
   <input type="text" id="searchInput" class="search-input" placeholder="Cari Movie di Cartoon+">
 
 </div>
+<button class="buttongoweb" id="filterButton">
    <div class="filterbutton" id="cinemaplus">
            <span class="mdi mdi-filter-minus" style=" font-size: 35px;color: white;"></span>
    </div>
+</button>
 </div>
+
+<div class="overlay-filter" id="overlay-filter"></div>
+    <div id="filterContainer" class="filter-container">
+            <div class="handle"></div>
+        <div class="box">
+            <h2>Filter Options (Coming Soon)</h2>
+            <!-- Your filter options go here -->
+        </div>
+    </div>
+
  <div style="width: 100%; display: flex; justify-content: center; align-items:center; gap: 20px;margin-top: -10px;" >
                          <button class="button active" data-id="cartoonplus" onclick="tampilkanSection('cartoonplus')"ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)">
                                                         <div class="overlay"></div>
@@ -609,11 +623,12 @@
 </div>
 
 
-
 </section>
         <div class="batas"></div>
 <script src="main.js"></script>
 <script src="data_play_video.js"></script>
+<script src="filter.js"></script>
+
 </script>
 </body>
 
