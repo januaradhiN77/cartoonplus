@@ -890,19 +890,19 @@ text-align: center;
   width:200px;
   display: flex;
   flex-direction: column;
-  height: 150px;
+  height: 100px;
   justify-content: center;
   align-items: center;
   border-radius: 20px;
-  margin-right: 15px;
+  margin-right: 5px;
   padding: 30px;
-  margin-left: 15px; 
+  margin-left: 5px; 
   background: #262626;
   border: 1px solid transparent;
 }
 
 .studio-filter-box img{
-  width:100px;
+  width:80px;
   margin-top: 0px;
   
   z-index: 2;
