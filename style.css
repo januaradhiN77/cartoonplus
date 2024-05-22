@@ -809,4 +809,17 @@ text-align: center;
         font-family: 'Zen Maru Gothic';
         color:#FFCA5A;
 }
+.filterbutton{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        display: none;
+        align-items: center;
+        background: #202020;
+        height: 45px;
+        width: 50px;
+        margin-left: 20px;
+        border-radius: 10px;
+}
 }
