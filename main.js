@@ -84,10 +84,28 @@ function goToLink(websiteURL) {
       window.location.href = websiteURL;
 
     }
-    
-    
-    
-    
-    
-    
+function filterBoxes(studio) {
+    // Save the selected studio to localStorage
+    localStorage.setItem('selectedStudio', studio);
+
+    // Get all box elements
+    const boxes = document.querySelectorAll('.movies-box');
+
+    // Loop through all boxes and display only those that match the selected studio
+    boxes.forEach(box => {
+        if (studio === 'all') {
+            box.style.display = 'block';
+        } else if (box.classList.contains(studio)) {
+            box.style.display = 'block';
+        } else {
+            box.style.display = 'none';
+        }
+    });
+}
+
+// When the page loads, retrieve the selected studio from localStorage
+window.onload = () => {
+    const selectedStudio = localStorage.getItem('selectedStudio') || 'all';
+    filterBoxes(selectedStudio);
+};
     
