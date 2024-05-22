@@ -57,7 +57,8 @@ searchInput.addEventListener("input", function() {
 
 function tampilkanSection(id) {
   // Menampilkan section yang dipilih
-  var sections = document.querySelectorAll('.container');
+  var sections = document.querySelectorAll('.container, .filterbutton');
+  
   sections.forEach(function(section) {
     if (section.id === id) {
       section.style.display = 'flex'; // Menampilkan section dengan display flex jika id adalah 'semua'
