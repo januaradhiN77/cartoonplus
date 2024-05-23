@@ -3149,7 +3149,7 @@
                 "type": "HD+",
                 "gendre1": "Action",
                 "gendre2": "Comedy",
-                "gendre3": "Crime",
+                "gendre3": "Kriminal",
                 "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/ac/Comic_8.jpg/220px-Comic_8.jpg",
                 "trailer": "https://www.youtube.com/embed/3DSldkw35n4?si=ZrbINh-Aqr5s2sus",
