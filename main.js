@@ -89,8 +89,8 @@ function tampilkanStudio(studioId) {
     var studios = document.querySelectorAll('.movies-box');
     
     studios.forEach(function(studio) {
-        if (studioId === 'all' || studio.id === studioId) {
-            studio.style.display = 'flex'; // Menampilkan studio dengan display flex jika ID sesuai atau 'all'
+        if (studioId === 'all' || studio.classList.contains(studioId)) {
+            studio.style.display = 'flex'; // Menampilkan studio dengan display flex jika kelas sesuai atau 'all'
         } else {
             studio.style.display = 'none'; // Menyembunyikan studio yang tidak dipilih
         }
