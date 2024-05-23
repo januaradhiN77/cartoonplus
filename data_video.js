@@ -3272,7 +3272,7 @@
                 "rilis": "14 Desember 2023",
                 "gendre1": "Horror",
                 "gendre2": "Film jagal",
-                "gendre3": "Cerita seru",
+                "gendre3": "Religi",
                 "description": "Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.",
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/8/89/Poster_Siksa_Neraka_%28film%29.jpg",
                 "trailer": "https://www.youtube.com/embed/0bmvYIV97js",
