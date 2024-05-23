@@ -3547,7 +3547,7 @@
                 "type": "HD+",
                 "studio": "Visinema Pictures",
                 "rilis": "28 Desember 2023",
-                "gendre1": "Aksi",
+                "gendre1": "Action",
                 "gendre2": "Kriminal",
                 "gendre3": "Thriller",
                 "description": "Film ini menceritakan tentang teror sekumpulan teroris yang ingin menyerang Jakarta, ibukota Indonesia. Serangan 13 Bom ini akan menghancurkan kota dan menimbulkan banyak korban jiwa yang tak terhitung jumlahnya. Badan Kontra Terorisme Indonesia",
