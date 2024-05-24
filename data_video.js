@@ -612,7 +612,7 @@
         "terjemah": "Episode 1",
         "rating": "7.2",
         "type": "HD+",
-        "studio": "Universal Pictures",
+        "studio": "Illumination",
         "rilis": "5 April 2023",
         "gendre1": "Animasi",
         "gendre2": "Laga",
