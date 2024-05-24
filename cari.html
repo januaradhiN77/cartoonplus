@@ -86,12 +86,144 @@
   <input type="text" id="searchInput" class="search-input" placeholder="Cari Movie di Cartoon+">
 
 </div>
+
+
+
+
+
+
+
 <button class="buttongoweb" id="filterButton">
    <div class="filterbutton" id="cinemaplus">
            <span class="mdi mdi-filter-minus" style=" font-size: 35px;color: white;"></span>
    </div>
 </button>
+<button class="buttongoweb" id="filterButton2">
+   <div class="filterbutton" style="display:none;" id="cartoonplus">
+           <span class="mdi mdi-filter-minus" style=" font-size: 35px;color: white;"></span>
+   </div>
+</button>
+
+<div class="overlay-filter" id="overlay-filter2"></div>
+    <div id="filterContainer2" class="filter-container">
+            <div class="handle"></div>
+        <div class="header" style="display: flex; align-items: center; gap: 20px; ">
+                <span style="font-size: 50px;color: #FFBA2AFA;" class="mdi mdi-filter-cog"></span>
+            <h2>Filter Options</h2>
+            <!-- Your filter options go here -->
+        </div>
+      <div class="filter-studio-container" style="background: transparent;">
+              
+              <h2 style="font-family: 'Zen Maru Gothic'; margin-left: auto;">Filter Studio</h2>
+              <div style="display: flex; width: 100%; align-items: center; justify-content: center; ">
+                                    <div style="width: 130px;margin-top: 15px; border-radius: 5px; padding: 10px;background: #1E1E1E;" class="studio-filter-box studio-button active" data-studio-id="all" onclick="tampilkanStudio('all')">
+                                            <span style="font-size: 40px; transform: rotate(90deg);" class="mdi mdi-tally-mark-4"></span>
+                                            <h2 style=" font-family: 'Zen Maru Gothic'; font-size: 15px;">Show All</h2>
+                                    </div>
+              <div class="filter-studio" id="cinemaplus">
+                      
+
+                      
+                      
+                      
+                      <div class="studio-filter-box studio-button"data-studio-id="mdpictures" onclick="tampilkanStudio('mdpictures')"
+                  >
+                              <img src="">
+                      </div>
+
+                
+                
+
+                      <div class="studio-filter-box studio-button"data-studio-id="deecompany" onclick="tampilkanStudio('deecompany')">
+                              <img src="">
+                      </div>
+
+                      <div class="studio-filter-box studio-button"data-studio-id="falconpict" onclick="tampilkanStudio('falconpict')">
+                              <img src="">
+                      </div>
+                      <div class="studio-filter-box studio-button"data-studio-id="mvppict" onclick="tampilkanStudio('mvppict')">
+                              <img src="">
+                      </div>
+                      <div class="studio-filter-box studio-button"data-studio-id="rapifilms" onclick="tampilkanStudio('rapifilms')">
+                              <img src="">
+                      </div>
+                      <div class="studio-filter-box studio-button"data-studio-id="lytopict" onclick="tampilkanStudio('lytopict')">
+                              <img src="">
+                      </div>
+                      
+                      
+                      
+                      
+                      
+                      
+              </div>
+      </div>
+
+      </div>
+      <div style="display: flex; flex-direction: column; width: 100%; margin-left: -15px; margin-top: 20px;">
+                    <h2 style="font-family: 'Zen Maru Gothic'; margin-left: 10px;">Filter Genre</h2>
+              <div style="display: flex; width: 120%; margin-top: 15px; flex-wrap: wrap; gap: 7px; padding-bottom: 10px;">
+
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="horror" onclick="tampilkanStudio('horror')">
+<h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+                                            </div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="comedy" onclick="tampilkanStudio('comedy')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
 </div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="drama" onclick="tampilkanStudio('drama')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="romance" onclick="tampilkanStudio('romance')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="dokumenter" onclick="tampilkanStudio('dokumenter')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 18px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="religi" onclick="tampilkanStudio('religi')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="misteri" onclick="tampilkanStudio('misteri')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="action" onclick="tampilkanStudio('action')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="kriminal" onclick="tampilkanStudio('kriminal')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="thriller" onclick="tampilkanStudio('thriller')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="laga" onclick="tampilkanStudio('laga')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="adventure" onclick="tampilkanStudio('adventure')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+<div class="studio-filter-box studio-button" style=" height: 40px; border-radius: 10px 10px 10px 0px; width: auto; padding: 10px; " data-studio-id="fantasy" onclick="tampilkanStudio('fantasy')">
+        <h2 style="font-family: 'Zen Maru Gothic'; font-size: 20px;">No Data</h2>
+</div>
+
+
+
+
+
+
+
+
+              </div>
+
+
+    </div>
+
+    </div>
+    </div>
+
+
+
+
 
 <div class="overlay-filter" id="overlay-filter"></div>
     <div id="filterContainer" class="filter-container">
@@ -109,7 +241,7 @@
                                             <span style="font-size: 40px; transform: rotate(90deg);" class="mdi mdi-tally-mark-4"></span>
                                             <h2 style=" font-family: 'Zen Maru Gothic'; font-size: 15px;">Show All</h2>
                                     </div>
-              <div class="filter-studio">
+              <div class="filter-studio" id="cinemaplus">
                       
 
                       
@@ -209,6 +341,10 @@
 
     </div>
     </div>
+
+
+
+
 
  <div style="width: 100%; display: flex; justify-content: center; align-items:center; gap: 20px;margin-top: -10px;" >
                          <button class="button active" data-id="cartoonplus" onclick="tampilkanSection('cartoonplus')"ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)">
