@@ -840,7 +840,7 @@ text-align: center;
 
 .filter-container {
     position: fixed;
-    bottom: -100%;
+    bottom: -150%;
     left: 0;
     margin: 0 0px 0 0px;
     width: 100%;
