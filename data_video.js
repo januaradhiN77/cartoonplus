@@ -3777,7 +3777,7 @@
                 "rilis": "30 Mei 2023",
                 "gendre1": "Laga",
                 "gendre2": "Comedy",
-                "gendre3": "Petualangan",
+                "gendre3": "Adventure",
                 "description": "Miles Morales / Spider-Man berpetualang melintasi multisemesta dengan Gwen Stacy / Spider-Woman dan tim baru Spider-People yang harus menghadapi penjahat yang kuat.",
                 "bgimg": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg",
                 "trailer": "https://www.youtube.com/embed/oyKyhVcBycY",
