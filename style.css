@@ -847,7 +847,7 @@ text-align: center;
     border-radius: 20px 20px 0px 0px;
     background-color: #151515;
     color: white;
-    height: 550px;
+    height: 640px;
     
     padding: 20px;
         z-index: 99999999999999;
@@ -939,5 +939,13 @@ position: relative;
 }
 .studio-filter-box.active{
         border: 1px solid #FFBA2AFA;
+}
+.overflowy::-webkit-scrollbar{
+        width: 5px;
+        
+}
+.overflowy::-webkit-scrollbar-thumb{
+        background: #454545E3;
+        border-radius: 20px;
 }
 }
