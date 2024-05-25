@@ -213,7 +213,17 @@
 
 
     </div>
-
+                        <h2 style="font-family: 'Zen Maru Gothic'; margin-top: 15px;">Format Movie</h2>
+                        <div style="display: flex; justify-content: center; align-items: center; width: 100%;  margin-top: 10px;gap: 15px;">
+                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie studio-button" data-studio-id="hdplus" onclick="tampilkanStudio('hdplus')">
+                                        <span class="mdi mdi-video-high-definition" style="color: white;font-size: 35px;"></span>
+                                        <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD+</h2>
+                                </div>
+                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;" class="format-movie studio-button" data-studio-id="hdcam" onclick="tampilkanStudio('hdcam')">
+                                        <span class="mdi mdi-camcorder" style="color: white;font-size: 35px;"></span>
+                                        <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD Cam</h2>
+                                </div>
+                        </div>
     </div>
     </div>
 
@@ -339,11 +349,11 @@
     
                         <h2 style="font-family: 'Zen Maru Gothic'; margin-top: 15px;">Format Movie</h2>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;  margin-top: 10px;gap: 15px;">
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie studio-button" data-studio-id="hdplus" onclick="tampilkanStudio('hdplus')" >
         <span class="mdi mdi-video-high-definition" style="color: white;font-size: 35px;"></span>
         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD+</h2>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;"class="format-movie studio-button" data-studio-id="hdcam" onclick="tampilkanStudio('hdcam')">
         <span class="mdi mdi-camcorder" style="color: white;font-size: 35px;"></span>
         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD Cam</h2>
 </div>
@@ -375,7 +385,7 @@
 <section class="container" id="cinemaplus">
         <div class="search-container">
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=trinilkembalikantubuhku')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror drama thriller" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=trinilkembalikantubuhku')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror hdplus drama thriller" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/5/50/Poster_Trinil-_Kembalikan_Tubuhku_%282024%29.jpg">
                   <div class="image-overlay"></div>
@@ -386,7 +396,7 @@
 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jatuhcintasepertidifilm')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton comedy drama romance" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jatuhcintasepertidifilm')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton comedy drama  hdplus romance" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/0/0c/Poster_Jatuh_Cinta_Seperti_di_Film-Film.jpg">
                   <div class="image-overlay"></div>
@@ -396,7 +406,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=13bomdijakarta')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton action kriminal thriller" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=13bomdijakarta')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton action kriminal thriller hdplus " style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg">
                   <div class="image-overlay"></div>
@@ -406,7 +416,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamalidusunpocong')"><div class="data-item"><div  ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton lytopict horror misteri drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamalidusunpocong')"><div class="data-item"><div  ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton hdplus  lytopict horror misteri drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_Pamali_2.jpg">
                   <div class="image-overlay"></div>
@@ -417,7 +427,7 @@
 
 
 
-          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=siksaneraka')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton deecompany horror religi" style="width: 116px; height: 199px;">
+          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=siksaneraka')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton deecompany  hdplus horror religi" style="width: 116px; height: 199px;">
                         
             <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/8/89/Poster_Siksa_Neraka_%28film%29.jpg">
             <div class="image-overlay"></div>
@@ -429,7 +439,7 @@
                 
                 
                 
-          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=onepieceliveaction')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton action adventure fantasy" style="width: 116px; height: 199px;">
+          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=onepieceliveaction')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box hdplus  skeleton action adventure fantasy" style="width: 116px; height: 199px;">
                         
             <img style="width: 116px; height: 190px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFlWNoHwZtCcgtIK4E-e0TBQDq19ObmzcQv4ofFbk74zXhPKod8-SiKIDQCBBmS8vsnbzzSxrDt2DruJOCO958f3nrRvAyeQLPfI6N0qH1PvTU4gUJ8m4Yvsfi4e-OJFdrs7KOw98cSjTi6HpVRh0E6LOm1L0gHaS-vN0I3Hyk663WMU0dPCeBaRbPdHI/w600/One-Piece-Live-Action-Cover.jpg">
             <div class="image-overlay"></div>
@@ -438,7 +448,7 @@
 
           </div>       <div style="width: 100%; height: 20px;"></div></button>
           
-          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=comic81-2')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton falconpict comedy kriminal action" style="width: 116px; height: 199px;">
+          <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=comic81-2')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton falconpict  hdplus comedy kriminal action" style="width: 116px; height: 199px;">
                         
             <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/a/ac/Comic_8.jpg/220px-Comic_8.jpg">
             <div class="image-overlay"></div>
@@ -447,7 +457,7 @@
 
           </div>       <div style="width: 100%; height: 20px;"></div></button>
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=waktumaghrib')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton rapifilms horror misteri thriller" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=waktumaghrib')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus rapifilms horror misteri thriller" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/220px-Poster_Waktu_Maghrib.jpg">
                   <div class="image-overlay"></div>
@@ -455,7 +465,7 @@
                   <div class="judul-movies skeleton"><h1>Waktu Maghrib</h1></div></div>
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mumun')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton deecompany horror laga comedy" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mumun')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus deecompany horror laga comedy" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/4/4e/Mumun_official_poster.jpeg">
                   <div class="image-overlay"></div>
@@ -463,7 +473,7 @@
                   <div class="judul-movies skeleton"><h1>Mumun (2022)</h1></div></div>
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jinqorin')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror drama religi" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jinqorin')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton hdplus  horror drama religi" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EuUj1icrvCXyLapH7KErqPSNVRNBcVwLiw&usqp=CAU">
                   <div class="image-overlay"></div>
@@ -471,7 +481,7 @@
                   <div class="judul-movies skeleton"><h1>Jin Qorin</h1></div></div>
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=iblisdalamkandungan')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror laga drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=iblisdalamkandungan')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus horror laga drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/7/79/Iblisdalamkandungan2022_official_Poster.jpeg">
                   <div class="image-overlay"></div>
@@ -481,7 +491,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=vivajkt48')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton musikal dokumenter drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=vivajkt48')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton musikal dokumenter drama hdplus " style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/a/ad/Poster_Viva_JKT48.jpg/440px-Poster_Viva_JKT48.jpg">
                   <div class="image-overlay"></div>
@@ -491,7 +501,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=suzzannamalamjumatkliwon')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror drama misteri" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=suzzannamalamjumatkliwon')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror hdplus  drama misteri" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/SMJK_%282023%29.jpg/440px-SMJK_%282023%29.jpg">
                   <div class="image-overlay"></div>
@@ -502,7 +512,7 @@
 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sewudino')"><div class="data-item"><div id="mdpictures" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mdpictures horror thriller drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sewudino')"><div class="data-item"><div id="mdpictures" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton hdplus  mdpictures horror thriller drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/0/0c/Sewu_Dino.jpg">
                   <div class="image-overlay"></div>
@@ -511,7 +521,7 @@
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mangkujiwo2')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mvppict horror drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mangkujiwo2')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mvppict  hdplus horror drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/3/31/Poster_Mangkujiwo_2.jpg">
                   <div class="image-overlay"></div>
@@ -524,7 +534,7 @@
                 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=aliceinborderland')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton drama thriller" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=aliceinborderland')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton drama hdplus  thriller" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuF-lsu-dCdzN3aFRHWNeE17xjQRMelH2hZ0l31XZ6w&s">
                   <div class="image-overlay"></div>
@@ -534,7 +544,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamali')"><div class="data-item"><div  ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton lytopict horror misteri drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=pamali')"><div class="data-item"><div  ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus lytopict horror misteri drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/9/98/Film_pamali.jpeg">
                   <div class="image-overlay"></div>
@@ -544,7 +554,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kenapague')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton drama comedy" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kenapague')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton hdplus  drama comedy" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/a/a6/Poster_Kenapa_Gue%3F.jpg">
                   <div class="image-overlay"></div>
@@ -555,7 +565,7 @@
 
                 
                 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sijjin')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton rapifilms horror religi " style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=sijjin')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton rapifilms  hdplus horror religi " style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/8/8a/Poster_Sijjin.jpg">
                   <div class="image-overlay"></div>
@@ -565,7 +575,7 @@
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=ancika1995')"><div class="data-item"id="mdpictures"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mdpictures romance drama comedy" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=ancika1995')"><div class="data-item"id="mdpictures"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton hdplus  mdpictures romance drama comedy" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/2/2b/Poster_Ancika_-_Dia_yang_Bersamaku_1995_%282024%29.jpg">
                   <div class="image-overlay"></div>
@@ -576,7 +586,7 @@
 
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kalianpantasmati')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror drama misteri" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kalianpantasmati')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror  hdplus drama misteri" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://m.media-amazon.com/images/M/MV5BMzVmYmMzNzAtMjkwZS00MzRjLTgxNzItOTlkYzkxMTU4YmZmXkEyXkFqcGdeQXVyNzYzNjM4MzY@._V1_QL75_UY562_CR7,0,380,562_.jpg">
                   <div class="image-overlay"></div>
@@ -584,7 +594,7 @@
                   <div class="judul-movies skeleton"><h1>Kalian Pantas Mati</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=diambangkematian')"><div class="data-item "><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mvppict horror drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=diambangkematian')"><div class="data-item "><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus mvppict horror drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_DAK.jpg">
                   <div class="image-overlay"></div>
@@ -592,27 +602,27 @@
                   <div class="judul-movies skeleton"><h1>Di Ambang Kematian</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
 
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=panggonanwingit')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton horror misteri drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=panggonanwingit')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus horror misteri drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/9/9b/Poster_Panggonan_Wingit.jpg">
                   <div class="image-overlay"></div>
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>Panggonan Wingit</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
                   
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kkndidesapenari')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mdpictures horror misteri drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=kkndidesapenari')"><div class="data-item"><div ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton mdpictures horror misteri drama hdplus " style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPM8QvloENhQMewYPt4gUhQI51vxfQA-LRGv4EeAIE1WiFSEth4AAZGPt&s=10">
                   <div class="image-overlay"></div>
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>KKN di Desa Penari</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
 
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=duagarisbiru')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton romance comedy drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=duagarisbiru')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton romance hdplus  comedy drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Dua_Garis_Biru.jpg?20200113133153">
                   <div class="image-overlay"></div>
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>Dua Garis Biru</h1></div></div>       <div style="width: 100%; height: 20px;"></div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mariposa')"><div class="data-item"><div id="falconpict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton falconpict romance comedy drama" style="width: 116px; height: 199px;">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=mariposa')"><div class="data-item"><div id="falconpict" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton  hdplus falconpict romance comedy drama" style="width: 116px; height: 199px;">
                         
                   <img style="width: 116px; height: 190px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgly1SjUOH5W6UYCs-Dy0azMVHSx9_i2g5yILe9OGRlu7eJWqgxo7OkRZ&s=10">
                   <div class="image-overlay"></div>

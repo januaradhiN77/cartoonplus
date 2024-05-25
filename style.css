@@ -940,6 +940,11 @@ position: relative;
 .studio-filter-box.active{
         border: 1px solid #FFBA2AFA;
 }
+.format-movie.active{
+
+        border: 1px solid #FFBA2AFA;
+
+}
 .overflowy::-webkit-scrollbar{
         width: 5px;
         
