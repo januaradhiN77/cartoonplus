@@ -947,7 +947,7 @@ position: relative;
 color: #FFBA2AFA;
 }
 .overflowy::-webkit-scrollbar{
-        width: 5px;
+        width: 3px;
         
 }
 .overflowy::-webkit-scrollbar-thumb{
