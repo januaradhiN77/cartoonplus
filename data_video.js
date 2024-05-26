@@ -3865,7 +3865,80 @@
         
                 
             },
+"saranjanakotaghaib": {
+                "title": "Saranjana: Kota Ghaib",
+                "terjemah": "Film Bioskop",
+                "rating": "4.4",
+                "type": "HD+",
+                "studio": "DHF Entertainment",
+                "rilis": "26 Oktober 2023",
+                "gendre1": "Horror",
+                "gendre2": "Adventure",
+                "gendre3": "Fiksi",
+                "description": "Sebuah band bernama Signifikan asal Jakarta sedang melakukan tour konser di Kotabaru, Kalimantan Selatan. Namun Shita (Adinda Azani) si vokalis Band menghilang secara misterius.Setelah mencari informasi, anggota band lainnya meyakini Sitha berada di Saranjana, sebuah kota yang dipercaya warga lokal sebagai kota ghaib yang modern dan maju.Dalam waktu 7 hari Mereka pun harus melakukan petualangan yang penuh dengan kejadian horor dan mistis masuk ke kota saranjana untuk membawa sang vokalis kembali.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/0/07/Saranjana_kota_ghaib.jpg",
+                "trailer": "https://www.youtube.com/embed/24Cqnrlzc1I",
+                "duration": "1 jam 38m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Saranjana: Kota Ghaib",
+"description": "Sebuah band bernama Signifikan asal Jakarta sedang melakukan tour konser di Kotabaru, Kalimantan Selatan. Namun Shita (Adinda Azani) si vokalis Band menghilang secara misterius.Setelah mencari informasi, anggota band lainnya meyakini Sitha berada di Saranjana, sebuah kota yang dipercaya warga lokal sebagai kota ghaib yang modern dan maju.Dalam waktu 7 hari Mereka pun harus melakukan petualangan yang penuh dengan kejadian horor dan mistis masuk ke kota saranjana untuk membawa sang vokalis kembali.",
+       "episodeUrl": "",
 
+                    
+       }
+        ],
+"aktor": [
+        {
+                "image aktor": "https://img.inews.co.id/media/600/files/inews_new/2023/09/30/profil_dan_biodata_adinda_azani.jpg",
+                "namaAktor": "Adinda Azani",
+                "karakter": "(Sitha)"
+},
+        {
+                "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-E9n15ooAZurvQsjXR0bm-ICoAXmtm_aDFyrsuIpZtwL9V1HuddJikURNxqvT2hSvc9J2jQ",
+                "namaAktor": "Betari Ayu",
+                "karakter": "(Fitri)"
+},
+        {
+                "image aktor": "https://yt3.googleusercontent.com/ytc/AIdro_mm-1AJ90WMr9ASYuSGIuEFw-Rt7RUpMGOGpND3EDf-TkU=s900-c-k-c0x00ffffff-no-rj",
+                "namaAktor": "Luthfi Aulia",
+                "karakter": "(Rendy)"
+},
+        {
+                "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIHrVMnzz0A-CrY5aOyHX1HZfyDi9FhVp7x7C8Fmwmb59HXHazwogHhbff2O3RbneBkyZM",
+                "namaAktor": "Irzan Faiq",
+                "karakter": "(Dion)"
+},
+        {
+                "image aktor": "https://asset.tix.id/wp-content/uploads/2023/11/j3VdWaVrsfeCDmMKYVnhE3VQykN-390x520.jpg",
+                "namaAktor": "Ananda George",
+                "karakter": "(Kakek Hendra)"
+},
+        {
+                "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdKFytDO4tqjbhn_mFwaWlEwgMetCCk26oyfoYO6FIAVTIsi71",
+                "namaAktor": "Ajeng Fauziah",
+                "karakter": "(Vey)"
+},
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Gusti Gina",
+                "karakter": "(Midah)"
+},
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "M. Adhiyat",
+                "karakter": "(Hendra)"
+},
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Mourys Sam",
+                "karakter": "(Anwar)"
+},
+
+
+]
+            },
             
             
             
