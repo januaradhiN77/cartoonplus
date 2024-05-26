@@ -3884,7 +3884,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Saranjana: Kota Ghaib",
 "description": "Sebuah band bernama Signifikan asal Jakarta sedang melakukan tour konser di Kotabaru, Kalimantan Selatan. Namun Shita (Adinda Azani) si vokalis Band menghilang secara misterius.Setelah mencari informasi, anggota band lainnya meyakini Sitha berada di Saranjana, sebuah kota yang dipercaya warga lokal sebagai kota ghaib yang modern dan maju.Dalam waktu 7 hari Mereka pun harus melakukan petualangan yang penuh dengan kejadian horor dan mistis masuk ke kota saranjana untuk membawa sang vokalis kembali.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1aOrX_5EC4d_mK7hA61hljbAXFHdrFgIB/preview",
 
                     
        }
@@ -3939,7 +3939,110 @@
 
 ]
             },
-            
+"kutukansembilansetan": {
+                "title": "Kutukan Sembilan Setan",
+                "terjemah": "Film Bioskop",
+                "rating": "9.0",
+                "type": "HD+",
+                "studio": "PIM Pictures",
+                "rilis": "8 Juni 2023",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Kisah Nyata",
+                "description": "Verdy dan keempat temannya Devon, Sarah, Lia dan Miko adalah sahabat yang sama-sama suka traveling. Suatu hari, mereka sepakat untuk liburan panjang selama lima hari di Kawasan Gunung Bromo dan memutuskan menyewa villa yang dilihat dari website. Setibanya di lokasi villa, ternyata wujud villanya tidak sesuai dengan iklan. Ternyata jauh lebih jadul dan tidak terawat bahkan tampak dari luar cukup menyeramkan. Ternyata di wilayah Bromo, mereka menginap di villa yang tampak aneh dari luar. Benar saja sejak hari pertama menginap di villa tersebut mereka mendapatkan teror dan misteri yang diluar nalar akal manusia. ",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQy5WbLvGXqrK9JUJh4lyNGvBKK16iJkBoUQ&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/MFeqG39gesw?si=H5OOGXnGH_oqEk9d",
+                "duration": "1 jam 37m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Kutukan Sembilan Setan",
+"description": "Verdy dan keempat temannya Devon, Sarah, Lia dan Miko adalah sahabat yang sama-sama suka traveling. Suatu hari, mereka sepakat untuk liburan panjang selama lima hari di Kawasan Gunung Bromo dan memutuskan menyewa villa yang dilihat dari website. Setibanya di lokasi villa, ternyata wujud villanya tidak sesuai dengan iklan. Ternyata jauh lebih jadul dan tidak terawat bahkan tampak dari luar cukup menyeramkan. Ternyata di wilayah Bromo, mereka menginap di villa yang tampak aneh dari luar. Benar saja sejak hari pertama menginap di villa tersebut mereka mendapatkan teror dan misteri yang diluar nalar akal manusia. ",
+       "episodeUrl": "https://drive.google.com/file/d/1hoRgMHrFKnYyMSPcfWTe9Kgz3bQ1Ila9/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ajil_Ditto_in_2021.png/440px-Ajil_Ditto_in_2021.png",
+"namaAktor": "Ajil Ditto",
+"karakter": "(Devon)"
+},
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Denira_Wiraguna_Lintas_Imaji_Netmediatama.png/440px-Denira_Wiraguna_Lintas_Imaji_Netmediatama.png",
+"namaAktor": "Denira Wiraguna",
+"karakter": "(Lia)"
+},
+{
+"image aktor": "https://cdn1-production-images-kly.akamaized.net/GttV-jcLHFet4YDHUNR-KLDwxuk=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4731649/original/061890000_1706754393-WhatsApp_Image_2024-01-31_at_14.50.15.jpeg",
+"namaAktor": "Frislly Herlind",
+"karakter": "(Sarah)"
+},
+{
+"image aktor": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzY1sJEYII2LdwSEecQr6NcVRb8gB42JugIH_CfwMjRuO0bSBTJPpuy-4hcD0Z89fOKxRA",
+"namaAktor": "Fandy Christian",
+"karakter": "(Verdy)"
+},
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Joshua_Suherman%2C_Netmediatama%2C_00.18.jpg",
+"namaAktor": "Joshua Suherman",
+"karakter": "(Miko)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Fadlan Holao",
+"karakter": "(Sunarto)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Erick van Loon",
+"karakter": "(Van Der Heinz)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Sabrina Bayramova",
+"karakter": "(Merry Van Der Heinz)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Fahira Almira",
+"karakter": "(Mirell)"
+},
+{
+"image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp76oOaZLv0iXUYvPl1AZMdW_qkH5029U0Q&usqp=CAU",
+"namaAktor": "Brooklyn R",
+"karakter": "(Maurice)"
+},
+{
+"image aktor": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/03/19/whatsapp-image-2021-03-19-at-09-20210319081006.jpeg",
+"namaAktor": "Geraldy Kreckhoff",
+"karakter": "(Andreas)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Eistevanya Alexandra",
+"karakter": "(Marissa)"
+},
+{
+"image aktor": "https://t-2.tstatic.net/wartakota/foto/bank/images/egi-fedly-ah.jpg",
+"namaAktor": "Egy Fedly",
+"karakter": "(Tarjo)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Irna Juffe",
+"karakter": "(Aminah)"
+},
+{
+"image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+"namaAktor": "Zenia Zein",
+"karakter": "(Aisyah)"
+},
+
+]
+                
+            },
             
             
             
