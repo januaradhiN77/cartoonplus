@@ -521,7 +521,7 @@
        "episodeJudul": "Big Hero 6",
                 "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
 
-       "episodeUrl": "https://acefile.co/player/103558787",
+       "episodeUrl": "https://drive.google.com/file/d/1FfELYulqq0QxNBWUAS9pMvla40mab7ZW/preview",
 
                     
        }
