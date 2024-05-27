@@ -85,23 +85,65 @@ function goToLink(websiteURL) {
 
     }
 function tampilkanStudio(studioId) {
-    // Menampilkan studio yang dipilih atau semua studio
+    // Menampilkan atau menyembunyikan studio berdasarkan filter yang dipilih
     var studios = document.querySelectorAll('.movies-box');
-    
-    studios.forEach(function(studio) {
-        if (studioId === 'all' || studio.classList.contains(studioId)) {
-            studio.style.display = 'flex'; // Menampilkan studio dengan display flex jika kelas sesuai atau 'all'
-        } else {
-            studio.style.display = 'none'; // Menyembunyikan studio yang tidak dipilih
-        }
-    });
 
-    // Menghapus kelas active dari semua tombol studio
-    var buttons = document.querySelectorAll('.studio-button');
-    buttons.forEach(function(button) {
-        button.classList.remove('active');
-        if (button.getAttribute('data-studio-id') === studioId) {
-            button.classList.add('active');
+    if (studioId === 'all') {
+        studios.forEach(function(studio) {
+            studio.style.display = 'flex'; // Menampilkan semua studio jika 'all' dipilih
+        });
+        // Nonaktifkan semua tombol filter kecuali tombol 'all'
+        var buttons = document.querySelectorAll('.studio-button');
+        buttons.forEach(function(button) {
+            button.classList.remove('active');
+        });
+        var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+        var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+        allButton.classList.add('active');
+        allButton1.classList.add('active');
+    } else {
+        var selectedFilters = new Set();
+        var buttons = document.querySelectorAll('.studio-button');
+        
+        // Toggle kelas active untuk tombol yang dipilih
+        buttons.forEach(function(button) {
+            if (button.getAttribute('data-studio-id') === studioId) {
+                if (button.classList.contains('active')) {
+                    button.classList.remove('active');
+                } else {
+                    button.classList.add('active');
+                }
+            }
+            if (button.classList.contains('active')) {
+                selectedFilters.add(button.getAttribute('data-studio-id'));
+            }
+        });
+
+        // Tambahkan atau hapus filter dari Set selectedFilters
+        if (selectedFilters.size === 0) {
+            // Jika tidak ada filter yang aktif, tampilkan semua studio
+            studios.forEach(function(studio) {
+                studio.style.display = 'flex';
+            });
+            var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+            var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+            allButton.classList.add('active');
+            allButton1.classList.add('active');
+        } else {
+            // Nonaktifkan tombol 'all'
+            var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+            var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+            allButton.classList.remove('active');
+allButton1.classList.remove('active');
+            studios.forEach(function(studio) {
+                let shouldDisplay = false;
+                selectedFilters.forEach(function(filter) {
+                    if (studio.classList.contains(filter)) {
+                        shouldDisplay = true;
+                    }
+                });
+                studio.style.display = shouldDisplay ? 'flex' : 'none';
+            });
         }
-    });
+    }
 }
