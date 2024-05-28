@@ -84,7 +84,7 @@ function goToLink(websiteURL) {
       window.location.href = websiteURL;
 
     }
-        var selectedStudios = new Set();
+var selectedStudios = new Set();
         var selectedGenres = new Set();
         var selectedFormats = new Set();
 
@@ -137,8 +137,6 @@ function goToLink(websiteURL) {
         }
 
         function tampilkanGenre(genreId) {
-            var genres = document.querySelectorAll('.movies-box');
-
             var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
             genreButtons.forEach(function(genreButton) {
                 if (genreButton.classList.contains('active')) {
@@ -164,16 +162,16 @@ function goToLink(websiteURL) {
         }
 
         function tampilkanFormat(formatId) {
-            var formats = document.querySelectorAll('.movies-box');
-
-            var formatButton = document.querySelector(`.format-button[data-format-id="${formatId}"]`);
-            if (formatButton.classList.contains('active')) {
-                formatButton.classList.remove('active');
-                selectedFormats.delete(formatId);
-            } else {
-                formatButton.classList.add('active');
-                selectedFormats.add(formatId);
-            }
+            var formatButtons = document.querySelectorAll(`.format-button[data-format-id="${formatId}"]`);
+            formatButtons.forEach(function(formatButton) {
+                if (formatButton.classList.contains('active')) {
+                    formatButton.classList.remove('active');
+                    selectedFormats.delete(formatId);
+                } else {
+                    formatButton.classList.add('active');
+                    selectedFormats.add(formatId);
+                }
+            });
 
             var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
             var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
