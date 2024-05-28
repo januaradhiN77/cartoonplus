@@ -87,6 +87,7 @@ function goToLink(websiteURL) {
 var selectedStudios = new Set();
 var selectedGenres = new Set();
 var selectedFormats = new Set();
+const MAX_GENRE_SELECTION = 3;
 
 function tampilkanStudio(studioId) {
     var studios = document.querySelectorAll('.movies-box');
@@ -107,46 +108,36 @@ function tampilkanStudio(studioId) {
         allButton.classList.add('active');
         allButton1.classList.add('active');
     } else {
-        var buttons = document.querySelectorAll('.studio-button');
-        buttons.forEach(function(button) {
-            if (button.getAttribute('data-studio-id') === studioId) {
-                if (button.classList.contains('active')) {
-                    button.classList.remove('active');
-                    selectedStudios.delete(studioId);
-                } else {
-                    button.classList.add('active');
-                    selectedStudios.add(studioId);
-                }
-            }
-        });
-
-        var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-        var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-        if (selectedStudios.size === 0 && selectedGenres.size === 0 && selectedFormats.size === 0) {
-            studios.forEach(function(studio) {
-                studio.style.display = 'flex';
-            });
-            allButton.classList.add('active');
-            allButton1.classList.add('active');
+        var button = document.querySelector(`.studio-button[data-studio-id="${studioId}"]`);
+        if (button.classList.contains('active')) {
+            button.classList.remove('active');
+            selectedStudios.delete(studioId);
         } else {
-            allButton.classList.remove('active');
-            allButton1.classList.remove('active');
-            filterAndDisplayStudios();
+            button.classList.add('active');
+            selectedStudios.add(studioId);
         }
+
+        updateAllButtonState();
+        filterAndDisplayStudios();
     }
 }
 
 function tampilkanGenre(genreId) {
     var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
-    genreButtons.forEach(function(genreButton) {
-        if (genreButton.classList.contains('active')) {
+
+    if (selectedGenres.has(genreId)) {
+        genreButtons.forEach(function(genreButton) {
             genreButton.classList.remove('active');
-            selectedGenres.delete(genreId);
-        } else {
+        });
+        selectedGenres.delete(genreId);
+    } else if (selectedGenres.size < MAX_GENRE_SELECTION) {
+        genreButtons.forEach(function(genreButton) {
             genreButton.classList.add('active');
-            selectedGenres.add(genreId);
-        }
-    });
+        });
+        selectedGenres.add(genreId);
+    } else {
+        alert(`Kamu hanya bisa memilih ${MAX_GENRE_SELECTION} genre.`);
+    }
 
     updateAllButtonState();
     filterAndDisplayStudios();
@@ -193,7 +184,7 @@ function filterAndDisplayStudios() {
         }
 
         if (shouldDisplay && selectedGenres.size > 0) {
-            shouldDisplay = Array.from(selectedGenres).some(function(filter) {
+            shouldDisplay = Array.from(selectedGenres).every(function(filter) {
                 return studio.classList.contains(filter);
             });
         }
