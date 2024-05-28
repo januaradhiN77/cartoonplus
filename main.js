@@ -85,131 +85,125 @@ function goToLink(websiteURL) {
 
     }
 var selectedStudios = new Set();
-        var selectedGenres = new Set();
-        var selectedFormats = new Set();
+var selectedGenres = new Set();
+var selectedFormats = new Set();
 
-        function tampilkanStudio(studioId) {
-            var studios = document.querySelectorAll('.movies-box');
+function tampilkanStudio(studioId) {
+    var studios = document.querySelectorAll('.movies-box');
 
-            if (studioId === 'all') {
-                selectedStudios.clear();
-                selectedGenres.clear();
-                selectedFormats.clear();
-                studios.forEach(function(studio) {
-                    studio.style.display = 'flex';
-                });
-                var buttons = document.querySelectorAll('.studio-button, .genre-button, .format-button');
-                buttons.forEach(function(button) {
+    if (studioId === 'all') {
+        selectedStudios.clear();
+        selectedGenres.clear();
+        selectedFormats.clear();
+        studios.forEach(function(studio) {
+            studio.style.display = 'flex';
+        });
+        var buttons = document.querySelectorAll('.studio-button, .genre-button, .format-button');
+        buttons.forEach(function(button) {
+            button.classList.remove('active');
+        });
+        var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+        var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+        allButton.classList.add('active');
+        allButton1.classList.add('active');
+    } else {
+        var buttons = document.querySelectorAll('.studio-button');
+        buttons.forEach(function(button) {
+            if (button.getAttribute('data-studio-id') === studioId) {
+                if (button.classList.contains('active')) {
                     button.classList.remove('active');
-                });
-                var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-                var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-                allButton.classList.add('active');
-                allButton1.classList.add('active');
-            } else {
-                var buttons = document.querySelectorAll('.studio-button');
-                buttons.forEach(function(button) {
-                    if (button.getAttribute('data-studio-id') === studioId) {
-                        if (button.classList.contains('active')) {
-                            button.classList.remove('active');
-                            selectedStudios.delete(studioId);
-                        } else {
-                            button.classList.add('active');
-                            selectedStudios.add(studioId);
-                        }
-                    }
-                });
-
-                var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-                var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-                if (selectedStudios.size === 0) {
-                    studios.forEach(function(studio) {
-                        studio.style.display = 'flex';
-                    });
-                    allButton.classList.add('active');
-                    allButton1.classList.add('active');
+                    selectedStudios.delete(studioId);
                 } else {
-                    allButton.classList.remove('active');
-                    allButton1.classList.remove('active');
-                    filterAndDisplayStudios();
+                    button.classList.add('active');
+                    selectedStudios.add(studioId);
                 }
             }
-        }
+        });
 
-        function tampilkanGenre(genreId) {
-            var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
-            genreButtons.forEach(function(genreButton) {
-                if (genreButton.classList.contains('active')) {
-                    genreButton.classList.remove('active');
-                    selectedGenres.delete(genreId);
-                } else {
-                    genreButton.classList.add('active');
-                    selectedGenres.add(genreId);
-                }
-            });
-
-            var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-            var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-            if (selectedGenres.size === 0 && selectedStudios.size === 0 && selectedFormats.size === 0) {
-                allButton.classList.add('active');
-                allButton1.classList.add('active');
-            } else {
-                allButton.classList.remove('active');
-                allButton1.classList.remove('active');
-            }
-
-            filterAndDisplayStudios();
-        }
-
-        function tampilkanFormat(formatId) {
-            var formatButtons = document.querySelectorAll(`.format-button[data-format-id="${formatId}"]`);
-            formatButtons.forEach(function(formatButton) {
-                if (formatButton.classList.contains('active')) {
-                    formatButton.classList.remove('active');
-                    selectedFormats.delete(formatId);
-                } else {
-                    formatButton.classList.add('active');
-                    selectedFormats.add(formatId);
-                }
-            });
-
-            var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-            var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-            if (selectedFormats.size === 0 && selectedStudios.size === 0 && selectedGenres.size === 0) {
-                allButton.classList.add('active');
-                allButton1.classList.add('active');
-            } else {
-                allButton.classList.remove('active');
-                allButton1.classList.remove('active');
-            }
-
-            filterAndDisplayStudios();
-        }
-
-        function filterAndDisplayStudios() {
-            var studios = document.querySelectorAll('.movies-box');
-
+        var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+        var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+        if (selectedStudios.size === 0 && selectedGenres.size === 0 && selectedFormats.size === 0) {
             studios.forEach(function(studio) {
-                let shouldDisplay = true;
+                studio.style.display = 'flex';
+            });
+            allButton.classList.add('active');
+            allButton1.classList.add('active');
+        } else {
+            allButton.classList.remove('active');
+            allButton1.classList.remove('active');
+            filterAndDisplayStudios();
+        }
+    }
+}
 
-                if (selectedStudios.size > 0) {
-                    shouldDisplay = Array.from(selectedStudios).some(function(filter) {
-                        return studio.classList.contains(filter);
-                    });
-                }
+function tampilkanGenre(genreId) {
+    var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
+    genreButtons.forEach(function(genreButton) {
+        if (genreButton.classList.contains('active')) {
+            genreButton.classList.remove('active');
+            selectedGenres.delete(genreId);
+        } else {
+            genreButton.classList.add('active');
+            selectedGenres.add(genreId);
+        }
+    });
 
-                if (shouldDisplay && selectedGenres.size > 0) {
-                    shouldDisplay = Array.from(selectedGenres).some(function(filter) {
-                        return studio.classList.contains(filter);
-                    });
-                }
+    updateAllButtonState();
+    filterAndDisplayStudios();
+}
 
-                if (shouldDisplay && selectedFormats.size > 0) {
-                    shouldDisplay = Array.from(selectedFormats).some(function(filter) {
-                        return studio.classList.contains(filter);
-                    });
-                }
+function tampilkanFormat(formatId) {
+    var formatButtons = document.querySelectorAll(`.format-button[data-format-id="${formatId}"]`);
+    formatButtons.forEach(function(formatButton) {
+        if (formatButton.classList.contains('active')) {
+            formatButton.classList.remove('active');
+            selectedFormats.delete(formatId);
+        } else {
+            formatButton.classList.add('active');
+            selectedFormats.add(formatId);
+        }
+    });
 
-                studio.style.display = shouldDisplay ? 'flex' : 'none';
+    updateAllButtonState();
+    filterAndDisplayStudios();
+}
+
+function updateAllButtonState() {
+    var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+    var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+    if (selectedStudios.size === 0 && selectedGenres.size === 0 && selectedFormats.size === 0) {
+        allButton.classList.add('active');
+        allButton1.classList.add('active');
+    } else {
+        allButton.classList.remove('active');
+        allButton1.classList.remove('active');
+    }
+}
+
+function filterAndDisplayStudios() {
+    var studios = document.querySelectorAll('.movies-box');
+
+    studios.forEach(function(studio) {
+        let shouldDisplay = true;
+
+        if (selectedStudios.size > 0) {
+            shouldDisplay = Array.from(selectedStudios).some(function(filter) {
+                return studio.classList.contains(filter);
             });
         }
+
+        if (shouldDisplay && selectedGenres.size > 0) {
+            shouldDisplay = Array.from(selectedGenres).some(function(filter) {
+                return studio.classList.contains(filter);
+            });
+        }
+
+        if (shouldDisplay && selectedFormats.size > 0) {
+            shouldDisplay = Array.from(selectedFormats).some(function(filter) {
+                return studio.classList.contains(filter);
+            });
+        }
+
+        studio.style.display = shouldDisplay ? 'flex' : 'none';
+    });
+}
