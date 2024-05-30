@@ -15,7 +15,7 @@
   
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" id="theme-link"href="style.css">
 </head>
 <header>
                 <div class="header_app">
@@ -67,19 +67,19 @@
                 <h1 id="title"></h1>
               <div style="display: flex; gap: 6px;  align-items: center;">
                 <span id="terjemah"></span>
-                <span style="color: #FFFFFF9C; font-size: 10px;">•</span>
-<span style="color: #FFFFFFE8;" id="duration"></span>
+                <span style=" color:#A1A1A1C9; font-size: 10px;">•</span>
+<span class="durasi" id="duration"></span>
 
                 </div>
                 <div class="keterangan-videos">
-                        <span class="mdi mdi-star"></span>
-                        <span id="rating" style="color: white;"></span>
+                        <span style="color: #FFC759;" class="mdi mdi-star"></span>
+                        <span id="rating"></span>
                         <div class="garis"></div>
-                        <span id="studio" style="color: white; font-weight: 300;"></span>
+                        <span id="studio" style=" font-weight: 300;"></span>
                         <div class="garis"></div>
-                        <span id="rilis" style="color: white; font-weight: 300;"></span>
+                        <span id="rilis" style="font-weight: 300;"></span>
                         <div class="garis"></div>
-                        <span id="type" style="color: white; font-weight: 300;"></span>
+                        <span id="type" style=" font-weight: 300;"></span>
                 </div>
                 <div class="genre-v">
                         <div class="genre-videos">
@@ -119,7 +119,7 @@
                         </div>
 
                 
-                <h1 style="margin-top: 30px; font-size: 28px;color: white;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
+                <h1 style="margin-top: 30px; font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
                          <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
 
 <span id="episodeTitle"></span>
@@ -145,10 +145,13 @@
 
 
         </div>
+
 </section>
 <div class="batas"></div>
+
 <script src="main.js"></script>
     <script src="data_video.js"></script>
+        <script src="theme-toggle.js"></script>
 </body>
 
 </html>

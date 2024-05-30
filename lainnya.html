@@ -14,10 +14,59 @@
   
   <!-- HTML -->
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="style.css">
+  <link id="theme-link" rel="stylesheet" href="style.css">
 </head>
 
 <body>
+    <style>
+        .toggle-container {
+            position: fixed;
+            bottom: 80px;
+            display: flex;
+            flex-direction: column;
+            right: 20px;
+            z-index: 9999;
+        }
+        .toggle-box {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 180px;
+            height: 50px;
+            background-color: #fff;
+            border-radius: 25px;
+            cursor: pointer;
+            margin-top: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: background-color 0.3s ease;
+        }
+        .toggle-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            margin-left: -120px;
+            height: 50px;
+            background-color: #f0f0f0;
+            border-radius: 50%;
+            transition: transform 0.3s ease;
+        }
+        .toggle-box.active .toggle-icon {
+            transform: translateX(120px);
+        }
+        .dark-mode-text {
+            margin-left: -25px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #333;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        .toggle-box.active .dark-mode-text {
+            opacity: 1;
+        }
+    </style>
                         <nav>
                 <div class="navbar-container">
                        <button class="buttongoweb" onclick="goToLink('index.html')"><div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
@@ -50,7 +99,7 @@
     <div class="lainnya-box">
             <img src="asset/cplus_bg.png">
             <h1>Versi 1.0.0</h1>
-            
+
             <h2>Informasi Tambahan</h2>
             
             <div class="informasi-tambahan">
@@ -63,10 +112,19 @@
                     <p>M Akmal Maulana Z</p>
             </div><br>
             <p style="font-size: 25px; font-family:'Zen Maru Gothic' ">Devops Apps, Inc.</p>
+
   </section>
+    <div class="toggle-container">
+            <h1 style="font-family: 'Zen Maru Gothic';font-size: 18px;">Ubah ke Light Mode</h1>
+            <div class="toggle-box" onclick="toggleTheme()">
+                    <div class="toggle-icon">🌞</div>
+
+            </div>
+    </div>
 <script src="main.js"></script>
 <script src="data_play_video.js"></script>
-</script>
+<script src="theme-toggle.js"></script>
+
 </body>
 
 

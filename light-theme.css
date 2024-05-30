@@ -1,5 +1,7 @@
 * {
 
+
+
   margin: 0;
 
   padding: 0;
@@ -13,7 +15,7 @@
 body,
 html {
 
-  background: #090909;
+  background: rgba(241, 245, 249);
 }
 
 @media only screen and (max-width: 810px){
@@ -24,7 +26,8 @@ html {
                 z-index: 99999;
                 width: 100%;
                 height: 60px;
-                background: #141623;
+                
+                background: #F6F6F6;
                 display: flex;
                 gap: 30px;
                 justify-content: center;
@@ -41,18 +44,16 @@ html {
                 height: 60px;
                 width: 60px;
         }
-        
-        #duration{
-                color: #FFFFFFE8;
-        }
         .navbar-box span{
                 font-size: 25px;
                 display: flex;
+                color: #1C1C1C;
                 justify-content: center;
                 align-items: center;
         }
         .navbar-box h1{
                 font-size: 19px;
+                color: #1C1C1C;
                 font-family: 'Zen Maru Gothic';
                 
         }
@@ -62,7 +63,7 @@ html {
   width: 65px;
 
   height: 60px;
-  background-color: rgba(255, 255, 255, 0);
+  background-color: rgba(48, 48, 48, 0);
   position: absolute;
   top: 0;
   
@@ -72,7 +73,7 @@ html {
 }
 
 .overlay-navbar.active {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(55, 55, 55, 0.67);
 }
         .batas{
                 display: flex;
@@ -88,11 +89,12 @@ html {
                width: 100%;
                height: 60px;
                display: flex;
-               border-bottom: 1px #000000A3 solid;
+               border-bottom: 1px #9E9E9EA3 solid;
                z-index: 999999;
-               background-color: #171C28C4;
+               background-color: #E2E2E2E3;
                backdrop-filter: blur(7px);
         }
+
         .header_logo{
                 display: flex;
                 justify-content: center;
@@ -105,7 +107,7 @@ html {
                
         }
         .header_logo span{
-                color: white;
+                color: black;
                 margin-right: auto;
                 font-size: 40px;
                 margin-left: 15px;
@@ -127,8 +129,8 @@ html {
   margin: 0 0px 0 0px;
   margin-top: 30px;
   height: 300px;
-  background: transparent;
-  border-radius: 20px;
+  background: #FFFFFF;
+  
   width: 100%;
   margin-left: 0px;
 
@@ -152,7 +154,7 @@ html {
   justify-content: center;
   align-items: center;
   border-radius: 5px;
-  background: transparent;
+  background: white;
   margin-right: 7px;
   padding: 0 -50px;
   margin-left: 7px; 
@@ -168,7 +170,7 @@ html {
   object-fit: cover;
 }
 .header-movies-text{
-        color: white;
+        color: black;
         
         margin-left: 7px;
         
@@ -179,6 +181,7 @@ display: flex;
 }
 .header-movies-text h1{
         font-family: 'Zen Maru Gothic';
+        color: black;
         
 }
 .image-overlay{
@@ -188,7 +191,7 @@ display: flex;
     width: 100%;
     border-radius: 10px;
     height: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+    background:rgba(241, 245, 249); 
 }
 .image-overlay-videos{
 
@@ -198,10 +201,11 @@ display: flex;
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to top, rgba(9, 9, 9, 1), rgba(0, 0, 0, 0));
+    background: linear-gradient(to top, rgba(241, 245, 249), rgba(0, 0, 0, 0));
 }
+
 .judul-movies{
-        color: white;
+        color: black;
         z-index: 9999;
         display: flex;
         flex-direction: column;
@@ -221,7 +225,7 @@ display: flex;
         overflow: hidden;
 }
 .skeleton {
-
+        
     position: relative;
 
 }
@@ -248,25 +252,23 @@ display: flex;
     }
 }
 
+
 .overlay {
-        width: 100%;
-        height: 100%;
-        background-color: rgba(255, 255, 255, 0);
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 1;
-        transition: background-color 0.3s ease;
-        border-radius: 1px;
+  width: 100%;
+  height: 100%;
+  background: rgba(225, 225, 226, 1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transition: background-color 0.3s ease;
+  border-radius: 1px;
 }
 
 .overlay.active {
-        background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
-.icon-filter{
-        color: white;
-}
 .genre-container{
 
 
@@ -276,8 +278,8 @@ display: flex;
   margin: 0 0px 0 0px;
   margin-top: 20px;
   height: 150px;
-  background: #0000009E;
-  border-radius: 20px;
+  background: #FFFFFF;
+  border-radius: 0px;
   width: 100%;
   margin-left: 0px;
 
@@ -301,8 +303,8 @@ display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 10px 10px 10px 0px;
-  background: #171C28;
-  color: #FFCA5A;
+  background: rgba(225, 225, 226, 1);
+  color: #4E4E4EF2;
   margin-right: 7px;
   padding: 0 30px;
   
@@ -314,6 +316,7 @@ display: flex;
         font-family: 'Zen Maru Gothic';
         font-size: 18px;
         font-weight: 700;
+        
 }
 .ig-dn{
         display: flex;
@@ -336,9 +339,9 @@ display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 10px 10px 10px 10px;
-  background: #171C28;
-  color: #FFCA5A;
-  
+  background: rgba(225, 225, 226, 1);
+
+  color: #4E4E4EF2;
 }
 .ig-dn h1{
         font-family: 'Zen Maru Gothic';
@@ -396,7 +399,7 @@ display: flex;
              
         }
         .cartoon-detail-cont{
-                color: white;
+                color: black;
                 width: 90%;
                      z-index: 99;
                 margin-top: 430px;
@@ -409,9 +412,11 @@ display: flex;
                 display: -webkit-box;
 
         -webkit-box-orient: vertical;
-
+        
         -webkit-line-clamp: 1;
         overflow: hidden;
+        }
+        
         }
         .cartoon-detail-cont span{
                 color: #FFC759;
@@ -426,7 +431,7 @@ display: flex;
                 gap: 10px;
         }
         .keterangan-videos span{
-                color: white;
+                color: black;
                 font-size: 16px;
         }
         .garis{
@@ -443,7 +448,6 @@ display: flex;
         color: white;
         gap: 1rem;
         }
-
         .genre-videos h1{
                 width:auto;
 
@@ -466,9 +470,10 @@ display: flex;
         }
         .sinopsis{
                 margin-top: 20px;
-                color: white;
+                color: black;
                 
         }
+
         .sinopsis-vplayer{
                 margin-top: 40px;
                 display: flex;
@@ -482,6 +487,7 @@ display: flex;
                 color: white;
                 font-size: 17px;
         }
+
         .sinopsis-vplayer h1 {
                 font-family: 'Zen Maru Gothic';
                 font-size: 35px;
@@ -489,7 +495,7 @@ display: flex;
         .sinopsis span{
                 font-family: 'Inter';
                 letter-spacing: 0.20px;
-                color: white;
+                color: black;
                 font-size: 17px;
         }
         .button-nonton{
@@ -527,7 +533,7 @@ background-color: transparent;
   justify-content: center;
   align-items: center;
   border-radius: 10px 10px 10px 10px;
-  background: #171C28;
+  background: #222222;
   color: #FFCA5A;
   
 }
@@ -567,36 +573,42 @@ background-color: transparent;
         font-family: 'Barlow Condensed';
         font-size: 35px;
         letter-spacing: 1px;
+        color: black;
 }
 .judul-v-fr span{
         margin-top: 5px;
+        color: black;
         font-size: 20px;
 }
 .sinopsis h1{
         font-family: 'Zen Maru Gothic';
         font-size: 35px;
+        color: black;
 }
 .judul-vr{
         margin-top: 270px;
         display: flex;
         flex-direction: column;
 }
+.toggle-container h1{
+        color: black;
+}
 .search-container{
-        justify-content: left; display: flex; flex-wrap: wrap;
-        background: #090909;
+        justify-content: left; display: flex; flex-wrap: wrap;background: rgba(241, 245, 249);
+        
         
 }
 .container.active{
-        display: flex;
+        display: flex;background: transparent;
         flex-wrap: wrap;
        
 }
 .container{
-        width: 100%; height: auto; justify-content: left; gap: 20px; margin-top: 130px;display:none;
+        width: 100%; height: auto; justify-content: left; gap: 20px; margin-top: 130px;display:none;background: transparent;
 }
 .button.active {
         background-color: #FFB10FFA;
-        color: white;
+        color: black;
         border-radius: 10px 10px 0px 0px;
 }
 .search-list{
@@ -630,20 +642,23 @@ width: 340px;
    text: #FFFFFF;
    
 }
-
+.search-input{
+        background: rgba(225, 225, 226, 1);
+        color: black;
+}
 .search:hover{
    border: 0px solid transparent;
 }
 
 .form-input {
-  color: var(--white-2);
+  color: #FFFFFF;
   font-size: var(--fs-6);
   font-weight: var(--fw-400);
   padding: 13px 20px;
   border: 1px solid var(--jet);
   border-radius: 14px;
   outline: none;
-  background: #2A2A2AAB; 
+  background: #FFFFFF; 
   color: white;
 }
 
@@ -658,7 +673,23 @@ textarea.form-input {
   resize: vertical;
   margin-bottom: 25px;
 }
+.overlay {
 
+  width: 100%;
+
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transition: background-color 0.3s ease;
+  border-radius: 1px;
+}
+
+.overlay.active {
+  background-color: rgba(255, 255, 255, 0.5);
+}
 textarea.form-input::-webkit-resizer { display: none; }
 
 .button{
@@ -676,8 +707,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   justify-content: center;
   align-items: center;
   border-radius: 0px 0px 10px 10px;
-  background-color: #60606052;
-  color: #FFFFFF;
+  background: rgba(225, 225, 226, 1);
+  
+  color: black;
   z-index: 9999;
   
   margin-right: 0px;
@@ -688,6 +720,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .button h1{
         font-family: 'Zen Maru Gothic';
+        
 }
 .aktor-box{
 
@@ -706,7 +739,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-left: 15px; 
   
 }
-
+.rating{
+        color: black;
+}
 .aktor-box img{
   width: 120px;
   margin-top: 0px;
@@ -739,7 +774,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .aktor-name span{
         text-align: center;
-        color: white;
+        color: black;
 }
 .lainnya{
         display: flex;
@@ -766,16 +801,30 @@ textarea.form-input::-webkit-resizer { display: none; }
         flex-direction: column;
         justify-content: center;
         width: 100%;
+        color: black;
         align-items: center;
+}
+.lainnya-box p {
+        
+        color: black;
+}
+#duration{
+        color: #080808E8;
 }
 .lainnya-box h1{
         font-family: 'Zen Maru Gothic';
         margin-top: 25px;
+        color: black;
+}
+.lainnya-box h2{
+
+        
+        color: black;
 }
 .lainnya-box img{
         width: 150px;
         border-radius: 50%;
-          box-shadow:  0 0 6px  #FFFFFF6E;
+          box-shadow:  0 0 6px  #0000006E;
 }
 .slider {
   overflow: hidden;
@@ -817,6 +866,9 @@ text-align: center;
         font-family: 'Zen Maru Gothic';
         color:#FFCA5A;
 }
+.icon-filter{
+        color: black;
+}
 .filterbutton{
         display: flex;
         justify-content: center;
@@ -824,7 +876,7 @@ text-align: center;
         text-align: center;
         
         align-items: center;
-        background: #202020;
+        background: rgba(225, 225, 226, 1);
         height: 45px;
         width: 50px;
         margin-left: 10px;
@@ -853,8 +905,8 @@ text-align: center;
     margin: 0 0px 0 0px;
     width: 100%;
     border-radius: 20px 20px 0px 0px;
-    background-color: #151515;
-    color: white;
+    background-color: rgba(241, 245, 249);;
+    color: black;
     height: 640px;
     
     padding: 20px;
@@ -906,10 +958,15 @@ text-align: center;
   margin-right: 5px;
   padding: 30px;
   margin-left: 5px; 
-  background: #262626;
+  background: rgba(213, 213, 213, 1);
   border: 1px solid transparent;
 }
-
+.format-movie{
+        background: rgba(213, 213, 213, 1);
+}
+.studio-filter-box2{
+        background: rgba(225, 225, 226, 1);
+}
 .studio-filter-box img{
   width:80px;
   margin-top: 0px;
@@ -949,6 +1006,7 @@ position: relative;
         border: 1px solid #FFBA2AFA;
         color: #FFBA2AFA;
 }
+
 .format-movie.active{
 
         border: 1px solid #FFBA2AFA;
@@ -963,18 +1021,7 @@ color: #FFBA2AFA;
         border-radius: 20px;
 }
 .theme-cont{
-        background: #1A1A1AC7;
-}
-.studio-filter-box2{
-        background: #1E1E1E;
-}
-.format-movie{
-        background: #262626;
-}
-.toggle-container h1{
-
-        color: white;
-
+        background: white;
 }
 }
 

@@ -10,6 +10,7 @@
    <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+     
 
 
   <title>Cartoonn</title>
@@ -46,7 +47,7 @@
   </style>
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" id="theme-link">
 </head>
 
 <body>
@@ -78,9 +79,9 @@
                         
                 </div>
         </nav>
-        <section class="search-container" style="position: fixed; z-index: 99999; top:0; left:0;background: #090909; width: 100%; height: 120px; justify-content: center;">
+        <section class="search-container" style="position: fixed; z-index: 99999; top:0; left:0; width: 100%; height: 120px; justify-content: center;">
 
-<div style="display: flex; width: 100%; justify-content: center; align-items: center;">
+<div style="display: flex; width: 100%; justify-content: center; align-items: center; ">
 <div class="search-wrapper">
   <span class="search-icon mdi mdi-magnify"></span>
   <input type="text" id="searchInput" class="search-input" placeholder="Cari Movie di Cartoon+">
@@ -95,12 +96,12 @@
 
 <button class="buttongoweb" id="filterButton">
    <div class="filterbutton" style="display:none;" id="cinemaplus">
-           <span class="mdi mdi-filter-minus" style=" font-size: 35px;color: white;"></span>
+           <span class="icon-filter mdi mdi-filter-minus" style=" font-size: 35px;"></span>
    </div>
 </button>
 <button class="buttongoweb" id="filterButton2">
    <div class="filterbutton" id="cartoonplus">
-           <span class="mdi mdi-filter-minus" style=" font-size: 35px;color: white;"></span>
+           <span class="icon-filter mdi mdi-filter-minus" style=" font-size: 35px;"></span>
    </div>
 </button>
 
@@ -116,7 +117,7 @@
               
               <h2 style="font-family: 'Zen Maru Gothic'; margin-left: auto;">Filter Studio</h2>
               <div style="display: flex; width: 100%; align-items: center; justify-content: center; ">
-                                    <div style="width: 130px;margin-top: 15px; border-radius: 5px; padding: 10px;background: #1E1E1E;" class="studio-filter-box studio-button active" data-studio-id="all1" onclick="tampilkanStudio('all')">
+                                    <div style="width: 130px;margin-top: 15px; border-radius: 5px; padding: 10px;" class="studio-filter-box studio-button active" data-studio-id="all1" onclick="tampilkanStudio('all')">
                                             <span style="font-size: 40px; transform: rotate(90deg);" class="mdi mdi-tally-mark-4"></span>
                                             <h2 style=" font-family: 'Zen Maru Gothic'; font-size: 15px;">Show All</h2>
                                     </div>
@@ -215,11 +216,11 @@
     </div>
                         <h2 style="font-family: 'Zen Maru Gothic'; margin-top: 15px;">Format Movie</h2>
                         <div style="display: flex; justify-content: center; align-items: center; width: 100%;  margin-top: 10px;gap: 15px;">
-                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie format-button" data-format-id="hdplus" onclick="tampilkanFormat('hdplus')">
+                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;  width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie format-button" data-format-id="hdplus" onclick="tampilkanFormat('hdplus')">
                                         <span class="mdi mdi-video-high-definition" style="font-size: 35px;"></span>
                                         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD+/HD</h2>
                                 </div>
-                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;" class="format-movie format-button" data-format-id="hdcam" onclick="tampilkanFormat('hdcam')">
+                                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;  width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;" class="format-movie format-button" data-format-id="hdcam" onclick="tampilkanFormat('hdcam')">
                                         <span class="mdi mdi-camcorder" style="font-size: 35px;"></span>
                                         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD Cam</h2>
                                 </div>
@@ -243,7 +244,7 @@
               
               <h2 style="font-family: 'Zen Maru Gothic'; ">Filter Studio</h2>
               <div style="display: flex; width: 100%; align-items: center; justify-content: center; ">
-                                    <div style="width: 130px;margin-top: 15px; border-radius: 5px; padding: 10px;background: #1E1E1E;" class="studio-filter-box studio-button active" data-studio-id="all" onclick="tampilkanStudio('all')">
+                                    <div style="width: 130px;margin-top: 15px; border-radius: 5px; padding: 10px;" class="studio-filter-box studio-button active" data-studio-id="all" onclick="tampilkanStudio('all')">
                                             <span style="font-size: 40px; transform: rotate(90deg);" class="mdi mdi-tally-mark-4"></span>
                                             <h2 style=" font-family: 'Zen Maru Gothic'; font-size: 15px;">Show All</h2>
                                     </div>
@@ -355,11 +356,11 @@
     
                         <h2 style="font-family: 'Zen Maru Gothic'; margin-top: 15px;">Format Movie</h2>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;  margin-top: 10px;gap: 15px;">
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie format-button" data-format-id="hdplus" onclick="tampilkanFormat('hdplus')" >
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; width: 150px; height: 80px; border-radius: 20px 20px 20px 5px;" class="format-movie format-button" data-format-id="hdplus" onclick="tampilkanFormat('hdplus')" >
         <span class="mdi mdi-video-high-definition" style="font-size: 35px;"></span>
         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD+/HD</h2>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; background: #262626; width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;"class="format-movie format-button" data-format-id="hdcam" onclick="tampilkanFormat('hdcam')">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;  width: 150px; height: 80px;border-radius: 20px 20px 5px 20px;"class="format-movie format-button" data-format-id="hdcam" onclick="tampilkanFormat('hdcam')">
         <span class="mdi mdi-camcorder" style="font-size: 35px;"></span>
         <h2 style="font-size: 20px;font-family: 'Zen Maru Gothic';">HD Cam</h2>
 </div>
@@ -777,10 +778,7 @@
                   <div class="judul-movies skeleton"><h1>Doraemon Movie 42: Nobita to Sora no Utopia</h1></div></div>
 
                 </div>       <div style="width: 100%; height: 20px;"></div></button>
-                
-                
-                
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=lightyear')"><div class="data-item"><div id="bghro6" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton pixar animasi hdplus  laga horor"style="width: 116px; height: 199px;">
+<button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=lightyear')"><div class="data-item"><div id="bghro6" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton pixar animasi hdplus  laga horor"style="width: 116px; height: 199px;">
                   <img style="width: 116px; height: 190px;"src="https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg">
                   <div class="image-overlay"></div>
                   <div class="overlay"></div>
@@ -912,13 +910,16 @@
 </div>
 
 </div>
-
+   
 
 </section>
+                
+                
         <div class="batas"></div>
 <script src="main.js"></script>
 <script src="data_play_video.js"></script>
 <script src="filter.js"></script>
+    <script src="theme-toggle.js"></script>
 
 </script>
 </body>
