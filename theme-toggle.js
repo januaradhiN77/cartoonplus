@@ -8,11 +8,10 @@ function toggleTheme() {
             const toggleIcon = toggleBox.querySelector(".toggle-icon");
 
             if (newTheme === "light-theme.css") {
-                
-                 toggleIcon.textContent = "🌞";
+                toggleIcon.textContent = "🌙";
                 toggleBox.classList.add("active");
             } else {
-                toggleIcon.textContent = "🌙";
+                toggleIcon.textContent = "🌞";
                 toggleBox.classList.remove("active");
             }
 
@@ -29,11 +28,10 @@ function toggleTheme() {
             const toggleIcon = toggleBox.querySelector(".toggle-icon");
 
             if (savedTheme === "light-theme.css") {
-                toggleIcon.textContent = "🌞";
+                toggleIcon.textContent = "🌙";
                 toggleBox.classList.add("active");
             } else {
-                
-                toggleIcon.textContent = "🌙";
+                toggleIcon.textContent = "🌞";
                 toggleBox.classList.remove("active");
             }
         });
