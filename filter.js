@@ -2,6 +2,7 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
     const button = document.getElementById(buttonId);
     const overlay = document.getElementById(overlayId);
     const container = document.getElementById(containerId);
+    const stackedElements = document.querySelectorAll('.stacked-element');
 
     let startY, currentY, initialBottom, isDragging = false;
 
@@ -10,8 +11,10 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
             overlay.classList.add('active');
             container.classList.add('active');
             container.style.bottom = '0'; // Set bottom to 0 to make it visible
+            disableScroll(); // Disable scroll on stacked elements when filter container is active
         } else {
             closeFunction();
+            enableScroll(); // Enable scroll on stacked elements when filter container is closed
         }
     });
 
@@ -27,7 +30,7 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
     container.addEventListener('touchmove', function(event) {
         if (!isDragging) return;
 
-        const content = this.querySelector('.overflowy');
+        const content = this.querySelector('.nodragy');
         const contentRect = content.getBoundingClientRect();
 
         // Check if touch event is inside the content area
@@ -51,13 +54,14 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         this.style.transition = 'bottom 0.5s ease'; // Re-enable transition after touch
         if (diffY > 100) { // If dragged more than 100px vertically, close the filter
             closeFunction();
+            enableScroll(); // Enable scroll on stacked elements when filter container is closed
         } else {
             this.style.bottom = '0'; // Return to initial position if not dragged enough
         }
     }, false);
 
     // Handle touch events for filter-studio separately
-    const filterStudio = container.querySelector('.filter-studio');
+    const filterStudio = container.querySelector('.filter-studio-container');
     filterStudio.addEventListener('touchstart', function(event) {
         startY = event.touches[0].clientY;
         this.style.transition = 'none';
@@ -77,6 +81,42 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         this.style.transition = 'all 0.5s ease';
         isDragging = false;
     }, false);
+
+    // Handle touch events for format-nodrag
+    const formatNodrag = container.querySelector('.format-nodrag');
+    formatNodrag.addEventListener('touchstart', function(event) {
+        startY = event.touches[0].clientY;
+        initialTop = parseFloat(window.getComputedStyle(this).top);
+        this.style.transition = 'none';
+        isDragging = true;
+    }, false);
+
+    formatNodrag.addEventListener('touchmove', function(event) {
+        if (!isDragging) return;
+        event.stopPropagation(); // Stop event propagation to prevent interference with container scrolling
+        currentY = event.touches[0].clientY;
+        let diffY = currentY - startY;
+        this.style.top = `${initialTop + diffY}px`; // Adjust the top position based on touch movement
+    }, false);
+
+    formatNodrag.addEventListener('touchend', function(event) {
+        this.style.transition = 'all 0.5s ease';
+        isDragging = false;
+    }, false);
+
+    // Disable scroll on stacked elements
+    function disableScroll() {
+        stackedElements.forEach(function(element) {
+            element.style.overflowY = 'hidden';
+        });
+    }
+
+    // Enable scroll on stacked elements
+    function enableScroll() {
+        stackedElements.forEach(function(element) {
+            element.style.overflowY = 'auto';
+        });
+    }
 }
 
 function closeFilter() {
