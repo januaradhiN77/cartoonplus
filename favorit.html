@@ -18,9 +18,8 @@
       width: 116px;
     }
     .movies-box h1{
-            margin-left: 0px;
+      margin-left: 0px;
     }
-
   </style>
 </head>
 <body>
@@ -80,6 +79,7 @@
     <div class="search-container-favorit" style="display: flex; flex-wrap: wrap; justify-content: left; width: 100%; margin-top: 60px;" id="favoritesContainer">
       <!-- Favorite items will be inserted here -->
     </div>
+    <div id="noDataMessage" style="display: none; text-align: center; margin-top: 20px; color: #666;">Tidak ada data</div>
   </section>
   <div class="batas"></div>
   <script>
@@ -141,8 +141,11 @@
       // Periksa apakah ada bookmark, jika ya, tampilkan tombol hapus
       if (favorites.length > 0) {
         const deleteButton = document.querySelector('.delete-button');
-        
         deleteButton.style.display = 'block';
+      } else {
+        // Jika tidak ada bookmark, tampilkan pesan "Tidak ada data"
+        const noDataMessage = document.getElementById('noDataMessage');
+        noDataMessage.style.display = 'block';
       }
     });
   </script>
