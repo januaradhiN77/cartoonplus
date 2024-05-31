@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmark</title>
+  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+  <link rel="stylesheet" id="theme-link" href="style.css">
+  <style>
+    .movies-box {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 116px;
+    }
+    .movies-box h1{
+            margin-left: 0px;
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header_app">
+      <button class="buttongoweb" onclick="goToWebsite('index.html')">
+        <div class="header_logo">
+          <span class="mdi mdi mdi-bookmark" style="font-family: 'Zen Maru Gothic';">Bookmark</span>
+        </div>
+      </button>
+    </div>
+  </header>
+  <nav>
+    <div class="navbar-container">
+      <button class="buttongoweb" onclick="goToLink('index.html')">
+        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+          <div class="overlay-navbar"></div>
+          <span class="mdi mdi-home active"></span>
+          <h1>Home</h1>
+        </div>
+      </button>
+      <button class="buttongoweb" onclick="goToLink('cari.html')">
+        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+          <div class="overlay-navbar"></div>
+          <span class="mdi mdi-movie"></span>
+          <h1>Movie</h1>
+        </div>
+      </button>
+      <button class="buttongoweb" onclick="goToLink('jadwal.html')">
+        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+          <div class="overlay-navbar"></div>
+          <span class="mdi mdi-calendar-month-outline"></span>
+          <h1>Jadwal</h1>
+        </div>
+      </button>
+
+
+<div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
+                                <span class="mdi mdi-bookmark" style="color: #FFC601;background: #CECECE7A;
+                                border-radius: 50%;
+                                width: 25px;
+                                height: 25px;"></span>
+                                <h1 style="color: #FFC601;">Bookmark</h1>
+                        </div>
+      <button class="buttongoweb" onclick="goToLink('lainnya.html')">
+        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+          <div class="overlay-navbar"></div>
+          <span class="mdi mdi-information"></span>
+          <h1>About</h1>
+        </div>
+      </button>
+
+    </div>
+  </nav>
+  <section class="movies-container-favorit" style="background: transparent; width: 100%;">
+    <div class="search-container-favorit" style="display: flexflex-wrap: wrap; justify-content: center;width: 100%; margin-top: 60px; " id="favoritesContainer">
+      <!-- Favorite items will be inserted here -->
+    </div>
+  </section>
+  <div class="batas"></div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const favoritesContainer = document.getElementById('favoritesContainer');
+      const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+
+      favorites.forEach(favorite => {
+        const button = document.createElement('button');
+        button.classList.add('buttongoweb');
+        button.onclick = function() {
+          window.location.href = favorite.url;
+        };
+
+        const movieBox = document.createElement('div');
+        movieBox.classList.add('movies-box', 'horror', 'hdplus', 'drama', 'kisahnyata');
+
+        const img = document.createElement('img');
+        img.src = favorite.img;
+        img.style.width = "116px";
+        img.style.height = "190px";
+        movieBox.appendChild(img);
+
+        const overlay = document.createElement('div');
+        overlay.classList.add('image-overlay');
+        movieBox.appendChild(overlay);
+
+        const title = document.createElement('div');
+        title.classList.add('judul-movies');
+        const h1 = document.createElement('h1');
+        h1.textContent = favorite.title;
+        title.appendChild(h1);
+        movieBox.appendChild(title);
+
+        button.appendChild(movieBox);
+        favoritesContainer.appendChild(button);
+      });
+    });
+  </script>
+  <script src="main.js"></script>
+  <script src="theme-toggle.js"></script>
+</body>
+</html>

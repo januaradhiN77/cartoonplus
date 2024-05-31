@@ -26,7 +26,7 @@ html {
                 height: 60px;
                 background: #141623;
                 display: flex;
-                gap: 30px;
+                gap: 15px;
                 justify-content: center;
         }
 
@@ -52,7 +52,7 @@ html {
                 align-items: center;
         }
         .navbar-box h1{
-                font-size: 19px;
+                font-size: 15px;
                 font-family: 'Zen Maru Gothic';
                 
         }

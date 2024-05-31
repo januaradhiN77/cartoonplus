@@ -4,154 +4,230 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
-   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
-   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
-       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
   <title>Cartoonn</title>
-  
-  <!-- HTML -->
-  
+  <link rel="stylesheet" id="theme-link" href="style.css">
+  <style>
+    /* Custom Styles for the Favorite Button */
 
-  <!-- Custom Styles -->
-  <link rel="stylesheet" id="theme-link"href="style.css">
+.favorite-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  
+  
+}
+
+ .favorite-button .mdi-bookmark-outline {
+  font-size: 30px;
+  color: #FFD700; /* Warna kuning */
+}
+
+.keterangan-videos .favorite-button .mdi mdi-bookmark-outline:hover {
+  color: #FFAC33; /* Warna kuning terang saat hover */
+}
+  </style>
 </head>
-<header>
-                <div class="header_app">
-<button class="buttongoweb" onclick="goToWebsite('index.html')"> <div class="header_logo">
-
-<span class="mdi mdi-arrow-left"></span>
-                </div></button>
-
-        </div>
-</header>
 <body>
-        <nav>
-                <div class="navbar-container">
-                       <button class="buttongoweb" onclick="goToLink('index.html')"><div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
-                                
-                                <span class="mdi mdi-home active"></span>
-                                <h1>Home</h1>
-                        </div>
-                       </button>
-                       <button class="buttongoweb" onclick="goToLink('cari.html')"><div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
-                                <span class="mdi mdi-movie"></span>
-                                <h1>Movie</h1>
-                        </div>
-                       </button>
-                       <button class="buttongoweb" onclick="goToLink('jadwal.html')"><div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
-                                <span class="mdi mdi-calendar-month-outline"></span>
-                                <h1>Jadwal</h1>
-                        </div>
-                       </button>
-                       <button class="buttongoweb" onclick="goToLink('lainnya.html')"><div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
-                                <span class="mdi mdi-information"></span>
-                                <h1>About</h1>
-                        </div>
-                        
-                </div>
-        </nav>
+<header>
+  <div class="header_app">
+
+    <button class="buttongoweb" onclick="goToWebsite('index.html')">
+      <div class="header_logo">
+        <span class="mdi mdi-arrow-left"></span>
+      </div>
+    </button>
+  </div>
+</header>
+
+<nav>
+  <div class="navbar-container">
+    <button class="buttongoweb" onclick="goToLink('index.html')">
+      <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+        <div class="overlay-navbar"></div>
+        <span class="mdi mdi-home active"></span>
+        <h1>Home</h1>
+      </div>
+    </button>
+    <button class="buttongoweb" onclick="goToLink('cari.html')">
+      <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+        <div class="overlay-navbar"></div>
+        <span class="mdi mdi-movie"></span>
+        <h1>Movie</h1>
+      </div>
+    </button>
+    <button class="buttongoweb" onclick="goToLink('jadwal.html')">
+      <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+        <div class="overlay-navbar"></div>
+        <span class="mdi mdi-calendar-month-outline"></span>
+        <h1>Jadwal</h1>
+      </div>
+    </button>
+          <button class="buttongoweb" onclick="goToLink('favorit.html')">
+                  <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+                          <div class="overlay-navbar"></div>
+                          <span class="mdi mdi-bookmark"></span>
+                          <h1>Bookmark</h1>
+                  </div>
+          </button>
+    <button class="buttongoweb" onclick="goToLink('lainnya.html')">
+      <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+        <div class="overlay-navbar"></div>
+        <span class="mdi mdi-information"></span>
+        <h1>About</h1>
+      </div>
+    </button>
+
+  </div>
+</nav>
+
 <section class="header-image-v">
-                <div class="header-image">
-                <div class="image-videos">
-                        
-                <img id="bgimg" src="">
-                <div class="image-overlay-videos"></div>
-                </div>
-
-        </div>
+  <div class="header-image">
+    <div class="image-videos">
+      <img id="bgimg" src="">
+      <div class="image-overlay-videos"></div>
+    </div>
+  </div>
 </section>
+
 <section class="cartoon-detail">
-        <div class="cartoon-detail-cont">
-                <h1 id="title"></h1>
-              <div style="display: flex; gap: 6px;  align-items: center;">
-                <span id="terjemah"></span>
-                <span style=" color:#A1A1A1C9; font-size: 10px;">•</span>
-<span class="durasi" id="duration"></span>
+  <div class="cartoon-detail-cont">
+    <h1 id="title"></h1>
+    
+    <div style="display: flex; gap: 6px; align-items: center;width: 100%;">
+      <span id="terjemah"></span>
+      <span style="color:#A1A1A1C9; font-size: 10px;">•</span>
+      <span class="durasi" id="duration"></span>
+      <div style="margin-left: auto;">
+                          <button id="favoriteButton" class="buttongoweb">
+                                  <span class="mdi mdi-bookmark-outline" style="font-size: 40px;color: #FFC759;"></span>
 
-                </div>
-                <div class="keterangan-videos">
-                        <span style="color: #FFC759;" class="mdi mdi-star"></span>
-                        <span id="rating"></span>
-                        <div class="garis"></div>
-                        <span id="studio" style=" font-weight: 300;"></span>
-                        <div class="garis"></div>
-                        <span id="rilis" style="font-weight: 300;"></span>
-                        <div class="garis"></div>
-                        <span id="type" style=" font-weight: 300;"></span>
-                </div>
-                <div class="genre-v">
-                        <div class="genre-videos">
-                                <h1 id="g1"></h1>
-                        </div>
-                        <div class="genre-videos">
-                                <h1 id="g2"></h1>
-                        </div>
-                        <div class="genre-videos">
-                                <h1 id="g3"></h1>
-                        </div>
-                </div>
-                <div class="sinopsis">
-                        <span id="description"> </span>
-                </div>
-                <h1 style="margin-top: 30px; font-size: 25px;">Official Trailer</h1>
-                <div class="trailer-iframe" style="display:flex;justify-content: center;width:90%;flex-direction: column;margin-top:10px;">
-                        <iframe src="" id="trailer" allowfullscreen frameborder="0" style="width:115%;height:210px;border-radius: 20px;box-shadow:  0 0 6px  #FFFFFF6E;"></iframe>
-                </div>
+                          </button>
+    </div>
+    </div>
+    
+    <div class="keterangan-videos">
+      <span style="color: #FFC759;" class="mdi mdi-star"></span>
+      <span id="rating"></span>
+      <div class="garis"></div>
+      <span id="studio" style="font-weight: 300;"></span>
+      <div class="garis"></div>
+      <span id="rilis" style="font-weight: 300;"></span>
+      <div class="garis"></div>
+      <span id="type" style="font-weight: 300;"></span>
 
+    </div>
+    <div class="genre-v">
+      <div class="genre-videos">
+        <h1 id="g1"></h1>
+      </div>
+      <div class="genre-videos">
+        <h1 id="g2"></h1>
+      </div>
+      <div class="genre-videos">
+        <h1 id="g3"></h1>
+      </div>
+    </div>
+    <div class="sinopsis">
+      <span id="description"></span>
+    </div>
+    <h1 style="margin-top: 30px; font-size: 25px;">Official Trailer</h1>
+    <div class="trailer-iframe" style="display:flex;justify-content: center;width:90%;flex-direction: column;margin-top:10px;">
+      <iframe src="" id="trailer" allowfullscreen frameborder="0" style="width:115%;height:210px;border-radius: 20px;box-shadow: 0 0 6px #FFFFFF6E;"></iframe>
+    </div>
+    <h1 id="aktorTitle" style="margin-top: 30px; font-size: 33px;"></h1>
+    <div id="moviesContainer" class="movies-container" style="height: auto; width: 103%; background: transparent;margin-top: -20px;">
+      <div class="movies" style="background: transparent;" id="aktorContainer">
+      </div>
+    </div>
 
-<h1 id="aktorTitle" style="margin-top: 30px; font-size: 33px;"></h1>
-                <div id="moviesContainer" class="movies-container" style="height: auto; width: 103%; background: transparent;margin-top: -20px;">
-
-                        <div class="movies" style="background: transparent;" id="aktorContainer">
-
-
-
-
-
-
-
-
-                                
-                        </div>
-                                
-                        </div>
-
-                
-                <h1 style="margin-top: 30px; font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
-                         <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
-
-<span id="episodeTitle"></span>
-
-                </div>
-        </div>
-
+    <h1 style="margin-top: 30px; font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
+    <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
+      <span id="episodeTitle"></span>
+    </div>
+  </div>
 </section>
+
 <section class="movies-container">
-        <div class="header-movies-text">
-                <h1 style="font-size: 20px;">Ongoing</h1>
+  <div class="header-movies-text">
+    <h1 style="font-size: 20px;">Ongoing</h1>
+  </div>
+  <div class="movies">
+    <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jujutsukaisenseason2')">
+      <div id="jjtsuk2" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
+        <img src="https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg">
+        <div class="image-overlay"></div>
+        <div class="overlay"></div>
+        <div class="judul-movies skeleton">
+          <h1>Jujutsu Kaisen Season 2</h1>
         </div>
-        <div class="movies">
-
-
-
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jujutsukaisenseason2')"><div id="jjtsuk2" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Jujutsu Kaisen Season 2</h1></div>
-                </div></button>
-
-
-        </div>
-
+      </div>
+    </button>
+  </div>
 </section>
+
 <div class="batas"></div>
 
-<script src="main.js"></script>
-    <script src="data_video.js"></script>
-        <script src="theme-toggle.js"></script>
-</body>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const favoriteButton = document.getElementById('favoriteButton');
+    const animation = new URLSearchParams(window.location.search).get('animation');
+    const favoriteData = {
+      title: data[animation].title,
+      img: data[animation].bgimg,
+      url: window.location.href,
+      terjemah: data[animation].terjemah,
+      duration: data[animation].duration,
+      rating: data[animation].rating,
+      studio: data[animation].studio,
+      rilis: data[animation].rilis,
+      type: data[animation].type,
+      genres: [data[animation].gendre1, data[animation].gendre2, data[animation].gendre3],
+      description: data[animation].description,
+      trailer: data[animation].trailer
+    };
 
+    // Check if this video is already in favorites
+    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+    // Update button appearance based on favorite status
+    if (isFavorited) {
+      favoriteButton.classList.add('favorited');
+      favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+      
+    }
+
+    favoriteButton.addEventListener('click', function() {
+      let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+      let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+      if (isFavorited) {
+        // Remove from favorites
+        favorites = favorites.filter(fav => fav.url !== window.location.href);
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        favoriteButton.classList.remove('favorited');
+        favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
+        
+        alert('Dihapus dari Bookmark!');
+      } else {
+        // Add to favorites
+        favorites.push(favoriteData);
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        favoriteButton.classList.add('favorited');
+        favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+        
+        alert('Ditambahkan ke Bookmark!');
+      }
+    });
+  });
+</script>
+<script src="main.js"></script>
+<script src="data_video.js"></script>
+<script src="theme-toggle.js"></script>
+</body>
 </html>
