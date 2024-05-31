@@ -27,7 +27,7 @@
     <div class="header_app">
       <button class="buttongoweb">
         <div class="header_logo">
-          <span class="mdi mdi-bookmark" style="font-family: 'Zen Maru Gothic';">Favorit <span id="totalFavorites" style="font-family: 'Quicksand'; font-size: 20px; color: #FFC601;"></span></span>
+          <span class="mdi mdi-bookmark" style="font-family: 'Zen Maru Gothic';">Favorit <span id="totalFavorites" style="font-family: 'Quicksand'; font-size: 17px; color: #FFA800;margin-left: -2px;"></span></span>
         </div>
       </button>
       <button class="delete-button buttongoweb" onclick="deleteBookmarks()" style="margin-left:auto;margin-right: 20px; display: none;">
@@ -107,7 +107,7 @@
     function updateTotalFavorites() {
       const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
       const totalFavoritesElement = document.getElementById('totalFavorites');
-      totalFavoritesElement.textContent = `(${favorites.length})`;
+      totalFavoritesElement.textContent = `(Total Favorit: ${favorites.length})`;
     }
 
     document.addEventListener('DOMContentLoaded', function() {
