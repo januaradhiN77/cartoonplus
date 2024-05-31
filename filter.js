@@ -26,10 +26,9 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
 
     container.addEventListener('touchmove', function(event) {
         if (!isDragging) return;
-
-        const containerRect = this.getBoundingClientRect();
-        const genreList = this.querySelector('.overflowy');
-        const contentRect = genreList.getBoundingClientRect();
+        
+        const content = this.querySelector('.overflowy, .filter-studio');
+        const contentRect = content.getBoundingClientRect();
 
         // Check if touch event is inside the content area
         if (event.touches[0].clientY > contentRect.top && event.touches[0].clientY < contentRect.bottom) {
@@ -37,7 +36,9 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         }
 
         currentY = event.touches[0].clientY;
+
         let diffY = currentY - startY;
+
         if (diffY > 0) {
             this.style.bottom = `${initialBottom - diffY}px`;
         }
@@ -53,6 +54,12 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         } else {
             this.style.bottom = '0'; // Kembalikan ke posisi awal jika tidak cukup geser
         }
+    }, false);
+
+    // Tambahkan event listener untuk elemen "overflowy"
+    const overflowy = container.querySelector('.overflowy');
+    overflowy.addEventListener('touchmove', function(event) {
+        event.stopPropagation(); // Menghentikan penyebaran event touchmove ke atas
     }, false);
 }
 
