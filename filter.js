@@ -3,6 +3,8 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
     const overlay = document.getElementById(overlayId);
     const container = document.getElementById(containerId);
 
+    let startY, currentY, initialBottom, isDragging = false;
+
     button.addEventListener('click', function() {
         if (!container.classList.contains('active')) {
             overlay.classList.add('active');
@@ -15,8 +17,6 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
 
     overlay.addEventListener('click', closeFunction);
 
-    let startY, currentY, initialBottom, isDragging = false;
-
     container.addEventListener('touchstart', function(event) {
         startY = event.touches[0].clientY;
         initialBottom = parseFloat(window.getComputedStyle(this).bottom);
@@ -26,8 +26,8 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
 
     container.addEventListener('touchmove', function(event) {
         if (!isDragging) return;
-        
-        const content = this.querySelector('.overflowy, .filter-studio');
+
+        const content = this.querySelector('.overflowy');
         const contentRect = content.getBoundingClientRect();
 
         // Check if touch event is inside the content area
@@ -49,17 +49,33 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         isDragging = false;
         let diffY = currentY - startY;
         this.style.transition = 'bottom 0.5s ease'; // Re-enable transition after touch
-        if (diffY > 100) { // Jika geser lebih dari 100px, tutup filter
+        if (diffY > 100) { // If dragged more than 100px vertically, close the filter
             closeFunction();
         } else {
-            this.style.bottom = '0'; // Kembalikan ke posisi awal jika tidak cukup geser
+            this.style.bottom = '0'; // Return to initial position if not dragged enough
         }
     }, false);
 
-    // Tambahkan event listener untuk elemen "overflowy"
-    const overflowy = container.querySelector('.overflowy');
-    overflowy.addEventListener('touchmove', function(event) {
-        event.stopPropagation(); // Menghentikan penyebaran event touchmove ke atas
+    // Handle touch events for filter-studio separately
+    const filterStudio = container.querySelector('.filter-studio');
+    filterStudio.addEventListener('touchstart', function(event) {
+        startY = event.touches[0].clientY;
+        this.style.transition = 'none';
+        isDragging = true;
+    }, false);
+
+    filterStudio.addEventListener('touchmove', function(event) {
+        if (!isDragging) return;
+        event.stopPropagation(); // Stop event propagation to prevent interference with container scrolling
+        currentY = event.touches[0].clientY;
+        let diffY = currentY - startY;
+        this.scrollTop -= diffY; // Scroll the filter studio
+        startY = currentY;
+    }, false);
+
+    filterStudio.addEventListener('touchend', function(event) {
+        this.style.transition = 'all 0.5s ease';
+        isDragging = false;
     }, false);
 }
 
