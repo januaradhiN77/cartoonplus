@@ -44,9 +44,11 @@
           <div style="margin-left: auto; display: flex; justify-content: center; align-items: center;">
     
 
-                              <button id="favoriteButton" class="buttongoweb">
-                                      <span class="mdi mdi-bookmark-outline" style="font-size: 40px;color: #FFC759;margin-right: 20px;"></span>
-    
+                              <button id="favoriteButton" class="buttongoweb"  ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)">
+                                      <div style="margin-left: auto;">                                          <div class="overlay" style="width: 50px;height: 50px;margin-left: 84%;margin-top: 4px;border-radius: 50%;"></div></div>
+
+                                      <span  class="mdi mdi-bookmark-outline" style="font-size: 40px;color: #FFC759;margin-right: 21px;"></span>
+
                               </button>
           </div>
   </div>
