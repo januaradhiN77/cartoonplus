@@ -71,7 +71,7 @@
                   <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
                           <div class="overlay-navbar"></div>
                           <span class="mdi mdi-bookmark"></span>
-                          <h1>Bookmark</h1>
+                          <h1>Favorit</h1>
                   </div>
           </button>
     <button class="buttongoweb" onclick="goToLink('lainnya.html')">
@@ -213,7 +213,7 @@
         favoriteButton.classList.remove('favorited');
         favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
         
-        alert('Dihapus dari Bookmark!');
+        alert('Dihapus dari Favorit');
       } else {
         // Add to favorites
         favorites.push(favoriteData);
@@ -221,7 +221,7 @@
         favoriteButton.classList.add('favorited');
         favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
         
-        alert('Disimpan di Bookmark!');
+        alert('Ditambahkan ke Favorit');
       }
     });
   });
