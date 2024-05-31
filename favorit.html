@@ -31,6 +31,9 @@
           <span class="mdi mdi mdi-bookmark" style="font-family: 'Zen Maru Gothic';">Bookmark</span>
         </div>
       </button>
+      <button class="delete-button buttongoweb" onclick="deleteBookmarks()" style="margin-left:auto;margin-right: 20px; display: none;">
+        <span class="mdi mdi-delete" style="font-size: 35px;color: red; "></span>
+      </button>
     </div>
   </header>
   <nav>
@@ -56,15 +59,14 @@
           <h1>Jadwal</h1>
         </div>
       </button>
-
-
-<div class="navbar-box"ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)"><div class="overlay-navbar"></div>
-                                <span class="mdi mdi-bookmark" style="color: #FFC601;background: #CECECE7A;
-                                border-radius: 50%;
-                                width: 25px;
-                                height: 25px;"></span>
-                                <h1 style="color: #FFC601;">Bookmark</h1>
-                        </div>
+      <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+        <div class="overlay-navbar"></div>
+        <span class="mdi mdi-bookmark" style="color: #FFC601;background: #CECECE7A;
+        border-radius: 50%;
+        width: 25px;
+        height: 25px;"></span>
+        <h1 style="color: #FFC601;">Bookmark</h1>
+      </div>
       <button class="buttongoweb" onclick="goToLink('lainnya.html')">
         <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
           <div class="overlay-navbar"></div>
@@ -72,16 +74,35 @@
           <h1>About</h1>
         </div>
       </button>
-
     </div>
   </nav>
   <section class="movies-container-favorit" style="background: transparent; width: 100%;">
-    <div class="search-container-favorit" style="display: flexflex-wrap: wrap; justify-content: center;width: 100%; margin-top: 60px; " id="favoritesContainer">
+    <div class="search-container-favorit" style="display: flex; flex-wrap: wrap; justify-content: left; width: 100%; margin-top: 60px;" id="favoritesContainer">
       <!-- Favorite items will be inserted here -->
     </div>
   </section>
   <div class="batas"></div>
   <script>
+    function deleteBookmarks() {
+      const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+
+      // Hapus semua bookmark dari localStorage
+      localStorage.removeItem('favorites');
+
+      // Hapus semua item di dalam kontainer favorit di HTML
+      const favoritesContainer = document.getElementById('favoritesContainer');
+      favoritesContainer.innerHTML = '';
+
+      // Periksa apakah masih ada bookmark
+      if (favorites.length === 0) {
+        // Jika tidak ada bookmark, sembunyikan tombol hapus
+        const deleteButton = document.querySelector('.delete-button');
+        deleteButton.style.display = 'none';
+        
+      }
+      alert('Semua Bookmark telah di Hapus');
+    }
+
     document.addEventListener('DOMContentLoaded', function() {
       const favoritesContainer = document.getElementById('favoritesContainer');
       const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
@@ -116,6 +137,13 @@
         button.appendChild(movieBox);
         favoritesContainer.appendChild(button);
       });
+
+      // Periksa apakah ada bookmark, jika ya, tampilkan tombol hapus
+      if (favorites.length > 0) {
+        const deleteButton = document.querySelector('.delete-button');
+        
+        deleteButton.style.display = 'block';
+      }
     });
   </script>
   <script src="main.js"></script>
