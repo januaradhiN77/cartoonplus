@@ -82,28 +82,6 @@ function handleToggle(buttonId, overlayId, containerId, closeFunction) {
         isDragging = false;
     }, false);
 
-    // Handle touch events for format-nodrag
-    const formatNodrag = container.querySelector('.format-nodrag');
-    formatNodrag.addEventListener('touchstart', function(event) {
-        startY = event.touches[0].clientY;
-        initialTop = parseFloat(window.getComputedStyle(this).top);
-        this.style.transition = 'none';
-        isDragging = true;
-    }, false);
-
-    formatNodrag.addEventListener('touchmove', function(event) {
-        if (!isDragging) return;
-        event.stopPropagation(); // Stop event propagation to prevent interference with container scrolling
-        currentY = event.touches[0].clientY;
-        let diffY = currentY - startY;
-        this.style.top = `${initialTop + diffY}px`; // Adjust the top position based on touch movement
-    }, false);
-
-    formatNodrag.addEventListener('touchend', function(event) {
-        this.style.transition = 'all 0.5s ease';
-        isDragging = false;
-    }, false);
-
     // Disable scroll on stacked elements
     function disableScroll() {
         stackedElements.forEach(function(element) {
@@ -139,3 +117,5 @@ function closeFilter2() {
 
 handleToggle('filterButton', 'overlay-filter', 'filterContainer', closeFilter);
 handleToggle('filterButton2', 'overlay-filter2', 'filterContainer2', closeFilter2);
+
+
