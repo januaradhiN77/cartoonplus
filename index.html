@@ -522,14 +522,12 @@ document.addEventListener('DOMContentLoaded', function() {
       const terakhirDitontonSection = document.querySelector('.terakhir-ditonton');
       terakhirDitontonSection.style.display = 'none';
 
-      // Tambahkan teks "Belum ada yang ditonton" di tengah halaman index.html
+      // Tambahkan teks "Belum ada yang ditonton" di dalam elemen .td-box
       const belumAdaDitontonText = document.createElement('h1');
       belumAdaDitontonText.textContent = 'Belum ada yang ditonton';
-      document.body.appendChild(belumAdaDitontonText);
-      document.body.style.justifyContent = 'center';
-      document.body.style.alignItems = 'center';
-      document.body.style.display = 'flex';
-      document.body.style.flexDirection = 'columm';
+      belumAdaDitontonText.style.textAlign = 'center';
+      const tdBox = document.querySelector('.td-box');
+      tdBox.appendChild(belumAdaDitontonText);
     }
   });
 
