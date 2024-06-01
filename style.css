@@ -980,6 +980,7 @@ color: #FFBA2AFA;
         display: flex;
         height: auto;
         width: 100%;
+        
         justify-content: center;
         flex-direction: column;
         align-items: center;
@@ -988,6 +989,7 @@ color: #FFBA2AFA;
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-top: 20px;
         width: 100%;
 }
 .td-container img{
@@ -1001,7 +1003,7 @@ color: #FFBA2AFA;
         position: absolute;
         display: flex;
         margin-right: auto;
-        width: 80%;
+        width: 85%;
         margin-left: 10px;
 }
 .td-text{
