@@ -1003,7 +1003,7 @@ color: #FFBA2AFA;
         position: absolute;
         display: flex;
         margin-right: auto;
-        width: 85%;
+        width: 90%;
         margin-left: 10px;
 }
 .td-text{
@@ -1027,7 +1027,7 @@ color: #FFBA2AFA;
 
 
         -webkit-box-orient: vertical;
-        width: 95%;
+        width: 100%;
         -webkit-line-clamp: 1;
         overflow: hidden;
         font-size: 16px;
