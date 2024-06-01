@@ -122,12 +122,12 @@
     <div class="td-box">
       <img id="lastWatchedImg" src="">
       <div class="td-text">
-        <span>Terakhir Ditonton</span>
+        <span>Terakhir Dikunjungi</span>
         <h1 id="lastWatchedTitle"></h1>
         <button class="buttongoweb" onclick="continueLastWatched()">
           <div class="tombol-td">
             <span class="mdi mdi-play-circle"></span>
-            <span style="font-size: 20px;font-family: 'Barlow Condensed'; margin-left: -20px;">Lanjutkan</span>
+            <span style="font-size: 20px;font-family: 'Barlow Condensed'; margin-left: -20px;">Tonton</span>
           </div>
         </button>
       </div>
@@ -504,7 +504,8 @@ var countdown = setInterval(function() {
     }
 }, 1000);
 
-document.addEventListener('DOMContentLoaded', function() {
+
+    document.addEventListener('DOMContentLoaded', function() {
     // Ambil informasi film terakhir yang ditonton dari localStorage
     const lastWatchedData = JSON.parse(localStorage.getItem('lastWatched'));
     const lastWatchedThumbnail = document.getElementById('lastWatchedThumbnail');

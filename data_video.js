@@ -3784,6 +3784,7 @@
                 "duration": "2 jam 20m",
 "episodes": [
         {
+"episodeImg": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg",
        "episodeTitle": "Tonton", 
        "episodeJudul": "Spider-Man: Across the Spider-Verse",
 "description": "Miles Morales / Spider-Man berpetualang melintasi multisemesta dengan Gwen Stacy / Spider-Woman dan tim baru Spider-People yang harus menghadapi penjahat yang kuat.",
@@ -4100,21 +4101,31 @@ const gendre3Element = document.getElementById("g3");
 
 
 episodes.forEach((episode) => {
-  const episodeButton = document.createElement("button");
-  const iconElement = document.createElement("span");
-  iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
-iconElement.style.fontSize = "30px";
+        const episodeButton = document.createElement("button");
+        const iconElement = document.createElement("span");
+        iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
+        iconElement.style.fontSize = "30px";
 
+        episodeButton.textContent = episode.episodeTitle;
+        
 
-  episodeButton.textContent = episode.episodeTitle;
- // episodeButton.addEventListener("click", function() {
-   // window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);
-   episodeButton.addEventListener("click", function() {
-  const episodeUrl = encodeURIComponent(episode.episodeUrl);
-  const episodeJudul = encodeURIComponent(episode.episodeJudul);
-  const description = encodeURIComponent(episode.description);
-  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}`;
-});
+        episodeButton.addEventListener("click", function() {
+                // Simpan informasi terakhir ditonton sebelum melakukan redirect
+                localStorage.setItem('lastWatched', JSON.stringify({
+                        title: episode.episodeJudul,
+                        img: episode.episodeImg, // Ganti dengan URL gambar episode jika ada
+                        url: episode.episodeUrl,
+                        description: episode.description
+                }));
+
+                // Redirect ke halaman video_testing.html dengan parameter episode
+                const episodeUrl = encodeURIComponent(episode.episodeUrl);
+                const episodeJudul = encodeURIComponent(episode.episodeJudul);
+                const description = encodeURIComponent(episode.description);
+                const episodeImg = encodeURIComponent(episode.episodeImg);
+                window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}`;
+        });
+
 //  });
 
   episodeButton.insertBefore(iconElement, episodeButton.firstChild);
@@ -4129,6 +4140,7 @@ durationElement.textContent = data[animation].duration;
                         rilisElement.textContent = data[animation].rilis;
             ratingElement.textContent = data[animation].rating;
             studioElement.textContent = data[animation].studio;
+            
             terjemahElement.textContent = data[animation].terjemah;
             descriptionElement.innerHTML = data[animation].description;
 gendre1Element.innerHTML = data[animation].gendre1;
