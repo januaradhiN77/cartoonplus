@@ -116,6 +116,24 @@
                         <button class="buttongoweb" onclick="goToLink('https://saweria.co/januaradhinugroho')" ><h1>Donasi</h1></button>
                 </div>
         </section>
+<section class="terakhir-ditonton">
+  <div class="td-container">
+    <img id="lastWatchedThumbnail" src="" alt="Last Watched Thumbnail">
+    <div class="td-box">
+      <img id="lastWatchedImg" src="">
+      <div class="td-text">
+        <span>Terakhir Ditonton</span>
+        <h1 id="lastWatchedTitle"></h1>
+        <button class="buttongoweb" onclick="continueLastWatched()">
+          <div class="tombol-td">
+            <span class="mdi mdi-play-circle"></span>
+            <span style="font-size: 20px;font-family: 'Barlow Condensed'; margin-left: -20px;">Lanjutkan</span>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="movies-container" style="margin-top: 30px;">
         <div class="header-movies-text">
                 <h1>Baru di Upload</h1>
@@ -294,14 +312,7 @@
                 
                 <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=boboiboythemovie')"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
                         
-                  <img src="https://upload.wikimedia.org/wikipedia/id/2/2f/Boboiboy_The_Movies.jpg">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Boboiboy The Movie</h1></div>
-
-                </div></button>
-                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=findingnemo')"><div id="fn" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg">
+<img src="https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg">
                   <div class="image-overlay"></div>
                        <div class="overlay"></div>
                   <div class="judul-movies skeleton"><h1>Finding Nemo</h1></div>
@@ -492,12 +503,49 @@ var countdown = setInterval(function() {
         document.getElementById("countdown").innerHTML = "Film terbaru sudah tayang!";
     }
 }, 1000);
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Ambil informasi film terakhir yang ditonton dari localStorage
+    const lastWatchedData = JSON.parse(localStorage.getItem('lastWatched'));
+    const lastWatchedThumbnail = document.getElementById('lastWatchedThumbnail');
+    const lastWatchedImg = document.getElementById('lastWatchedImg');
+    const lastWatchedTitle = document.getElementById('lastWatchedTitle');
+
+    // Cek apakah ada film terakhir yang ditonton
+    if (lastWatchedData) {
+      // Isi gambar thumbnail dan judul film sesuai dengan informasi film terakhir yang ditonton
+      lastWatchedThumbnail.src = lastWatchedData.img;
+      lastWatchedImg.src = lastWatchedData.img;
+      lastWatchedTitle.textContent = lastWatchedData.title;
+    } else {
+      // Sembunyikan bagian "Terakhir Ditonton" jika tidak ada film yang ditonton sebelumnya
+      const terakhirDitontonSection = document.querySelector('.terakhir-ditonton');
+      terakhirDitontonSection.style.display = 'none';
+
+      // Tambahkan teks "Belum ada yang ditonton" di tengah halaman index.html
+      const belumAdaDitontonText = document.createElement('h1');
+      belumAdaDitontonText.textContent = 'Belum ada yang ditonton';
+      document.body.appendChild(belumAdaDitontonText);
+      document.body.style.justifyContent = 'center';
+      document.body.style.alignItems = 'center';
+      document.body.style.display = 'flex';
+    }
+  });
+
+  // Fungsi untuk melanjutkan menonton film terakhir yang ditonton
+  function continueLastWatched() {
+    const lastWatchedData = JSON.parse(localStorage.getItem('lastWatched'));
+    if (lastWatchedData) {
+      // Redirect ke halaman detail film yang sesuai
+      window.location.href = `videos_detail.html?animation=${lastWatchedData.animation}`;
+    }
+  }
   </script>
   
 
 
 
-
+<script src="data_video.js"></script>
 
     <script src="theme-toggle.js"></script>
 </body>

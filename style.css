@@ -976,5 +976,79 @@ color: #FFBA2AFA;
         color: white;
 
 }
+.terkahir-ditonton{
+        display: flex;
+        height: auto;
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+}
+.td-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+}
+.td-container img{
+        width: 90%;
+        border-radius: 10px;
+        height: 120px;
+        object-fit: cover;
+        opacity: 0.5;
+}
+.td-box{
+        position: absolute;
+        display: flex;
+        margin-right: auto;
+        width: 80%;
+        margin-left: 10px;
+}
+.td-text{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        margin-top: 10px;
+        
+        color: white;
+}
+.td-box img{
+        opacity: 1;
+        width: 100px;
+        border-radius: 15px;
+        height: 90px;
+}
+.td-text h1{
+        font-family: 'Zen Maru Gothic';
+        display: -webkit-box;
+
+
+
+        -webkit-box-orient: vertical;
+        width: 90%;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        font-size: 16px;
+}
+.td-text span{
+        letter-spacing: 0.20px;
+        color: #FFFFFFC4;
+}
+.tombol-td{
+        width: 120px;
+        height: 30px;
+        margin-top: 5px;
+        justify-content: center;
+        align-items: center;
+        background: #181922;
+        border-radius: 10px;
+        display: flex;
+}
+.tombol-td span{
+        font-size: 30px;
+        margin-right: auto;
+        margin-left: 5px;
+        color: white;
+}
 }
 

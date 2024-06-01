@@ -178,61 +178,81 @@
 <div class="batas"></div>
 
 <script>
+
   document.addEventListener('DOMContentLoaded', function() {
+    // Ambil parameter animasi dari URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const animation = urlParams.get('animation');
+
+    // Ambil data film dari data_video.js
+    const filmData = data[animation];
+
+    // Simpan informasi film terakhir yang ditonton di localStorage
+    localStorage.setItem('lastWatched', JSON.stringify({
+        title: filmData.title,
+        img: filmData.bgimg,
+        animation: animation
+    }));
+
+    // Tambahkan event listener untuk tombol favorit
     const favoriteButton = document.getElementById('favoriteButton');
-    const animation = new URLSearchParams(window.location.search).get('animation');
     const favoriteData = {
-      title: data[animation].title,
-      img: data[animation].bgimg,
-      url: window.location.href,
-      terjemah: data[animation].terjemah,
-      duration: data[animation].duration,
-      rating: data[animation].rating,
-      studio: data[animation].studio,
-      rilis: data[animation].rilis,
-      type: data[animation].type,
-      genres: [data[animation].gendre1, data[animation].gendre2, data[animation].gendre3],
-      description: data[animation].description,
-      trailer: data[animation].trailer
+        title: filmData.title,
+        img: filmData.bgimg,
+        url: window.location.href,
+        terjemah: filmData.terjemah,
+        duration: filmData.duration,
+        rating: filmData.rating,
+        studio: filmData.studio,
+        rilis: filmData.rilis,
+        type: filmData.type,
+        genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
+        description: filmData.description,
+        trailer: filmData.trailer
     };
 
-    // Check if this video is already in favorites
+    // Check apakah film sudah di dalam daftar favorit
     let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
     let isFavorited = favorites.some(fav => fav.url === window.location.href);
 
-    // Update button appearance based on favorite status
+    // Update tampilan tombol berdasarkan status favorit
     if (isFavorited) {
-      favoriteButton.classList.add('favorited');
-      favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-      
-    }
-
-    favoriteButton.addEventListener('click', function() {
-      let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-      let isFavorited = favorites.some(fav => fav.url === window.location.href);
-
-      if (isFavorited) {
-        // Remove from favorites
-        favorites = favorites.filter(fav => fav.url !== window.location.href);
-        localStorage.setItem('favorites', JSON.stringify(favorites));
-        favoriteButton.classList.remove('favorited');
-        favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
-        
-        alert('Dihapus dari Favorit');
-      } else {
-        // Add to favorites
-        favorites.push(favoriteData);
-        localStorage.setItem('favorites', JSON.stringify(favorites));
         favoriteButton.classList.add('favorited');
         favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-        
-        alert('Ditambahkan ke Favorit');
-      }
+    }
+
+    // Tambahkan event listener untuk tombol favorit
+    favoriteButton.addEventListener('click', function() {
+        let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+        let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+        if (isFavorited) {
+            // Hapus dari daftar favorit
+            favorites = favorites.filter(fav => fav.url !== window.location.href);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.remove('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
+            alert('Dihapus dari Favorit');
+        } else {
+            // Tambahkan ke daftar favorit
+            favorites.push(favoriteData);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.add('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+            alert('Ditambahkan ke Favorit');
+        }
     });
-  });
+});
 </script>
 <script src="main.js"></script>
 <script src="data_video.js"></script>
 <script src="theme-toggle.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
