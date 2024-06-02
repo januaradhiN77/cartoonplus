@@ -4204,7 +4204,7 @@
  ],
 },
 "tv-cnnid": {
-                "title": "CNN INDONESIA",
+                "title": "CNN Indonesia",
                 "terjemah": "TV Indonesia",
                 "rating": "No Rate",
                 "type": "All",
@@ -4220,7 +4220,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "CNN INDONESIA •Live",
+       "episodeJudul": "CNN Indonesia •Live",
        "episodeUrl": "https://www.cnnindonesia.com/tv/embed?ref=transmedia",
                 "description": "CNN Indonesia adalah sebuah jaringan televisi berita digital gratis dan berbayar (di Transvision dan IndiHome TV), serta situs berita milik Trans Media dengan mengambil lisensi nama CNN dari Warner Bros. Discovery (melalui Warner Bros. Discovery Asia-Pacific).[4] Saluran ini disiarkan pertama kalinya pada Senin, 17 Agustus 2015.",
                     
