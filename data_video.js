@@ -4266,8 +4266,8 @@
                 "gendre2": "Live",
                 "gendre3": "Program TV",
                 "description": "Indosiar (secara resmi bernama Indosiar Visual Mandiri, disingkat IVM) adalah salah satu jaringan televisi swasta nasional di Indonesia, yang beroperasi dari Daan Mogot, Jakarta Barat sejak tahun 1995. Awalnya didirikan dan dikuasai oleh Salim Group, sejak tahun 2011, kepemilikan Indosiar berada di bawah PT Elang Mahkota Teknologi Tbk yang membuatnya 'bersaudara' dengan SCTV.",
-                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zKQMCLrpDCijDWrq31s2GZOb94vCZlSa4Q&usqp=CAU",
-                "trailer": "",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ87Bm36XdrIvkuIdt4EhTOq7w8CNFnaf8-A&usqp=CAU",
+                "trailer": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ87Bm36XdrIvkuIdt4EhTOq7w8CNFnaf8-A&usqp=CAU",
                 "duration": "Live Streaming",
 "episodes": [
         {
