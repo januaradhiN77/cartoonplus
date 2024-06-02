@@ -4062,7 +4062,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "RCTI •Live",
+       "episodeJudul": "RCTI",
        "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=",
                 "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
                     
