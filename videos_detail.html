@@ -179,75 +179,72 @@
 
 <script>
 
-    document.addEventListener('DOMContentLoaded', function() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const animation = urlParams.get('animation');
+    
 
-            // Ambil data film dari data_video.js
-            const filmData = data[animation];
+document.addEventListener('DOMContentLoaded', function() {
+    // Ambil parameter animasi dari URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const animation = urlParams.get('animation');
 
-            const favoriteButton = document.getElementById('favoriteButton');
-            const favoriteData = {
-                title: filmData.title,
-                img: filmData.bgimg,
-                url: window.location.href,
-                terjemah: filmData.terjemah,
-                duration: filmData.duration,
-                rating: filmData.rating,
-                studio: filmData.studio,
-                rilis: filmData.rilis,
-                type: filmData.type,
-                genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
-                description: filmData.description,
-                trailer: filmData.trailer
-            };
+    // Ambil data film dari data_video.js
+    const filmData = data[animation];
 
-            let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-            let isFavorited = favorites.some(fav => fav.url === window.location.href);
+    // Simpan informasi film terakhir yang ditonton di localStorage
+    localStorage.setItem('lastWatched', JSON.stringify({
+        title: filmData.title,
+        img: filmData.bgimg,
+        animation: animation
+    }));
 
-            if (isFavorited) {
-                favoriteButton.classList.add('favorited');
-                favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-            }
+    // Tambahkan event listener untuk tombol favorit
+    const favoriteButton = document.getElementById('favoriteButton');
+    const favoriteData = {
+        title: filmData.title,
+        img: filmData.bgimg,
+        url: window.location.href,
+        terjemah: filmData.terjemah,
+        duration: filmData.duration,
+        rating: filmData.rating,
+        studio: filmData.studio,
+        rilis: filmData.rilis,
+        type: filmData.type,
+        genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
+        description: filmData.description,
+        trailer: filmData.trailer
+    };
 
-            favoriteButton.addEventListener('click', function() {
-                let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-                let isFavorited = favorites.some(fav => fav.url === window.location.href);
+    // Check apakah film sudah di dalam daftar favorit
+    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    let isFavorited = favorites.some(fav => fav.url === window.location.href);
 
-                if (isFavorited) {
-                    favorites = favorites.filter(fav => fav.url !== window.location.href);
-                    localStorage.setItem('favorites', JSON.stringify(favorites));
-                    favoriteButton.classList.remove('favorited');
-                    favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
-                    alert('Dihapus dari Favorit');
-                } else {
-                    favorites.push(favoriteData);
-                    localStorage.setItem('favorites', JSON.stringify(favorites));
-                    favoriteButton.classList.add('favorited');
-                    favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-                    alert('Ditambahkan ke Favorit');
-                }
-            });
+    // Update tampilan tombol berdasarkan status favorit
+    if (isFavorited) {
+        favoriteButton.classList.add('favorited');
+        favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+    }
 
-            // Simpan informasi film terakhir yang ditonton di localStorage saat keluar dari aplikasi/browser
-            let isPageHidden = false;
+    // Tambahkan event listener untuk tombol favorit
+    favoriteButton.addEventListener('click', function() {
+        let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+        let isFavorited = favorites.some(fav => fav.url === window.location.href);
 
-            document.addEventListener('visibilitychange', function() {
-                if (document.hidden) {
-                    isPageHidden = true;
-                }
-            });
-
-            window.addEventListener('beforeunload', function(event) {
-                if (isPageHidden) {
-                    localStorage.setItem('lastWatched', JSON.stringify({
-                        title: filmData.title,
-                        img: filmData.bgimg,
-                        animation: animation
-                    }));
-                }
-            });
-        });
+        if (isFavorited) {
+            // Hapus dari daftar favorit
+            favorites = favorites.filter(fav => fav.url !== window.location.href);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.remove('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
+            alert('Dihapus dari Favorit');
+        } else {
+            // Tambahkan ke daftar favorit
+            favorites.push(favoriteData);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.add('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+            alert('Ditambahkan ke Favorit');
+        }
+    });
+});
 </script>
 <script src="main.js"></script>
 <script src="data_video.js"></script>
