@@ -4344,12 +4344,7 @@ episodes.forEach((episode) => {
 
         episodeButton.addEventListener("click", function() {
                 // Simpan informasi terakhir ditonton sebelum melakukan redirect
-                localStorage.setItem('lastWatched', JSON.stringify({
-                        title: episode.episodeJudul,
-                        img: episode.episodeImg, // Ganti dengan URL gambar episode jika ada
-                        url: episode.episodeUrl,
-                        description: episode.description
-                }));
+                
 
                 // Redirect ke halaman video_testing.html dengan parameter episode
                 const episodeUrl = encodeURIComponent(episode.episodeUrl);
