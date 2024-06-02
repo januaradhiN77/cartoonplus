@@ -4228,6 +4228,32 @@
         
             
  ],
+},
+"tv-sctv": {
+                "title": "SCTV",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "Surya Citra Media",
+                "rilis": "20 Juli 1990",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "SCTV (singkatan dari Surya Citra Televisi) adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, tetapi baru pada Januari 1993, SCTV mendapatkan izin untuk bersiaran secara nasional.",
+                "bgimg": "https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "SCTV •Live",
+       "episodeUrl": "https://m.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&",
+                "description": "SCTV (singkatan dari Surya Citra Televisi) adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, tetapi baru pada Januari 1993, SCTV mendapatkan izin untuk bersiaran secara nasional.",
+                    
+       },
+        
+            
+ ],
 }
 };
 
