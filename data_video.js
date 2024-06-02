@@ -4156,7 +4156,7 @@
                 "terjemah": "TV Indonesia",
                 "rating": "No Rate",
                 "type": "All",
-                "studio": "Global Mediacom",
+                "studio": "Trans Corp",
                 "rilis": "28 November 2001",
                 "gendre1": "Televisi",
                 "gendre2": "Live",
