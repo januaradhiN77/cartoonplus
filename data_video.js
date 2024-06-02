@@ -4150,6 +4150,32 @@
         
             
  ],
+},
+"tv-trans7": {
+                "title": "TRANS7",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "Global Mediacom",
+                "rilis": "28 November 2001",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans7. ",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA48oQwoxoycBW2YpZFmuS04pZReQrY1_Hxg&usqp=CAU",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "TRANS7 •Live",
+       "episodeUrl": "https://20.detik.com/watch/livestreaming-trans7",
+                "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans7.",
+                    
+       },
+        
+            
+ ],
 }
 };
 
