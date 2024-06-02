@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+   <title>Cartoonn</title>
+   <!-- Custom Styles -->
+   <link rel="stylesheet" id="theme-link" href="style.css">
+</head>
+<header>
+                <div class="header_app">
+<button class="buttongoweb" onclick="goToWebsite('index.html')"> <div class="header_logo">
+
+<span class="mdi mdi-arrow-left"></span>
+                </div></button>
+
+        </div>
+                        <div class="header_app" style="margin-top: 50px;background: transparent;backdrop-filter: blur(0px);border-bottom: 0px;width: 65px;margin-left:320px;">
+<div class="header_logo">
+
+
+                </div>
+
+        </div>
+</header>
+<body>
+   <section class="videos-fr">
+
+         <div class="video-controller" id="videoContainer">   <iframe src="" id="videoPlayer" frameborder="0" allowfullscreen style="margin-top: 20px; " allow="autoplay"></iframe>
+      </div>
+   </section>
+
+   <section class="judul-vr">
+      <div class="judul-v-fr">
+
+         <h1 id="episodeJudul"></h1>
+         <span style="font-size: 15px; width: 270px; margin-top: 30px;">Perhatian : Mohon maaf jika videonya agak lama di putar, tunggu sekitar 5 menit untuk ngeload data video. terimakasih :)</span>
+      <div class="sinopsis-vplayer">
+              <h1>Sinopsis</h1>
+              <span style="font-size: 14px; margin-top: 10px; width: 90%;" id="description"></span>
+      </div>
+      </div>
+<div style="justify-content: center; display: flex; align-items: center; width: 100%; margin-top: 20px;">
+      <div class="button-nonton" style="width: 290px;">
+         <button class="buttongoweb" onclick="goToError('')"><span class="mdi mdi-download">Download</span></button>
+      </div>
+</div>
+
+   </section>
+   <div style="height: 1px; background: #FFFFFF73; width: 100%; margin-top: 20px;"></div>
+   <section class="movies-container">
+      <div class="header-movies-text">
+         <h1 style="font-size: 20px;">Ongoing</h1>
+      </div>
+      <div class="movies">
+
+
+
+
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jujutsukaisenseason2')"><div id="jjtsuk2" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
+                  <img src="https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg">
+                  <div class="image-overlay"></div>
+                  <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Jujutsu Kaisen Season 2</h1></div>
+                </div></button>
+
+
+    
+      </div>
+   </section>
+  
+   <script>
+      // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
+      const urlParams = new URLSearchParams(window.location.search);
+      const episodeUrl = decodeURIComponent(urlParams.get("episodeUrl"));
+      const episodeJudul = decodeURIComponent(urlParams.get("episodeJudul"));
+      const description = decodeURIComponent(urlParams.get("description"));
+      
+      // Mengatur judul episode
+      document.getElementById("episodeJudul").textContent = episodeJudul;
+      document.getElementById("description").innerHTML = description;
+      // Mengatur sumber iframe berdasarkan episode yang dipilih
+      document.getElementById("videoPlayer").src = episodeUrl;
+      
+   </script>
+   <script src="main.js"></script>
+   <script src="data_video.js"></script>
+   <script src="theme-toggle.js"></script>
+</body>
+</html>
