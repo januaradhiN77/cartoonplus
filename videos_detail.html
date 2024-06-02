@@ -180,69 +180,107 @@
 <script>
 
     document.addEventListener('DOMContentLoaded', function() {
-    // Ambil parameter animasi dari URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const animation = urlParams.get('animation');
+            // Ambil informasi film terakhir yang ditonton dari localStorage
+            const lastWatchedData = JSON.parse(localStorage.getItem('lastWatched'));
+            const lastWatchedThumbnail = document.getElementById('lastWatchedThumbnail');
+            const lastWatchedImg = document.getElementById('lastWatchedImg');
+            const lastWatchedTitle = document.getElementById('lastWatchedTitle');
 
-    // Ambil data film dari data_video.js
-    const filmData = data[animation];
+            // Cek apakah ada film terakhir yang ditonton
+            if (lastWatchedData) {
+                // Isi gambar thumbnail dan judul film sesuai dengan informasi film terakhir yang ditonton
+                lastWatchedThumbnail.src = lastWatchedData.img;
+                lastWatchedImg.src = lastWatchedData.img;
+                lastWatchedTitle.textContent = lastWatchedData.title;
+            } else {
+                // Sembunyikan bagian "Terakhir Ditonton" jika tidak ada film yang ditonton sebelumnya
+                const terakhirDitontonSection = document.querySelector('.terakhir-ditonton');
+                terakhirDitontonSection.style.display = 'none';
 
-    // Simpan informasi film terakhir yang ditonton di localStorage
-    localStorage.setItem('lastWatched', JSON.stringify({
-        title: filmData.title,
-        img: filmData.bgimg,
-        animation: animation
-    }));
+                // Tambahkan teks "Belum ada yang ditonton" di dalam elemen .td-box
+                const belumAdaDitontonText = document.createElement('h1');
+                belumAdaDitontonText.textContent = 'Belum ada yang ditonton';
+                belumAdaDitontonText.style.textAlign = 'center';
+                const tdBox = document.querySelector('.td-box');
+                tdBox.appendChild(belumAdaDitontonText);
+            }
+        });
 
-    // Tambahkan event listener untuk tombol favorit
-    const favoriteButton = document.getElementById('favoriteButton');
-    const favoriteData = {
-        title: filmData.title,
-        img: filmData.bgimg,
-        url: window.location.href,
-        terjemah: filmData.terjemah,
-        duration: filmData.duration,
-        rating: filmData.rating,
-        studio: filmData.studio,
-        rilis: filmData.rilis,
-        type: filmData.type,
-        genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
-        description: filmData.description,
-        trailer: filmData.trailer
-    };
-
-    // Check apakah film sudah di dalam daftar favorit
-    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-    let isFavorited = favorites.some(fav => fav.url === window.location.href);
-
-    // Update tampilan tombol berdasarkan status favorit
-    if (isFavorited) {
-        favoriteButton.classList.add('favorited');
-        favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-    }
-
-    // Tambahkan event listener untuk tombol favorit
-    favoriteButton.addEventListener('click', function() {
-        let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-        let isFavorited = favorites.some(fav => fav.url === window.location.href);
-
-        if (isFavorited) {
-            // Hapus dari daftar favorit
-            favorites = favorites.filter(fav => fav.url !== window.location.href);
-            localStorage.setItem('favorites', JSON.stringify(favorites));
-            favoriteButton.classList.remove('favorited');
-            favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
-            alert('Dihapus dari Favorit');
-        } else {
-            // Tambahkan ke daftar favorit
-            favorites.push(favoriteData);
-            localStorage.setItem('favorites', JSON.stringify(favorites));
-            favoriteButton.classList.add('favorited');
-            favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
-            alert('Ditambahkan ke Favorit');
+        // Fungsi untuk melanjutkan menonton film terakhir yang ditonton
+        function continueLastWatched() {
+            const lastWatchedData = JSON.parse(localStorage.getItem('lastWatched'));
+            if (lastWatchedData) {
+                // Redirect ke halaman detail film yang sesuai
+                window.location.href = `videos_detail.html?animation=${lastWatchedData.animation}`;
+            }
         }
-    });
-});
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Ambil parameter animasi dari URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const animation = urlParams.get('animation');
+
+            // Ambil data film dari data_video.js (pastikan file ini dimuat dan tersedia)
+            const filmData = data[animation];
+
+            // Tambahkan event listener untuk tombol favorit
+            const favoriteButton = document.getElementById('favoriteButton');
+            const favoriteData = {
+                title: filmData.title,
+                img: filmData.bgimg,
+                url: window.location.href,
+                terjemah: filmData.terjemah,
+                duration: filmData.duration,
+                rating: filmData.rating,
+                studio: filmData.studio,
+                rilis: filmData.rilis,
+                type: filmData.type,
+                genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
+                description: filmData.description,
+                trailer: filmData.trailer
+            };
+
+            // Check apakah film sudah di dalam daftar favorit
+            let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+            let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+            // Update tampilan tombol berdasarkan status favorit
+            if (isFavorited) {
+                favoriteButton.classList.add('favorited');
+                favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+            }
+
+            // Tambahkan event listener untuk tombol favorit
+            favoriteButton.addEventListener('click', function() {
+                let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+                let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+                if (isFavorited) {
+                    // Hapus dari daftar favorit
+                    favorites = favorites.filter(fav => fav.url !== window.location.href);
+                    localStorage.setItem('favorites', JSON.stringify(favorites));
+                    favoriteButton.classList.remove('favorited');
+                    favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
+                    alert('Dihapus dari Favorit');
+                } else {
+                    // Tambahkan ke daftar favorit
+                    favorites.push(favoriteData);
+                    localStorage.setItem('favorites', JSON.stringify(favorites));
+                    favoriteButton.classList.add('favorited');
+                    favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+                    alert('Ditambahkan ke Favorit');
+                }
+            });
+
+            // Simpan informasi film terakhir yang ditonton di localStorage saat keluar dari halaman
+            window.addEventListener('beforeunload', function() {
+                localStorage.setItem('lastWatched', JSON.stringify({
+                    title: filmData.title,
+                    img: filmData.bgimg,
+                    animation: animation
+                }));
+            });
+        });
 </script>
 <script src="main.js"></script>
 <script src="data_video.js"></script>
