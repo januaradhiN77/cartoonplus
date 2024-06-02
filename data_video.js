@@ -4097,8 +4097,36 @@
         
             
  ],
+},
+
+"tv-gtv": {
+                "title": "GTV",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "Global Mediacom",
+                "rilis": "8 Oktober 2001",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "GTV (pelafalan dalam bahasa Indonesia: [dʒitifi], sebelumnya bernama Global TV) adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya. ",
+                "bgimg": "asset/gtv.jpg",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "GTV •Live",
+       "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==",
+                "description": "GTV (pelafalan dalam bahasa Indonesia: [dʒitifi], sebelumnya bernama Global TV) adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya. ",
+                    
+       },
+        
+            
+ ],
 }
 };
+
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
         const urlParams = new URLSearchParams(window.location.search);
