@@ -1052,5 +1052,29 @@ color: #FFBA2AFA;
         margin-left: 5px;
         color: white;
 }
+
+
+.dot::before {
+    content: '';
+    position: absolute;
+    margin-left: -85px;
+    margin-top: -50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: white;
+    animation: echo 1.0s infinite;
+}
+
+@keyframes echo {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+}
 }
 
