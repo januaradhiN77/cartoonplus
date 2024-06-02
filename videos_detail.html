@@ -186,6 +186,9 @@
             // Ambil data film dari data_video.js
             const filmData = data[animation];
 
+            // Simpan penanda di localStorage saat halaman detail dimuat
+            localStorage.setItem('isWatching', 'true');
+
             const favoriteButton = document.getElementById('favoriteButton');
             const favoriteData = {
                 title: filmData.title,
@@ -229,22 +232,21 @@
                 }
             });
 
-            // Simpan informasi film terakhir yang ditonton di localStorage saat keluar dari halaman
-            let hasChanged = false;
-
+            // Simpan informasi film terakhir yang ditonton di localStorage saat pengguna keluar dari aplikasi/browser
             window.addEventListener('beforeunload', function(event) {
-                if (hasChanged) {
+                if (localStorage.getItem('isWatching') === 'true') {
                     localStorage.setItem('lastWatched', JSON.stringify({
                         title: filmData.title,
                         img: filmData.bgimg,
                         animation: animation
                     }));
+                    localStorage.removeItem('isWatching'); // Hapus penanda setelah menyimpan
                 }
             });
 
-            // Menandai bahwa ada perubahan saat pengguna berinteraksi dengan halaman
-            document.addEventListener('click', function() {
-                hasChanged = true;
+            // Hapus penanda jika pengguna berpindah halaman tanpa menutup browser
+            window.addEventListener('unload', function() {
+                localStorage.removeItem('isWatching');
             });
         });
 </script>
