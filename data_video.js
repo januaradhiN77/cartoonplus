@@ -4124,6 +4124,32 @@
         
             
  ],
+},
+"tv-inews": {
+                "title": "iNews",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "Global Mediacom",
+                "rilis": "5 Maret 2008",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "iNews (pelafalan dalam bahasa Indonesia: [ˈaj.ɲus], kependekan dari Indonesia News, sebelumnya bernama SUN TV dan Sindo TV) adalah sebuah jaringan televisi swasta di Indonesia. Dimiliki oleh konglomerasi Media Nusantara Citra (melalui iNews Media Group), program-programnya berfokus pada konten informasi dan olahraga dalam waktu siar selama 24 jam sehari. ",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kvWONCsuE4-txN5b6WNDAZMeutX0wfw0KA&usqp=CAU",
+                "trailer": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGaW5ld3MlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "iNews •Live",
+       "episodeUrl": "",
+                "description": "iNews (pelafalan dalam bahasa Indonesia: [ˈaj.ɲus], kependekan dari Indonesia News, sebelumnya bernama SUN TV dan Sindo TV) adalah sebuah jaringan televisi swasta di Indonesia. Dimiliki oleh konglomerasi Media Nusantara Citra (melalui iNews Media Group), program-programnya berfokus pada konten informasi dan olahraga dalam waktu siar selama 24 jam sehari.",
+                    
+       },
+        
+            
+ ],
 }
 };
 
