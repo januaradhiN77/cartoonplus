@@ -1057,7 +1057,7 @@ color: #FFBA2AFA;
 .dot::before {
     content: '';
     position: absolute;
-    margin-left: -85px;
+    margin-left: -75px;
     margin-top: -50px;
     width: 100px;
     height: 100px;
