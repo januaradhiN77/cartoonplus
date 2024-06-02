@@ -4156,7 +4156,7 @@
                 "terjemah": "TV Indonesia",
                 "rating": "No Rate",
                 "type": "All",
-                "studio": "Trans Corp",
+                "studio": "Trans Media",
                 "rilis": "28 November 2001",
                 "gendre1": "Televisi",
                 "gendre2": "Live",
@@ -4171,6 +4171,32 @@
        "episodeJudul": "TRANS7 •Live",
        "episodeUrl": "https://20.detik.com/watch/livestreaming-trans7",
                 "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans7.",
+                    
+       },
+        
+            
+ ],
+},
+"tv-transtv": {
+                "title": "TRANS TV",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "Trans Media",
+                "rilis": "28 November 2001",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7. ",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb49gWO8WD4Oiuv1qkLVChnrln_d451mdiw&usqp=CAU",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "TRANS7 •Live",
+       "episodeUrl": "https://20.detik.com/watch/livestreaming-transtv",
+                "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7.",
                     
        },
         
