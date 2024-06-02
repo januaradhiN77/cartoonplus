@@ -4089,7 +4089,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "MNC TV •Live",
+       "episodeJudul": "MNC TV ",
        "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGbW5jdHYlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1",
                 "description": "MNCTV adalah sebuah jaringan televisi swasta nasional di Indonesia. Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB. MNCTV merupakan televisi swasta ketiga di Indonesia setelah RCTI dan SCTV. ",
                     
@@ -4116,7 +4116,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "GTV •Live",
+       "episodeJudul": "GTV ",
        "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==",
                 "description": "GTV (pelafalan dalam bahasa Indonesia: [dʒitifi], sebelumnya bernama Global TV) adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya. ",
                     
@@ -4142,7 +4142,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "iNews •Live",
+       "episodeJudul": "iNews ",
        "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGaW5ld3MlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1",
                 "description": "iNews (pelafalan dalam bahasa Indonesia: [ˈaj.ɲus], kependekan dari Indonesia News, sebelumnya bernama SUN TV dan Sindo TV) adalah sebuah jaringan televisi swasta di Indonesia. Dimiliki oleh konglomerasi Media Nusantara Citra (melalui iNews Media Group), program-programnya berfokus pada konten informasi dan olahraga dalam waktu siar selama 24 jam sehari.",
                     
@@ -4168,7 +4168,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "TRANS7 •Live",
+       "episodeJudul": "TRANS7 ",
        "episodeUrl": "https://20.detik.com/watch/livestreaming-trans7",
                 "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans7.",
                     
@@ -4194,7 +4194,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "TRANS7 •Live",
+       "episodeJudul": "TRANS TV",
        "episodeUrl": "https://20.detik.com/watch/livestreaming-transtv",
                 "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7.",
                     
@@ -4220,7 +4220,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "CNN Indonesia •Live",
+       "episodeJudul": "CNN Indonesia",
        "episodeUrl": "https://www.cnnindonesia.com/tv/embed?ref=transmedia",
                 "description": "CNN Indonesia adalah sebuah jaringan televisi berita digital gratis dan berbayar (di Transvision dan IndiHome TV), serta situs berita milik Trans Media dengan mengambil lisensi nama CNN dari Warner Bros. Discovery (melalui Warner Bros. Discovery Asia-Pacific).[4] Saluran ini disiarkan pertama kalinya pada Senin, 17 Agustus 2015.",
                     
@@ -4246,7 +4246,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "SCTV •Live",
+       "episodeJudul": "SCTV",
        "episodeUrl": "https://m.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&",
                 "description": "SCTV (singkatan dari Surya Citra Televisi) adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, tetapi baru pada Januari 1993, SCTV mendapatkan izin untuk bersiaran secara nasional.",
                     
@@ -4272,7 +4272,7 @@
 "episodes": [
         {
        "episodeTitle": "Play Streaming", 
-       "episodeJudul": "INDOSIAR •Live",
+       "episodeJudul": "INDOSIAR",
        "episodeUrl": "https://m.vidio.com/live/205/embed?autoplay=true&player_only=true&live_chat=false&mute=false&",
                 "description": "Indosiar (secara resmi bernama Indosiar Visual Mandiri, disingkat IVM) adalah salah satu jaringan televisi swasta nasional di Indonesia, yang beroperasi dari Daan Mogot, Jakarta Barat sejak tahun 1995. Awalnya didirikan dan dikuasai oleh Salim Group, sejak tahun 2011, kepemilikan Indosiar berada di bawah PT Elang Mahkota Teknologi Tbk yang membuatnya 'bersaudara' dengan SCTV.",
                     
