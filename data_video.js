@@ -4045,10 +4045,59 @@
                 
             },
             
+"tv-rcti": {
+                "title": "RCTI",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "MNC Group",
+                "rilis": "24 Agustus 1989",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4c2VIn6qA3IdE5UZkJccpoT8pghWE44qGg&usqp=CAU",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "RCTI •Live",
+       "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=",
+                "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia.",
+                    
+       },
+        
             
+ ],
+},
+
+"tv-mnctv": {
+                "title": "MNC TV",
+                "terjemah": "TV Indonesia",
+                "rating": "No Rate",
+                "type": "All",
+                "studio": "MNC Group",
+                "rilis": "23 Januari 1991",
+                "gendre1": "Televisi",
+                "gendre2": "Live",
+                "gendre3": "Program TV",
+                "description": "MNCTV adalah sebuah jaringan televisi swasta nasional di Indonesia. Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB. MNCTV merupakan televisi swasta ketiga di Indonesia setelah RCTI dan SCTV. ",
+                "bgimg": "https://cdn.okezone.com/underwood/revamp/asset/img/livestreaming/mnc_tv.png",
+                "trailer": "",
+                "duration": "Live Streaming",
+"episodes": [
+        {
+       "episodeTitle": "Play Streaming", 
+       "episodeJudul": "MNC TV •Live",
+       "episodeUrl": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGbW5jdHYlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1",
+                "description": "MNCTV adalah sebuah jaringan televisi swasta nasional di Indonesia. Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB. MNCTV merupakan televisi swasta ketiga di Indonesia setelah RCTI dan SCTV. ",
+                    
+       },
+        
             
-            
-            
+ ],
+}
 };
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
