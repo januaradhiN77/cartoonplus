@@ -82,82 +82,82 @@
   <div class="batas" style="height: 7px;"></div>
   <script>
     function deleteBookmarks() {
-      const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+            // Hapus semua bookmark dari localStorage
+            localStorage.removeItem('favorites');
 
-      // Hapus semua bookmark dari localStorage
-      localStorage.removeItem('favorites');
+            // Hapus semua item di dalam kontainer favorit di HTML
+            const favoritesContainer = document.getElementById('favoritesContainer');
+            favoritesContainer.innerHTML = '';
 
-      // Hapus semua item di dalam kontainer favorit di HTML
-      const favoritesContainer = document.getElementById('favoritesContainer');
-      favoritesContainer.innerHTML = '';
+            // Sembunyikan tombol hapus dan tampilkan pesan "Tidak ada data"
+            const deleteButton = document.querySelector('.delete-button');
+            deleteButton.style.display = 'none';
+            const noDataMessage = document.getElementById('noDataMessage');
+            noDataMessage.style.display = 'block';
 
-      // Periksa apakah masih ada bookmark
-      if (favorites.length === 0) {
-        // Jika tidak ada bookmark, sembunyikan tombol hapus
-        const deleteButton = document.querySelector('.delete-button');
-        deleteButton.style.display = 'none';
-      }
+            // Perbarui angka total favorit
+            updateTotalFavorites();
 
-      // Perbarui angka total favorit
-      updateTotalFavorites();
+            alert('Semua data Favorit telah dihapus');
+        }
 
-      alert('Semua data Favorit telah dihapus');
-    }
+        function updateTotalFavorites() {
+            const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+            const totalFavoritesElement = document.getElementById('totalFavorites');
+            totalFavoritesElement.textContent = `(Total Favorit: ${favorites.length})`;
+        }
 
-    function updateTotalFavorites() {
-      const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-      const totalFavoritesElement = document.getElementById('totalFavorites');
-      totalFavoritesElement.textContent = `(Total Favorit: ${favorites.length})`;
-    }
+        document.addEventListener('DOMContentLoaded', function() {
+            const favoritesContainer = document.getElementById('favoritesContainer');
+            const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
 
-    document.addEventListener('DOMContentLoaded', function() {
-      const favoritesContainer = document.getElementById('favoritesContainer');
-      const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+            favorites.forEach(favorite => {
+                addFavoriteToContainer(favorite, favoritesContainer);
+            });
 
-      favorites.forEach(favorite => {
-        const button = document.createElement('button');
-        button.classList.add('buttongoweb');
-        button.onclick = function() {
-          window.location.href = favorite.url;
-        };
+            // Periksa apakah ada bookmark, jika ya, tampilkan tombol hapus
+            const deleteButton = document.querySelector('.delete-button');
+            if (favorites.length > 0) {
+                deleteButton.style.display = 'block';
+            } else {
+                const noDataMessage = document.getElementById('noDataMessage');
+                noDataMessage.style.display = 'block';
+            }
 
-        const movieBox = document.createElement('div');
-        movieBox.classList.add('movies-box', 'horror', 'hdplus', 'drama', 'kisahnyata');
+            // Perbarui angka total favorit
+            updateTotalFavorites();
+        });
 
-        const img = document.createElement('img');
-        img.src = favorite.img;
-        img.style.width = "116px";
-        img.style.height = "190px";
-        movieBox.appendChild(img);
+        function addFavoriteToContainer(favorite, container) {
+            const button = document.createElement('button');
+            button.classList.add('buttongoweb');
+            button.onclick = function() {
+                window.location.href = favorite.url;
+            };
 
-        const overlay = document.createElement('div');
-        overlay.classList.add('image-overlay');
-        movieBox.appendChild(overlay);
+            const movieBox = document.createElement('div');
+            movieBox.classList.add('movies-box', 'horror', 'hdplus', 'drama', 'kisahnyata');
 
-        const title = document.createElement('div');
-        title.classList.add('judul-movies');
-        const h1 = document.createElement('h1');
-        h1.textContent = favorite.title;
-        title.appendChild(h1);
-        movieBox.appendChild(title);
+            const img = document.createElement('img');
+            img.src = favorite.img;
+            img.style.width = "116px";
+            img.style.height = "190px";
+            movieBox.appendChild(img);
 
-        button.appendChild(movieBox);
-        favoritesContainer.appendChild(button);
-      });
+            const overlay = document.createElement('div');
+            overlay.classList.add('image-overlay');
+            movieBox.appendChild(overlay);
 
-      // Periksa apakah ada bookmark, jika ya, tampilkan tombol hapus
-      if (favorites.length > 0) {
-        const deleteButton = document.querySelector('.delete-button');
-        deleteButton.style.display = 'block';
-      } else {
-        // Jika tidak ada bookmark, tampilkan pesan "Tidak ada data"
-        const noDataMessage = document.getElementById('noDataMessage');
-        noDataMessage.style.display = 'block';
-      }
+            const title = document.createElement('div');
+            title.classList.add('judul-movies');
+            const h1 = document.createElement('h1');
+            h1.textContent = favorite.title;
+            title.appendChild(h1);
+            movieBox.appendChild(title);
 
-      // Perbarui angka total favorit
-      updateTotalFavorites();
-    });
+            button.appendChild(movieBox);
+            container.insertBefore(button, container.firstChild);
+        }
   </script>
   <script src="main.js"></script>
   <script src="theme-toggle.js"></script>
