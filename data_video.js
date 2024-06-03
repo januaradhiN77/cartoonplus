@@ -4280,7 +4280,120 @@
         
             
  ],
-}
+},
+
+"agaklaen": {
+        "title": "Agak Laen",
+        "terjemah": "Film Bioskop",
+        "rating": "8.1",
+        "type": "HD+",
+        "studio": "Imajinari",
+        "rilis": "1 Februari 2024",
+        "gendre1": "Comedy",
+        "gendre2": "Horror",
+        "gendre3": "Drama",
+        "description": "Empat petugas rumah hantu bernama Boris, Jegel, Bene, dan Oki. Dikisahkan bahwa keempatnya bertugas sebagai hantu yang menakut-nakuti pengunjung rumah hantu yang ada di sebuah pasar malam. Namun, alih-alih menyeramkan dan membuat para pengunjung terkesan, rumah hantu tersebut justru sama sekali tidak menunjukkan kesan yang seram. Bahkan hantu-hantu di dalamnya pun tidak berhasil membuat pengunjung terkejut maupun ketakutan. Situasi tersebut membuat pihak pengelola wahana mencoba sebisa mungkin untuk menghadirkan wahana rumah hantu yang menyeramkan.",
+        "bgimg": "https://m.media-amazon.com/images/M/MV5BMjViNTVhY2QtZjE1OS00OWIyLTkyM2EtNmYwOTA0ZTdkZDRmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/0YLSPyGA4h0",
+        "duration": "1 jam 59m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Agak Laen",
+                        "description": "Empat petugas rumah hantu bernama Boris, Jegel, Bene, dan Oki. Dikisahkan bahwa keempatnya bertugas sebagai hantu yang menakut-nakuti pengunjung rumah hantu yang ada di sebuah pasar malam. Namun, alih-alih menyeramkan dan membuat para pengunjung terkesan, rumah hantu tersebut justru sama sekali tidak menunjukkan kesan yang seram. Bahkan hantu-hantu di dalamnya pun tidak berhasil membuat pengunjung terkejut maupun ketakutan. Situasi tersebut membuat pihak pengelola wahana mencoba sebisa mungkin untuk menghadirkan wahana rumah hantu yang menyeramkan.",
+                        "episodeUrl": "https://drive.google.com/file/d/1ukUT0yzkzjdYtx79ktMh8Na_E0Fproli/preview",
+
+
+       }
+        ],
+"aktor": [
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLAKRJ5yrG3j4TzDi4CWUOFTfQjIUetrUey4zsLPljPZ3U89am8vq&s=0",
+                "namaAktor": "Anggi Marito",
+                "karakter": "(Naomi)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVgprg6PmHNvsRJvphgc1_8ADODd4VGyti4s5qXOxtNool6lNlR4W&s=0",
+                "namaAktor": "Oki Rengga Winata",
+                "karakter": "(Oki)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrl3oRuket317n2rJgTWLcFY6SbwCd7_VYXIodQ2sHe7iKqMD6cZ99&s=0",
+                "namaAktor": "Bene Dion",
+                "karakter": "(Bene)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64iiyYUclDrX1CRg-Z3TB1yR1CKUX-ChsFp_WJa9jKlfwgy3syv4u&s=0",
+                "namaAktor": "Indra Jegel",
+                "karakter": "(Jegel)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZTjJyzrnO3KS7YdUw2SuQ1kMyyVysQgZk_110K6w2Ir7zShD0GGn&s=0",
+                "namaAktor": "Indah Permatasari",
+                "karakter": "(Intan)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs66jgtKO4oFG_ZD7vYb_QqOHPvMW6xil6FQxGNAuryq-7Ijq8UVdP&s=0",
+                "namaAktor": "Boris Bokir",
+                "karakter": "(Boris)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyfcpMfqbjiggvyPf7ZscTdMj2D8jv2eJ18uNapxOTJ0MzSWWvrxg&s=0",
+                "namaAktor": "Tissa Biani",
+                "karakter": "(Marlina)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiDc6cMffXl4x__XCv38gPOC7nzDaA2jzZcrFPVUEWXrsem2tk9JL&s=0",
+                "namaAktor": "Arie Kriting",
+                "karakter": "(Jongki)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQp1cieFLFTK09L2wGyJLV5enMyXTDPx-TF8LxAPWyQq4ulfF2uHxs&s=0",
+                "namaAktor": "Bukie B. Mansyur",
+                "karakter": "(Tohar)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEeagvj_62fNZ2WNFIifwtW0oFR2WalWLpcUs&s=0",
+                "namaAktor": "Praz Teguh",
+                "karakter": "(Bedul)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjknlHhKqMKiR1PC5hN7BLzG1PAAv8jO1EG2YH9zNyBCRM95YNoFT&s=0",
+                "namaAktor": "Sadana Agung",
+                "karakter": "(Obet)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0bjgIQD0TblS2gMj049AJRQ39bzVJ_50cQyNP4Nf7qRycY5CV2v0&s=0",
+                "namaAktor": "Mamat Alkatiri",
+                "karakter": "(Beben)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvk95iq7A6KhjjY62lNRUl6bc76411mu2jzbJKtb_qCFoCj-rk3UK&s=0",
+                "namaAktor": "Rita Matu Mona",
+                "karakter": "(Mamak Oki)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7n2F6wxfJg5AA-x7PcTO1KvDDXlFetgexSP6NChq-xlaJDg2n9iAn&s=0",
+                "namaAktor": "Arief Didu",
+                "karakter": "(Basuki)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxnIG6K52_a89BxBgkr2461zaUYbIiaqgxhCx3_G0Ra_ixXCD3rHv&s=0",
+                "namaAktor": "Wani Siregar",
+                "karakter": "(Bu Retno)"
+},
+        {
+                "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTU6YTskMtcejjhW6QyF_FilaLYnpsycnSP_o&s=0",
+                "namaAktor": "Soleh Solihun",
+                "karakter": "(Oknum Tentara)"
+},
+]
+        
+
+},
+
+
+
 };
 
 
