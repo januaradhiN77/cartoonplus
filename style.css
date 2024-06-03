@@ -702,6 +702,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
         font-family: 'Zen Maru Gothic';
 }
+.styling-features{
+        background: #2A2A2AAB;
+}
 .aktor-box{
 
   margin: auto;
