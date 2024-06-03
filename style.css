@@ -597,7 +597,13 @@ background-color: transparent;
 .button.active {
         background-color: #FFB10FFA;
         color: white;
-        border-radius: 10px 10px 0px 0px;
+        
+}
+.button.active h1{
+        color: white;
+}
+.button.active span{
+        color: white;
 }
 .search-list{
 
@@ -675,7 +681,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   position: relative;
   justify-content: center;
   align-items: center;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 20px;
   background-color: #60606052;
   color: #FFFFFF;
   z-index: 9999;
@@ -687,6 +693,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   
 }
 .button h1{
+        color: #9394A1F5;
+        font-family: 'Zen Maru Gothic';
+}
+.button span{
+
+        color: #9394A1F5;
+
         font-family: 'Zen Maru Gothic';
 }
 .aktor-box{
