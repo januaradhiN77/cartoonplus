@@ -608,16 +608,30 @@ background-color: transparent;
 }
 .button.active {
 
-        background-color: #FFB10FFA;
+     
+
+    
+    background: linear-gradient(to right, rgba(255, 0, 0, 0.7), rgba(128, 0, 128, 0.7));
 
         color: white;
         
 }
 .button.active h1{
-        color: white;
+
+                background: white;
+
+        -webkit-background-clip: text;
+
+        -webkit-text-fill-color: transparent;
 }
 .button.active span{
-        color: white;
+        background: white;
+
+
+
+        -webkit-background-clip: text;
+
+        -webkit-text-fill-color: transparent;
 }
 .search-list{
 
@@ -731,13 +745,19 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .button h1{
 
-        color: #9394A1F5;
+        background: linear-gradient(to right, rgba(255, 0, 0, 0.7), rgba(255, 0, 255, 0.7));
 
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
         font-family: 'Zen Maru Gothic';
 }
 .button span{
 
-        color: #9394A1F5;
+        background: linear-gradient(to right, rgba(255, 0, 0, 0.7), rgba(255, 0, 255, 0.7));
+
+        -webkit-background-clip: text;
+
+        -webkit-text-fill-color: transparent;
 
         font-family: 'Zen Maru Gothic';
 }
