@@ -4392,7 +4392,94 @@
 
 },
 
+"teasingmastertakagisan": {
+                "title": "Teasing Master Takagi-san Live Action - TV Series 2024",
+                "terjemah": "Episode 1-7",
+                "rating": "8.0",
+                "studio": "Fine Entertainment",
+                "rilis": "26 Maret 2024",
+                "gendre1": "Comedy",
+                "gendre2": "Drama",
+                "gendre3": "Romance",
+                "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BMjEzMGY4MDctYTAwZi00YTQ3LWIwMTYtMTk1YTViMmZjMzJmXkEyXkFqcGdeQXVyNTI4NzA1OTk@._V1_FMjpg_UX1000_.jpg",
+                "trailer": "https://www.youtube.com/embed/wdJQuuzjUZc?si=3yHR-TdRBaj7N4Wv",
+                "duration": "30m / Episode",
+                "type": "HD",
 
+"episodes": [
+        {
+       "episodeTitle": "Episode 7", 
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 7",
+"description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1l-bjtoUfcSwkkaz4rApKakN6_qveXmR3/preview",
+
+                    
+       },
+        {
+       "episodeTitle": "Episode 6", 
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 6",
+"description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1l1hRVP4jFRdy7rO-JZjGLXZHDSgAs2Av/preview",
+
+                    
+       },
+       {
+       "episodeTitle": "Episode 5",
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 5",
+       "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1lFpXknYTpViOJvSwIKdY8LRXT1hTbWHl/preview",
+
+
+       },
+       {
+       "episodeTitle": "Episode 4",
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 4",
+       "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1l2a3Yim00AnS2wx18n8Uv8CUtxxDT0fA/preview",
+
+
+       },
+       {
+       "episodeTitle": "Episode 3",
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 3",
+       "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1lDGo3TTyTULtkkS7pt6loLdW8YHbMPQ4/preview",
+
+
+       },
+       {
+       "episodeTitle": "Episode 2",
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 2",
+       "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1lGFyHBlL09xVTGiUEVZg3IyOqr5fQ6A9/preview",
+
+
+       },
+       {
+       "episodeTitle": "Episode 1",
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 1",
+       "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1lFEbktkGyVNNxI3y1jZo8wDMLKPKktBg/preview",
+
+
+       }
+
+        ],
+"aktor":[
+{
+"image aktor": "https://occ-0-6346-64.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWloGqc1ztTzZ7vVZF7k-Mqj4PUIUumnKtQzyuxIo1KuX5pC_tI_AB9jsA2tNbEoAtMdVeAENGvXuFfcVUCrahH9Y_HvveH_SiL1TLIWglMF2olYx1tK2nkM.jpg?r=7e1",
+"namaAktor": "Rui Tsukishima",
+"karakter": "(Takagi)"
+},
+{
+"image aktor": "https://occ-0-6346-64.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVID_2MhzAzDQxG7IuOXwskyrlJTtNc5WgL7wfYsl9U2nCE3qgO1dUWhj6IncJghUpBbIGVJRC22pvsQ1MfU039eTNBAgqmtOElfmbs_8y5a-nxJtzvOgD-u.jpg?r=9ae",
+"namaAktor": "Soya Kurokawa",
+"karakter": "(Nishikata)"
+},
+]
+                
+            },
 
 };
 
