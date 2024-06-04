@@ -4394,7 +4394,7 @@
 
 "teasingmastertakagisan": {
                 "title": "Teasing Master Takagi-san Live Action - TV Series 2024",
-                "terjemah": "Episode 1-7",
+                "terjemah": "Episode 1-8",
                 "rating": "8.0",
                 "studio": "Fine Entertainment",
                 "rilis": "26 Maret 2024",
@@ -4404,10 +4404,18 @@
                 "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
                 "bgimg": "https://m.media-amazon.com/images/M/MV5BMjEzMGY4MDctYTAwZi00YTQ3LWIwMTYtMTk1YTViMmZjMzJmXkEyXkFqcGdeQXVyNTI4NzA1OTk@._V1_FMjpg_UX1000_.jpg",
                 "trailer": "https://www.youtube.com/embed/wdJQuuzjUZc?si=3yHR-TdRBaj7N4Wv",
-                "duration": "30m / Episode",
+                "duration": "3 jam 20m",
                 "type": "HD",
 
 "episodes": [
+        {
+       "episodeTitle": "Episode 8", 
+       "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 8",
+"description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
+       "episodeUrl": "https://drive.google.com/file/d/1lRrnBZwOMLlCtGCMzjCHTzDC1TozVacb/preview",
+
+                    
+       },
         {
        "episodeTitle": "Episode 7", 
        "episodeJudul": "Teasing Master Takagi-san Live Action - TV Series 2024 - Episode 7",
