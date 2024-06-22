@@ -4492,6 +4492,7 @@
                 "title": "Haikyu!! The Dumpster Battle 2024",
                 "terjemah": "Film Bioskop",
                 "rating": "7.8",
+                "type": "HD+",
                 "studio": "Production I.G",
                 "rilis": "29 Mei 2024",
                 "gendre1": "Animasi",
