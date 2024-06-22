@@ -4286,7 +4286,7 @@
         "title": "Agak Laen",
         "terjemah": "Film Bioskop",
         "rating": "8.1",
-        "type": "HD+",
+        "type": "HD Cam",
         "studio": "Imajinari",
         "rilis": "1 Februari 2024",
         "gendre1": "Comedy",
