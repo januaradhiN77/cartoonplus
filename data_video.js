@@ -4488,7 +4488,31 @@
 ]
                 
             },
+"haikyuthedumpsterbattle": {
+                "title": "Haikyu!! The Dumpster Battle 2024",
+                "terjemah": "Film Bioskop",
+                "rating": "7.8",
+                "studio": "Production I.G",
+                "rilis": "29 Mei 2024",
+                "gendre1": "Animasi",
+                "gendre2": "Comedy",
+                "gendre3": "Anime",
+                "description": "Selama Turnamen Bola Voli SMA Musim Semi Prefektur Miyagi dan penyisihan SMA Musim Semi, SMA Karasuno muncul sebagai pemenang atas lawan-lawan tangguh, dan terus mengembangkan keterampilan mereka. Mereka meraih kemenangan menakjubkan atas SMA Inarizaki di putaran kedua turnamen SMA Musim Semi. Kini, mereka bersiap menghadapi rival lama mereka, SMA Nekoma, di babak ketiga yang sangat dinantikan. Kedua tim pembangkit tenaga listrik ini belum pernah bentrok di panggung resmi meski sudah berkali-kali melakukan latihan pertandingan. Pertarungan yang telah lama ditunggu-tunggu antara SMA Karasuno dan SMA Nekoma ini terkenal dengan sebutan “Pertempuran Tempat Sampah”. Di arena yang ditakdirkan, dimana pertandingan yang tidak dapat diulang akan segera dimulai...",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BNjJkYmI1NTgtMzljNi00YTVmLTlmNDctNjY5Nzg3OWQzNjlkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+                "trailer": "https://www.youtube.com/embed/MqVA0dl36bc?si=Sfu4kphpdSXLOb3K",
+                "duration": "1 jam 26m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Haikyu!! The Dumpster Battle 2024",
+"description": "Selama Turnamen Bola Voli SMA Musim Semi Prefektur Miyagi dan penyisihan SMA Musim Semi, SMA Karasuno muncul sebagai pemenang atas lawan-lawan tangguh, dan terus mengembangkan keterampilan mereka. Mereka meraih kemenangan menakjubkan atas SMA Inarizaki di putaran kedua turnamen SMA Musim Semi. Kini, mereka bersiap menghadapi rival lama mereka, SMA Nekoma, di babak ketiga yang sangat dinantikan. Kedua tim pembangkit tenaga listrik ini belum pernah bentrok di panggung resmi meski sudah berkali-kali melakukan latihan pertandingan. Pertarungan yang telah lama ditunggu-tunggu antara SMA Karasuno dan SMA Nekoma ini terkenal dengan sebutan “Pertempuran Tempat Sampah”. Di arena yang ditakdirkan, dimana pertandingan yang tidak dapat diulang akan segera dimulai...",
+       "episodeUrl": "https://drive.google.com/file/d/1zxRjb4bSowKh2PdmKC8yfRVyA7Oq16F_/preview",
 
+                    
+       }
+        ]
+                
+            },
 };
 
 
