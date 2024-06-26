@@ -4563,7 +4563,7 @@
         "karakter": ""
 },
 {
-        "image aktor": "https://cdns.klimg.com/kapanlagi.com/p/a250533042194692576543284169511683206026.jpg",
+        "image aktor": "https://ffis3.is3.cloudhost.id/profile/photo/411/Yoga-Pratama.jpg",
         "namaAktor": "Yoga Pratama",
         "karakter": ""
 },
@@ -4598,7 +4598,7 @@
         "karakter": ""
 },
 {
-        "image aktor": "https://cdns.klimg.com/resized/476x/selebriti/Restu_Sinaga/p/restu-sinaga-164.jpg",
+        "image aktor": "https://media.21cineplex.com/webcontent/gallery/pictures/141636851712809_430x625.jpg",
         "namaAktor": "Restu Sinaga",
         "karakter": ""
 },
