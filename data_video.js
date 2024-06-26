@@ -4537,7 +4537,22 @@
        "episodeUrl": "",
 
                     
-       }
+       },
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
         ],
         
         
@@ -4611,163 +4626,117 @@
 };
 
 
-        // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
-        const urlParams = new URLSearchParams(window.location.search);
-        const animation = urlParams.get("animation");
-
-        // Mengatur konten detail animasi berdasarkan animasi yang dipilih
-        if (animation && data.hasOwnProperty(animation)) {
-                
-            const trailerIframe = document.getElementById("trailer");
-            const detailContainer = document.getElementById("detailContainer");
-            const titleElement = document.getElementById("title");
-            const terjemahElement = document.getElementById("terjemah");
-            const rilisElement = document.getElementById("rilis");
-            const durationElement = document.getElementById("duration");
-            const ratingElement = document.getElementById("rating");
-            const typeElement = document.getElementById("type");
-            
-const studioElement = document.getElementById("studio");
-const imgElement = document.getElementById("bgimg");
-
-const descriptionElement = document.getElementById("description");
-const episodeContainer = document.getElementById("episodeContainer");
-
-const gendre1Element = document.getElementById("g1");
-const gendre2Element = document.getElementById("g2");
-const gendre3Element = document.getElementById("g3");
-
-
 // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
-// Mengatur konten detail animasi berdasarkan animasi yang dipilih
+const urlParams = new URLSearchParams(window.location.search);
+const animation = urlParams.get("animation");
 
-    
+// Mengatur konten detail animasi berdasarkan animasi yang dipilih
+if (animation && data.hasOwnProperty(animation)) {
+    const trailerIframe = document.getElementById("trailer");
+    const detailContainer = document.getElementById("detailContainer");
+    const titleElements = document.querySelectorAll(".title"); // Menggunakan querySelectorAll
+    const terjemahElement = document.getElementById("terjemah");
+    const rilisElement = document.getElementById("rilis");
+    const durationElement = document.getElementById("duration");
+    const ratingElement = document.getElementById("rating");
+    const typeElement = document.getElementById("type");
+    const studioElement = document.getElementById("studio");
+    const imgElement = document.getElementById("bgimg");
+    const descriptionElement = document.getElementById("description");
+    const episodeContainer = document.getElementById("episodeContainer");
+    const gendre1Element = document.getElementById("g1");
+    const gendre2Element = document.getElementById("g2");
+    const gendre3Element = document.getElementById("g3");
 
     // Mengambil data episode dari objek data
     const episodes = data[animation].episodes;
 
     // Membuat tombol episode untuk setiap episode
-    
-    //episodes.forEach((episode) => {
-      //  const episodeButton = document.createElement("button");
-        
-      //  episodeButton.textContent = episode.episodeTitle;
-       // episodeButton.addEventListener("click", function() {
-//window.location.href = episode.episodeUrl;
-      //  });
-     //   episodeContainer.appendChild(episodeButton);
-        
-  //  });//*
-
-
-episodes.forEach((episode) => {
+    episodes.forEach((episode) => {
         const episodeButton = document.createElement("button");
         const iconElement = document.createElement("span");
-        iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
+        iconElement.classList.add("mdi", "mdi-play-circle");
         iconElement.style.fontSize = "30px";
 
         episodeButton.textContent = episode.episodeTitle;
-        
 
         episodeButton.addEventListener("click", function() {
-                // Simpan informasi terakhir ditonton sebelum melakukan redirect
-                
-
-                // Redirect ke halaman video_testing.html dengan parameter episode
-                const episodeUrl = encodeURIComponent(episode.episodeUrl);
-                const episodeJudul = encodeURIComponent(episode.episodeJudul);
-                const description = encodeURIComponent(episode.description);
-                const episodeImg = encodeURIComponent(episode.episodeImg);
-                window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}`;
+            const episodeUrl = encodeURIComponent(episode.episodeUrl);
+            const episodeJudul = encodeURIComponent(episode.episodeJudul);
+            const description = encodeURIComponent(episode.description);
+            const episodeImg = encodeURIComponent(episode.episodeImg);
+            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}`;
         });
 
-//  });
-
-  episodeButton.insertBefore(iconElement, episodeButton.firstChild);
-  episodeContainer.appendChild(episodeButton);
-});
-            
-           // const watchButton = document.getElementById("watchButton");
-
-durationElement.textContent = data[animation].duration;
-            titleElement.textContent = data[animation].title;
-            imgElement.src = data[animation].bgimg;
-                        rilisElement.textContent = data[animation].rilis;
-            ratingElement.textContent = data[animation].rating;
-            studioElement.textContent = data[animation].studio;
-            
-            terjemahElement.textContent = data[animation].terjemah;
-            descriptionElement.innerHTML = data[animation].description;
-gendre1Element.innerHTML = data[animation].gendre1;
-gendre2Element.innerHTML = data[animation].gendre2;
-gendre3Element.innerHTML = data[animation].gendre3;
-trailerIframe.src = data[animation].trailer;
-typeElement.innerHTML = data[animation].type;
-
-
-            
-       
-        
-// Memeriksa apakah animasi yang dipilih memiliki data aktor
-}
-// Ambil data dari JSON
-
-
-if (data.hasOwnProperty(animation)) {
-  // Menampilkan data aktor jika tersedia
-  displayActors(data[animation]);
-}
-
-// Inisialisasi variabel untuk memeriksa apakah ada data aktor
-function displayActors(film) {
-  const aktorContainer = document.getElementById("aktorContainer");
-  const aktorTitle = document.getElementById("aktorTitle");
-  const moviesContainer = document.getElementById("moviesContainer");
-
-  let isAktorExist = false;
-
-  // Cek apakah film memiliki properti "aktor"
-  if (film.hasOwnProperty("aktor")) {
-    aktorContainer.innerHTML = '';
-
-    film.aktor.forEach(actor => {
-      isAktorExist = true;
-
-      // Membuat elemen div untuk setiap aktor
-      const aktorDiv = document.createElement("div");
-      aktorDiv.classList.add("aktor-box");
-
-      // Membuat elemen gambar untuk setiap aktor
-      const img = document.createElement("img");
-      img.src = actor["image aktor"];
-      img.alt = actor.namaAktor;
-      aktorDiv.appendChild(img);
-
-      // Membuat elemen div untuk nama aktor
-      const namaAktorDiv = document.createElement("div");
-      namaAktorDiv.classList.add("aktor-name");
-      aktorDiv.appendChild(namaAktorDiv);
-
-      // Membuat elemen untuk nama aktor
-      const namaAktor = document.createElement("h1");
-      namaAktor.innerHTML = actor.namaAktor;
-      namaAktorDiv.appendChild(namaAktor);
-
-      // Membuat elemen untuk karakter aktor
-      const karakter = document.createElement("span");
-      karakter.textContent = actor.karakter;
-      namaAktorDiv.appendChild(karakter);
-
-      // Menambahkan div aktor ke dalam kontainer aktor
-      aktorContainer.appendChild(aktorDiv);
+        episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+        episodeContainer.appendChild(episodeButton);
     });
-  }
 
-  // Sembunyikan judul "Aktor", kontainer aktor, dan kontainer film jika tidak ada data aktor
-  if (!isAktorExist) {
-    aktorContainer.style.display = "none";
-    moviesContainer.style.display = "none";
-  }
+    // Mengisi elemen-elemen dengan data animasi
+    titleElements.forEach(titleElement => {
+        titleElement.textContent = data[animation].title;
+    });
+    imgElement.src = data[animation].bgimg;
+    durationElement.textContent = data[animation].duration;
+    rilisElement.textContent = data[animation].rilis;
+    ratingElement.textContent = data[animation].rating;
+    studioElement.textContent = data[animation].studio;
+    terjemahElement.textContent = data[animation].terjemah;
+    descriptionElement.innerHTML = data[animation].description;
+    gendre1Element.innerHTML = data[animation].gendre1;
+    gendre2Element.innerHTML = data[animation].gendre2;
+    gendre3Element.innerHTML = data[animation].gendre3;
+    trailerIframe.src = data[animation].trailer;
+    typeElement.innerHTML = data[animation].type;
 
-  aktorTitle.textContent = isAktorExist ? "Aktor" : "";
+    // Memeriksa apakah animasi yang dipilih memiliki data aktor
+    if (data.hasOwnProperty(animation)) {
+        displayActors(data[animation]);
+    }
+}
+
+// Fungsi untuk menampilkan data aktor jika tersedia
+function displayActors(film) {
+    const aktorContainer = document.getElementById("aktorContainer");
+    const aktorTitle = document.getElementById("aktorTitle");
+    const moviesContainer = document.getElementById("moviesContainer");
+
+    let isAktorExist = false;
+
+    if (film.hasOwnProperty("aktor")) {
+        aktorContainer.innerHTML = '';
+
+        film.aktor.forEach(actor => {
+            isAktorExist = true;
+
+            const aktorDiv = document.createElement("div");
+            aktorDiv.classList.add("aktor-box");
+
+            const img = document.createElement("img");
+            img.src = actor["image aktor"];
+            img.alt = actor.namaAktor;
+            aktorDiv.appendChild(img);
+
+            const namaAktorDiv = document.createElement("div");
+            namaAktorDiv.classList.add("aktor-name");
+            aktorDiv.appendChild(namaAktorDiv);
+
+            const namaAktor = document.createElement("h1");
+            namaAktor.innerHTML = actor.namaAktor;
+            namaAktorDiv.appendChild(namaAktor);
+
+            const karakter = document.createElement("span");
+            karakter.textContent = actor.karakter;
+            namaAktorDiv.appendChild(karakter);
+
+            aktorContainer.appendChild(aktorDiv);
+        });
+    }
+
+    if (!isAktorExist) {
+        aktorContainer.style.display = "none";
+        moviesContainer.style.display = "none";
+    }
+
+    aktorTitle.textContent = isAktorExist ? "Aktor" : "";
 }
