@@ -4538,7 +4538,72 @@
 
                     
        }
-        ]
+        ],
+        
+        
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/3/35/Asmara_Abigail.jpg",
+"namaAktor": "Asmara Abigail",
+"karakter": ""
+},
+{
+        "image aktor": "https://img.okezone.com/content/2023/11/06/33/2915162/biodata-dan-agama-ario-bayu-aktor-tampan-pemeran-gadis-kretek-KjobidlFk4.jpg",
+        "namaAktor": "Ario Bayu",
+        "karakter": ""
+},
+{
+        "image aktor": "https://marissaanita.com/wp-content/uploads/2022/11/p1000969.jpg?w=1024",
+        "namaAktor": "Marissa Anita",
+        "karakter": ""
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fachri_Albar_at_Ini_Talk_Show.jpg",
+        "namaAktor": "Fachry Albar",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdns.klimg.com/kapanlagi.com/p/a250533042194692576543284169511683206026.jpg",
+        "namaAktor": "Yoga Pratama",
+        "karakter": ""
+},
+{
+        "image aktor": "https://ffis3.is3.cloudhost.id/profile/photo/203/ayu-laksmi-061.jpg",
+        "namaAktor": "Ayu Laksmi",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdn.antarafoto.com/cache/800x1200/2011/08/18/nirina-zubir-3hvf-dom.jpg",
+        "namaAktor": "Nirina Zubir",
+        "karakter": ""
+},
+{
+        "image aktor": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQywc4rI03bO-cIwoOyNFvyb-Hxna1MMoCJhy8o26a6f-mPo3EQ",
+        "namaAktor": "Sita Nursanti",
+        "karakter": ""
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmY3EOhcgx8WDRATM5PhjtzEj1jvXkyIanA&usqp=CAU",
+        "namaAktor": "Lukman Sardi",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdn.idntimes.com/content-images/community/2024/01/fotogrid-20240127-114130535-779c2639fac019accf02dae4b183db6b-3f632e0a359a84f4fc24c6266be1021b_600x400.jpg",
+        "namaAktor": "Kiki Narendra",
+        "karakter": ""
+},
+{
+        "image aktor": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJlMOohL8k50SeVXD1fnMi8Xg75eqrPGNC6ByMLKMitAv3M795",
+        "namaAktor": "Happy Salma",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdns.klimg.com/resized/476x/selebriti/Restu_Sinaga/p/restu-sinaga-164.jpg",
+        "namaAktor": "Restu Sinaga",
+        "karakter": ""
+},
+]
+        
                 
             },
             
