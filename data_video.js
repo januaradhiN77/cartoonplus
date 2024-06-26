@@ -4514,6 +4514,35 @@
         ]
                 
             },
+            
+"jokoanwarsnightmaresanddaydreams": {
+                "title": "Joko Anwar's Nightmares and Daydreams",
+                "terjemah": "Episode 1-7",
+                "rating": "6.6",
+                "type": "HD+",
+                "studio": "Come and See Pictures",
+                "rilis": "14 Juni 2024",
+                "gendre1": "Horror",
+                "gendre2": "Drama",
+                "gendre3": "Misteri",
+                "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BMTc4N2M4OTEtMGExMS00MDJkLWJkYjUtOTI5MmQ4NjhjYjJiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+                "trailer": "https://www.youtube.com/embed/sOXZ5Oetua8",
+                "duration": "1 jam/episode",
+"episodes": [
+        {
+       "episodeTitle": "Segera Tayang", 
+       "episodeJudul": "Segera Tayang",
+"description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+       "episodeUrl": "",
+
+                    
+       }
+        ]
+                
+            },
+            
+            
 };
 
 
