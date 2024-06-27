@@ -4672,10 +4672,10 @@
             
 "algrafi": {
                 "title": "Algrafi",
-                "terjemah": "Episode 1",
+                "terjemah": "Viu Original",
                 "rating": "-",
                 "type": "HD+",
-                "studio": "Viu Original",
+                "studio": "Amanah Studios",
                 "rilis": "24 Juni 2024",
                 "gendre1": "Drama",
                 "gendre2": "Romance",
