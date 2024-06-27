@@ -4531,14 +4531,62 @@
                 "duration": "7 jam 00m",
 "episodes": [
         {
-       "episodeTitle": "Segera Tayang", 
-       "episodeJudul": "Segera Tayang",
+       "episodeTitle": "Episode 7", 
+       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 7)",
 "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/17MC1kOZCn5kVMqAKP2_5ybve1ZO7q63c/preview",
 
                     
        },
+        {
+                       "episodeTitle": "Episode 6",
+                       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 6)",
+                       "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                       "episodeUrl": "https://drive.google.com/file/d/1fY86p-kXrAJ1PIuQpfFt__ZmRj4HiPds/preview",
+       
+       
+               },
+        {
+                       "episodeTitle": "Episode 5",
+                       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 5)",
+                       "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                       "episodeUrl": "https://drive.google.com/file/d/169uKqwWkL4I6EbtMugfwjPvDpJuXZSxM/preview",
+       
+       
+               },
+        {
+                "episodeTitle": "Episode 4",
+                "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 4)",
+                "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                "episodeUrl": "https://drive.google.com/file/d/16lYHl4-WuJOaOEODmc0SKTMDlvvOqvkw/preview",
 
+
+        },
+        {
+                       "episodeTitle": "Episode 3",
+                       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 3)",
+                       "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                       "episodeUrl": "https://drive.google.com/file/d/16NAuPK5QgvX4VXpFzMt_6VfFDMJ60akU/preview",
+       
+       
+               },
+        {
+                       "episodeTitle": "Episode 2",
+                       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 2)",
+                       "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                       "episodeUrl": "https://drive.google.com/file/d/166o4US6GHl_m7Kj4pVNICDVdNdIg_pIa/preview",
+       
+       
+               },
+        {
+                       "episodeTitle": "Episode 1",
+                       "episodeJudul": "Joko Anwar's Nightmares and Daydreams (EP 1)",
+                       "description": "Episode 1: Old House<br>Seorang sopir taksi menemukan sebuah rumah jompo misterius. Rupanya, rumah jompo itu dikhususkan untuk orang-orang kaya. Namun, ia segera menyadari bahwa rumah itu menyembunyikan rahasia jahat.<br><br>Episode 2: The Orphan<br>Terdapat sepasang suami istri yang hidup dalam kemiskinan. Namun, kehidupan mereka berubah dalam sekejap ketika mengadopsi seorang anak yatim piatu dengan kemampuan aneh. Mereka menjadi kaya raya dalam enam hari, tetapi bahaya besar menanti pada hari ketujuh.<br><br>Episode 3: Poems and Pain<br>Seorang penulis sedang merasa kesulitan untuk menyelesaikan novel terbarunya. Ternyata, penulis itu menemukan bahwa kehidupannya mencerminkan kehidupan karakter utama dalam novelnya. Ia berusaha menghadapi segala ancaman demi akhir terbaik bagi karakter tersebut.<br><br>Episode 4: The Encounter<br>Sebuah perkumpulan nelayan sedang menghadapi penggusuran permukiman. Kehidupan mereka berubah kala seorang nelayan memotret sebuah benda misterius di langit malam. Benda itu diyakini mampu memberi dampak besar bagi nasib warga.<br><br>Episode 5: The Other Side<br>Seorang pria terpaksa menganggur karena bioskop tempatnya bekerja harus terbengkalai. Hingga suatu hari, dirinya kembali singgah ke bioskop itu. Kedatangannya membawa dampak yang tak bisa diubah lagi bagi kehidupannya.<br><br>Episode 6: Hypnotized<br>Seorang pria putus asa karena pekerjaannya sebagai teknisi elektronik lepas membuatnya kesulitan mendapat upah rutin. Ia pun semakin terdesak untuk mendapat penghasilan hingga akhirnya belajar menghipnotis orang lain. Namun, ia harus menerima konsekuensi akibat dari tindakannya.<br><br>Episode 7: P.O. BOX<br>Seorang penaksir harga berlian profesional kehilangan kakaknya. Demi bisa menemukannya, ia mengikuti petunjuk-petunjuk yang ada. Tanpa diketahui bahwa petunjuk tersebut membawanya ke dalam jurang bahaya.",
+                       "episodeUrl": "https://drive.google.com/file/d/14mB0qqfMT9jSztTjAzRmENO3esK67_FB/preview",
+       
+       
+               }
+       
        
        
        
@@ -4622,7 +4670,59 @@
                 
             },
             
-            
+"algrafi": {
+                "title": "Algrafi",
+                "terjemah": "Episode 1",
+                "rating": "-",
+                "type": "HD+",
+                "studio": "Viu Original",
+                "rilis": "24 Juni 2024",
+                "gendre1": "Drama",
+                "gendre2": "Romance",
+                "gendre3": "Comedy",
+                "description": "Algrafi dan Naya tiba-tiba mendapat kabar bahwa mereka akan dijodohkan. Mereka bertekad untuk tidak menerima perjodohan tersebut. Naya harus menentang ibunya yang menginginkan perjodohan ini karena Algrafi berasal dari salah satu keluarga terkaya. Sementara itu, Algrafi harus menentang kakeknya yang sangat percaya pada perhitungan ramalan. Dengan ramalan terbarunya, jika Algrafi dan Naya menikah maka akan membawa keberuntungan bagi generasi terbaru keluarganya.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78w-d243epEOOZy_oeaCLMCvAzCfvbz9GHA&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/TBdC7rAoTPs?si=2zXiCj9BDIOR2RtA",
+                "duration": "1 jam 57m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Algrafi",
+"description": "Algrafi dan Naya tiba-tiba mendapat kabar bahwa mereka akan dijodohkan. Mereka bertekad untuk tidak menerima perjodohan tersebut. Naya harus menentang ibunya yang menginginkan perjodohan ini karena Algrafi berasal dari salah satu keluarga terkaya. Sementara itu, Algrafi harus menentang kakeknya yang sangat percaya pada perhitungan ramalan. Dengan ramalan terbarunya, jika Algrafi dan Naya menikah maka akan membawa keberuntungan bagi generasi terbaru keluarganya.",
+       "episodeUrl": "https://drive.google.com/file/d/17w__raBorlB50L2uc4lP9WKsgdwgJSzv/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/1/18/Megan_Domani_Bad_Boys_VS_Crazy_Girls_episode_9_still_images.png",
+"namaAktor": "Megan Domani",
+"karakter": ""
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Junior_Roberts_in_2021.png",
+        "namaAktor": "Junior Roberts",
+        "karakter": ""
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Slamet_Rahardjo_in_2023.jpg",
+        "namaAktor": "Slamet Rahardjo",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdn.antaranews.com/cache/1200x800/2023/12/14/20231214_123641.jpg",
+        "namaAktor": "Carmela van der Kruk",
+        "karakter": ""
+},
+{
+        "image aktor": "https://cdns.klimg.com/resized/476x/selebriti/Miranty_Dewi/p/miranty-dewi-007.jpg",
+        "namaAktor": "Miranty Dewi",
+        "karakter": ""
+},
+]
+                
+            },
 };
 
 
