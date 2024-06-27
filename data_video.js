@@ -4716,7 +4716,7 @@
         "karakter": ""
 },
 {
-        "image aktor": "https://cdns.klimg.com/resized/476x/selebriti/Miranty_Dewi/p/miranty-dewi-007.jpg",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65kv1GzShHNs9kASySOi3_PGM-DDifewEaw&usqp=CAU",
         "namaAktor": "Miranty Dewi",
         "karakter": ""
 },
