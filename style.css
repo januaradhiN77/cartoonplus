@@ -724,6 +724,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .styling-features{
         background: #2A2A2AAB;
+        z-index: 1;
 }
 .aktor-box{
 
@@ -894,7 +895,7 @@ text-align: center;
     height: 640px;
     
     padding: 20px;
-        z-index: 99999999999999;
+        z-index: 99999999999999999999999999999999999999999999999999999999999999999999999999;
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.3);
     transition: bottom 0.5s ease;
 }
