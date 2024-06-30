@@ -4726,7 +4726,7 @@
             
 "insideout2": {
                 "title": "Inside Out 2",
-                "terjemah": "Episode 1",
+                "terjemah": "Film Bioskop",
                 "rating": "7.9",
                 "type": "HD+",
                 "studio": "Pixar Animation",
