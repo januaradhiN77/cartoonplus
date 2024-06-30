@@ -4723,6 +4723,35 @@
 ]
                 
             },
+            
+"insideout2": {
+                "title": "Inside Out 2",
+                "terjemah": "Episode 1",
+                "rating": "7.9",
+                "type": "HD+",
+                "studio": "Pixar Animation",
+                "rilis": "12 Juni 2024",
+                "gendre1": "Animasi",
+                "gendre2": "Adventure",
+                "gendre3": "Comedy",
+                "description": "Disney and Pixar’s “Inside Out 2” kembali ke dalam pikiran Riley yang sudah beranjak remaja tepat di saat Heaquarters sedang gonjang-ganjing karena perlu adanya ruang kosong untuk sesuatu yang tidak terduga: Emotion baru! Joy, Sadness, Anger, Fear, Disgust yang sudah berhasil sekian lama ini tidak yakin dengan perasaan mereka ketika Anxiety muncul. Dan sepertinya dia tidak sendiri.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BN2VhNWU4OTMtNjU0Yy00NTYxLWI5ZjYtOWNkNjBmODA0ZmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                "trailer": "https://www.youtube.com/embed/LEjhY15eCx0?si=S_oykriMCekh32Vc",
+                "duration": "1 jam 36m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Inside Out 2",
+"description": "Disney and Pixar’s “Inside Out 2” kembali ke dalam pikiran Riley yang sudah beranjak remaja tepat di saat Heaquarters sedang gonjang-ganjing karena perlu adanya ruang kosong untuk sesuatu yang tidak terduga: Emotion baru! Joy, Sadness, Anger, Fear, Disgust yang sudah berhasil sekian lama ini tidak yakin dengan perasaan mereka ketika Anxiety muncul. Dan sepertinya dia tidak sendiri.",
+       "episodeUrl": "https://drive.google.com/file/d/19Z5nUmOl5tdnstbL-ytmEyUuh61IrpLR/preview",
+
+                    
+       }
+        ]
+                
+            },
+            
+            
 };
 
 
