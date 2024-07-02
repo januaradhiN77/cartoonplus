@@ -1,39 +1,26 @@
 function toggleTheme() {
-            const themeLink = document.getElementById("theme-link");
-            const currentTheme = themeLink.getAttribute("href");
-            const newTheme = currentTheme === "style.css" ? "light-theme.css" : "style.css";
-            themeLink.setAttribute("href", newTheme);
+    const themeLink = document.getElementById("theme-link");
+    const checkbox = document.querySelector('.toggle-switch input[type="checkbox"]');
+    const newTheme = checkbox.checked ? "light-theme.css" : "style.css";
+    themeLink.setAttribute("href", newTheme);
 
-            const toggleBox = document.querySelector(".toggle-box");
-            const toggleIcon = toggleBox.querySelector(".toggle-icon");
+    // Save theme preference in localStorage
+    localStorage.setItem("theme", newTheme);
+}
 
-            if (newTheme === "light-theme.css") {
-                toggleIcon.textContent = "🌞";
-                toggleBox.classList.add("active");
-            } else {
-                    
-            toggleIcon.textContent = "🌙";
-                
-                toggleBox.classList.remove("active");
-            }
+// Apply saved theme on load
+window.addEventListener("DOMContentLoaded", () => {
+    const savedTheme = localStorage.getItem("theme") || "style.css";
+    const themeLink = document.getElementById("theme-link");
+    themeLink.setAttribute("href", savedTheme);
 
-            // Save theme preference in localStorage
-            localStorage.setItem("theme", newTheme);
-        }
+    const checkbox = document.querySelector('.toggle-switch input[type="checkbox"]');
+    if (savedTheme === "light-theme.css") {
+        checkbox.checked = true;
+    } else {
+        checkbox.checked = false;
+    }
+});
 
-        // Apply saved theme on load
-        window.addEventListener("DOMContentLoaded", () => {
-            const savedTheme = localStorage.getItem("theme") || "style.css";
-            document.getElementById("theme-link").setAttribute("href", savedTheme);
-
-            const toggleBox = document.querySelector(".toggle-box");
-            const toggleIcon = toggleBox.querySelector(".toggle-icon");
-
-            if (savedTheme === "light-theme.css") {
-                toggleIcon.textContent = "🌞";
-                toggleBox.classList.add("active");
-            } else {
-                toggleIcon.textContent = "🌙";
-                toggleBox.classList.remove("active");
-            }
-        });
+// Attach the toggleTheme function to the checkbox change event
+document.querySelector('.toggle-switch input[type="checkbox"]').addEventListener('change', toggleTheme);
