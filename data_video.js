@@ -1093,7 +1093,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Godzilla x Kong: The New Empire",
 "description": "Menceritakan tentang Godzilla dan Kong akan melawan kekuatan baru yang sangat berbahaya. Kedua raksasa kuno itu akan menghadapi ancaman besar dari dasar bumi. Ancaman yang bisa membuat Godzilla maupun Kong punah.",
-       "episodeUrl": "https://pixeldrain.com/u/TpgJf2RE?embed",
+       "episodeUrl": "https://pixeldrain.com/api/file/TpgJf2RE",
 
                     
        }
