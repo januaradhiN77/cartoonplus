@@ -4751,7 +4751,84 @@
                 
             },
             
-            
+"pemandijenazah": {
+                "title": "Pemandi Jenazah",
+                "terjemah": "Film Bioskop",
+                "rating": "6.7",
+                "type": "HD+",
+                "studio": "VMS Studio",
+                "rilis": "22 Februari 2024",
+                "gendre1": "Drama",
+                "gendre2": "Horror",
+                "gendre3": "Thriller",
+                "description": "Lela merupakan perempuan muda yang bekerja sebagai pemandi jenazah bersama ibunya. Ia telah akrab dengan pekerjaan itu karena selalu diajak sang ibu saat bertugas memandikan jenazah. Ibunya juga selalu mengajari dan menasihati Lela bahwa pemandi jenazah adalah pekerjaan yang mulia. Namun, pada malamnya, Lela mendapati sang ibu meninggal dunia tiba-tiba dan misterius. Ibu Lela itu wafat setelah mengalami muntah darah dan kejang-kejang. Kematian itu memicu desas-desus di kalangan warga. Tetangga sekitar bahkan menyebar isu bahwa ibu Lela meninggal karena santet. Lela yang mendengar rumor itu tak kuasa untuk mencari petunjuk yang dapat menjawab berbagai kejanggalan. Namun, saat mencari jawaban yang lebih jelas, Lela justru diteror hantu-hantu misterius dan berbahaya.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BNjY5YWQwMjItYzk2MC00YzIxLTk2NTMtYjA0ODE5OWViNzcyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+                "trailer": "https://www.youtube.com/embed/YVpYr5Y15OY",
+                "duration": "1 jam 47m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Pemandi Jenazah",
+"description": "Lela merupakan perempuan muda yang bekerja sebagai pemandi jenazah bersama ibunya. Ia telah akrab dengan pekerjaan itu karena selalu diajak sang ibu saat bertugas memandikan jenazah. Ibunya juga selalu mengajari dan menasihati Lela bahwa pemandi jenazah adalah pekerjaan yang mulia. Namun, pada malamnya, Lela mendapati sang ibu meninggal dunia tiba-tiba dan misterius. Ibu Lela itu wafat setelah mengalami muntah darah dan kejang-kejang. Kematian itu memicu desas-desus di kalangan warga. Tetangga sekitar bahkan menyebar isu bahwa ibu Lela meninggal karena santet. Lela yang mendengar rumor itu tak kuasa untuk mencari petunjuk yang dapat menjawab berbagai kejanggalan. Namun, saat mencari jawaban yang lebih jelas, Lela justru diteror hantu-hantu misterius dan berbahaya.",
+       "episodeUrl": "https://drive.google.com/file/d/18iIasOIiHYhHkTbGagtWNSzWr_9Pka2N/preview",
+
+                    
+       }
+        ],
+"aktor":[
+{
+"image aktor": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Aghniny_Haque.jpg",
+"namaAktor": "Aghniny Haque",
+"karakter": "(Lela)"
+},
+{
+        "image aktor": "https://cdn1-production-images-kly.akamaized.net/GGhFQg11E_5jU7Y3asRDO0AJbGc=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1796584/original/005527900_1512910504-amara_sophie.jpg",
+        "namaAktor": "Amata Sophie",
+        "karakter": "(Rika)"
+},
+{
+        "image aktor": "https://thumb.viva.co.id/media/frontend/tokoh/2017/11/21/5a13b98f98486-djenar-maesa-ayu_216_287.jpg",
+        "namaAktor": "Djenar Maesa Ayu",
+        "karakter": "(Bu Siti)"
+},
+{
+        "image aktor": "https://cdn.idntimes.com/content-images/community/2021/06/100486087-3029700983789275-4674000594027164993-ns-6f73be0ad715324e357bf878182ef89d-02b94c13ce6209b8cc36517a706fd9e2.jpg",
+        "namaAktor": "Ibrahim Risyad",
+        "karakter": "(Arif)"
+},
+{
+        "image aktor": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPBz1UkNYAxIBIE6aEdj60IGvyrt4XvWl1luoZ7s9JIVdqdRqd",
+        "namaAktor": "Riafinola Ifani Sari",
+        "karakter": "(Bu Ida)"
+},
+{
+        "image aktor": "https://cdn0-production-images-kly.akamaized.net/eCrrRgt3Vz3uhmtk4MYqydl1PxQ=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4661880/original/047418600_1700813694-352425321_632679955429316_4565699880896777915_n.jpg",
+        "namaAktor": "Messi Gusti",
+        "karakter": "(Rika Kecil)"
+},
+{
+        "image aktor": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2qQklRvklOE7n9zH6Br5tvdKre8V2nNpafVK-cfrxtDlhyW9h",
+        "namaAktor": "Mian Tiara",
+        "karakter": "(Bu Tuti)"
+},
+{
+        "image aktor": "https://m.media-amazon.com/images/M/MV5BZDU5NDEzNWEtN2Q0NS00Y2I0LTgwY2ItMmQyZGVhNGE4YTU2XkEyXkFqcGdeQXVyNDE4MTcxMTg@._V1_.jpg",
+        "namaAktor": "Vony Anggraini",
+        "karakter": "(Bu Ana)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK88WFmNgIw99anit2Tp9nvzS4SIF_cboQug&usqp=CAU",
+        "namaAktor": "Aji Santosa",
+        "karakter": "(Bimo)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jHo4txPGL-WRgI_JaucK6Jvdlydzt6clVw&usqp=CAU",
+        "namaAktor": "Deni Saputra",
+        "karakter": "(Pak RT)"
+},
+]
+                
+            },
 };
 
 
