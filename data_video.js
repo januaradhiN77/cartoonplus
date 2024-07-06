@@ -1079,7 +1079,7 @@
                 "terjemah": "Film Bioskop",
                 "rating": "6.6",
                 "studio": "Legendary Pictures",
-                "type": "HD Cam",
+                "type": "HD+",
                 "rilis": "27 Maret 2024",
                 "gendre1": "Adventure",
                 "gendre2": "Fantasy",
