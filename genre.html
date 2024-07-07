@@ -685,7 +685,7 @@
     if (genre) {
       // Update title
       const genreTitle = document.getElementById('genre-title');
-      genreTitle.textContent = genre.charAt(0).toUpperCase() + genre.slice(1);
+      genreTitle.textContent = genre.replace(/([A-Z])/g, ' $1').replace(/^./, function(str){ return str.toUpperCase(); });
 
       // Filter movies
       const movies = document.querySelectorAll('.movies-box');

@@ -86,67 +86,66 @@
                 <h1>Genre Pilihan</h1>
         </div>
                 <div class="genre">
-<div class="genre-box" id="genre-scifi">
-        <h1>SciFi</h1>
-    </div>
-    <div class="genre-box" id="genre-animasi">
-        <h1>Animasi</h1>
-    </div>
-    <div class="genre-box" id="genre-adventure">
-        <h1>Adventure</h1>
-    </div>
-    <div class="genre-box" id="genre-action">
-        <h1>Action</h1>
-    </div>
-    <div class="genre-box" id="genre-fantasy">
-        <h1>Fantasy</h1>
-    </div>
-    <div class="genre-box" id="genre-historicial">
-        <h1>Historicial</h1>
-    </div>
-    <div class="genre-box" id="genre-drama">
-        <h1>Drama</h1>
-    </div>
-    <div class="genre-box" id="genre-dokumenter">
-        <h1>Dokumenter</h1>
-    </div>
-
-    <div class="genre-box" id="genre-horor">
-        <h1>Horor</h1>
-    </div>
-    <div class="genre-box" id="genre-anime">
-                <h1>Anime</h1>
-        </div>
-    <div class="genre-box" id="genre-comedy">
-            <h1>Comedy</h1>
-    </div>
-    <div class="genre-box" id="genre-horror">
-                <h1>Horror</h1>
-        </div>
-    <div class="genre-box" id="genre-romance">
-                <h1>Romance</h1>
-        </div>
-    <div class="genre-box" id="genre-religi">
-                <h1>Religi</h1>
-        </div>
-    <div class="genre-box" id="genre-misteri">
-                <h1>Misteri</h1>
-        </div>
-    <div class="genre-box" id="genre-kriminal">
-                <h1>Kriminal</h1>
-        </div>
-    <div class="genre-box" id="genre-thriller">
-            <h1>Thriller</h1>
-    </div>
-    <div class="genre-box" id="genre-laga">
-                <h1>Laga</h1>
-        </div>
-    <div class="genre-box" id="genre-kisahnyata">
-            <h1>KisahNyata</h1>
-    </div>
-    <div class="genre-box" id="genre-fiksi">
-            <h1>Fiksi</h1>
-    </div>
+<div class="genre-box" onclick="filterGenre('scifi')">
+    <h1>SciFi</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('animasi')">
+    <h1>Animasi</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('adventure')">
+    <h1>Adventure</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('action')">
+    <h1>Action</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('fantasy')">
+    <h1>Fantasy</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('historicial')">
+    <h1>Historicial</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('drama')">
+    <h1>Drama</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('dokumenter')">
+    <h1>Dokumenter</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('horor')">
+    <h1>Horor</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('anime')">
+    <h1>Anime</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('comedy')">
+    <h1>Comedy</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('horror')">
+    <h1>Horror</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('romance')">
+    <h1>Romance</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('religi')">
+    <h1>Religi</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('misteri')">
+    <h1>Misteri</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('kriminal')">
+    <h1>Kriminal</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('thriller')">
+    <h1>Thriller</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('laga')">
+    <h1>Laga</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('kisahnyata')">
+    <h1>Kisah Nyata</h1>
+</div>
+<div class="genre-box" onclick="filterGenre('fiksi')">
+    <h1>Fiksi</h1>
+</div>
 
 
                 </div>
@@ -609,16 +608,10 @@ var countdown = setInterval(function() {
   }
   
   
-document.addEventListener('DOMContentLoaded', function() {
-    const genreBoxes = document.querySelectorAll('.genre-box');
-    
-    genreBoxes.forEach(box => {
-        box.addEventListener('click', function() {
-            const genre = this.querySelector('h1').textContent.toLowerCase();
-            window.location.href = `genre.html?genre=${genre}`;
-        });
-    });
-});
+
+  function filterGenre(genre) {
+    window.location.href = `genre.html?genre=${genre}`;
+  }
 
   </script>
   
