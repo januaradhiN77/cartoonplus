@@ -124,7 +124,7 @@
     <div class="batas"></div>
     <div class="batas" style="height: 7px;"></div>
   </section>
-  <script>
+<script>
     document.addEventListener('DOMContentLoaded', function() {
       const historyContainer = document.getElementById('historyContainer');
       const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
@@ -164,7 +164,7 @@
           historyItem.appendChild(img);
           historyItem.appendChild(nameHistoryDiv);
 
-          historyContainer.appendChild(historyItem);
+          historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Insert at the top
         });
       }
     });
