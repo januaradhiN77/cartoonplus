@@ -121,10 +121,10 @@
     <div class="batas"></div>
     <div class="batas" style="height: 7px;"></div>
   </section>
-<script>
+  <script>
     function addToWatchHistory(item) {
       const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
-      const timestamp = new Date().toISOString(); // Gunakan ISO string untuk waktu saat ini
+      const timestamp = new Date().toLocaleString();
       history.push({
         ...item,
         watchedAt: timestamp
@@ -134,15 +134,14 @@
 
     document.addEventListener('DOMContentLoaded', function() {
       const historyContainer = document.getElementById('historyContainer');
-      const watchHistory = JSON.parse(localStorage.getItem('watchHistory')) || [];
+      const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
 
-      historyContainer.innerHTML = ''; // Kosongkan konten sebelum menambahkan riwayat tontonan baru
+      historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
 
-      if (watchHistory.length === 0) {
+      if (history.length === 0) {
         historyContainer.innerHTML = '<p style="color:white;">Riwayat tontonan tidak ditemukan.</p>';
       } else {
-        // Menampilkan riwayat terbaru di atas
-        watchHistory.reverse().forEach(item => {
+        history.reverse().forEach(item => { // Menampilkan riwayat terbaru di atas
           const historyItem = document.createElement('div');
           historyItem.classList.add('box-history');
 
@@ -157,7 +156,7 @@
           title.textContent = item.title || 'Judul tidak tersedia'; // Pastikan item.title tidak undefined
 
           const watchedAt = document.createElement('p');
-          watchedAt.textContent = formatTanggal(item.watchedAt); // Memformat dan menampilkan tanggal dari watchedAt
+          watchedAt.textContent = `Ditonton pada: ${item.watchedAt || 'Waktu tidak tersedia'}`;
           watchedAt.style.fontSize = '12px';
           watchedAt.style.color = 'gray';
 
@@ -170,29 +169,16 @@
           });
 
           nameHistoryDiv.appendChild(title);
-          nameHistoryDiv.appendChild(watchedAt);
+          nameHistoryDiv.appendChild(watchedAt); // Menambahkan timestamp
           nameHistoryDiv.appendChild(bgHistoryTonton);
 
           historyItem.appendChild(img);
           historyItem.appendChild(nameHistoryDiv);
 
-          historyContainer.appendChild(historyItem);
+          historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Menyisipkan di bagian atas
         });
       }
     });
-
-    function formatTanggal(timestamp) {
-      const options = { 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric', 
-        hour: 'numeric', 
-        minute: 'numeric', 
-        second: 'numeric',
-        timeZone: 'UTC' // Tambahkan zona waktu jika perlu disesuaikan
-      };
-      return new Date(timestamp).toLocaleDateString('id-ID', options);
-    }
 
     function deleteHistory() {
       localStorage.removeItem('watchHistory');
@@ -204,4 +190,4 @@
   <script src="data_video.js"></script>
   <script src="theme-toggle.js"></script>
 </body>
-</html>
+</
