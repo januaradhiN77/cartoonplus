@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bookmark</title>
+  <title>Riwayat Tontonan</title>
   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
@@ -42,11 +42,10 @@
       align-items: center;
       display: flex;
       text-align: center;
-      
       cursor: pointer;
     }
-    .bg-history-tonton:focus{
-            outline: none;
+    .bg-history-tonton:focus {
+      outline: none;
     }
     .bg-history-tonton h1 {
       font-size: 15px;
@@ -74,7 +73,7 @@
     <div class="header_app">
       <button class="buttongoweb">
         <div class="header_logo">
-          <span class="mdi mdi-history" style="font-family: 'Zen Maru Gothic'; font-size: 30px;">History Tontonan</span>
+          <span class="mdi mdi-history" style="font-family: 'Zen Maru Gothic'; font-size: 30px;">Riwayat Tontonan</span>
         </div>
       </button>
     </div>
@@ -95,19 +94,17 @@
           <h1>Movie</h1>
         </div>
       </button>
-
-        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
-          <div class="overlay-navbar"></div>
-          <span class="mdi mdi-history"style="color: #FFC601;background: #CECECE7A; border-radius: 50%; width: 25px; height: 25px;"></span>
-          <h1 style="color: #FFC601;">History</h1>
-        </div>
-     
-      <button class="buttongoweb" onclick="goToLink('favorit.html')">
       <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
         <div class="overlay-navbar"></div>
-        <span class="mdi mdi-bookmark"></span>
-        <h1>Favorit</h1>
+        <span class="mdi mdi-history" style="color: #FFC601; background: #CECECE7A; border-radius: 50%; width: 25px; height: 25px;"></span>
+        <h1 style="color: #FFC601;">History</h1>
       </div>
+      <button class="buttongoweb" onclick="goToLink('favorit.html')">
+        <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
+          <div class="overlay-navbar"></div>
+          <span class="mdi mdi-bookmark"></span>
+          <h1>Favorit</h1>
+        </div>
       </button>
       <button class="buttongoweb" onclick="goToLink('lainnya.html')">
         <div class="navbar-box" ontouchstart="addOverlayNavbar(event)" ontouchend="removeOverlayNavbar(event)" ontouchcancel="removeOverlayNavbar(event)">
@@ -118,61 +115,89 @@
       </button>
     </div>
   </nav>
-  <section class="container-history"style="display: flex;  flex-direction: column; justify-content: center; align-items: center; ">
-    <div id="historyContainer"style="display: flex; width: 100%; flex-direction: column; justify-content: center; align-items: center; margin-top: 80px; gap: 10px;"></div>
-    <button class="btn-delete" onclick="deleteHistory()">Delete All History</button>
+  <section class="container-history" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div id="historyContainer" style="display: flex; width: 100%; flex-direction: column; justify-content: center; align-items: center; margin-top: 80px; gap: 10px;"></div>
+    <button class="btn-delete" onclick="deleteHistory()">Hapus Semua Riwayat</button>
     <div class="batas"></div>
     <div class="batas" style="height: 7px;"></div>
   </section>
 <script>
+    function addToWatchHistory(item) {
+      const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+      const timestamp = new Date().toISOString(); // Gunakan ISO string untuk waktu saat ini
+      history.push({
+        ...item,
+        watchedAt: timestamp
+      });
+      localStorage.setItem('watchHistory', JSON.stringify(history));
+    }
+
     document.addEventListener('DOMContentLoaded', function() {
       const historyContainer = document.getElementById('historyContainer');
-      const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+      const watchHistory = JSON.parse(localStorage.getItem('watchHistory')) || [];
 
-      historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
+      historyContainer.innerHTML = ''; // Kosongkan konten sebelum menambahkan riwayat tontonan baru
 
-      if (history.length === 0) {
-        historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+      if (watchHistory.length === 0) {
+        historyContainer.innerHTML = '<p style="color:white;">Riwayat tontonan tidak ditemukan.</p>';
       } else {
-        history.forEach(item => {
+        // Menampilkan riwayat terbaru di atas
+        watchHistory.reverse().forEach(item => {
           const historyItem = document.createElement('div');
           historyItem.classList.add('box-history');
 
           const img = document.createElement('img');
-          img.src = item.img;
-          img.alt = item.title;
+          img.src = item.img || ''; // Pastikan item.img tidak undefined
+          img.alt = item.title || 'Gambar tidak tersedia'; // Pastikan item.title tidak undefined
 
           const nameHistoryDiv = document.createElement('div');
           nameHistoryDiv.classList.add('name-history');
 
           const title = document.createElement('h1');
-          title.textContent = item.title;
+          title.textContent = item.title || 'Judul tidak tersedia'; // Pastikan item.title tidak undefined
+
+          const watchedAt = document.createElement('p');
+          watchedAt.textContent = formatTanggal(item.watchedAt); // Memformat dan menampilkan tanggal dari watchedAt
+          watchedAt.style.fontSize = '12px';
+          watchedAt.style.color = 'gray';
 
           const bgHistoryTonton = document.createElement('div');
           bgHistoryTonton.classList.add('bg-history-tonton');
           bgHistoryTonton.innerHTML = '<h1>Detail Tontonan</h1><span class="mdi mdi-play-circle"></span>';
 
           bgHistoryTonton.addEventListener('click', () => {
-            // Redirect to the episode URL or implement logic to continue watching
-             //window.location.href = item.episodeUrl;
-            alert(`Kamu baru saja menonton: ${item.title}, Episode: ${item.episode}, Sinopsis: ${item.description}`);
+            alert(`Kamu baru saja menonton: ${item.title || 'Judul tidak tersedia'}, Episode: ${item.episode || 'Episode tidak tersedia'}, Sinopsis: ${item.description || 'Sinopsis tidak tersedia'}`);
           });
 
           nameHistoryDiv.appendChild(title);
+          nameHistoryDiv.appendChild(watchedAt);
           nameHistoryDiv.appendChild(bgHistoryTonton);
 
           historyItem.appendChild(img);
           historyItem.appendChild(nameHistoryDiv);
 
-          historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Insert at the top
+          historyContainer.appendChild(historyItem);
         });
       }
     });
 
+    function formatTanggal(timestamp) {
+      const options = { 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric', 
+        hour: 'numeric', 
+        minute: 'numeric', 
+        second: 'numeric',
+        timeZone: 'UTC' // Tambahkan zona waktu jika perlu disesuaikan
+      };
+      return new Date(timestamp).toLocaleDateString('id-ID', options);
+    }
+
     function deleteHistory() {
       localStorage.removeItem('watchHistory');
       const historyContainer = document.getElementById('historyContainer');
-      historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+      historyContainer.innerHTML = '<p style="color:white;">Riwayat tontonan tidak ditemukan.</p>';
     }
   </script>
   <script src="main.js"></script>
