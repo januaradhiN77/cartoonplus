@@ -124,78 +124,61 @@
     <div class="batas" style="height: 7px;"></div>
         <p>Fitur ini belum selesai hehehe, masih perlu di improve sabar yaa :)</p>
   </section>
-  <script>
-    function addToWatchHistory(item) {
-  const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
-  const timestamp = new Date().toLocaleString('id-ID', { 
-    year: 'numeric', 
-    month: 'long', 
-    day: 'numeric', 
-    hour: '2-digit', 
-    minute: '2-digit' 
-  }); 
-  history.push({
-    ...item,
-    watchedAt: timestamp
-  });
-  localStorage.setItem('watchHistory', JSON.stringify(history));
-}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const historyContainer = document.getElementById('historyContainer');
+    const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
 
-document.addEventListener('DOMContentLoaded', function() {
-  const historyContainer = document.getElementById('historyContainer');
-  const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+    historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
 
-  historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
+    if (history.length === 0) {
+      historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+    } else {
+      history.forEach(item => {
+        const historyItem = document.createElement('div');
+        historyItem.classList.add('box-history');
 
-  if (history.length === 0) {
-    historyContainer.innerHTML = '<p style="color:white;">Riwayat tontonan tidak ditemukan.</p>';
-  } else {
-    history.reverse().forEach(item => { // Menampilkan riwayat terbaru di atas
-      const historyItem = document.createElement('div');
-      historyItem.classList.add('box-history');
+        const img = document.createElement('img');
+        img.src = item.img;
+        img.alt = item.title;
 
-      const img = document.createElement('img');
-      img.src = item.img || ''; // Pastikan item.img tidak undefined
-      img.alt = item.title || 'Gambar tidak tersedia'; // Pastikan item.title tidak undefined
+        const nameHistoryDiv = document.createElement('div');
+        nameHistoryDiv.classList.add('name-history');
 
-      const nameHistoryDiv = document.createElement('div');
-      nameHistoryDiv.classList.add('name-history');
+        const title = document.createElement('h1');
+        title.textContent = item.title;
 
-      const title = document.createElement('h1');
-      title.textContent = item.title || 'Judul tidak tersedia'; // Pastikan item.title tidak undefined
+        const watchedAt = document.createElement('p');
+        watchedAt.textContent = `Ditonton pada: ${item.watchedAt}`;
+        watchedAt.style.fontSize = '12px';
+        watchedAt.style.color = 'gray';
 
-      const watchedAt = document.createElement('p');
-      watchedAt.textContent = `Ditonton pada: ${item.watchedAt || 'Waktu tidak tersedia'}`;
-      watchedAt.style.fontSize = '12px';
-      watchedAt.style.color = 'gray';
+        const bgHistoryTonton = document.createElement('div');
+        bgHistoryTonton.classList.add('bg-history-tonton');
+        bgHistoryTonton.innerHTML = '<h1>Detail Tontonan</h1><span class="mdi mdi-play-circle"></span>';
 
-      const bgHistoryTonton = document.createElement('div');
-      bgHistoryTonton.classList.add('bg-history-tonton');
-      bgHistoryTonton.innerHTML = '<h1>Detail Tontonan</h1><span class="mdi mdi-play-circle"></span>';
+        bgHistoryTonton.addEventListener('click', () => {
+          alert(`Kamu baru saja menonton: ${item.title}, Episode: ${item.episode}, Sinopsis: ${item.description}`);
+        });
 
-      bgHistoryTonton.addEventListener('click', () => {
-        alert(`Kamu baru saja menonton: ${item.title || 'Judul tidak tersedia'}, Episode: ${item.episode || 'Episode tidak tersedia'}, Sinopsis: ${item.description || 'Sinopsis tidak tersedia'}`);
+        nameHistoryDiv.appendChild(title);
+        nameHistoryDiv.appendChild(watchedAt); // Add the timestamp
+        nameHistoryDiv.appendChild(bgHistoryTonton);
+
+        historyItem.appendChild(img);
+        historyItem.appendChild(nameHistoryDiv);
+
+        historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Insert at the top
       });
+    }
+  });
 
-      nameHistoryDiv.appendChild(title);
-      nameHistoryDiv.appendChild(watchedAt); // Menambahkan timestamp
-      nameHistoryDiv.appendChild(bgHistoryTonton);
-
-      historyItem.appendChild(img);
-      historyItem.appendChild(nameHistoryDiv);
-
-      historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Menyisipkan di bagian atas
-    });
+  function deleteHistory() {
+    localStorage.removeItem('watchHistory');
+    const historyContainer = document.getElementById('historyContainer');
+    historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
   }
-});
-
-function deleteHistory() {
-  localStorage.removeItem('watchHistory');
-  const historyContainer = document.getElementById('historyContainer');
-  historyContainer.innerHTML = '<p style="color:white;">Riwayat tontonan tidak ditemukan.</p>';
-}
-
-  </script>
+</script>
   <script src="main.js"></script>
   <script src="data_video.js"></script>
   <script src="theme-toggle.js"></script>
