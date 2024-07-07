@@ -1185,5 +1185,46 @@ color: #FFBA2AFA;
         opacity: 0;
     }
 }
+
+.box-history{
+        color: white;
+border-radius: 10px;
+        width: 95%;
+        display: flex;
+        background: #222224;
+        box-shadow: rgba(64, 60, 67, 0.3) 0px 1px 2px 0px, rgba(64, 60, 67, 0.15) 0px 0px 2px 0px;
+}
+.box-history img{
+        width: 120px;
+        border-radius: 10px;
+}
+.name-history{
+        margin-top: 20px;
+        margin-left: 10px;
+}
+.name-history h1{
+        font-weight: 700;
+        font-family: 'Zen Maru Gothic';
+}
+.bg-history-tonton{
+        margin-top: 10px;
+        background: #28394A;
+        height: 45px;
+        border-radius: 10px 50px 50px 10px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        text-align: center;
+}
+.bg-history-tonton h1{
+        font-size: 15px;
+        margin-right: auto;
+        margin-left: 20px;
+}
+.bg-history-tonton span{
+        font-size: 45px;
+        margin-left: 20px;
+        margin-right: auto;
+}
 }
 

@@ -4745,7 +4745,6 @@
 "description": "Disney and Pixar’s “Inside Out 2” kembali ke dalam pikiran Riley yang sudah beranjak remaja tepat di saat Heaquarters sedang gonjang-ganjing karena perlu adanya ruang kosong untuk sesuatu yang tidak terduga: Emotion baru! Joy, Sadness, Anger, Fear, Disgust yang sudah berhasil sekian lama ini tidak yakin dengan perasaan mereka ketika Anxiety muncul. Dan sepertinya dia tidak sendiri.",
        "episodeUrl": "https://drive.google.com/file/d/19Z5nUmOl5tdnstbL-ytmEyUuh61IrpLR/preview",
 
-                    
        }
         ]
                 
@@ -4869,9 +4868,22 @@ if (animation && data.hasOwnProperty(animation)) {
         episodeButton.addEventListener("click", function() {
             const episodeUrl = encodeURIComponent(episode.episodeUrl);
             const episodeJudul = encodeURIComponent(episode.episodeJudul);
+            const episodeTitle = encodeURIComponent(episode.episodeTitle);
             const description = encodeURIComponent(episode.description);
             const episodeImg = encodeURIComponent(episode.episodeImg);
-            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}`;
+
+            // Simpan riwayat tontonan ke localStorage
+            let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+            history.push({
+                title: episode.episodeJudul,
+                img: episode.episodeImg,
+                animation: animation,
+                description: episode.description,
+                episode: episode.episodeTitle
+            });
+            localStorage.setItem('watchHistory', JSON.stringify(history));
+
+            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}`;
         });
 
         episodeButton.insertBefore(iconElement, episodeButton.firstChild);
