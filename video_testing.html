@@ -72,12 +72,12 @@
       const episodeUrl = decodeURIComponent(urlParams.get("episodeUrl"));
       const episodeJudul = decodeURIComponent(urlParams.get("episodeJudul"));
       const description = decodeURIComponent(urlParams.get("description"));
-      const episodeImg = decodeURIComponent(urlParams.get("episodeImg"));
+      //const episodeImg = decodeURIComponent(urlParams.get("episodeImg"));
 const episodeTitle = decodeURIComponent(urlParams.get("episodeTitle"));
       // Mengatur judul episode
       document.getElementById("episodeJudul").textContent = episodeJudul;
       document.getElementById("description").innerHTML = description;
-      document.getElementById("episodeTitle").textContent = episodeTitle;
+      //document.getElementById("episodeTitle").textContent = episodeTitle;
       // Mengatur sumber iframe berdasarkan episode yang dipilih
       document.getElementById("videoPlayer").src = episodeUrl;
 
