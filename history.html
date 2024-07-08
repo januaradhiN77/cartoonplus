@@ -167,7 +167,7 @@ bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${i
         durasi.style.marginTop = '5px';
         const bgHistoryTonton = document.createElement('div');
         bgHistoryTonton.classList.add('bg-history-tonton');
-        bgHistoryTonton.innerHTML = '<h1>Sinopsis</h1><span class="mdi mdi-play-circle"></span>';
+        bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
 
         bgHistoryTonton.addEventListener('click', () => {
           alert(`${item.description}`);
