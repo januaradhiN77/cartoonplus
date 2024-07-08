@@ -38,4 +38,193 @@
         </div>
     </div>
 </body>
+ini code JS videos_detail.html
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Ambil parameter animasi dari URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const animation = urlParams.get('animation');
+
+    // Ambil data film dari data_video.js
+    const filmData = data[animation];
+
+    // Simpan informasi film terakhir yang ditonton di localStorage
+    localStorage.setItem('lastWatched', JSON.stringify({
+        title: filmData.title,
+        img: filmData.bgimg,
+        animation: animation
+    }));
+
+    // Tambahkan event listener untuk tombol favorit
+    const favoriteButton = document.getElementById('favoriteButton');
+    const favoriteData = {
+        title: filmData.title,
+        img: filmData.bgimg,
+        url: window.location.href,
+        terjemah: filmData.terjemah,
+        duration: filmData.duration,
+        rating: filmData.rating,
+        studio: filmData.studio,
+        rilis: filmData.rilis,
+        type: filmData.type,
+        genres: [filmData.gendre1, filmData.gendre2, filmData.gendre3],
+        description: filmData.description,
+        trailer: filmData.trailer
+    };
+
+    // Check apakah film sudah di dalam daftar favorit
+    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+    // Update tampilan tombol berdasarkan status favorit
+    if (isFavorited) {
+        favoriteButton.classList.add('favorited');
+        favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+    }
+
+    // Tambahkan event listener untuk tombol favorit
+    favoriteButton.addEventListener('click', function() {
+        let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+        let isFavorited = favorites.some(fav => fav.url === window.location.href);
+
+        if (isFavorited) {
+            // Hapus dari daftar favorit
+            favorites = favorites.filter(fav => fav.url !== window.location.href);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.remove('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark', 'mdi-bookmark-outline');
+            alert('Dihapus dari Favorit');
+        } else {
+            // Tambahkan ke daftar favorit
+            favorites.push(favoriteData);
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            favoriteButton.classList.add('favorited');
+            favoriteButton.querySelector('span').classList.replace('mdi-bookmark-outline', 'mdi-bookmark');
+            alert('Ditambahkan ke Favorit');
+        }
+    });
+});
+</script>
+
+
+ini code JS video_testing.html
+
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
+    const urlParams = new URLSearchParams(window.location.search);
+    const episodeUrl = decodeURIComponent(urlParams.get("episodeUrl"));
+    const episodeJudul = decodeURIComponent(urlParams.get("episodeJudul"));
+    const description = decodeURIComponent(urlParams.get("description"));
+    const episodeImg = decodeURIComponent(urlParams.get("episodeImg"));
+    const episodeTitle = decodeURIComponent(urlParams.get("episodeTitle"));
+    const episodeStudio = decodeURIComponent(urlParams.get("episodeStudio"));
+    const episodeBintang = decodeURIComponent(urlParams.get("episodeBintang"));
+    const episodeDurasi = decodeURIComponent(urlParams.get("episodeDurasi"))
+    // Mengatur judul episode
+    document.getElementById("episodeJudul").textContent = episodeJudul;
+    document.getElementById("description").innerHTML = description;
+
+    // Mengatur sumber iframe berdasarkan episode yang dipilih
+    document.getElementById("videoPlayer").src = episodeUrl;
+    
+    // Menambahkan film ke riwayat tontonan dan menghindari duplikasi
+    function addToHistory(videoUrl) {
+      const watchHistory = JSON.parse(localStorage.getItem('watchHistory')) || [];
+      const videoExists = watchHistory.some(video => video.episodeUrl === videoUrl);
+
+      if (!videoExists) {
+        const timestamp = new Date().toLocaleString(); // Ambil timestamp sekarang
+        const currentVideo = {
+          title: episodeJudul,
+          description: description,
+          img: episodeImg,
+          episode: episodeTitle,
+          episodeUrl: videoUrl,
+          studio: episodeStudio,
+          bintang: episodeBintang,
+          durasi: episodeDurasi
+          
+        };
+        watchHistory.push(currentVideo);
+        localStorage.setItem('watchHistory', JSON.stringify(watchHistory));
+      }
+      // Redirect to the video URL after adding to history
+      window.location.href = videoUrl;
+    }
+  });
+</script>
+
+ini code JS history.html
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const historyContainer = document.getElementById('historyContainer');
+    const history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+
+    historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
+
+    if (history.length === 0) {
+      historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+    } else {
+      history.forEach(item => {
+        const historyItem = document.createElement('div');
+        historyItem.classList.add('box-history');
+
+        const img = document.createElement('img');
+        img.src = item.img;
+        img.alt = item.title;
+
+        const nameHistoryDiv = document.createElement('div');
+        nameHistoryDiv.classList.add('name-history');
+
+        const title = document.createElement('h1');
+        title.textContent = item.title;
+
+        const studio = document.createElement('p');
+        const bintang = document.createElement('p');
+        const durasi = document.createElement('p');
+        studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
+        studio.style.fontSize = '15px';
+        studio.style.color = 'gray';
+        studio.style.marginTop = '5px';
+        bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
+        bintang.style.fontSize = '15px';
+        bintang.style.color = 'gray';
+        bintang.style.marginTop = '5px';
+        durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
+        durasi.style.fontSize = '15px';
+        durasi.style.color = 'gray';
+        durasi.style.marginTop = '5px';
+        const bgHistoryTonton = document.createElement('div');
+        bgHistoryTonton.classList.add('bg-history-tonton');
+        bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
+
+        bgHistoryTonton.addEventListener('click', () => {
+          window.location.href = `videos_detail.html?animation=${encodeURIComponent(item.animation)}`;
+        });
+        
+        nameHistoryDiv.appendChild(title);
+        nameHistoryDiv.appendChild(studio);
+        nameHistoryDiv.appendChild(bintang);
+        nameHistoryDiv.appendChild(durasi);
+        nameHistoryDiv.appendChild(bgHistoryTonton);
+
+        historyItem.appendChild(img);
+        historyItem.appendChild(nameHistoryDiv);
+
+        historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Insert at the top
+      });
+    }
+  });
+
+  function deleteHistory() {
+    localStorage.removeItem('watchHistory');
+    const historyContainer = document.getElementById('historyContainer');
+    historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+  }
+</script>
+
+
+aku mau jika aku pencet tombol nonton di videos_detail.html itu masuk ke video_testing.html dan saat keluar berpindah ke history.html History nontonnya muncul namun jika aku melakukan 2 kali dengan film / episode yang sama itu tidak muncul kembali alian 1 episode 1 riwayat dan 1 film 1 riwayat tontonan 
 </html>
