@@ -150,11 +150,17 @@
         const title = document.createElement('h1');
         title.textContent = item.title;
 
-        const watchedAt = document.createElement('p');
-        watchedAt.textContent = `Ditonton pada: ${item.watchedAt}`;
-        watchedAt.style.fontSize = '12px';
-        watchedAt.style.color = 'gray';
-
+        const studio = document.createElement('p');
+        const bintang = document.createElement('p');
+        
+        studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
+        studio.style.fontSize = '12px';
+        studio.style.color = 'gray';
+        studio.style.marginTop = '5px';
+bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
+        bintang.style.fontSize = '12px';
+        bintang.style.color = 'gray';
+        bintang.style.marginTop = '5px';
         const bgHistoryTonton = document.createElement('div');
         bgHistoryTonton.classList.add('bg-history-tonton');
         bgHistoryTonton.innerHTML = '<h1>Sinopsis</h1><span class="mdi mdi-play-circle"></span>';
@@ -164,7 +170,8 @@
         });
 
         nameHistoryDiv.appendChild(title);
-        nameHistoryDiv.appendChild(watchedAt); // Add the timestamp
+        nameHistoryDiv.appendChild(studio); // Add the timestamp
+        nameHistoryDiv.appendChild(bintang);
         nameHistoryDiv.appendChild(bgHistoryTonton);
 
         historyItem.appendChild(img);
