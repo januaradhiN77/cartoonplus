@@ -157,8 +157,8 @@
         studio.style.fontSize = '15px';
         studio.style.color = 'gray';
         studio.style.marginTop = '5px';
-bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
-        bintang.style.fontSize = '1tpx';
+        bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
+        bintang.style.fontSize = '15px';
         bintang.style.color = 'gray';
         bintang.style.marginTop = '5px';
         durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
@@ -170,13 +170,11 @@ bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${i
         bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
 
         bgHistoryTonton.addEventListener('click', () => {
-          alert(`${item.description}`);
+          window.location.href = `videos_detail.html?animation=${encodeURIComponent(item.animation)}`;
         });
         
-        
-        
         nameHistoryDiv.appendChild(title);
-        nameHistoryDiv.appendChild(studio); // Add the timestamp
+        nameHistoryDiv.appendChild(studio);
         nameHistoryDiv.appendChild(bintang);
         nameHistoryDiv.appendChild(durasi);
         nameHistoryDiv.appendChild(bgHistoryTonton);
