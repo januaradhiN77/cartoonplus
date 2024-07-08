@@ -78,7 +78,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const episodeStudio = decodeURIComponent(urlParams.get("episodeStudio"));
     const episodeBintang = decodeURIComponent(urlParams.get("episodeBintang"));
     const episodeDurasi = decodeURIComponent(urlParams.get("episodeDurasi"));
-
+    const animation = decodeURIComponent(urlParams.get("animation"));
+    
     // Mengatur judul episode
     document.getElementById("episodeJudul").textContent = episodeJudul;
     document.getElementById("description").innerHTML = description;
@@ -96,8 +97,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 title: episodeJudul,
                 description: description,
                 img: episodeImg,
+                animation: animation,
                 episode: episodeTitle,
-                episodeUrl: videoUrl,
+                episodeUrl: encodeURI(videoUrl),
                 studio: episodeStudio,
                 bintang: episodeBintang,
                 durasi: episodeDurasi,

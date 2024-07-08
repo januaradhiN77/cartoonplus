@@ -4877,7 +4877,7 @@ if (animation && data.hasOwnProperty(animation)) {
   const episodeStudio = encodeURIComponent(data[animation].terjemah);
   const episodeBintang = encodeURIComponent(data[animation].rating);
   const episodeDurasi = encodeURIComponent(data[animation].duration);
-
+  
   // Simpan riwayat tontonan ke localStorage
   let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
   history.push({

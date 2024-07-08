@@ -31,7 +31,7 @@
       margin-left: 10px;
     }
     .name-history h1 {
-      font-size: 19px;
+      font-size: 23px;
       font-weight: 700;
       font-family: 'Zen Maru Gothic';
     }
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
                 studio.style.fontSize = '15px';
                 studio.style.color = 'gray';
-                studio.style.marginTop = '5px';
+                studio.style.marginTop = '10px';
 
                 const bintang = document.createElement('p');
                 bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
@@ -179,19 +179,18 @@ document.addEventListener('DOMContentLoaded', function() {
                 const bgHistoryTonton = document.createElement('div');
                 bgHistoryTonton.classList.add('bg-history-tonton');
                 bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
-                bgHistoryTonton.addEventListener('click', () => {
-                    window.location.href = `videos_detail.html?animation=${encodeURIComponent(item.animation)}`;
-                });
+                
+                
 
                 nameHistoryDiv.appendChild(title);
                 nameHistoryDiv.appendChild(studio);
                 nameHistoryDiv.appendChild(bintang);
                 nameHistoryDiv.appendChild(durasi);
                 nameHistoryDiv.appendChild(watchedAt);
+                
 
                 historyItem.appendChild(img);
                 historyItem.appendChild(nameHistoryDiv);
-                nameHistoryDiv.appendChild(bgHistoryTonton);
 
                 // Menambahkan historyItem di bagian atas daftar
                 historyContainer.insertBefore(historyItem, historyContainer.firstChild);
@@ -209,6 +208,8 @@ function deleteHistory() {
     const historyContainer = document.getElementById('historyContainer');
     historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
 }
+
+
 </script>
   <script src="main.js"></script>
   <script src="data_video.js"></script>
