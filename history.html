@@ -137,64 +137,70 @@ document.addEventListener('DOMContentLoaded', function() {
         historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
     } else {
         history.forEach(item => {
-            const historyItem = document.createElement('div');
-            historyItem.classList.add('box-history');
+            if (item.watchedAt) { // Memastikan watchedAt ada dan tidak undefined
+                const historyItem = document.createElement('div');
+                historyItem.classList.add('box-history');
 
-            const img = document.createElement('img');
-            img.src = item.img;
-            img.alt = item.title;
+                const img = document.createElement('img');
+                img.src = item.img;
+                img.alt = item.title;
 
-            const nameHistoryDiv = document.createElement('div');
-            nameHistoryDiv.classList.add('name-history');
+                const nameHistoryDiv = document.createElement('div');
+                nameHistoryDiv.classList.add('name-history');
 
-            const title = document.createElement('h1');
-            title.textContent = item.title;
+                const title = document.createElement('h1');
+                title.textContent = item.title;
 
-            const studio = document.createElement('p');
-            const bintang = document.createElement('p');
-            const durasi = document.createElement('p');
-            const watchedAt = document.createElement('p'); // Buat elemen untuk tanggal dan waktu ditonton
+                const studio = document.createElement('p');
+                studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
+                studio.style.fontSize = '15px';
+                studio.style.color = 'gray';
+                studio.style.marginTop = '5px';
 
-            studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
-            studio.style.fontSize = '15px';
-            studio.style.color = 'gray';
-            studio.style.marginTop = '5px';
+                const bintang = document.createElement('p');
+                bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
+                bintang.style.fontSize = '15px';
+                bintang.style.color = 'gray';
+                bintang.style.marginTop = '5px';
 
-            bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
-            bintang.style.fontSize = '15px';
-            bintang.style.color = 'gray';
-            bintang.style.marginTop = '5px';
+                const durasi = document.createElement('p');
+                durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
+                durasi.style.fontSize = '15px';
+                durasi.style.color = 'gray';
+                durasi.style.marginTop = '5px';
 
-            durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
-            durasi.style.fontSize = '15px';
-            durasi.style.color = 'gray';
-            durasi.style.marginTop = '5px';
+                const watchedAt = document.createElement('p');
+                watchedAt.innerHTML = `<span style="color:white;" class="mdi mdi-clock-outline"></span> Ditonton pada: ${item.watchedAt}`;
+                watchedAt.style.fontSize = '15px';
+                watchedAt.style.color = 'gray';
+                watchedAt.style.marginTop = '5px';
 
-            watchedAt.innerHTML = `<span style="color:white;" class="mdi mdi-clock-outline"></span> Ditonton pada: ${item.watchedAt}`;
-            watchedAt.style.fontSize = '15px';
-            watchedAt.style.color = 'gray';
-            watchedAt.style.marginTop = '5px';
+                // Menambahkan tombol tonton di bawah durasi
+                const bgHistoryTonton = document.createElement('div');
+                bgHistoryTonton.classList.add('bg-history-tonton');
+                bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
+                bgHistoryTonton.addEventListener('click', () => {
+                    window.location.href = `videos_detail.html?animation=${encodeURIComponent(item.animation)}`;
+                });
 
-            const bgHistoryTonton = document.createElement('div');
-            bgHistoryTonton.classList.add('bg-history-tonton');
-            bgHistoryTonton.innerHTML = `<h1>${item.episode}</h1> <span class="mdi mdi-play-circle"></span>`;
+                nameHistoryDiv.appendChild(title);
+                nameHistoryDiv.appendChild(studio);
+                nameHistoryDiv.appendChild(bintang);
+                nameHistoryDiv.appendChild(durasi);
+                nameHistoryDiv.appendChild(watchedAt);
 
-            bgHistoryTonton.addEventListener('click', () => {
-                window.location.href = `videos_detail.html?animation=${encodeURIComponent(item.animation)}`;
-            });
+                historyItem.appendChild(img);
+                historyItem.appendChild(nameHistoryDiv);
+                nameHistoryDiv.appendChild(bgHistoryTonton);
 
-            nameHistoryDiv.appendChild(title);
-            nameHistoryDiv.appendChild(studio);
-            nameHistoryDiv.appendChild(bintang);
-            nameHistoryDiv.appendChild(durasi);
-            nameHistoryDiv.appendChild(watchedAt); // Tambahkan elemen watchedAt ke div
-            nameHistoryDiv.appendChild(bgHistoryTonton);
-
-            historyItem.appendChild(img);
-            historyItem.appendChild(nameHistoryDiv);
-
-            historyContainer.insertBefore(historyItem, historyContainer.firstChild); // Insert at the top
+                // Menambahkan historyItem di bagian atas daftar
+                historyContainer.insertBefore(historyItem, historyContainer.firstChild);
+            }
         });
+
+        if (historyContainer.innerHTML === '') {
+            historyContainer.innerHTML = '<p style="color:white;">No watch history found.</p>';
+        }
     }
 });
 
