@@ -4868,25 +4868,27 @@ if (animation && data.hasOwnProperty(animation)) {
         episodeButton.textContent = episode.episodeTitle;
 
         episodeButton.addEventListener("click", function() {
-            const episodeUrl = encodeURIComponent(episode.episodeUrl);
-            const episodeJudul = encodeURIComponent(episode.episodeJudul);
-            const episodeTitle = encodeURIComponent(episode.episodeTitle);
-            const description = encodeURIComponent(episode.description);
-            const episodeImg = encodeURIComponent(episode.episodeImg);
+  const episodeUrl = encodeURIComponent(episode.episodeUrl);
+  const episodeJudul = encodeURIComponent(episode.episodeJudul);
+  const episodeTitle = encodeURIComponent(episode.episodeTitle);
+  const description = encodeURIComponent(episode.description);
+  // Use bgimg instead of episodeImg
+  const episodeImg = encodeURIComponent(data[animation].bgimg); 
 
-            // Simpan riwayat tontonan ke localStorage
-            let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
-            history.push({
-                title: episode.episodeJudul,
-                img: episode.episodeImg,
-                animation: animation,
-                description: episode.description,
-                episode: episode.episodeTitle
-            });
-            localStorage.setItem('watchHistory', JSON.stringify(history));
+  // Simpan riwayat tontonan ke localStorage
+  let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+  history.push({
+    title: episode.episodeJudul,
+    img: data[animation].bgimg, // Use bgimg here as well
+    animation: animation,
+    description: episode.description,
+    episode: episode.episodeTitle
+  });
+  localStorage.setItem('watchHistory', JSON.stringify(history));
 
-            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}`;
-        });
+  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}`;
+});
+
 
         episodeButton.insertBefore(iconElement, episodeButton.firstChild);
         episodeContainer.appendChild(episodeButton);
