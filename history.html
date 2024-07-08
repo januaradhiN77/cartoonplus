@@ -161,19 +161,20 @@ document.addEventListener('DOMContentLoaded', function() {
                 bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${item.bintang}`;
                 bintang.style.fontSize = '15px';
                 bintang.style.color = 'gray';
-                bintang.style.marginTop = '5px';
+                bintang.style.marginTop = '7px';
 
                 const durasi = document.createElement('p');
                 durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
                 durasi.style.fontSize = '15px';
                 durasi.style.color = 'gray';
-                durasi.style.marginTop = '5px';
+                durasi.style.marginTop = '7px';
 
                 const watchedAt = document.createElement('p');
-                watchedAt.innerHTML = `<span style="color:white;" class="mdi mdi-clock-outline"></span> Ditonton pada: ${item.watchedAt}`;
+                watchedAt.innerHTML = `<span style="color:white;" class="mdi mdi-clock-outline"></span>  ${item.watchedAt} `;
                 watchedAt.style.fontSize = '15px';
                 watchedAt.style.color = 'gray';
-                watchedAt.style.marginTop = '5px';
+                watchedAt.style.marginTop = '7px';
+                
 
                 // Menambahkan tombol tonton di bawah durasi
                 const bgHistoryTonton = document.createElement('div');
