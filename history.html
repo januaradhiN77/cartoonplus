@@ -156,10 +156,10 @@
 
         const bgHistoryTonton = document.createElement('div');
         bgHistoryTonton.classList.add('bg-history-tonton');
-        bgHistoryTonton.innerHTML = '<h1>Detail Tontonan</h1><span class="mdi mdi-play-circle"></span>';
+        bgHistoryTonton.innerHTML = '<h1>Sinopsis</h1><span class="mdi mdi-play-circle"></span>';
 
         bgHistoryTonton.addEventListener('click', () => {
-          alert(`Kamu baru saja menonton: ${item.title}, Episode: ${item.episode}, Sinopsis: ${item.description}`);
+          alert(`${item.description}`);
         });
 
         nameHistoryDiv.appendChild(title);
