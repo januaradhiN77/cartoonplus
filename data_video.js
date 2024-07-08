@@ -4876,12 +4876,14 @@ if (animation && data.hasOwnProperty(animation)) {
   const episodeImg = encodeURIComponent(data[animation].bgimg);
   const episodeStudio = encodeURIComponent(data[animation].terjemah);
   const episodeBintang = encodeURIComponent(data[animation].rating);
+  const episodeDurasi = encodeURIComponent(data[animation].duration);
 
   // Simpan riwayat tontonan ke localStorage
   let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
   history.push({
     title: episode.episodeJudul,
     img: data[animation].bgimg, // Use bgimg here as well
+    durasi: data[animation].duration,
     studio: data[animation].terjemah,
     animation: animation,
     bintang: data[animation].rating,
@@ -4890,7 +4892,7 @@ if (animation && data.hasOwnProperty(animation)) {
   });
   localStorage.setItem('watchHistory', JSON.stringify(history));
 
-  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}&episodeStudio=${episodeStudio}&episodeBintang=${episodeBintang}`;
+  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}&episodeStudio=${episodeStudio}&episodeBintang=${episodeBintang}&episodeDurasi=${episodeDurasi}`;
 });
 
 

@@ -152,7 +152,7 @@
 
         const studio = document.createElement('p');
         const bintang = document.createElement('p');
-        
+        const durasi = document.createElement('p');
         studio.innerHTML = `<span style="color:white;" class="mdi mdi-video-wireless-outline"></span> ${item.studio}`;
         studio.style.fontSize = '12px';
         studio.style.color = 'gray';
@@ -161,6 +161,10 @@ bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${i
         bintang.style.fontSize = '12px';
         bintang.style.color = 'gray';
         bintang.style.marginTop = '5px';
+        durasi.innerHTML = `<span style="color:white;" class="mdi mdi-clock"></span> ${item.durasi}`;
+        durasi.style.fontSize = '12px';
+        durasi.style.color = 'gray';
+        durasi.style.marginTop = '5px';
         const bgHistoryTonton = document.createElement('div');
         bgHistoryTonton.classList.add('bg-history-tonton');
         bgHistoryTonton.innerHTML = '<h1>Sinopsis</h1><span class="mdi mdi-play-circle"></span>';
@@ -168,10 +172,13 @@ bintang.innerHTML = `<span style="color:white;" class="mdi mdi-star"></span> ${i
         bgHistoryTonton.addEventListener('click', () => {
           alert(`${item.description}`);
         });
-
+        
+        
+        
         nameHistoryDiv.appendChild(title);
         nameHistoryDiv.appendChild(studio); // Add the timestamp
         nameHistoryDiv.appendChild(bintang);
+        nameHistoryDiv.appendChild(durasi);
         nameHistoryDiv.appendChild(bgHistoryTonton);
 
         historyItem.appendChild(img);

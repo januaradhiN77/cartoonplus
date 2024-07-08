@@ -77,6 +77,7 @@
     const episodeTitle = decodeURIComponent(urlParams.get("episodeTitle"));
     const episodeStudio = decodeURIComponent(urlParams.get("episodeStudio"));
     const episodeBintang = decodeURIComponent(urlParams.get("episodeBintang"));
+    const episodeDurasi = decodeURIComponent(urlParams.get("episodeDurasi"))
     // Mengatur judul episode
     document.getElementById("episodeJudul").textContent = episodeJudul;
     document.getElementById("description").innerHTML = description;
@@ -99,6 +100,7 @@
           episodeUrl: videoUrl,
           studio: episodeStudio,
           bintang: episodeBintang,
+          durasi: episodeDurasi
           
         };
         watchHistory.push(currentVideo);
