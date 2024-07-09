@@ -4850,7 +4850,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Exhuma",
 "description": "Mengisahkan sebuah keluarga kaya yang mengalami teror supranatural mengerikan. Keluarga itu pada akhirnya meminta bantuan dukun sakti, meskipun mereka berusaha menghindari rangkaian peristiwa aneh yang mereka alami.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1glCAoDLsIGwuxXw1X1q7c3Ted_aGrYtf/preview",
 
                     
        }
