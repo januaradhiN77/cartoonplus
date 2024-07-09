@@ -4830,6 +4830,102 @@
 ]
                 
             },
+            
+"exhuma": {
+                "title": "Exhuma",
+                "terjemah": "Film Bioskop",
+                "rating": "6.9",
+                "type": "HD",
+                "studio": "Feat Pictures",
+                "rilis": "22 Februari 2024",
+                "gendre1": "Horror",
+                "gendre2": "Misteri",
+                "gendre3": "Thriller",
+                "description": "Mengisahkan sebuah keluarga kaya yang mengalami teror supranatural mengerikan. Keluarga itu pada akhirnya meminta bantuan dukun sakti, meskipun mereka berusaha menghindari rangkaian peristiwa aneh yang mereka alami.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BMzczMmQ0NTItM2JkZi00MTRhLTg5OGMtZWEyZTE2ZDgwM2FjXkEyXkFqcGdeQXVyMTU1MDczNjU1._V1_FMjpg_UX1000_.jpg",
+                "trailer": "https://www.youtube.com/embed/xQ2mH3Jp15E",
+                "duration": "2 jam 14m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Exhuma",
+"description": "Mengisahkan sebuah keluarga kaya yang mengalami teror supranatural mengerikan. Keluarga itu pada akhirnya meminta bantuan dukun sakti, meskipun mereka berusaha menghindari rangkaian peristiwa aneh yang mereka alami.",
+       "episodeUrl": "",
+
+                    
+       }
+        ],
+        
+"aktor":[
+{
+"image aktor": "https://asianwiki.com/images/6/6f/Kim_Go-Eun-Coin_Locker_Girl-GV.jpg",
+"namaAktor": "Kim Go-eun",
+"karakter": "(Hwa-rim)"
+},
+{
+        "image aktor": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjadJBSSuGYlwIBpF30hLX1UxwriLCFdUOH66hZQjHro7zL7qk",
+        "namaAktor": "Lee Dohyun",
+        "karakter": "(Boong-gil)"
+},
+{
+        "image aktor": "https://asianwiki.com/images/5/56/Choi_Min-Sik-1962-p1.jpg",
+        "namaAktor": "Choi Min-sik",
+        "karakter": "(Kim Sang Deok)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIPWvZ0-7gI_YM4kVoewT4lFXLMX7td7Sn6IxXzIARcCWnzEte",
+        "namaAktor": "Yoo Hae-jin",
+        "karakter": "(Yong-geun)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Jung Yun-ha",
+        "karakter": "(Park Ji-yong's)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Kim Ji An",
+        "karakter": "(Park Ja-hye)"
+},
+{
+        "image aktor": "https://i.mydramalist.com/B18rq_5f.jpg",
+        "namaAktor": "Kim Jae-chul",
+        "karakter": "(Park Ji-yong wife)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/6/68/161024_%EC%98%81%ED%99%94_%27%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%97%A4%EC%96%B4%EC%A7%88%EA%B9%8C%27_%EC%96%B8%EB%A1%A0%EC%8B%9C%EC%82%AC%ED%9A%8C_%EC%9D%B4%EC%98%81%EB%9E%80.jpg",
+        "namaAktor": "Lee Young-lan",
+        "karakter": "(Bae Jeong-ja)"
+},
+{
+        "image aktor": "https://photos.hancinema.net/photos/photo1225625.jpg",
+        "namaAktor": "Choi Moon-kyun",
+        "karakter": "(Aunt's daughter)"
+},
+{
+        "image aktor": "https://m.media-amazon.com/images/M/MV5BOTgwZmYxZDEtZWMzMC00MzUxLWEyNmUtNDFmOGUzNzVjMTI4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+        "namaAktor": "Jeon Jin Ki",
+        "karakter": "(Park Geun-hyeon)"
+},
+{
+        "image aktor": "https://upload.wikimedia.org/wikipedia/commons/3/33/Park_Jeong-ja_2015.jpg",
+        "namaAktor": "Park Jeong-ja",
+        "karakter": "(Park Ji-yong's aunt)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QkEsGo4jJ2ea93zqMhG6aPHwuJpEiIBYMg&usqp=CAU",
+        "namaAktor": "Kim Tae-Joon",
+        "karakter": "(Chang-min)"
+},
+{
+        "image aktor": "https://m.media-amazon.com/images/M/MV5BN2JlZjgzYjktZTk1YS00NmFmLWE0MDgtNzUwZjY4MjhjZjNiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+        "namaAktor": "Hong Seo-joon",
+        "karakter": "(Chairman Kim)"
+},
+]
+                
+            },
+            
 };
 
 

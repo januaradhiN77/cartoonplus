@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maintenance</title>
+    <style>
+        body {
+            background-color: rgb(8, 11, 19);
+            color : #C4C4C4;
+            height : 100%;
+            padding:  0;
+            margin: 0;
+        }
+
+        #content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100dvh;
+        }
+
+        .lottie {
+            height: 600px;
+            width: 600px;
+            max-height: 80vh;
+            max-width: 75vw;
+            padding-bottom: 40px;
+        }
+        
+    </style>
+  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+</head>
+<body>
+    <div id="content">
+        <div>
+            <dotlottie-player src="/assets/maintenance.lottie" background="transparent" speed="1" class="lottie" direction="1" mode="normal" loop autoplay></dotlottie-player>
+        </div>
+    </div>
+</body>
+</html>
