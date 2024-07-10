@@ -1985,7 +1985,7 @@
                 "gendre2": "Cerita Seru",
                 "gendre3": "Comedy",
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
-                "bgimg": "https://upload.wikimedia.org/wikipedia/id/a/a6/Poster_Kenapa_Gue%3F.jpg",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIz0otN-BbUp6jh4c-ZRLC50jNIN5FS-KQvQ&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/St61FgorzEA?si=cBeZ8EuiTs05KrQM",
                 "duration": "3 jam 30m",
 "episodes": [
