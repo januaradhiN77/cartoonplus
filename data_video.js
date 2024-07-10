@@ -20,7 +20,7 @@
               "episodeJudul": "Battle Of Surabaya",
                 "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda.",
        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP",
-       
+                       "duration": "1 jam 45m",
             },
        
     
@@ -49,7 +49,7 @@
 
        "episodeUrl": "https://acefile.co/player/51182839",
 
-                    
+"duration": "1 jam 40m",
        }
         ]
             },
@@ -74,7 +74,7 @@
               "episodeJudul": "Upin & Ipin : Keris Siamang Tunggal",
                 "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
        "episodeUrl": "https://drive.google.com/file/d/1vGNhff-_ge8iEN9BEX9pWI_qfz0Q-z9E/preview",
-
+                "duration": "1 jam 45m",
                     
        }
         ]
@@ -101,7 +101,7 @@
                 "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
 
        "episodeUrl": "https://acefile.co/player/19320220",
-
+                "duration": "1 jam 41m",
                     
        }
         ]
@@ -127,7 +127,7 @@
               "episodeJudul": "Mashle Season 2",
                 "description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
        "episodeUrl": "https://acefile.co/player/102743749",
-
+                "duration": "23 Menit",
                     
        }
         ]
@@ -156,7 +156,7 @@
 
        "episodeUrl": "https://drive.google.com/file/d/1E8G3JGM_NVdpruETrtlL35CwdJky4Gvj/preview",
 
-                    
+                                    "duration": "1 jam 40m",
        }
         ]
                 
@@ -184,7 +184,7 @@
                 "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
 
        "episodeUrl": "https://drive.google.com/file/d/1js9RL9N1xrifob2yEoDgzYGUOjcpey8K/preview",
-
+                "duration": "1 jam 47m",
                     
        }
         ]
@@ -369,7 +369,7 @@
                       "episodeUrl": "https://drive.google.com/file/d/1hlE8_Tha-eYCXeMgDM9tCkVDwkdA5J3T/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 10) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-       
+                       "duration": "28 menit",
        
               },
        {
@@ -377,7 +377,7 @@
                "episodeUrl": "https://drive.google.com/file/d/1gh4wEolxCsw9oez8teNzoQ_ntxl_wxPS/preview",
        "episodeJudul": "Cyberpunk: Edgerunners (EP 9)",
 "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-
+                "duration": "27 menit",
        
        },
        {
@@ -385,7 +385,7 @@
                       "episodeUrl": "https://drive.google.com/file/d/1ijB3ixXgRAa2XAYJEarwF6LTJsgjFXde/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 8)",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-       
+                       "duration": "26 menit",
        
               },
        {
@@ -393,7 +393,7 @@
                       "episodeUrl": "https://drive.google.com/file/d/1gm_WLZYcnC4piDtqau356q0i6fw4m6Ev/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 7) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-       
+                       "duration": "25 menit",
        
               },
        {
@@ -402,7 +402,7 @@
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 6) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
-       
+                       "duration": "25 menit",
               },
        {
                       "episodeTitle": "Episode 5",
@@ -410,14 +410,14 @@
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 5) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
-       
+                       "duration": "24 menit",
               },
        {
                       "episodeTitle": "Episode 4",
                       "episodeUrl": "https://drive.google.com/file/d/1gNBr88wkWzfwGHG1E1g2DWmRpvtuKHja/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 4) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-
+                "duration": "25 menit",
        
               },
        {
@@ -425,7 +425,7 @@
                       "episodeUrl": "https://drive.google.com/file/d/1ia9_jvBQdomJnxrXNaLf3ZUtcy1Rfpmd/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 3) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-       
+                       "duration": "25 menit",
        
               },
        {
@@ -434,14 +434,14 @@
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 2) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
-       
+                       "duration": "25 menit",
               },
        {
                       "episodeTitle": "Episode 1",
                       "episodeUrl": "https://drive.google.com/file/d/1gI6Qgd9hmkZIWsss98ohTWST8u8CzoFk/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 1)  ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
-       
+                       "duration": "25 menit",
        
               },
         ]
@@ -469,7 +469,7 @@
 
        "episodeUrl": "https://drive.google.com/file/d/1ntPxX9MJ7C4EhIwwSLQz6aTirQUrvClK/preview",
 
-                    
+                                    "duration": "1 jam 42m",
        }
         ]
                 
@@ -495,7 +495,7 @@
                 "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
 
        "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
-
+                "duration": "1 jam 40m",
                     
        }
         ]
@@ -522,7 +522,7 @@
                 "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
 
        "episodeUrl": "https://drive.google.com/file/d/1FfELYulqq0QxNBWUAS9pMvla40mab7ZW/preview",
-
+                "duration": "1 jam 48m",
                     
        }
         ]
@@ -549,7 +549,7 @@
                 "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
 
        "episodeUrl": "https://acefile.co/player/95131020",
-
+                "duration": "1 jam 58m",
                     
        }
         ]
@@ -576,7 +576,7 @@
                        "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
 
        "episodeUrl": "https://drive.google.com/file/d/1eQnJadStAKlJ7G5hTVsRYozkFvywbsQb/preview",
-                    
+                                    "duration": "1 jam 36m",
        }
         ]
 },
@@ -601,7 +601,7 @@
        "episodeJudul": "Transformers: Dark of the Moon",
 "description": "Menceritakan tentang Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
        "episodeUrl": "https://acefile.co/player/43028505",
-
+                "duration": "1 jam 34m",
                     
        }
         ]
@@ -627,7 +627,7 @@
                         "episodeJudul": "The Super Mario Bros. Movie",
                         "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
                         "episodeUrl": "https://drive.google.com/file/d/1pzaJVfzaBfsjx9rk7sE3iTp94bnYLi1-/preview",
-
+                "duration": "1 jam 44m",
 
        }
         ]
@@ -653,7 +653,7 @@
        "episodeJudul": "Stand by Me Doraemon 2",
 "description": "Suatu hari Nobita menemukan boneka beruang yang ditambal jahit tangan oleh nenek tercinta. Hal tersebut memicu kenangan mengharukan untuknya dan menanyakan kepada Doraemon apakah mereka dapat menggunakan mesin waktu untuk mengunjungi Nenek di masa lampau.",
        "episodeUrl": "https://drive.google.com/file/d/10pqXo58qrGnUsWDOD1MeX-C-PxMMt_y2/preview",
-
+                "duration": "1 jam 36m",
                     
        }
         ]
@@ -679,7 +679,7 @@
        "episodeJudul": "Doraemon Movie 42: Nobita to Sora no Utopia",
 "description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
        "episodeUrl": "https://acefile.co/f/100874237",
-
+                "duration": "1 jam 50m",
                     
        }
         ]
@@ -705,7 +705,7 @@
        "episodeJudul": "Arcane: League of Legends (EP 6)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "https://drive.google.com/file/d/1kZWLjJzoMIsiOU6UB-oAsMu5NNjiLlil/preview",
-
+                "duration": "42 Menit",
                     
        },
 {
@@ -713,30 +713,35 @@
        "episodeJudul": "Arcane: League of Legends (EP 5)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "https://drive.google.com/file/d/1ksyREyfsRkHoHBhFCuRwZNm3YeFEeBx0/preview",
+                       "duration": "40 Menit",
        },
 {
        "episodeTitle": "Episode 4", 
        "episodeJudul": "Arcane: League of Legends (EP 4)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "https://drive.google.com/file/d/1kTT6OLfvKTUFcaCv8jCpcQoq4voVcEPo/preview",
+                       "duration": "40 Menit",
        },
 {
         "episodeTitle": "Episode 3",
         "episodeJudul": "Arcane: League of Legends (EP 3)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "https://drive.google.com/file/d/1kqYYNVL6YnjRwbUJzW1zodxpxY7cLLnu/preview",
+                        "duration": "44 Menit",
 },
 {
         "episodeTitle": "Episode 2",
         "episodeJudul": "Arcane: League of Legends (EP 2)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "https://drive.google.com/file/d/1kQhH59HHcbPBrsr91z2RUisqFoshMQ-l/preview",
+                        "duration": "40 Menit",
 },
 {
         "episodeTitle": "Episode 1",
         "episodeJudul": "Arcane: League of Legends (EP 1)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "https://drive.google.com/file/d/1kQYbEzB_c8pA5UB2Sbr-UulkmphuZb3h/preview",
+                        "duration": "43 Menit",
 },
         ]
                 
@@ -944,7 +949,7 @@
        "episodeJudul": "Kung Fu Panda 4",
 "description": "Po yang akan menjadi Pemimpin Rohani Lembah Kedamaian mencari penggantinya sebagai Pendekar Naga baru sambil melawan musuh baru yang bisa berubah bentuk bernama Bunglon.",
        "episodeUrl": "https://drive.google.com/file/d/1w0K8vd-VYyr96tmF6JJyYLFjZgXEufPw/preview",
-
+                "duration": "1 jam 44m",
                     
        }
         ]
@@ -1094,7 +1099,7 @@
        "episodeJudul": "Godzilla x Kong: The New Empire",
 "description": "Menceritakan tentang Godzilla dan Kong akan melawan kekuatan baru yang sangat berbahaya. Kedua raksasa kuno itu akan menghadapi ancaman besar dari dasar bumi. Ancaman yang bisa membuat Godzilla maupun Kong punah.",
        "episodeUrl": "https://pixeldrain.com/api/file/TpgJf2RE",
-
+                "duration": "1 jam 55m",
                     
        }
         ]
@@ -1120,7 +1125,7 @@
        "episodeJudul": "Aquaman and the Lost Kingdom",
 "description": "Dari sosok ayah yang sederhana, kehidupan Arthur Curry (Jason Momoa) berubah drastis menjadi Aquaman atau Raja Atlantis yang harus memimpin setengah miliar lebih makhluk-makhluk yang hidup di laut Atlantis.<br><br>Namun, sosok Black Manta (Yahya Abdul Mateen II) yang murka atas kematian ayahnya dalam konfrontasi dengan Aquaman sebelumnya, bertekad untuk balas dendam dan menghancurkan kerajaan Atlantis.",
        "episodeUrl": "https://drive.google.com/file/d/1vKFVzH3XvrQE0zhTmAXBQhCG3UfXyCbT/preview",
-
+                "duration": "2 jam 04m",
                     
        }
         ]
@@ -1148,7 +1153,7 @@
                         "description": "Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin. Sahabat Acha, AMANDA, berusaha mencegah niat Acha untuk mendekati Iqbal. Amanda takut Acha akan terluka dan sakit hati.",
                         "episodeUrl": "https://drive.google.com/file/d/1vRVvrjzQohwoGHyPWgZEnJUoT9n5SPnD/preview",
 
-
+                "duration": "1 jam 53m",
        }
         ],
 "aktor":[
@@ -1256,7 +1261,7 @@
        "episodeJudul": "KKN di Desa Penari",
 "description": "KKN Di Desa Penari diadaptasi dari salah satu cerita horror yang telah viral di tahun 2019 melalui Twitter, menurut sang penulis, cerita ini diambil dari sebuah kisah nyata sekelompok mahasiswa yang tengah melakukan program KKN (Kuliah Kerja Nyata) di Desa Penari. Tak berjalan mulus, serentetan pengalaman horror pun menghantui mereka hingga program KKN tersebut berakhir tragis.",
        "episodeUrl": "https://drive.google.com/file/d/1vnDerSjmD9qslsg1KCiTmnp5eDBud5Ua/preview",
-
+                "duration": "2 jam 01m",
                     
        }
         ],
@@ -1350,6 +1355,7 @@
        "episodeJudul": "Dua Garis Biru",
        "description": "Bima dan Dara adalah sepasang kekasih yang masih duduk di bangku SMA. Pada usia 17 tahun, mereka nekat bersanggama di luar nikah. Dara pun hamil. Keduanya kemudian dihadapkan pada kehidupan yang tak terbayangkan bagi anak seusia mereka, kehidupan sebagai orangtua.",
        "episodeUrl": "https://drive.google.com/file/d/1wKxr6gmJx4egZGNgrSNXlVjrhgKMh0l1/preview",
+                       "duration": "1 jam 53m",
         }
         ],
 "aktor":[
@@ -1464,7 +1470,7 @@
        "episodeJudul": "Minions & More 1",
        "description": "Koleksi celana pendek Minion dari waralaba “Despicable Me” ini mencakup film mini seperti “Training Wheels,” “Puppy” dan “Yellow Is the New Black.”",
        "episodeUrl": "https://acefile.co/player/85066497",
-
+                "duration": "48 Menit",
                     
        }
         ]
@@ -1491,7 +1497,7 @@
        "episodeJudul": "Panggonan Wingit",
 "description": "Raina dan adiknya, Fey, pindah dari Jakarta ke Semarang untuk mengelola Hotel Ambar Mangun, sebuah hotel warisan ayah mereka yang tidak pernah mereka kunjungi sebelumnya yang selama ini dikelola oleh Suktini dan Garinto, nenek dan kakek mereka.<br><br>Suatu malam, Raina mendengar suara tangis dari lantai tiga yang dilarang dimasuki siapapun.Lalu dia membuka pintu sebuah kamar tak bernomor di sana.Ternyata kamar itu disebut“ Panggonan Wingit”, sebuah tempat yang sudah lama dihuni oleh sosok gaib.Jika ada yang membuka kamar itu, dia akan melihat sosok wanita berkulit putih dan berambut putih yang mengatakan“ Telung dino, tengah wengi” yang artinya“ Tiga hari, tengah malam”.Lalu, tiga hari kemudian akan mati dikuliti saat tengah malam.",
        "episodeUrl": "https://drive.google.com/file/d/1wkLp1tDf1j4XEIKe_lyzoSKnNAL6EiH4/preview",
-
+                "duration": "1 jam 50m",
                     
        }
         ],
@@ -1578,7 +1584,7 @@
        "episodeJudul": "The Tiger's Apprentice",
 "description": "Tom Lee, seorang anak laki-laki Tionghoa-Amerika, setelah kematian neneknya, harus magang di harimau yang bisa berbicara, Tuan Hu dan mempelajari sihir kuno untuk menjadi penjaga baru burung phoenix kuno.",
        "episodeUrl": "https://drive.google.com/file/d/1P-kxz6_omy6QmItJ1YunbLqgECy-ZA25/preview",
-
+                "duration": "1 jam 24m",
                     
        }
         ]
@@ -1606,7 +1612,7 @@
        "episodeJudul": "Di Ambang Kematian",
 "description": "Hidup seorang perempuan muda bernama Nadia berada di ambang kematian. Hal ini bisa terjadi karena Nadia ternyata menjadi tumbal dari pesugihan yang dilakukan oleh ayahnya sendiri. Pesugihan tersebut ternyata meminta tumbal setiap 10 tahun sekali. Tumbal pertama terjadi pada tahun 2002 yaitu ibunya meninggal dunia dengan cara yang mengenaskan. Sepuluh tahun kemudian, kakak kandung dari Nadia yang bernama Yoga juga bernasib sama seperti ibunya.",
        "episodeUrl": "https://drive.google.com/file/d/1PFS_Qzkz9SleU5x32Ms2fUBPnydOzYHG/preview",
-
+                "duration": "1 jam 37m",
                     
        }
         ],
@@ -1689,8 +1695,8 @@
                         "episodeTitle": "Tonton",
                         "episodeJudul": "Kalian Pantas Mati",
                         "description": "Kisah Rakka (Emir Mahira) yang terlahir indigo. Ia pun dapat berkomunikasi dengan roh orang yang sudah meninggal. Kemampuan itu pun membuat Rakka merasa terbebani dan kerap membuatnya di-bully di sekolah.",
-                        "episodeUrl": "https://drive.google.com/file/d/1Pqr_xULKPhNGt6cYIXDtmWr4KS6LP9mv/preview"
-                        
+                        "episodeUrl": "https://drive.google.com/file/d/1Pqr_xULKPhNGt6cYIXDtmWr4KS6LP9mv/preview",
+                                        "duration": "1 jam 45m",
        }
         ],
         "aktor": [
@@ -1789,7 +1795,7 @@
                         "description": "Dikisahkan tentang persahabatan dan jalin hubungan antara Dilan dan Ancika Mehrunisa Rabu. Hubungan mereka yang semakin erat membuat benih-benih cinta tumbuh dan hubungan mereka pun menanjak hingga ke jenjang kekasih. Di tahun 1995, Dilan si mantan panglima geng motor jatuh cinta pada Ancika, perempuan yang sangat membenci geng motor.",
                         "episodeUrl": "https://drive.google.com/file/d/1ZXyOcSORwa3kmbQDFlAC07Rsjs9BGBil/preview",
 
-
+                "duration": "1 jam 40m",
        }
         ],
 "aktor":[
@@ -1910,7 +1916,7 @@
        "episodeJudul": "Sijjin",
 "description": "Teror itu dibuat oleh Irma yang jatuh cinta kepada sepupunya sendiri yaitu Galang. Galang yang telah memiliki istri dan anak sangat sayang kepada mereka, dan menganggap Irma hanya sebagai sepupunya saja. Oleh karena itu, Irma sangat terobsesi ingin menjadi perempuan satu-satu nya di hidup Galang, bahkan ingin dinikahi.",
        "episodeUrl": "https://drive.google.com/file/d/1z8tdocOPROvzt_PeIQTze6-ql7p7MEzh/preview",
-
+                "duration": "1 jam 40m",
                     
        }
         ],
@@ -1988,7 +1994,7 @@
        "episodeJudul": "Kenapa Gue? (EP 6)",
 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
        "episodeUrl": "https://drive.google.com/file/d/1zSrZX4IK5jEvihWtgC-5Xn9slfvtd2_F/preview",
-
+                "duration": "33 menit",
                     
        },
         {
@@ -1996,7 +2002,7 @@
                 "episodeJudul": "Kenapa Gue? (EP 5)",
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
                 "episodeUrl": "https://drive.google.com/file/d/1zPfdK5bXZnTiqusdBs4JDMaCOjfV4hlR/preview",
-
+                "duration": "33 menit",
 
         },
         {
@@ -2005,7 +2011,7 @@
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
                 "episodeUrl": "https://drive.google.com/file/d/1ze5VfqLTbbScgyfEjeeH2_TgkY5Jh-cE/preview",
 
-
+                "duration": "34 menit",
         },
         {
                 "episodeTitle": "Episode 3",
@@ -2013,7 +2019,7 @@
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
                 "episodeUrl": "https://drive.google.com/file/d/1zCKWJlzoq1KLbzJ_uYi_Ca_x5ZFnvtHn/preview",
 
-
+                "duration": "37 menit",
         },
 
         {
@@ -2021,7 +2027,7 @@
                 "episodeJudul": "Kenapa Gue? (EP 2)",
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
                 "episodeUrl": "https://drive.google.com/file/d/1zBuyaOqzDFRsIhXVi2e4-kI166KIXO-d/preview",
-
+                "duration": "33 menit",
 
         },
 
@@ -2030,7 +2036,7 @@
                 "episodeJudul": "Kenapa Gue? (EP 1)",
                 "description": "Mengisahkan tentang Danu, seorang mahasiswa yang tiba-tiba membunuh dirinya saat sesi kelas daring. Ia tidak tahan dengan perundungan yang dilakukan mahasiswa lainnya. Beberapa hari setelah pemakamannya, sesosok wujud misterius mulai meneror dan menyerang mereka yang dianggap bertanggung jawab atas kematian Danu. Sekelompok teman dan yang paling sering merundung Danu, dikenal sebagai 'The Circle', harus memilih antara mengakui dosa mereka atau menghadapi sosok misterius yang mengancam nyawa mereka.",
                 "episodeUrl": "https://drive.google.com/file/d/1zB_4tfXlcDeHCqBrQ0IJRSOly7pMRHjD/preview",
-
+                "duration": "40 menit",
 
         }
         ],
@@ -2115,7 +2121,7 @@
        "episodeJudul": "Pamali (2022)",
 "description": "Jaka Sunarya (Marthino Lio), yang baru saja kehilangan pekerjaan, bersama sang istri, Rika (Putri Ayudya) ingin menjual rumah peninggalan orang tuanya untuk memulai hidup baru. Di desa tersebut, mereka tanpa sengaja melanggar adat yang telah menjadi tradisi, sehingga menghadapi keberadaan makhluk halus yang mengancam nyawa mereka.",
        "episodeUrl": "https://drive.google.com/file/d/1zpVf5UrtWJRozI1HD3LSA1dP4aADD75o/preview",
-
+                "duration": "1 jam 39m",
                     
        }
         ],
@@ -2348,7 +2354,7 @@
        "episodeJudul": "Mangkujiwo 2",
 "description": "Setelah peristiwa kematian Cokrokusumo, Uma berusaha melawan trauma sambil mencari jawaban atas misteri keterlibatan Kuntilanak dalam hidupnya. Sementara itu, Brotoseno, Nyi Kenanga, dan Karmila menempuh cara keji untuk membawa Mangkujiwo ke puncak kejayaan, di mana darah akan kembali tumpah.",
        "episodeUrl": "https://drive.google.com/file/d/1-Ddeaf1Dld51ebQ7gQotlJvRFD0lwJ9i/preview",
-
+                "duration": "2 jam 01m",
                     
        }
         ],
@@ -2443,7 +2449,7 @@
                         "description": "Demi pengobatan bapaknya yang sakit-sakitan, Sri Rahayu, seorang wanita sederhana yang tinggal di sebuah desa di Jawa Timur, memutuskan untuk melamar sebagai pembantu di kediaman keluarga Atmodjo. Meskipun Sri tidak memiliki gelar sarjana, dia langsung saja diterima kerja oleh Mbah Karsa Atmodjo, karena keunikannya sebagai anak yang lahir di Jumat Kliwon, hari keramat dalam budaya Jawa. Bersama dengan Erna dan Dini, mereka diantarkan oleh Sugik, supir keluarga Atmodjo, menuju sebuah gubuk di tengah hutan. Sri sadar bahwa tangannya saat ini mempunyai lambang keluarga Atmodjo, begitu pula dengan Erna, Dini, dan Sugik.",
                         "episodeUrl": "https://drive.google.com/file/d/1wnnw2uqDs59Fb3fNa_EbN6Dm92zKUzU2/preview",
 
-
+                "duration": "2 jam 01m",
        }
         ],
 "aktor":[
@@ -2536,7 +2542,7 @@
        "episodeJudul": "Suzzanna: Malam Jumat Kliwon",
 "description": "Berlatar tahun 1986 di sebuah desa yang letaknya di Jawa Timur, Suzzanna dan Surya adalah sepasang kekasih yang akan segera menikah. Namun karena utang yang dimiliki oleh orangtua Suzzanna terhadap Raden Aryo, orang terkaya di desa mereka, membuat hubungan keduanya kandas. Raden Aryo akan menganggap utang orangtua Suzzanna lunas apabila Suzzanna mau dijadikan istri keduanya.",
        "episodeUrl": "https://drive.google.com/file/d/11IzJ1-bVLwFFuAPudqMSiyVtqYHJJURD/preview",
-
+                "duration": "2 jam 10m",
                     
        }
         ],
@@ -2650,7 +2656,7 @@
        "episodeJudul": "Viva JKT48 (2014)",
 "description": "Tiba-tiba JKT48 dibubarkan secara sepihak oleh Miss Kejora. Penggemar yang telah menunggu-nunggu penampilan JKT48 harus kecewa karena idolanya digantikan oleh grup baru bernama BKT48. Miss Kejora menantang para anggota JKT48 untuk mengumpulkan uang sebesar Rp 1 miliar jika ingin membeli kembali posisi mereka. Semua anggota JKT48 berusaha keras mengumpulkan uang dan memulai kembali karier mereka dari bawah.",
        "episodeUrl": "https://acefile.co/player/32867411",
-
+                "duration": "1 jam 21m",
                     
        }
         ],
@@ -2788,7 +2794,7 @@
        "episodeJudul": "Iblis dalam Kandungan",
 "description": "Setelah lima belas tahun menikah dan mengadopsi dua kakak-beradik bernama Alani (Denira Wiraguna) dan Vito (Adhiyat), Amelia (Nafa Urbach) akhirnya bisa hamil. Untuk menjaga istrinya yang juga menderita penyakit darah tinggi, suaminya, Verdi (Ali Syakieb), berpindah dari Jakarta ke perusahaan perkebunan di kaki gunung Salak. Persoalan mulai muncul ketika rumah yang mereka tinggali ternyata dihuni oleh arwah wanita, yang di masa lalunya kehilangan bayi dalam kandungan karena sebuah peristiwa mistis. Kini, arwah itu mencoba merasuk ke dalam tubuh Amelia untuk menghaki bayi dalam kandungannya. Vito dan Alani berupaya melindungi ibu mereka, meskipun harus menghadapi serangkaian teror yang membahayakan nyawa. Ternyata, arwah wanita itu bukanlah satu-satunya bahaya yang harus dihadapi. Ada kekuatan lain yang lebih jahat dan tidak pernah terpikirkan sebelumnya.",
        "episodeUrl": "https://drive.google.com/file/d/1WP6Tm-QHNEKY323-5tF1Xr2gN7Doz_jd/preview",
-
+                "duration": "1 jam 26m",
                     
        }
         ],
@@ -2861,7 +2867,7 @@
        "episodeJudul": "Jin Qorin",
 "description": "Seno (Marthino Lio) sangat mencintai istrinya Alya (Tyara Vanessa) dan putrinya Reva (Kanaya Gleadys). Bagi Seno tak ada yang dapat memisahkan mereka. Akan tetapi ada rahasia besar yang harus ditutupi Seno di dalam rumah tangganya. Sementara itu Wina (Annisa Hasim), bos di tempat Seno bekerja sebenarnya juga mencintai Seno. Sementara itu Abdi (Rama Michael), sahabat sekaligus kakak ipar Seno, mulai mencurigai ada hubungan spesial antara Wina dan Seno. Apakah Seno berselingkuh dan mengkhianati Alya, adiknya?Dalam penyelidikannya, Abdi mulai menemukan kejanggalan pada diri Seno. Di saat bersamaan Wina yang masih bersikeras mendapatkan cinta Seno, menemukan bukti yang memperkuat rahasia yang ditutupi oleh Seno.",
        "episodeUrl": "https://drive.google.com/file/d/12wZZPgESd0RvXw4tMxvgp5le-uomzM_y/preview",
-
+                "duration": "1 jam 27m",
                     
        }
         ],
@@ -2936,7 +2942,7 @@
        "episodeJudul": "Mumun (2022)",
 "description": "Mumun (Acha Septriasa) dan Juned (Dimas Aditya) merupakan sepasang kekasih yang saling mencintai. Namun, Mumun tewas secara mengenaskan dalam sebuah kecelakaan dan Juned sangat terpukul karenanya. Setelah jasad Mumun dikuburkan, ternyata Husein (Mandra) selaku penggali kubur lupa membuka tali pocong Mumun pada saat prosesi penguburan, sehingga ia bangkit dari kubur untuk meminta agar tali pocongnya dibukakan.",
        "episodeUrl": "https://drive.google.com/file/d/13-EQ8xeqZt1oGCeMmUCx3DJTiVzkGzFz/preview",
-
+                "duration": "1 jam 46m",
                     
        }
         ],
@@ -3047,7 +3053,7 @@
        "episodeJudul": "Waktu Maghrib",
 "description": "Adi, Saman, dan Ayu tinggal di Desa Jatijajar, sebuah desa terpencil di Jawa Tengah. Karena harus membantu keluarga mereka di ladang, Adi dan Saman sering terlambat masuk sekolah. Akibatnya, keduanya sering dihukum oleh Bu Woro, guru mereka yang disiplin dan galak. Suatu hari, kekesalan Adi dan Saman terhadap Bu Woro memuncak. Mereka menyumpahi Bu Woro, bahkan berharap agar guru itu mati saja. Sumpah ini terucap bersamaan dengan berkumandangnya adzan Maghrib. Tak lama sesudahnya, Bu Woro meninggal secara mengenaskan.",
        "episodeUrl": "https://drive.google.com/file/d/1A8JbQ4l0qwSUbnzAOe3yda9F2vkUhMIr/preview",
-
+                "duration": "1 jam 44m",
                     
        }
         ],
@@ -3283,7 +3289,7 @@
        "episodeJudul": "Siksa Neraka",
 "description": "Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka. Dalam neraka yang panas, berbagai jenis penyiksaan akan diterapkan pada orang-orang yang memiliki berbagai sifat dan keburukan. Sesuai dengan dosa mereka, mereka akan menerima tingkat penyiksaan yang berbeda.",
        "episodeUrl": "https://drive.google.com/file/d/1nEqisT95EgEdjvBaNpxgfGTrgRN2WsvC/preview",
-                    
+                                    "duration": "1 jam 38m",
        }
         ],
 "aktor": [
@@ -3481,7 +3487,7 @@
        "episodeJudul": "Pamali: Dusun Pocong",
 "description": "Tiga petugas medis dan dua penggali kubur ditugaskan untuk membantu sebuah dusun terpencil yang baru terkena wabah. Setibanya di sana, mereka mulai menyadari ada kemunculan Pocong di dusun tersebut. Apakah semua ini berkaitan dengan adat istiadat di dusun tersebut? Atau ada adat istiadat yang dilanggar oleh mereka?",
        "episodeUrl": "https://drive.google.com/file/d/1e3AU0Do_sS_lgx6jguK294MuMi1pqnsz/preview",
-
+                "duration": "1 jam 37m",
                     
        }
         ],
@@ -3560,7 +3566,7 @@
        "episodeJudul": "13 Bom di Jakarta",
 "description": "Film ini menceritakan tentang teror sekumpulan teroris yang ingin menyerang Jakarta, ibukota Indonesia. Serangan 13 Bom ini akan menghancurkan kota dan menimbulkan banyak korban jiwa yang tak terhitung jumlahnya. Badan Kontra Terorisme Indonesia",
        "episodeUrl": "https://drive.google.com/file/d/1XBtC-_gHDYt9CS9YFc6mnDV1cE21ki2t/preview",
-
+                "duration": "2 jam 23m",
                     
        }
         ],
@@ -3688,7 +3694,7 @@
        "episodeJudul": "Jatuh Cinta Seperti di Film-film",
 "description": "Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.",
        "episodeUrl": "https://pixeldrain.com/api/file/o2q83c1m",
-
+                "duration": "1 jam 58m",
                     
        }
         ],
@@ -3761,7 +3767,7 @@
        "episodeJudul": "Frozen 2",
 "description": "Raja Agnarr dari Arendelle menceritakan sebuah kisah kepada anak-anaknya yang masih kecil, Elsa dan Anna, bahwa kakek mereka, Raja Runeard, membuat perjanjian dengan suku tetangga Northuldra dengan membangun bendungan di tanah air mereka, Hutan Ajaib. Namun, perkelahian terjadi, yang mengakibatkan kematian Runeard. Pertempuran membuat marah roh unsur Bumi, Api, Air, dan Udara hutan. Roh-roh itu menghilang dan dinding kabut menjebak semua orang di Hutan Ajaib. Agnarr nyaris lolos karena bantuan penyelamat yang tidak dikenal.",
        "episodeUrl": "https://drive.google.com/file/d/1fA5SIEH5B3V8KZ1oSCI95irlPQf5AOYI/preview",
-
+                "duration": "1 jam 43m",
                     
        }
         ]
@@ -3789,7 +3795,7 @@
        "episodeJudul": "Spider-Man: Across the Spider-Verse",
 "description": "Miles Morales / Spider-Man berpetualang melintasi multisemesta dengan Gwen Stacy / Spider-Woman dan tim baru Spider-People yang harus menghadapi penjahat yang kuat.",
        "episodeUrl": "https://drive.google.com/file/d/1s5H_ze05i9kCq61f3UaRokvMTn6Mx5IR/preview",
-
+                "duration": "2 jam 20m",
                     
        }
         ]
@@ -3817,7 +3823,7 @@
        "episodeJudul": "Trinil: Kembalikan Tubuhku",
 "description": "Rara dan Sutan, pasangan baru menikah yang kembali ke rumah Rara di perkebunan teh setelah pernikahan mereka. Namun, Rara mulai mengalami kejadian mistis, termasuk gangguan dari sosok gaib saat mandi dan lampu yang sering mati. ",
        "episodeUrl": "https://drive.google.com/file/d/1f0RGx-ZIRgaKgHsJ0ntQp_OIzf5q2GJH/preview",
-
+                "duration": "1 jam 45m",
                     
        }
         ],
@@ -3886,7 +3892,7 @@
        "episodeJudul": "Saranjana: Kota Ghaib",
 "description": "Sebuah band bernama Signifikan asal Jakarta sedang melakukan tour konser di Kotabaru, Kalimantan Selatan. Namun Shita (Adinda Azani) si vokalis Band menghilang secara misterius.Setelah mencari informasi, anggota band lainnya meyakini Sitha berada di Saranjana, sebuah kota yang dipercaya warga lokal sebagai kota ghaib yang modern dan maju.Dalam waktu 7 hari Mereka pun harus melakukan petualangan yang penuh dengan kejadian horor dan mistis masuk ke kota saranjana untuk membawa sang vokalis kembali.",
        "episodeUrl": "https://drive.google.com/file/d/1aOrX_5EC4d_mK7hA61hljbAXFHdrFgIB/preview",
-
+                "duration": "1 jam 38m",
                     
        }
         ],
@@ -3960,7 +3966,7 @@
        "episodeJudul": "Kutukan Sembilan Setan",
 "description": "Verdy dan keempat temannya Devon, Sarah, Lia dan Miko adalah sahabat yang sama-sama suka traveling. Suatu hari, mereka sepakat untuk liburan panjang selama lima hari di Kawasan Gunung Bromo dan memutuskan menyewa villa yang dilihat dari website. Setibanya di lokasi villa, ternyata wujud villanya tidak sesuai dengan iklan. Ternyata jauh lebih jadul dan tidak terawat bahkan tampak dari luar cukup menyeramkan. Ternyata di wilayah Bromo, mereka menginap di villa yang tampak aneh dari luar. Benar saja sejak hari pertama menginap di villa tersebut mereka mendapatkan teror dan misteri yang diluar nalar akal manusia. ",
        "episodeUrl": "https://drive.google.com/file/d/1hoRgMHrFKnYyMSPcfWTe9Kgz3bQ1Ila9/preview",
-
+                "duration": "1 jam 37m",
                     
        }
         ],
@@ -4303,7 +4309,7 @@
                         "description": "Empat petugas rumah hantu bernama Boris, Jegel, Bene, dan Oki. Dikisahkan bahwa keempatnya bertugas sebagai hantu yang menakut-nakuti pengunjung rumah hantu yang ada di sebuah pasar malam. Namun, alih-alih menyeramkan dan membuat para pengunjung terkesan, rumah hantu tersebut justru sama sekali tidak menunjukkan kesan yang seram. Bahkan hantu-hantu di dalamnya pun tidak berhasil membuat pengunjung terkejut maupun ketakutan. Situasi tersebut membuat pihak pengelola wahana mencoba sebisa mungkin untuk menghadirkan wahana rumah hantu yang menyeramkan.",
                         "episodeUrl": "https://drive.google.com/file/d/1ukUT0yzkzjdYtx79ktMh8Na_E0Fproli/preview",
 
-
+                "duration": "1 jam 59m",
        }
         ],
 "aktor": [
@@ -4508,7 +4514,7 @@
        "episodeJudul": "Haikyu!! The Dumpster Battle 2024",
 "description": "Selama Turnamen Bola Voli SMA Musim Semi Prefektur Miyagi dan penyisihan SMA Musim Semi, SMA Karasuno muncul sebagai pemenang atas lawan-lawan tangguh, dan terus mengembangkan keterampilan mereka. Mereka meraih kemenangan menakjubkan atas SMA Inarizaki di putaran kedua turnamen SMA Musim Semi. Kini, mereka bersiap menghadapi rival lama mereka, SMA Nekoma, di babak ketiga yang sangat dinantikan. Kedua tim pembangkit tenaga listrik ini belum pernah bentrok di panggung resmi meski sudah berkali-kali melakukan latihan pertandingan. Pertarungan yang telah lama ditunggu-tunggu antara SMA Karasuno dan SMA Nekoma ini terkenal dengan sebutan “Pertempuran Tempat Sampah”. Di arena yang ditakdirkan, dimana pertandingan yang tidak dapat diulang akan segera dimulai...",
        "episodeUrl": "https://drive.google.com/file/d/1zxRjb4bSowKh2PdmKC8yfRVyA7Oq16F_/preview",
-
+                "duration": "1 jam 26m",
                     
        }
         ]
@@ -4691,7 +4697,7 @@
        "episodeJudul": "Algrafi",
 "description": "Algrafi dan Naya tiba-tiba mendapat kabar bahwa mereka akan dijodohkan. Mereka bertekad untuk tidak menerima perjodohan tersebut. Naya harus menentang ibunya yang menginginkan perjodohan ini karena Algrafi berasal dari salah satu keluarga terkaya. Sementara itu, Algrafi harus menentang kakeknya yang sangat percaya pada perhitungan ramalan. Dengan ramalan terbarunya, jika Algrafi dan Naya menikah maka akan membawa keberuntungan bagi generasi terbaru keluarganya.",
        "episodeUrl": "https://drive.google.com/file/d/17w__raBorlB50L2uc4lP9WKsgdwgJSzv/preview",
-
+                "duration": "1 jam 57m",
                     
        }
         ],
@@ -4746,7 +4752,7 @@
        "episodeJudul": "Inside Out 2",
 "description": "Disney and Pixar’s “Inside Out 2” kembali ke dalam pikiran Riley yang sudah beranjak remaja tepat di saat Heaquarters sedang gonjang-ganjing karena perlu adanya ruang kosong untuk sesuatu yang tidak terduga: Emotion baru! Joy, Sadness, Anger, Fear, Disgust yang sudah berhasil sekian lama ini tidak yakin dengan perasaan mereka ketika Anxiety muncul. Dan sepertinya dia tidak sendiri.",
        "episodeUrl": "https://drive.google.com/file/d/19Z5nUmOl5tdnstbL-ytmEyUuh61IrpLR/preview",
-
+                "duration": "1 jam 36m",
        }
         ]
                 
@@ -4772,7 +4778,7 @@
        "episodeJudul": "Pemandi Jenazah",
 "description": "Lela merupakan perempuan muda yang bekerja sebagai pemandi jenazah bersama ibunya. Ia telah akrab dengan pekerjaan itu karena selalu diajak sang ibu saat bertugas memandikan jenazah. Ibunya juga selalu mengajari dan menasihati Lela bahwa pemandi jenazah adalah pekerjaan yang mulia. Namun, pada malamnya, Lela mendapati sang ibu meninggal dunia tiba-tiba dan misterius. Ibu Lela itu wafat setelah mengalami muntah darah dan kejang-kejang. Kematian itu memicu desas-desus di kalangan warga. Tetangga sekitar bahkan menyebar isu bahwa ibu Lela meninggal karena santet. Lela yang mendengar rumor itu tak kuasa untuk mencari petunjuk yang dapat menjawab berbagai kejanggalan. Namun, saat mencari jawaban yang lebih jelas, Lela justru diteror hantu-hantu misterius dan berbahaya.",
        "episodeUrl": "https://drive.google.com/file/d/18iIasOIiHYhHkTbGagtWNSzWr_9Pka2N/preview",
-
+                "duration": "1 jam 47m",
                     
        }
         ],
@@ -4851,7 +4857,7 @@
        "episodeJudul": "Exhuma",
 "description": "Mengisahkan sebuah keluarga kaya yang mengalami teror supranatural mengerikan. Keluarga itu pada akhirnya meminta bantuan dukun sakti, meskipun mereka berusaha menghindari rangkaian peristiwa aneh yang mereka alami.",
        "episodeUrl": "https://drive.google.com/file/d/1glCAoDLsIGwuxXw1X1q7c3Ted_aGrYtf/preview",
-
+                "duration": "2 jam 14m",
                     
        }
         ],
