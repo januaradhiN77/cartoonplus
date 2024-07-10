@@ -4413,7 +4413,7 @@
        "episodeJudul": "Teasing Master Takagi-san Live Action (EP 8)",
 "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1lRrnBZwOMLlCtGCMzjCHTzDC1TozVacb/preview",
-
+                "duration": "27 menit",
                     
        },
         {
@@ -4421,7 +4421,7 @@
        "episodeJudul": "Teasing Master Takagi-san Live Action (EP 7)",
 "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1l-bjtoUfcSwkkaz4rApKakN6_qveXmR3/preview",
-
+                "duration": "25 menit",
                     
        },
         {
@@ -4429,7 +4429,7 @@
        "episodeJudul": "Teasing Master Takagi-san Live Action (EP 6)",
 "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1l1hRVP4jFRdy7rO-JZjGLXZHDSgAs2Av/preview",
-
+                "duration": "21 menit",
                     
        },
        {
@@ -4438,14 +4438,14 @@
        "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1lFpXknYTpViOJvSwIKdY8LRXT1hTbWHl/preview",
 
-
+                "duration": "22 menit",
        },
        {
        "episodeTitle": "Episode 4",
        "episodeJudul": "Teasing Master Takagi-san Live Action (EP 4)",
        "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1l2a3Yim00AnS2wx18n8Uv8CUtxxDT0fA/preview",
-
+                "duration": "22 menit",
 
        },
        {
@@ -4454,7 +4454,7 @@
        "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1lDGo3TTyTULtkkS7pt6loLdW8YHbMPQ4/preview",
 
-
+                "duration": "22 menit",
        },
        {
        "episodeTitle": "Episode 2",
@@ -4462,7 +4462,7 @@
        "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1lGFyHBlL09xVTGiUEVZg3IyOqr5fQ6A9/preview",
 
-
+                "duration": "22 menit",
        },
        {
        "episodeTitle": "Episode 1",
@@ -4470,7 +4470,7 @@
        "description": "Takagi suka mengerjai teman sekelasnya, Nishikata. Tapi berusaha sekuat tenaga, dia tidak akan pernah bisa mengerjainya kembali - dia terlalu pintar.",
        "episodeUrl": "https://drive.google.com/file/d/1lFEbktkGyVNNxI3y1jZo8wDMLKPKktBg/preview",
 
-
+                "duration": "23 menit",
        }
 
         ],
@@ -4972,14 +4972,14 @@ if (animation && data.hasOwnProperty(animation)) {
   const episodeImg = encodeURIComponent(data[animation].bgimg);
   const episodeStudio = encodeURIComponent(data[animation].terjemah);
   const episodeBintang = encodeURIComponent(data[animation].rating);
-  const episodeDurasi = encodeURIComponent(data[animation].duration);
+  const episodeDurasi = encodeURIComponent(episode.duration);
   
   // Simpan riwayat tontonan ke localStorage
   let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
   history.push({
     title: episode.episodeJudul,
     img: data[animation].bgimg, // Use bgimg here as well
-    durasi: data[animation].duration,
+    durasi: duration,
     studio: data[animation].terjemah,
     animation: animation,
     bintang: data[animation].rating,
