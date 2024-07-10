@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function() {
     historyContainer.innerHTML = ''; // Mengosongkan konten sebelum menambahkan riwayat tontonan baru
 
     if (history.length === 0) {
-        historyContainer.innerHTML = '<p style="color:gray;">Tidak ada history</p>';
+        historyContainer.innerHTML = '<p style="color:gray;margin-top: 10px;">Tidak ada history</p>';
     } else {
         history.forEach(item => {
             if (item.watchedAt) { // Memastikan watchedAt ada dan tidak undefined
