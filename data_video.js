@@ -3166,14 +3166,14 @@
               "episodeJudul": "Comic 8 Season 2",
                 "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
        "episodeUrl": "https://acefile.co/player/94598641/",
-       
+                       "duration": "1 jam",
             },
             {
                 "episodeTitle": "Season 1", 
                        "episodeJudul": "Comic 8 Season 1",
                          "episodeUrl": "https://acefile.co/player/94591251/",
                 "description": "Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
-                
+                                "duration": "1 jam",
                      },
     
         ],
