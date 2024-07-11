@@ -759,7 +759,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAlH1w1DBMZLa1JH2T55a-5FBdPGwYI_6Swk4l67AkTyzwnisgm70GHE&s=10",
                 "trailer": "https://www.youtube.com/embed/UxHn_Oy58bQ?feature=shared",
-                "duration": "7 jam 00m",
+                "duration": "7 jam 40m",
 "episodes": [
         
         {
@@ -767,7 +767,7 @@
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 20)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1ovPPB5tc4t7hKVghCrgdJ43xi_67kVGM/preview",
-
+                "duration": "23 menit",
 
         },
         {
@@ -775,7 +775,7 @@
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 19)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1ouW5nllnmD8Fd1dV81ucrYGPpxwEyLOL/preview",
-
+                "duration": "23 menit",
 
         },
         {
@@ -784,14 +784,14 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1ohrJsHI1r9doFnQX7NHPtL74r5pic7_L/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 17",
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 17)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o_V-mwHdYhR8G0RUXY7vmuwm0aSdr8hg/preview",
-
+                "duration": "23 menit",
 
         },
         {
@@ -800,7 +800,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o_Kxk4HurgIkpS_F57O5j-SYyEBEAj6_/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 15",
@@ -808,7 +808,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oYSvzM7-3MMWR50kzid-u7xszgDZG89P/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 14",
@@ -816,7 +816,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oRBwLcEwcPWIkDGNOJYqqmuFGjJuAI_N/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 13",
@@ -824,7 +824,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oQGsHKixL2EQLLlrcfs56tzhVUh5yU1C/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 12",
@@ -832,7 +832,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oOahz4oPX_lCxCW7z8E5-v9GbrVPveAk/preview",
 
-
+                "duration": "23 menit",
         },
 
         {
@@ -841,7 +841,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oIUxwIqPpyoYY-zjLY7PaxgI0Z9KVevH/preview",
 
-
+                "duration": "23 menit",
         },
 
         {
@@ -850,7 +850,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oDYoijXShtrBJbhWY-E6E5_TIaVXxiXr/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 9",
@@ -858,14 +858,14 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1oAzorreNiJOnTB_l2ZRQpc5d4bzZAuPs/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 8",
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 8)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o9ohrD5k8z9YnnSQmmpkecs--bMylzZX/preview",
-
+                "duration": "23 menit",
 
         },
         {
@@ -874,7 +874,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o9hU8JoqTEVy8Is8hR_3Hnt0FCCJZi05/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 6",
@@ -882,7 +882,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o3EmhSYbjsB2_gNKcU2_9XjlRwF76-Po/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 5",
@@ -890,7 +890,7 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o2PfP5vfHpLljkvalToR_-xSScqty7ym/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 4",
@@ -898,14 +898,14 @@
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1o-jNYT-UmOUPcJ4D365ym4xaQoe5Tu2_/preview",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 3",
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 3)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1mPah665MfQkq0BrB7hDzjxTmonm80tDr/preview",
-
+                "duration": "23 menit",
 
         },
         {
@@ -913,7 +913,7 @@
                 "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 2)",
                 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
                 "episodeUrl": "https://drive.google.com/file/d/1mMPBjvkMvx_xZhCCV6esIyLxsWWQf7gZ/preview",
-
+                "duration": "23 menit",
 
         },
 
@@ -922,7 +922,7 @@
        "episodeJudul": "Avatar: The Legend of Aang Season 1 (EP 1)",
 "description": "Menceritakan tentang Aang, bocah lelaki 12 tahun, harus mengesampingkan masa kecilnya demi mencegah kekacauan akibat ulah Bangsa Api. Ia pun berjuang untuk mengembalikan harmoni antara Bangsa Air, Bumi dan Angin.",
        "episodeUrl": "https://drive.google.com/file/d/1mCZdydxR36FFC2dTx2Alu2Qdt7jAAJLe/preview",
-
+                "duration": "23 menit",
                     
        },
         ]
