@@ -976,7 +976,7 @@
        "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 13)",
 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
        "episodeUrl": "https://acefile.co/player/51840020/kung-fu-panda-2018-13-mp4",
-
+                "duration": "23 menit",
                     
        },
         {
@@ -984,7 +984,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 12)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840000/kung-fu-panda-2018-12-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -992,7 +992,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 11)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840032/kung-fu-panda-2018-11-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1001,14 +1001,14 @@
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840005/kung-fu-panda-2018-10-mp4",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 9",
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 9)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51839987/kung-fu-panda-2018-9-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1016,7 +1016,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 8)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51839992/kung-fu-panda-2018-8-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1024,7 +1024,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 7)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51839984/kung-fu-panda-2018-7-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1033,14 +1033,14 @@
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840009/kung-fu-panda-2018-6-mp4",
 
-
+                "duration": "23 menit",
         },
         {
                 "episodeTitle": "Episode 5",
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 5)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840026/kung-fu-panda-2018-5-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1048,7 +1048,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 4)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51839990/kung-fu-panda-2018-4-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1056,7 +1056,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 3)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51839996/kung-fu-panda-2018-3-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1064,7 +1064,7 @@
                 "episodeJudul": "Kung Fu Panda: The Paws of Destiny (EP 2)",
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840015/kung-fu-panda-2018-2-mp4",
-
+                "duration": "23 menit",
 
         },
         {
@@ -1073,7 +1073,7 @@
                 "description": "mengikuti kisah Po, seorang master kung fu, yang mengajarkan kung fu kepada empat panda muda nakal di Tiongkok.",
                 "episodeUrl": "https://acefile.co/player/51840003/kung-fu-panda-2018-1-mp4",
 
-
+                "duration": "23 menit",
         },
         ]
                 
