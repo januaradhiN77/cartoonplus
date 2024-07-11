@@ -2191,7 +2191,7 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuF-lsu-dCdzN3aFRHWNeE17xjQRMelH2hZ0l31XZ6w&s",
                 "trailer": "https://www.youtube.com/embed/49_44FFKZ1M?si=85mcF1EeTN0u6Vae",
-                "duration": "6 jam 00m",
+                "duration": "15 jam 28m",
 "episodes": [
         
         {
@@ -2199,7 +2199,7 @@
                 "episodeJudul": "Alice in Borderland: S2 (EP 16)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90774086",
-
+                "duration": "1 jam",
 
         },
         {
@@ -2208,7 +2208,7 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90772768",
 
-
+                "duration": "1 jam",
         },
         {
                 "episodeTitle": "Episode 14 (S2)",
@@ -2216,7 +2216,7 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90768644",
 
-
+                "duration": "1 jam",
         },
         {
                 "episodeTitle": "Episode 13 (S2)",
@@ -2224,7 +2224,7 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90767026",
 
-
+                "duration": "1 jam",
         },
         {
                 "episodeTitle": "Episode 12 (S2)",
@@ -2232,7 +2232,7 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90759055",
 
-
+                "duration": "57 menit",
         },
         {
                 "episodeTitle": "Episode 11 (S2)",
@@ -2240,14 +2240,14 @@
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90750862",
 
-
+                "duration": "55 menit",
         },
         {
                 "episodeTitle": "Episode 10 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 10)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90747296",
-
+                "duration": "1 jam",
 
         },
         {
@@ -2255,7 +2255,7 @@
                 "episodeJudul": "Alice in Borderland: S2 (EP 9)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
                 "episodeUrl": "https://acefile.co/player/90738995",
-
+                "duration": "1 jam",
 
         },
 
@@ -2268,7 +2268,7 @@
        "episodeJudul": "Alice in Borderland: S1 (EP 8)",
 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
        "episodeUrl": "https://acefile.co/player/85357527",
-
+                "duration": "59 menit",
                     
        },
   {
@@ -2276,7 +2276,7 @@
           "episodeJudul": "Alice in Borderland: S1 (EP 7)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85356395",
-
+                "duration": "57 menit",
 
   },
   {
@@ -2285,14 +2285,14 @@
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85353945",
 
-
+                "duration": "50 menit",
   },
   {
           "episodeTitle": "Episode 5 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 5)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85353523",
-
+                "duration": "50 menit",
 
   },
   {
@@ -2301,14 +2301,14 @@
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85351422",
 
-
+                "duration": "52 menit",
   },
   {
           "episodeTitle": "Episode 3 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 3)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85341321",
-
+                "duration": "48 menit",
 
   },
   {
@@ -2316,7 +2316,7 @@
           "episodeJudul": "Alice in Borderland: S1 (EP 2)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85337861",
-
+                "duration": "52 menit",
 
   },
   {
@@ -2324,7 +2324,7 @@
           "episodeJudul": "Alice in Borderland: S1 (EP 1)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
           "episodeUrl": "https://acefile.co/player/85335651",
-
+                "duration": "49 menit",
 
   }
        
