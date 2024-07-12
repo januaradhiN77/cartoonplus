@@ -4936,7 +4936,7 @@
                     "terjemah": "Season 1 | Episode 1-12",
                     "rating": "6.9",
                     "type": "HD",
-                    "studio": "Gilstory Ent",
+                    "studio": "Studio Dragon",
                     "rilis": "30 Desember 2022",
                     "gendre1": "Action",
                     "gendre2": "Adventure",
