@@ -153,7 +153,7 @@
       <div class="movies" style="background: transparent;" id="aktorContainer">
       </div>
     </div>
-<div style="display:flex; width : 100%; text-align: center;margin-top: 30px; align-items: center;">    <h1 style=" font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1> <button id="sortButton" onclick="sortEpisodes()" class="buttongoweb"style="transform: scaleX(-1);margin-left: auto;"><span style="color:white; font-size: 38px;  " class="mdi mdi-sort-variant"></span></button>
+<div style="display:flex; width : 100%; text-align: center;margin-top: 30px; align-items: center;">    <h1 style=" font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;" id="episodeCount"></h1> <button id="sortButton" onclick="sortEpisodes()" class="buttongoweb"style="transform: scaleX(-1);margin-left: auto;"><span style="color:white; font-size: 38px;  " class="mdi mdi-sort-variant"></span></button>
 </div>
 
     <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
@@ -172,7 +172,6 @@
 <div class="batas"></div>
 
 <div class="batas"></div>
-
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -250,7 +249,7 @@
 
     let episodeButtons = []; // Array untuk menyimpan tombol episode
 
-    episodes.forEach((episode) => {
+    episodes.forEach((episode, index) => {
         const episodeButton = document.createElement("button");
         const iconElement = document.createElement("span");
         iconElement.classList.add("mdi", "mdi-play-circle");
@@ -288,6 +287,11 @@
         episodeButton.insertBefore(iconElement, episodeButton.firstChild);
         episodeButtons.push(episodeButton); // Tambahkan tombol episode ke dalam array
     });
+
+    // Tambahkan informasi jumlah episode
+    const episodeCountElement = document.getElementById("episodeCount");
+    episodeCountElement.textContent = `Mulai Menonton (${episodes.length})`;
+    
 
     // Tambahkan semua tombol episode ke kontainer
     episodeButtons.forEach(button => {
