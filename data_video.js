@@ -4931,7 +4931,229 @@
 ]
                 
             },
+"island2022": {
+                    "title": "Island 2022",
+                    "terjemah": "Season 1 | Episode 1-12",
+                    "rating": "6.9",
+                    "type": "HD",
+                    "studio": "Gilstory Ent",
+                    "rilis": "30 Desember 2022",
+                    "gendre1": "Action",
+                    "gendre2": "Adventure",
+                    "gendre3": "Drama",
+                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                    "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2NBCyH0BHJh-guz_6e_uSourZZxAHLdpKA&usqp=CAU",
+                    "trailer": "https://www.youtube.com/embed/RJn21G18Ocs",
+                    "duration": "10 jam 06m",
+                    "episodes": [
+                            {
+"episodeTitle": "Episode 12",
+                                    "episodeJudul": "Island 2022 (EP 12)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96870299",
+                                    "duration": "55 menit",
             
+            
+                   },
+                   
+                            {
+                                    "episodeTitle": "Episode 11",
+                                    "episodeJudul": "Island 2022 (EP 11)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96868360",
+                                    "duration": "49 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 10",
+                                    "episodeJudul": "Island 2022 (EP 10)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96365978",
+                                    "duration": "44 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 9",
+                                    "episodeJudul": "Island 2022 (EP 9)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96365804",
+                                    "duration": "46 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 8",
+                                    "episodeJudul": "Island 2022 (EP 8)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96365594",
+                                    "duration": "43 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 7",
+                                    "episodeJudul": "Island 2022 (EP 7)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96365068",
+                                    "duration": "45 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 6",
+                                    "episodeJudul": "Island 2022 (EP 6)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96364437",
+                                    "duration": "58 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 5",
+                                    "episodeJudul": "Island 2022 (EP 5)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96364089",
+                                    "duration": "55 menit",
+
+
+                            },
+                            {
+                                    "episodeTitle": "Episode 4",
+                                    "episodeJudul": "Island 2022 (EP 4)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96363683",
+                                    "duration": "55 menit",
+
+
+                            },
+
+                            {
+                                    "episodeTitle": "Episode 3",
+                                    "episodeJudul": "Island 2022 (EP 3)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96363350",
+                                    "duration": "53 menit",
+
+
+                            },
+
+                            {
+                                    "episodeTitle": "Episode 2",
+                                    "episodeJudul": "Island 2022 (EP 2)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96360264",
+                                    "duration": "51 menit",
+
+
+                            },
+
+                            {
+                                    "episodeTitle": "Episode 1",
+                                    "episodeJudul": "Island 2022 (EP 1)",
+                                    "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
+                                    "episodeUrl": "https://acefile.co/player/96241427",
+                                    "duration": "52 menit",
+
+
+                            },
+
+
+                   
+                    ],
+"aktor":[
+{
+        "image aktor": "https://asianwiki.com/images/8/8b/A_Good_Day_to_Be_a_Dog-a00.jpg",
+        "namaAktor": "Cha Eun-woo",
+        "karakter": "(Priest Johan)"
+},
+{
+        "image aktor": "https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2022/10/rekomendasi-drama-korea-terbaik-lee-da-hee-love-is-for-suckersc8b8f581-9d6c-4834-bead-10a3a730df49.jpg",
+        "namaAktor": "Lee Da-hee",
+        "karakter": "(Won Mi Ho)"
+},
+{
+        "image aktor": "https://cdns.klimg.com/resized/670x/g/d/i/dikenal_sebagai_aktor_papan_atas_kim_nam_gil_ungkap_sulit_mengingat_naskah_pasca_alami_kecelakaan_besar/p/kim_nam_gil-20231205-003-non_fotografer_kly.jpg",
+        "namaAktor": "Kim Nam-gil",
+        "karakter": "(Van)"
+},
+{
+        "image aktor": "https://awsimages.detik.net.id/community/media/visual/2020/02/03/5b5e0b5a-8750-46b2-8f21-08893c32cbca_43.png?w=600&q=90",
+        "namaAktor": "Sung Joon",
+        "karakter": "(Gungtan)"
+},
+{
+        "image aktor": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiWbeF9-xCWgEU1vgBYhTsoNRkADcwmTMLOpUJxSoBWJZPVTOZ",
+        "namaAktor": "Choi Tae-joon",
+        "karakter": "(Kang Chan-hee)"
+},
+{
+        "image aktor": "https://media.matamata.com/thumbs/2022/10/31/42857-potret-go-doo-shim-di-curtain-call-instagramatkbsdrama/745x489-img-42857-potret-go-doo-shim-di-curtain-call-instagramatkbsdrama.jpg",
+        "namaAktor": "Go Doo-shim",
+        "karakter": "(Geum Baek Joo)"
+},
+{
+        "image aktor": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTdVzIWTXAQpV2xZhWhEx8CNHRZwaQrQDJYP73eyh8t3yTY5fC58J_GezqGDWp0Hn1QWY18ZLBvszMU_vk",
+        "namaAktor": "Chung Su Bin",
+        "karakter": "(Lee Su-ryun)"
+},
+{
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Heo Jung-hee",
+        "karakter": "(Boo Yeom-ji)"
+},
+{
+        "image aktor": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQQqOeh62Wk4T5no49fIhlm7w3eOao4wEiq_osL7x8QOiINo__unyzKEwqzA7r5EV3xgM_UAQhuxOpMvpo",
+        "namaAktor": "Park Geun-hyung",
+        "karakter": "(Leader Jong Ryung)"
+},
+{
+        "image aktor": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcReLN3jmAbDbltFta9dv92E9Vkv_uNzluc3vgO5nMXmJ3KcdEMyZG8yyTacABNfH6Uz2YyVwczkS7r3hKXG9i7Wly2LomNRUQUgYaegVrosTiGYA9Y3qKCldp0ADhjJlpZnKB2jWloW",
+        "namaAktor": "Oh Kwang-rok",
+        "karakter": "(Butler Jang)"
+},
+{
+        "image aktor": "https://asianwiki.com/images/2/22/Lee_Soon-Won-1983-p1.jpg",
+        "namaAktor": "Lee Soon-won",
+        "karakter": "(secretaire Kang)"
+},
+{
+        "image aktor": "https://cdn.idntimes.com/content-images/post/20240310/kiminjun-6b7702bae4d147b86c07a7a075427ed3.jpg",
+        "namaAktor": "Kim Min-joon",
+        "karakter": "(groom)"
+},
+{
+        "image aktor": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQj08PpakLm2zxgB0PTr3kF4Ih6uM0w7WJcsAHXr-H9rhGo-FxD9bZ0vlclYEp5QR8qcZqpLxEVNFw5Rn4",
+        "namaAktor": "Kim Sung-oh",
+        "karakter": "(Yul)"
+},
+{
+        "image aktor": "https://m.media-amazon.com/images/M/MV5BYmRjMWVjN2EtNGYyMy00ZjQ2LWFkNDEtZDk5NWM4NjcyOTRjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+        "namaAktor": "Kim Ki-cheon",
+        "karakter": "(Proncipal Lee san ll)"
+},
+{
+        "image aktor": "https://m.media-amazon.com/images/M/MV5BYjJiZjAxODgtZGQ5Ni00ZWNlLWJmZmMtMzMwMjlkODc2YTU1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+        "namaAktor": "Jeon Gook-hwan",
+        "karakter": "(Han Won-tae)"
+},
+{
+        "image aktor": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcFrJK20gOxosCRiVOdOXi1gHkj_btGMSJco5QDVIhlSc9B68r",
+        "namaAktor": "Lee Hang-na",
+        "karakter": "(Won Mi Ho's aunt)"
+},
+{
+        "image aktor": "https://static.wikia.nocookie.net/drama/images/e/e4/Kang_Hyun_Joong000.jpg/revision/latest?cb=20150423174424&path-prefix=es",
+        "namaAktor": "Hyun Jong Kang",
+        "karakter": "(monk)"
+},
+]
+                    
+                    
+                    
+            
+            },
 };
 
 
