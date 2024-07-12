@@ -4942,7 +4942,7 @@
                     "gendre2": "Adventure",
                     "gendre3": "Drama",
                     "description": "Berlatarbelakang di Pulau Jeju, tiga orang berperang melawan kejahatan yang mencoba menghancurkan dunia.",
-                    "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2NBCyH0BHJh-guz_6e_uSourZZxAHLdpKA&usqp=CAU",
+                    "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDu2ckcYZGuy8mg2qjbB0Mw_yvfDHkUIzRA&usqp=CAU",
                     "trailer": "https://www.youtube.com/embed/RJn21G18Ocs",
                     "duration": "10 jam 06m",
                     "episodes": [
@@ -5074,7 +5074,7 @@
         "karakter": "(Won Mi Ho)"
 },
 {
-        "image aktor": "https://cdns.klimg.com/resized/670x/g/d/i/dikenal_sebagai_aktor_papan_atas_kim_nam_gil_ungkap_sulit_mengingat_naskah_pasca_alami_kecelakaan_besar/p/kim_nam_gil-20231205-003-non_fotografer_kly.jpg",
+        "image aktor": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT_fqabzW8Eept-_FIfSt5TxGeTIVo8QbX_Hb2AjKZxFgPp6am0bGjK1AvzWXIPKfFMb6yuZQkqQ0wrr7Vz1-ZkOIaC994JlZA5vcLmkn3nv1KajqfhJePtgX72qIv93IRMPrsaNIRNaA",
         "namaAktor": "Kim Nam-gil",
         "karakter": "(Van)"
 },
@@ -5144,7 +5144,7 @@
         "karakter": "(Won Mi Ho's aunt)"
 },
 {
-        "image aktor": "https://static.wikia.nocookie.net/drama/images/e/e4/Kang_Hyun_Joong000.jpg/revision/latest?cb=20150423174424&path-prefix=es",
+        "image aktor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7_7nAyK4mO8s3ZmhM06SBcqpHavuT28E3Q&usqp=CAU",
         "namaAktor": "Hyun Jong Kang",
         "karakter": "(monk)"
 },
