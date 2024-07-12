@@ -32,6 +32,9 @@
 .keterangan-videos .favorite-button .mdi mdi-bookmark-outline:hover {
   color: #FFAC33; /* Warna kuning terang saat hover */
 }
+#episodeContainer{
+        margin-top: 20px;
+}
   </style>
 </head>
 <body>
@@ -150,11 +153,14 @@
       <div class="movies" style="background: transparent;" id="aktorContainer">
       </div>
     </div>
+<div style="display:flex; width : 100%; text-align: center;margin-top: 30px; align-items: center;">    <h1 style=" font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1> <button id="sortButton" onclick="sortEpisodes()" class="buttongoweb"style="transform: scaleX(-1);margin-left: auto;"><span style="color:white; font-size: 38px;  " class="mdi mdi-sort-variant"></span></button>
+</div>
 
-    <h1 style="margin-top: 30px; font-size: 28px;font-family: 'Zen Maru Gothic';z-index: 100;">Mulai Menonton</h1>
     <div class="button-nonton" id="episodeContainer" style="z-index: 100;">
       <span id="episodeTitle"></span>
+      
     </div>
+
   </div>
     <div class="header-movies-text" style="justify-content: center; ">
             <h1 style="font-size: 15px; color: gray;margin-top: 30px">Anda sudah mencapai akhir</h1>
@@ -232,8 +238,81 @@
             alert('Ditambahkan ke Favorit');
         }
     });
-});
+
+    // Tambahkan kode untuk menampilkan episode
+    displayEpisodes(filmData.episodes);
+  });
+
+  // Fungsi untuk menampilkan episode
+  function displayEpisodes(episodes) {
+    const episodeContainer = document.getElementById("episodeContainer");
+
+    episodes.forEach((episode) => {
+        const episodeButton = document.createElement("button");
+        const iconElement = document.createElement("span");
+        iconElement.classList.add("mdi", "mdi-play-circle");
+        iconElement.style.fontSize = "30px";
+episodeContainer.style.marginTop = '20px';
+        episodeButton.textContent = episode.episodeTitle;
+
+        episodeButton.addEventListener("click", function() {
+            const episodeUrl = encodeURIComponent(episode.episodeUrl);
+            const episodeJudul = encodeURIComponent(episode.episodeJudul);
+            const episodeTitle = encodeURIComponent(episode.episodeTitle);
+            const description = encodeURIComponent(episode.description);
+            const episodeImg = encodeURIComponent(data[animation].bgimg);
+            const episodeStudio = encodeURIComponent(data[animation].terjemah);
+            const episodeBintang = encodeURIComponent(data[animation].rating);
+            const episodeDurasi = encodeURIComponent(episode.duration);
+
+            // Simpan riwayat tontonan ke localStorage
+            let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+            history.push({
+                title: episode.episodeJudul,
+                img: data[animation].bgimg,
+                durasi: duration,
+                studio: data[animation].terjemah,
+                animation: animation,
+                bintang: data[animation].rating,
+                description: episode.description,
+                episode: episode.episodeTitle
+            });
+            localStorage.setItem('watchHistory', JSON.stringify(history));
+
+            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}&episodeStudio=${episodeStudio}&episodeBintang=${episodeBintang}&episodeDurasi=${episodeDurasi}`;
+        });
+
+        episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+        episodeContainer.appendChild(episodeButton);
+    });
+  }
+
+  // Fungsi untuk mengurutkan episode
+  let isAscending = true; // Untuk melacak urutan episode saat ini
+
+  function sortEpisodes() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const animation = urlParams.get("animation");
+
+    if (animation && data.hasOwnProperty(animation)) {
+        const episodes = data[animation].episodes;
+
+        // Balik urutan episode
+        episodes.reverse();
+        isAscending = !isAscending; // Ubah status urutan
+
+        // Hapus episode yang ada
+        const episodeContainer = document.getElementById("episodeContainer");
+        episodeContainer.innerHTML = '';
+episodeContainer.style.marginTop = '20px';
+        // Tambahkan episode yang sudah diurutkan
+        displayEpisodes(episodes);
+    }
+  }
 </script>
+<script src="main.js"></script>
+<script src="data_video.js"></script>
+<script src="theme-toggle.js"></script>
 <script src="main.js"></script>
 <script src="data_video.js"></script>
 <script src="theme-toggle.js"></script>
