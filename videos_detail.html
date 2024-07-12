@@ -246,13 +246,16 @@
   // Fungsi untuk menampilkan episode
   function displayEpisodes(episodes) {
     const episodeContainer = document.getElementById("episodeContainer");
+    episodeContainer.innerHTML = ''; // Kosongkan kontainer episode sebelum menambahkan yang baru
+
+    let episodeButtons = []; // Array untuk menyimpan tombol episode
 
     episodes.forEach((episode) => {
         const episodeButton = document.createElement("button");
         const iconElement = document.createElement("span");
         iconElement.classList.add("mdi", "mdi-play-circle");
         iconElement.style.fontSize = "30px";
-episodeContainer.style.marginTop = '20px';
+
         episodeButton.textContent = episode.episodeTitle;
 
         episodeButton.addEventListener("click", function() {
@@ -283,7 +286,12 @@ episodeContainer.style.marginTop = '20px';
         });
 
         episodeButton.insertBefore(iconElement, episodeButton.firstChild);
-        episodeContainer.appendChild(episodeButton);
+        episodeButtons.push(episodeButton); // Tambahkan tombol episode ke dalam array
+    });
+
+    // Tambahkan semua tombol episode ke kontainer
+    episodeButtons.forEach(button => {
+        episodeContainer.appendChild(button);
     });
   }
 
@@ -304,7 +312,7 @@ episodeContainer.style.marginTop = '20px';
         // Hapus episode yang ada
         const episodeContainer = document.getElementById("episodeContainer");
         episodeContainer.innerHTML = '';
-episodeContainer.style.marginTop = '20px';
+
         // Tambahkan episode yang sudah diurutkan
         displayEpisodes(episodes);
     }
