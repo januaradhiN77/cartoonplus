@@ -1094,6 +1094,17 @@ color: #FFBA2AFA;
         flex-direction: column;
         align-items: center;
 }
+.coba-fitur{
+
+        display: flex;
+
+        height: auto;
+        width: 100%;
+        
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+}
 .td-container{
         display: flex;
         justify-content: center;
