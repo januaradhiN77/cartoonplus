@@ -263,7 +263,7 @@
             const episodeTitle = encodeURIComponent(episode.episodeTitle);
             const description = encodeURIComponent(episode.description);
             const episodeImg = encodeURIComponent(data[animation].bgimg);
-            const episodeStudio = encodeURIComponent(data[animation].terjemah);
+            const episodeStudio = encodeURIComponent(data[animation].studio);
             const episodeBintang = encodeURIComponent(data[animation].rating);
             const episodeDurasi = encodeURIComponent(episode.duration);
 
@@ -273,7 +273,7 @@
                 title: episode.episodeJudul,
                 img: data[animation].bgimg,
                 durasi: duration,
-                studio: data[animation].terjemah,
+                studio: data[animation].studio,
                 animation: animation,
                 bintang: data[animation].rating,
                 description: episode.description,

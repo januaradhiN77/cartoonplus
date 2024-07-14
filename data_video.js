@@ -5226,7 +5226,7 @@ if (animation && data.hasOwnProperty(animation)) {
   const description = encodeURIComponent(episode.description);
   // Use bgimg instead of episodeImg
   const episodeImg = encodeURIComponent(data[animation].bgimg);
-  const episodeStudio = encodeURIComponent(data[animation].terjemah);
+  const episodeStudio = encodeURIComponent(data[animation].studio);
   const episodeBintang = encodeURIComponent(data[animation].rating);
   const episodeDurasi = encodeURIComponent(episode.duration);
   
@@ -5236,7 +5236,7 @@ if (animation && data.hasOwnProperty(animation)) {
     title: episode.episodeJudul,
     img: data[animation].bgimg, // Use bgimg here as well
     durasi: duration,
-    studio: data[animation].terjemah,
+    studio: data[animation].studio,
     animation: animation,
     bintang: data[animation].rating,
     description: episode.description,
