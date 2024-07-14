@@ -60,25 +60,26 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <header>
-                <div class="header_app">
-                <div class="header_logo">
-                <img src="asset/cplus_logo.png">
-                </div>
+  <div class="header_app" style="height: 60px;background-color: #0F131DCF;">
 
-        </div>
+
+      <div class="header_logo">
+    <button class="buttongoweb" onclick="goToWebsite('index.html')"><span class="mdi mdi-arrow-left"></span>    </button>
+        <span style="font-size: 25px; font-weight: 700; font-family: 'Zen Maru Gothic';margin-left: 20px;" >Lapor Bug & Saran Animasi/Film</span>
+      </div>
+
+
+  </div>
 </header>
 <body>
         <section style=" width: 95%; height: 80px;  display: flex; flex-direction: column; margin-top: 90px;">
-                        <div class="header-movies-text">
-                <h1 style="margin-left: 20px;">Lapor Bug / Saran Animasi</h1>
-        </div>
 
           <form action="https://formspree.io/f/mwkdppzl"   method="POST">
                 <div class="search-wrapper">
 
                <input type="email" name="email" class="search-input" placeholder="Email (Tidak Wajib)">
 <input type="text" name="dari" required data-form-input class="search-input" placeholder="Nama">
-            <textarea name="laporan" class="form-input" placeholder="Tulis saran / lapor bug" required data-form-input></textarea>
+            <textarea name="laporan" class="form-input" placeholder="Ketik saran Animsi/Film atau lapor bug" required data-form-input></textarea>
                 </div>
       <div class="button-nonton">
          <button style="width: 70%;" href="index.html" type="sumbit"  ><span style="transform: rotate(310deg); font-size: 25px;" class="mdi mdi-send-variant"></span>Kirim</button>
@@ -87,9 +88,6 @@
 
 </form>
 </div>
-<div style="text-align: center ; margin-top: 70px;" class="header-movies-text">
-         <button class="buttongoweb" onclick="goToWebsite('https://www.tiktok.com/@januaradhin')"><h1 style="font-size: 15px; color: #CCCCCCBA;">@januaradhin</h1></button>
-        </div>
 
         </section>
 
