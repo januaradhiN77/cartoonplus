@@ -5154,6 +5154,34 @@
                     
             
             },
+"aditsopojarwothemovie": {
+                "title": "Adit Sopo Jarwo: the Movie (2021)",
+                "terjemah": "Disney+ Hotstar",
+                "rating": "5.8",
+                "type": "HD",
+                "studio": "MD Animation",
+                "rilis": "30 April 2021",
+                "gendre1": "Animasi",
+                "gendre2": "Comedy",
+                "gendre3": "Drama",
+                "description": "Raditya Saputra alias Adit (10 tahun) bersama Ayah dan Bundanya pergi berlibur ke Yogyakarta menggunakan kereta api. Di tengah perjalanannya, kereta berhenti sejenak di Stasiun Cirebon. Bundanya yang tengah hamil mendadak sakit perut, ia pun berniat membelikan biskuit untuk bundanya tanpa izin terlebih dahulu. Saat Adit ingin kembali, keretanya telah berangkat dan membuat Adit tertinggal seorang diri di stasiun. Sopo yang saat itu bekerja sebagai porter menghampiri Adit karena merasa iba. Namun, alih-alih mengantarkan Adit ke Jogja, ia malah mengantarkannya ke rumah makan Gudeg Jogja. Melihat Adit kebingungan, Jarwo yang saat itu diturunkan dari kereta menawarkan Adit untuk mengantarkannya ke Yogyakarta. Perjalanan panjang mereka ke Yogyakarta pun dimulai.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11l4TFbCsjXvtojLXP2hRAO6tjut9sSSk1Q&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/5O733e3sgww?feature=shared",
+                "duration": "1 jam 22m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Adit Sopo Jarwo: the Movie (2021)",
+"description": "Raditya Saputra alias Adit (10 tahun) bersama Ayah dan Bundanya pergi berlibur ke Yogyakarta menggunakan kereta api. Di tengah perjalanannya, kereta berhenti sejenak di Stasiun Cirebon. Bundanya yang tengah hamil mendadak sakit perut, ia pun berniat membelikan biskuit untuk bundanya tanpa izin terlebih dahulu. Saat Adit ingin kembali, keretanya telah berangkat dan membuat Adit tertinggal seorang diri di stasiun. Sopo yang saat itu bekerja sebagai porter menghampiri Adit karena merasa iba. Namun, alih-alih mengantarkan Adit ke Jogja, ia malah mengantarkannya ke rumah makan Gudeg Jogja. Melihat Adit kebingungan, Jarwo yang saat itu diturunkan dari kereta menawarkan Adit untuk mengantarkannya ke Yogyakarta. Perjalanan panjang mereka ke Yogyakarta pun dimulai.",
+       "episodeUrl": "https://drive.google.com/file/d/1wvm5AP6SntfQd3mGWc4GMnJGrY36tfC0/preview",
+"duration": "1 jam 22m",
+
+                    
+       }
+        ]
+                
+            },
+            
 };
 
 
