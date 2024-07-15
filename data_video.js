@@ -5294,7 +5294,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Harry Potter and the Deathly Hallows - Part 1 (2010)",
 "description": "Dengan Lord Voldemort semakin kuat, Harry, Ron & Hermione harus menemukan dan menghancurkan Horcrux, demi melindungi Hogwarts. Tapi dengan Pelahap Maut jahat mengejar mereka, akankah mereka berhasil?",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1ClU7H5EZcdManUotKrS0GrTBlJD4-UQN/preview",
 "duration": "2 jam 26m",
 
                     
