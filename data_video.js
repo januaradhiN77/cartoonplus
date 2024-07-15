@@ -5696,6 +5696,207 @@
         ]
                 
             },
+            
+"avengersinfinitywar": {
+                "title": "Avengers: Infinity War",
+                "terjemah": "Marvel",
+                "rating": "8.4",
+                "type": "HD+",
+                "studio": "Marvel Studios",
+                "rilis": "25 April 2018",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Sci-Fi",
+                "description": "The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.",
+                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRPqu5CFULF7WI0Jat_dD069aqpmvXDkOJZfFSWOghJeJ_z1DiJriLS-5Le6SuoWNXWe7wTiI-q-TdNnPrT",
+                "trailer": "https://www.youtube.com/embed/GlPk8YhN4Pk",
+                "duration": "2 jam 29m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Avengers: Infinity War",
+"description": "The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.",
+       "episodeUrl": "https://drive.google.com/file/d/1js4D_sif_f66CfWB2KpEh-VVy2TjHfQq/preview",
+"duration": "2 jam 29m",
+
+                    
+       }
+        ],
+"aktor":[
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Robert Downey Jr.",
+        "karakter": "(Tony Stark / Iron Man)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Chris Hemsworth",
+        "karakter": "(Thor)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Mark Ruffalo",
+        "karakter": "(Bruce Banner / Hulk)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Chris Evans",
+        "karakter": "(Steve Rogers / Captain America)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Scarlett Johansson",
+        "karakter": "(Natasha Romanoff / Black Widow)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Jeremy Renner",
+        "karakter": "(Clint Barton / Hawkeye)"
+    }
+]
+            },
+            
+            
+            
+            
+            
+"avengersendgame": {
+        "title": "Avengers: Endgame",
+        "terjemah": "Marvel",
+        "rating": "8.4",
+        "type": "HD+",
+        "studio": "Marvel Studios",
+        "rilis": "24 April 2019",
+        "gendre1": "Action",
+        "gendre2": "Adventure",
+        "gendre3": "Drama",
+        "description": "Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?",
+        "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQKZaDrPyukwP6hfQutDvNCCtqk2CwMPDG2u-qWCX7SQaMDhuNxlNFNlGjuyaenj-Df78Pcnb9F9DpJUpUf",
+        "trailer": "https://www.youtube.com/embed/iKaruCq6ZY8",
+        "duration": "3 jam 01m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "Avengers: Endgame",
+                        "description": "Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?",
+                        "episodeUrl": "https://drive.google.com/file/d/1sTDt4FGtkL3HNFVCSvVG4-s4lrl-Ci3k/preview",
+                        "duration": "3 jam 01m",
+
+
+       }
+        ],
+"aktor":[
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Robert Downey Jr.",
+        "karakter": "(Tony Stark / Iron Man)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Chris Evans",
+        "karakter": "(Steve Rogers / Captain America)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Mark Ruffalo",
+        "karakter": "(Bruce Banner / Hulk)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Chris Hemsworth",
+        "karakter": "(Thor)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Scarlett Johansson",
+        "karakter": "(Natasha Romanoff / Black Widow)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Jeremy Renner",
+        "karakter": "(Clint Barton / Hawkeye)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Don Cheadle",
+        "karakter": "(James Rhodes / War Machine)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Paul Rudd",
+        "karakter": "(Scott Lang / Ant-Man)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Benedict Cumberbatch",
+        "karakter": "(Dr. Stephen Strange)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Tom Holland",
+        "karakter": "(Peter Parker / Spider-Man)"
+    }
+]
+},
+
+
+
+
+
+
+"themarvels": {
+        "title": "The Marvels",
+        "terjemah": "Marvel",
+        "rating": "5.5",
+        "type": "HD+",
+        "studio": "Marvel Studios",
+        "rilis": "10 November 2022",
+        "gendre1": "Action",
+        "gendre2": "Adventure",
+        "gendre3": "Fantasy",
+        "description": "Menceritakan petualangan Carol Danvers. Perjalanan dimulai ketika Carol Danvers tanpa sengaja mengalami fenomena misterius saat menjalankan salah satu misinya. Akibat peristiwa tersebut, kekuatan Carol terhubung dengan dua sosok lainnya, yakni Ms Marvel dan Captain Monica Rambeau.",
+        "bgimg": "https://lumiere-a.akamaihd.net/v1/images/56245l15_goat_indonesia_apac_poster_1sht_f6a2a3d0.jpeg",
+        "trailer": "https://www.youtube.com/embed/wS_qbDztgVY",
+        "duration": "1 jam 45m",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton",
+                        "episodeJudul": "The Marvels",
+                        "description": "Menceritakan petualangan Carol Danvers. Perjalanan dimulai ketika Carol Danvers tanpa sengaja mengalami fenomena misterius saat menjalankan salah satu misinya. Akibat peristiwa tersebut, kekuatan Carol terhubung dengan dua sosok lainnya, yakni Ms Marvel dan Captain Monica Rambeau.",
+                        "episodeUrl": "https://drive.google.com/file/d/1THu8ZSWNMN9fEkrn1xBtoYuYF-Yky57i/preview",
+                        "duration": "1 jam 45m",
+
+
+       }
+        ],
+"aktor":[
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Robert Downey Jr.",
+        "karakter": "(Tony Stark / Iron Man)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Brie Larson",
+        "karakter": "(Carol Danvers / Captain Marvel)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Samuel L. Jackson",
+        "karakter": "(Nick Fury)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Tom Holland",
+        "karakter": "(Peter Parker / Spider-Man)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Scarlett Johansson",
+        "karakter": "(Natasha Romanoff / Black Widow)"
+    }
+]
+},
 };
 
 
