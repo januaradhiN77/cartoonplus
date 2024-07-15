@@ -5416,6 +5416,34 @@
 
             },
             
+"godzillakingofthemonster": {
+                "title": "Godzilla: King of the Monsters",
+                "terjemah": "Film Bioskop",
+                "rating": "6.0",
+                "type": "HD+",
+                "studio": "Legendary Pictures",
+                "rilis": "29 Mei 2019",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Fantasy",
+                "description": "Kisah baru ini mengikuti upaya heroik agensi kripto zoologi Monarch ketika anggotanya berhadapan dengan monster seukuran dewa, termasuk Godzilla yang perkasa, yang harus berhadapan dengan Mothra, Rodan, dan musuh bebuyutannya, si kepala tiga King Ghidorah. Ketika super spesies purba iniyang sebelumnya hanya dianggap mitosbangkit kembali, mereka semua bersaing untuk supremasi, membuat keberadaan manusia tergantung dalam keseimbangan.",
+                "bgimg": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSF72EI77yh0SIrscm2KBjws0zlMzqcX6kDCRmd57swf5SG2zZwULzaOXvODAonQPeS_dHe_6oNZ8boiB-e",
+                "trailer": "https://www.youtube.com/embed/pH7lV9_2uUk",
+                "duration": "2 jam 12m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Godzilla: King of the Monsters",
+"description": "Kisah baru ini mengikuti upaya heroik agensi kripto zoologi Monarch ketika anggotanya berhadapan dengan monster seukuran dewa, termasuk Godzilla yang perkasa, yang harus berhadapan dengan Mothra, Rodan, dan musuh bebuyutannya, si kepala tiga King Ghidorah. Ketika super spesies purba iniyang sebelumnya hanya dianggap mitosbangkit kembali, mereka semua bersaing untuk supremasi, membuat keberadaan manusia tergantung dalam keseimbangan.",
+       "episodeUrl": "https://acefile.co/player/106253797/d21-fun-godzilla-king-of-the-monsters-2019-1080p-mp4",
+"duration": "2 jam 12m",
+
+                    
+       }
+        ]
+                
+            },
+            
 };
 
 
