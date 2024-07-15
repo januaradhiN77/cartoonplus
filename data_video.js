@@ -5640,7 +5640,33 @@
 
             },
             
-            
+"kiminonawa": {
+                "title": "Kimi no Na wa. (Your Name.)",
+                "terjemah": "Episode 1",
+                "rating": "8.4",
+                "type": "HD+",
+                "studio": "CoMix Wave Films",
+                "rilis": "3 Juli 2016",
+                "gendre1": "Animasi",
+                "gendre2": "Drama",
+                "gendre3": "Fantasy",
+                "description": "bercerita tentang dua remaja bernama Mitsuha Miyamizu dan Taki Tachibana yang bertukar tubuh karena sudah kejadian. Awalnya mereka tidak saling mengenal dan keduanya tinggal di tempat yang berbeda jauh.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOg9MSRPrgHTPvUbDpdsjY3BGI3KwGeJ1xig&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/3KR8_igDs1Y",
+                "duration": "1 jam 46m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Kimi no Na wa. (Your Name.)",
+"description": "bercerita tentang dua remaja bernama Mitsuha Miyamizu dan Taki Tachibana yang bertukar tubuh karena sudah kejadian. Awalnya mereka tidak saling mengenal dan keduanya tinggal di tempat yang berbeda jauh.",
+       "episodeUrl": "",
+"duration": "1 jam 46m",
+
+                    
+       }
+        ]
+                
+            },
 };
 
 
