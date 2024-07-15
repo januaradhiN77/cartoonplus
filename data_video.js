@@ -5558,6 +5558,89 @@
   ]
 
             },
+            
+"traintobusan2": {
+                "title": "Train To Busan Presents Peninsula",
+                "terjemah": "Episode 1",
+                "rating": "5.5",
+                "type": "HD+",
+                "studio": "RedPeter Film",
+                "rilis": "16 Juli 2020",
+                "gendre1": "Action",
+                "gendre2": "Horror",
+                "gendre3": "Thriller",
+                "description": "Ketika wabah zombie melanda, Jung-seok (GANG Dong-won) nyaris tidak lolos dari Korea Selatan hidup-hidup. Ketika hidup dalam keputusasaan di Hong Kong, ia menerima tawaran yang menarik untuk kembali ke semenanjung yang dikarantina. Misinya adalah untuk mengambil truk yang ditinggalkan di tengah Seoul dalam batas waktu dan melarikan diri dari semenanjung dengan diam-diam.",
+                "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcR3aN2F-jpgOtFrUHClGOWlJUHWOqeUCikgfSLH-8HEguUdrVjtWEM8OcJhSSkHHK4p5l7Fjwjx80TVdjoI",
+                "trailer": "https://www.youtube.com/embed/3YDO5TX9llQ?si=jizWSNyyKuhZfmKE",
+                "duration": "1 jam 56m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Train To Busan Presents Peninsula",
+"description": "Ketika wabah zombie melanda, Jung-seok (GANG Dong-won) nyaris tidak lolos dari Korea Selatan hidup-hidup. Ketika hidup dalam keputusasaan di Hong Kong, ia menerima tawaran yang menarik untuk kembali ke semenanjung yang dikarantina. Misinya adalah untuk mengambil truk yang ditinggalkan di tengah Seoul dalam batas waktu dan melarikan diri dari semenanjung dengan diam-diam.",
+       "episodeUrl": "",
+"duration": "1 jam 56m",
+
+                    
+       }
+        ],
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Gang Dong-won",
+      "karakter": "(Jung Suk)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Lee Jung-hyun",
+      "karakter": "(Min Jung)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Lee Re",
+      "karakter": "(Joon)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Kwon Hae-hyo",
+      "karakter": "(Elder Kim)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Koo Kyo-hwan",
+      "karakter": "(Captain Seo)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Kim Min-jae",
+      "karakter": "(Sergeant Hwang)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Kim Do-yoon",
+      "karakter": "(Chul-min)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Lee Ye-won",
+      "karakter": "(Yu-jin)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jang So-yeon",
+      "karakter": "(Female Reporter)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Geoffrey Giuliano",
+      "karakter": "(American Soldier)"
+    }
+  ]
+
+            },
+            
+            
 };
 
 
