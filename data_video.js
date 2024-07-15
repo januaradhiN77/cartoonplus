@@ -1102,8 +1102,34 @@
                 "duration": "1 jam 55m",
                     
        }
-        ]
-                
+        ],
+"aktor":[
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Alexander Skarsgård",
+                "karakter": "Nathan Lind"
+  },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Millie Bobby Brown",
+                "karakter": "Madison Russell"
+  },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Rebecca Hall",
+                "karakter": "Ilene Andrews"
+  },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Brian Tyree Henry",
+                "karakter": "Bernie Hayes"
+  },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Shun Oguri",
+                "karakter": "Ren Serizawa"
+  }
+]
             },
 "aquamanatlk": {
                 "title": "Aquaman and the Lost Kingdom",
@@ -5440,8 +5466,34 @@
 
                     
        }
-        ]
-                
+        ],
+"aktor":[
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Kyle Chandler",
+                "karakter": "(Mark Russell)"
+    },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Vera Farmiga",
+                "karakter": "(Emma Russell)"
+    },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Millie Bobby Brown",
+                "karakter": "(Madison Russell)"
+    },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Ken Watanabe",
+                "karakter": "(Dr. Ishirō Serizawa)"
+    },
+        {
+                "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+                "namaAktor": "Zhang Ziyi",
+                "karakter": "(Dr. Ilene Chen / Dr. Ling)"
+    }
+]
             },
 "harrypotterprisoner": {
                 "title": "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -5897,6 +5949,60 @@
     }
 ]
 },
+
+"godzillavskong": {
+                "title": "Godzilla vs. Kong",
+                "terjemah": "Film Bioskop",
+                "rating": "6.3",
+                "type": "HD+",
+                "studio": "Legendary Pictures",
+                "rilis": "24 Maret 2021",
+                "gendre1": "Action",
+                "gendre2": "Sci-Fi",
+                "gendre3": "Thriller",
+                "description": "Sebuah pertarungan epic dalam sinematik Monsterverse antara Godzilla dan Kong.Pertarungan Godzilla vs. Kong membuat umat manusia harus bertahan dengan berbagai cara. Salah satunya adalah memusnahkan kedua raksasa tersebut.Siapa yang akan menang?",
+                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSteCahohhuE-zNN8mUTgERVK3UAiYTik90HIv7Y46HEP6-Jj72AupB1NYvvSOuVuQ0X9ewmxrhB1cOwpW9",
+                "trailer": "https://www.youtube.com/embed/odM92ap8_c0",
+                "duration": "1 jam 55m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Godzilla vs. Kong",
+"description": "Sebuah pertarungan epic dalam sinematik Monsterverse antara Godzilla dan Kong.Pertarungan Godzilla vs. Kong membuat umat manusia harus bertahan dengan berbagai cara. Salah satunya adalah memusnahkan kedua raksasa tersebut.Siapa yang akan menang?",
+       "episodeUrl": "",
+"duration": "1 jam 55m",
+
+                    
+       }
+        ],
+"aktor":[
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Alexander Skarsgård",
+        "karakter": "(Nathan Lind)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Millie Bobby Brown",
+        "karakter": "(Madison Russell)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Rebecca Hall",
+        "karakter": "(Ilene Andrews)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Brian Tyree Henry",
+        "karakter": "(Bernie Hayes)"
+    },
+    {
+        "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+        "namaAktor": "Shun Oguri",
+        "karakter": "(Ren Serizawa)"
+    }
+]
+            },
 };
 
 
