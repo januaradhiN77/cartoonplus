@@ -5667,6 +5667,35 @@
         ]
                 
             },
+            
+            
+"ultramanrising": {
+                "title": "Ultraman: Rising",
+                "terjemah": "Netflix",
+                "rating": "7.0",
+                "type": "HD+",
+                "studio": "Netflix Animation",
+                "rilis": "14 Juni 2024",
+                "gendre1": "Animasi",
+                "gendre2": "Adventure",
+                "gendre3": "Action",
+                "description": "Seorang atlet bintang dengan enggan pulang untuk mengambil alih tugas ayahnya sebagai Ultraman, melindungi Tokyo dari para monster raksasa dan jadi pahlawan legendaris.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BNDE2NzQ5N2YtMTlkNy00ODI2LWEyZDctODY4OTgxMWMxYmE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+                "trailer": "https://www.youtube.com/embed/_YGosxAnZ4Q",
+                "duration": "1 jam 57m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Ultraman: Rising",
+"description": "Seorang atlet bintang dengan enggan pulang untuk mengambil alih tugas ayahnya sebagai Ultraman, melindungi Tokyo dari para monster raksasa dan jadi pahlawan legendaris.",
+       "episodeUrl": "https://drive.google.com/file/d/1bd8oia0mnoMiAg0BsOrKYP5XbXRM8qTJ/preview",
+"duration": "1 jam 57m",
+
+                    
+       }
+        ]
+                
+            },
 };
 
 
