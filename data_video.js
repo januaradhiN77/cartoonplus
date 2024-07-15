@@ -5443,7 +5443,121 @@
         ]
                 
             },
-            
+"harrypotterprisoner": {
+                "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+                "terjemah": "Episode 1",
+                "rating": "7.9",
+                "type": "HD+",
+                "studio": "Heyday Films",
+                "rilis": "31 Mei 2004",
+                "gendre1": "Adventure",
+                "gendre2": "Family",
+                "gendre3": "Fantasy",
+                "description": "Harry kembali ke Hogwarts di tahun ketiganya, dan bukan saja memiliki guru baru pertahanan terhadap ilmu sihir hitam, ia juga berhadapan langsung dengan Sirius Black, yang berhasil kabur dari Azkaban.",
+                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcStwRinddrOMwpc31yIJb4TzmuX9P0wabvfjlSmDhC6kWTeaW3s6vlMfMvlMYBmEj1vkjp00aKiNC6SDfE7",
+                "trailer": "https://www.youtube.com/embed/lAxgztbYDbs",
+                "duration": "2 jam 22m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Harry Potter and the Prisoner of Azkaban (2004)",
+"description": "Harry kembali ke Hogwarts di tahun ketiganya, dan bukan saja memiliki guru baru pertahanan terhadap ilmu sihir hitam, ia juga berhadapan langsung dengan Sirius Black, yang berhasil kabur dari Azkaban.",
+       "episodeUrl": "https://drive.google.com/file/d/16g99our4oGsRIeLpqyIV-PQ7mMQO7eb-/preview",
+"duration": "2 jam 22m",
+
+                    
+       }
+        ],
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Daniel Radcliffe",
+      "karakter": "(Harry Potter)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Emma Watson",
+      "karakter": "(Hermione Granger)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Rupert Grint",
+      "karakter": "(Ron Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Gary Oldman",
+      "karakter": "(Sirius Black)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "David Thewlis",
+      "karakter": "(Remus Lupin)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Michael Gambon",
+      "karakter": "(Albus Dumbledore)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Robbie Coltrane",
+      "karakter": "(Rubeus Hagrid)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Alan Rickman",
+      "karakter": "(Severus Snape)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tom Felton",
+      "karakter": "(Draco Malfoy)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Maggie Smith",
+      "karakter": "(Minerva McGonagall)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Julie Walters",
+      "karakter": "(Molly Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Richard Griffiths",
+      "karakter": "(Vernon Dursley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Fiona Shaw",
+      "karakter": "(Petunia Dursley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Emma Thompson",
+      "karakter": "(Sybill Trelawney)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Timothy Spall",
+      "karakter": "(Peter Pettigrew)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Julie Christie",
+      "karakter": "(Madam Rosmerta)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Mark Williams",
+      "karakter": "(Arthur Weasley)"
+    }
+  ]
+
+            },
 };
 
 
