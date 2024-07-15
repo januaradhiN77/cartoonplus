@@ -6003,6 +6003,36 @@
     }
 ]
             },
+            
+"despicableme4": {
+                "title": "Despicable Me 4 ",
+                "terjemah": "Episode 1",
+                "rating": "6.3",
+                "type": "HD Cam",
+                "studio": "Illumination",
+                "rilis": "3 Juli 2024",
+                "gendre1": "Animasi",
+                "gendre2": "Adventure",
+                "gendre3": "Comedy",
+                "description": "Franchise animasi global terbesar dalam sejarah kini memulai babak baru dengan Gru dan Lucy dan putri angkat mereka —Margo, Edith dan Agnes—menyambut anggota baru di keluarga Gru, Gru Jr., yang berniat menyiksa ayahnya. Gru menghadapi musuh baru dalam diri Maxime Le Mal dan pacarnya yang femme fatale, Valentina, dan keluarganya terpaksa melarikan diri. English – The biggest global animated franchise in history now begins a new chapter as Gru and Lucy and their girls —Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQamTyCKfIsY2OGNJqujUPABLZ8yN97prWd1vvkOgpTkqpQxOvQ0G_h0_jhuhpWtWO5_M3__-uSJVeOD5Qf",
+                "trailer": "https://www.youtube.com/embed/LtNYaH61dXY",
+                "duration": "1 jam 34m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Despicable Me 4 ",
+"description": "Franchise animasi global terbesar dalam sejarah kini memulai babak baru dengan Gru dan Lucy dan putri angkat mereka —Margo, Edith dan Agnes—menyambut anggota baru di keluarga Gru, Gru Jr., yang berniat menyiksa ayahnya. Gru menghadapi musuh baru dalam diri Maxime Le Mal dan pacarnya yang femme fatale, Valentina, dan keluarganya terpaksa melarikan diri. English – The biggest global animated franchise in history now begins a new chapter as Gru and Lucy and their girls —Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+       "episodeUrl": "https://drive.google.com/file/d/1wIbkxvFs0NVCD-r54JeoUPxlqGsveMvf/preview",
+"duration": "1 jam 34m",
+
+                    
+       }
+        ]
+                
+            },
+            
+            
 };
 
 
