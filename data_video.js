@@ -2215,7 +2215,7 @@
                 "gendre2": "Science",
                 "gendre3": "Thriller",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuF-lsu-dCdzN3aFRHWNeE17xjQRMelH2hZ0l31XZ6w&s",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjgyrBBoea5ewb-UHz8TTDn_4GN73CjnWYw&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/49_44FFKZ1M?si=85mcF1EeTN0u6Vae",
                 "duration": "15 jam 28m",
 "episodes": [
