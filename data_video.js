@@ -2224,7 +2224,7 @@
                 "episodeTitle": "Episode 16 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 16)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90774086",
+                "episodeUrl": "https://drive.google.com/file/d/1cY6F7ZAxEZdZBUXdnZ-M_emEOApu-YN_/preview",
                 "duration": "1 jam",
 
         },
@@ -2232,7 +2232,7 @@
                 "episodeTitle": "Episode 15 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 15)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90772768",
+                "episodeUrl": "https://drive.google.com/file/d/1G_iu-4Hj6VGvCbBi0HOwm41ZB7XpFg6A/preview",
 
                 "duration": "1 jam",
         },
@@ -2240,7 +2240,7 @@
                 "episodeTitle": "Episode 14 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 14)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90768644",
+                "episodeUrl": "https://drive.google.com/file/d/1Ek1VSzUCfSHsUUAr7d1SLxUgH_A0Y2Be/preview",
 
                 "duration": "1 jam",
         },
@@ -2248,7 +2248,7 @@
                 "episodeTitle": "Episode 13 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 13)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90767026",
+                "episodeUrl": "https://drive.google.com/file/d/1Kj2rViTvlgfRBvVcM9qXrEDRY7szJpT4/preview",
 
                 "duration": "1 jam",
         },
@@ -2256,7 +2256,7 @@
                 "episodeTitle": "Episode 12 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 12)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90759055",
+                "episodeUrl": "https://drive.google.com/file/d/10YprWOX2XiszrRgpGTpfN4yK_iH4Vlb-/preview",
 
                 "duration": "57 menit",
         },
@@ -2264,7 +2264,7 @@
                 "episodeTitle": "Episode 11 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 11)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90750862",
+                "episodeUrl": "https://drive.google.com/file/d/1JzjdBuK3L-6lKqZnTbKa4pzOV_1D9ww8/preview",
 
                 "duration": "55 menit",
         },
@@ -2272,7 +2272,7 @@
                 "episodeTitle": "Episode 10 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 10)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90747296",
+                "episodeUrl": "https://drive.google.com/file/d/1yhVObN9mBB5ZnzUFti1us9dCtjXkPzWz/preview",
                 "duration": "1 jam",
 
         },
@@ -2280,7 +2280,7 @@
                 "episodeTitle": "Episode 9 (S2)",
                 "episodeJudul": "Alice in Borderland: S2 (EP 9)",
                 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-                "episodeUrl": "https://acefile.co/player/90738995",
+                "episodeUrl": "https://drive.google.com/file/d/1ZETITRv4eUgGNJL3x8VyzsJNIK4FOQy6/preview",
                 "duration": "1 jam",
 
         },
@@ -2293,7 +2293,7 @@
        "episodeTitle": "Episode 8 (S1)", 
        "episodeJudul": "Alice in Borderland: S1 (EP 8)",
 "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-       "episodeUrl": "https://acefile.co/player/85357527",
+       "episodeUrl": "https://drive.google.com/file/d/1B__gfPhQcPkNrHSxUel099R8C0r3tvOE/preview",
                 "duration": "59 menit",
                     
        },
@@ -2301,7 +2301,7 @@
           "episodeTitle": "Episode 7 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 7)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85356395",
+          "episodeUrl": "https://drive.google.com/file/d/1LNqjL1GF2uQ9j5Q36WbmrrTGud-3q9XD/preview",
                 "duration": "57 menit",
 
   },
@@ -2309,7 +2309,7 @@
           "episodeTitle": "Episode 6 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 6)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85353945",
+          "episodeUrl": "https://drive.google.com/file/d/1wjyeGlQP5RtPZ1zrfkOEZYEYyaDgb-yS/preview",
 
                 "duration": "50 menit",
   },
@@ -2317,7 +2317,7 @@
           "episodeTitle": "Episode 5 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 5)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85353523",
+          "episodeUrl": "https://drive.google.com/file/d/1qqLsK-GJHoKiwbar3rk3oLDEuMxgrpLd/preview",
                 "duration": "50 menit",
 
   },
@@ -2325,7 +2325,7 @@
           "episodeTitle": "Episode 4 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 4)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85351422",
+          "episodeUrl": "https://drive.google.com/file/d/1YLcisdGUMJfAyDY1MHqQvFdQZxuog8kw/preview",
 
                 "duration": "52 menit",
   },
@@ -2333,7 +2333,7 @@
           "episodeTitle": "Episode 3 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 3)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85341321",
+          "episodeUrl": "https://drive.google.com/file/d/1tjklZBB4ZAJSPJXqoQHm-dgxwLu7Ae1W/preview",
                 "duration": "48 menit",
 
   },
@@ -2341,7 +2341,7 @@
           "episodeTitle": "Episode 2 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 2)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85337861",
+          "episodeUrl": "https://drive.google.com/file/d/1ya0baZFyYcitac6yODPKsSeXWn7ps5pk/preview",
                 "duration": "52 menit",
 
   },
@@ -2349,7 +2349,7 @@
           "episodeTitle": "Episode 1 (S1)",
           "episodeJudul": "Alice in Borderland: S1 (EP 1)",
           "description": "menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa. Permainan maut tersebut berkaitan dengan kartu remi.",
-          "episodeUrl": "https://acefile.co/player/85335651",
+          "episodeUrl": "https://drive.google.com/file/d/1j4GYlhx2U5JgKv4RM53DWmmr0AgVoc4U/preview",
                 "duration": "49 menit",
 
   }
