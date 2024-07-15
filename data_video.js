@@ -5181,6 +5181,240 @@
         ]
                 
             },
+"harrypotterandthehalfblood": {
+                "title": "Harry Potter and the Half-Blood Prince (2009)",
+                "terjemah": "Episode 1",
+                "rating": "7.6",
+                "type": "HD",
+                "studio": "Heyday Films",
+                "rilis": "15 Juli 2009",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Family",
+                "description": "Harry menemukan sebuah buku misterius milik Half-Blood Prince. Sementara itu, Horace Slughorn kembali sebagai guru ramuan. Dan kini, Harry dan Dumbledore harus menelusuri masa lalu kelam Voldemort.",
+                "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRE-RQj1YvZMxB9M-7OCYuuQrVoWPMWmVmA-ddHOPw0yypdGSMfRVKrEg4-YkxZk5t2ha4aTkwtNs_14tIp",
+                "trailer": "https://www.youtube.com/embed/tAiy66Xrsz4?feature=shared",
+                "duration": "2 jam 33m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Harry Potter and the Half-Blood Prince (2009)",
+"description": "Harry menemukan sebuah buku misterius milik Half-Blood Prince. Sementara itu, Horace Slughorn kembali sebagai guru ramuan. Dan kini, Harry dan Dumbledore harus menelusuri masa lalu kelam Voldemort.",
+       "episodeUrl": "https://drive.google.com/file/d/1fQAAZu7iIG8aywCNyYCPjlrx2oHksfHs/preview",
+"duration": "2 jam 33m",
+
+                    
+       }
+        ],
+
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Daniel Radcliffe",
+      "karakter": "(Harry Potter)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Rupert Grint",
+      "karakter": "(Ron Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Emma Watson",
+      "karakter": "(Hermione Granger)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jim Broadbent",
+      "karakter": "(Horace Slughorn)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Helena Bonham Carter",
+      "karakter": "(Bellatrix Lestrange)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Robbie Coltrane",
+      "karakter": "(Rubeus Hagrid)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Michael Gambon",
+      "karakter": "(Albus Dumbledore)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Alan Rickman",
+      "karakter": "(Severus Snape)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Maggie Smith",
+      "karakter": "(Minerva McGonagall)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Timothy Spall",
+      "karakter": "(Peter Pettigrew)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "David Thewlis",
+      "karakter": "(Remus Lupin)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Julie Walters",
+      "karakter": "(Molly Weasley)"
+    }
+  ]
+
+
+                
+            },
+            
+"harrypotterandthedeathlypt1": {
+                "title": "Harry Potter and the Deathly Hallows - Part 1 (2010)",
+                "terjemah": "Episode 1",
+                "rating": "7.7",
+                "type": "HD",
+                "studio": "Heyday Films",
+                "rilis": "19 November 2010",
+                "gendre1": "Adventure",
+                "gendre2": "Family",
+                "gendre3": "Fantasy",
+                "description": "Dengan Lord Voldemort semakin kuat, Harry, Ron & Hermione harus menemukan dan menghancurkan Horcrux, demi melindungi Hogwarts. Tapi dengan Pelahap Maut jahat mengejar mereka, akankah mereka berhasil?",
+                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcThvj25x4OscLqZMiIg1okHhsaN9yJYY-RRmzU80hjYXebetxkePSb4jA0-q1Lps1mlzWX7L7NuufK1p4_J",
+                "trailer": "https://www.youtube.com/embed/HgZZsnleZJQ",
+                "duration": "2 jam 26m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Harry Potter and the Deathly Hallows - Part 1 (2010)",
+"description": "Dengan Lord Voldemort semakin kuat, Harry, Ron & Hermione harus menemukan dan menghancurkan Horcrux, demi melindungi Hogwarts. Tapi dengan Pelahap Maut jahat mengejar mereka, akankah mereka berhasil?",
+       "episodeUrl": "",
+"duration": "2 jam 26m",
+
+                    
+       }
+        ],
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Daniel Radcliffe",
+      "karakter": "(Harry Potter)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Emma Watson",
+      "karakter": "(Hermione Granger)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Rupert Grint",
+      "karakter": "(Ron Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Helena Bonham Carter",
+      "karakter": "(Bellatrix Lestrange)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Ralph Fiennes",
+      "karakter": "(Lord Voldemort)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Michael Gambon",
+      "karakter": "(Albus Dumbledore)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Alan Rickman",
+      "karakter": "(Severus Snape)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tom Felton",
+      "karakter": "(Draco Malfoy)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Bonnie Wright",
+      "karakter": "(Ginny Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Evanna Lynch",
+      "karakter": "(Luna Lovegood)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Matthew Lewis",
+      "karakter": "(Neville Longbottom)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "David Thewlis",
+      "karakter": "(Remus Lupin)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jason Isaacs",
+      "karakter": "(Lucius Malfoy)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Imelda Staunton",
+      "karakter": "(Dolores Umbridge)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Robbie Coltrane",
+      "karakter": "(Rubeus Hagrid)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Brendan Gleeson",
+      "karakter": "(Alastor 'Mad-Eye' Moody)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Gary Oldman",
+      "karakter": "(Sirius Black)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Julie Walters",
+      "karakter": "(Molly Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Mark Williams",
+      "karakter": "(Arthur Weasley)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Bill Nighy",
+      "karakter": "(Rufus Scrimgeour)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Rhys Ifans",
+      "karakter": "(Xenophilius Lovegood)"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "John Hurt",
+      "karakter": "(Ollivander)"
+    }
+  ]
+
+            },
             
 };
 
