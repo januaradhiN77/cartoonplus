@@ -5435,7 +5435,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Godzilla: King of the Monsters",
 "description": "Kisah baru ini mengikuti upaya heroik agensi kripto zoologi Monarch ketika anggotanya berhadapan dengan monster seukuran dewa, termasuk Godzilla yang perkasa, yang harus berhadapan dengan Mothra, Rodan, dan musuh bebuyutannya, si kepala tiga King Ghidorah. Ketika super spesies purba iniyang sebelumnya hanya dianggap mitosbangkit kembali, mereka semua bersaing untuk supremasi, membuat keberadaan manusia tergantung dalam keseimbangan.",
-       "episodeUrl": "https://acefile.co/player/106253797/d21-fun-godzilla-king-of-the-monsters-2019-1080p-mp4",
+       "episodeUrl": "https://drive.google.com/file/d/15DaAvZKPovPi7sxO52w-H2QnijL8aBEJ/preview",
 "duration": "2 jam 12m",
 
                     
