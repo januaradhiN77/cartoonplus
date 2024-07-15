@@ -5969,7 +5969,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Godzilla vs. Kong",
 "description": "Sebuah pertarungan epic dalam sinematik Monsterverse antara Godzilla dan Kong.Pertarungan Godzilla vs. Kong membuat umat manusia harus bertahan dengan berbagai cara. Salah satunya adalah memusnahkan kedua raksasa tersebut.Siapa yang akan menang?",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1l9QsdCV42wCgH_U0ewtSv5yrib-_Y4_7/preview",
 "duration": "1 jam 55m",
 
                     
