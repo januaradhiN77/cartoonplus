@@ -5659,7 +5659,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Kimi no Na wa. (Your Name.)",
 "description": "bercerita tentang dua remaja bernama Mitsuha Miyamizu dan Taki Tachibana yang bertukar tubuh karena sudah kejadian. Awalnya mereka tidak saling mengenal dan keduanya tinggal di tempat yang berbeda jauh.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1kA3N8JFzrWe_WDS_tUQ-qxWeQm1QNCAI/preview",
 "duration": "1 jam 46m",
 
                     
