@@ -6031,7 +6031,345 @@
         ]
                 
             },
+"spidermanhomecoming": {
+                "title": "Spider-Man: Homecoming",
+                "terjemah": "Marvel",
+                "rating": "7.7",
+                "type": "HD+",
+                "studio": "Marvel Studios",
+                "rilis": "5 Juli 2017",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Sci-Fi",
+                "description": "Peter Parker berusaha menyeimbangkan dua kehidupannya yang sangat bertolak belakang - menghentikan aksi penjualan senjata Chitauri oleh Adrian Toomes dan menjalani hari-hari selayaknya murid SMA.",
+                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQru80RHBGFNuYtD3SZhKE2gWrNEQ1nn_rtzVIOaTr8VJE3zDMi8hupWgeY6nqmnTEagyccwM_K-ZvBxkKv",
+                "trailer": "https://www.youtube.com/embed/XFj8KnTq278?si=1x5s6zO_KVxDWxB5",
+                "duration": "2 jam 13m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Spider-Man: Homecoming",
+"description": "Peter Parker berusaha menyeimbangkan dua kehidupannya yang sangat bertolak belakang - menghentikan aksi penjualan senjata Chitauri oleh Adrian Toomes dan menjalani hari-hari selayaknya murid SMA.",
+       "episodeUrl": "https://drive.google.com/file/d/1fqcJUjcj3-68hymGeSntSpAXo1QTpRqN/preview",
+"duration": "2 jam 13m",
+
+                    
+       }
+        ],
+        
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tom Holland",
+      "karakter": "Peter Parker / Spider-Man"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Michael Keaton",
+      "karakter": "Adrian Toomes / Vulture"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Zendaya",
+      "karakter": "Michelle 'MJ' Jones"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jacob Batalon",
+      "karakter": "Ned Leeds"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Marisa Tomei",
+      "karakter": "May Parker"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Robert Downey Jr.",
+      "karakter": "Tony Stark / Iron Man"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jon Favreau",
+      "karakter": "Happy Hogan"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tony Revolori",
+      "karakter": "Flash Thompson"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Laura Harrier",
+      "karakter": "Liz"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Donald Glover",
+      "karakter": "Aaron Davis"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Bokeem Woodbine",
+      "karakter": "Herman Schultz / Shocker"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tyne Daly",
+      "karakter": "Anne Marie Hoag"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Angourie Rice",
+      "karakter": "Betty Brant"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Michael Mando",
+      "karakter": "Mac Gargan"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Logan Marshall-Green",
+      "karakter": "Jackson Brice / Shocker"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Hannibal Buress",
+      "karakter": "Coach Wilson"
+    }
+  ]
+
+            },
+"spidermanintothespiderverse": {
+                "title": "Spider-Man: Into the Spider-Verse",
+                "terjemah": "Episode 1",
+                "rating": "8.4",
+                "type": "HD+",
+                "studio": "Marvel Entertainment",
+                "rilis": "12 Desember 2018",
+                "gendre1": "Animasi",
+                "gendre2": "Action",
+                "gendre3": "Adventure",
+                "description": "Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Men dari dimensi-dimensi tersebut untuk menghentikan ancaman terhadap semua realitas.",
+                "bgimg": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTqjCpollPATlgbDFbQToY_FbaEyddjWBccJnHXIZKZq8ZAJKqSCMrq2HNNw4R72fzOWu1wZTLaDxwOlzuh",
+                "trailer": "https://www.youtube.com/embed/g4Hbz2jLxvQ",
+                "duration": "1 jam 53m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Spider-Man: Into the Spider-Verse",
+"description": "Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Men dari dimensi-dimensi tersebut untuk menghentikan ancaman terhadap semua realitas.",
+       "episodeUrl": "https://drive.google.com/file/d/1dZOJGjKdG73ABrdtSCBYLyqf5AEqpj2E/preview",
+"duration": "1 jam 56m",
+
+                    
+       }
+        ]
+                
+            },
+"spidermanfarfromhome": {
+                "title": "Spider-Man: Far from Home",
+                "terjemah": "Marvel",
+                "rating": "7.4",
+                "type": "HD+",
+                "studio": "Marvel Studis",
+                "rilis": "3 Juli 2019",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Comedy",
+                "description": "Peter Parker (Tom Holland) tengah mengunjungi Eropa untuk liburan panjang bersama temaan-temanya. Sayangnya , Parker tidak bisa dengan tenang menikmati liburannya, karena Nick Fury datang secara tiba-tiba di kamar hotelnya. Selama di Eropa pun Peter harus menghadapi banyak musuh mulai dari Hydro Man, Sandman dan Molten Man.",
+                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTrti8DEO_KLXMCXtOKopWvExna4bprw07uQJnNkU48C4F20j5vMJUAaKEB7mr39nwEo95yD_a9FNiuwvu7",
+                "trailer": "https://www.youtube.com/embed/Nt9L1jCKGnE",
+                "duration": "2 jam 09m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Spider-Man: Far from Home",
+"description": "Peter Parker (Tom Holland) tengah mengunjungi Eropa untuk liburan panjang bersama temaan-temanya. Sayangnya , Parker tidak bisa dengan tenang menikmati liburannya, karena Nick Fury datang secara tiba-tiba di kamar hotelnya. Selama di Eropa pun Peter harus menghadapi banyak musuh mulai dari Hydro Man, Sandman dan Molten Man.",
+       "episodeUrl": "https://drive.google.com/file/d/1Hlbc9M0SbLQFq4B-6wXYScH4YiDpduAV/preview",
+"duration": "2 jam 09m",
+
+                    
+       }
+        ],
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tom Holland",
+      "karakter": "Peter Parker / Spider-Man"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Samuel L. Jackson",
+      "karakter": "Nick Fury"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Zendaya",
+      "karakter": "MJ"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Cobie Smulders",
+      "karakter": "Maria Hill"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jon Favreau",
+      "karakter": "Happy Hogan"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "J.B. Smoove",
+      "karakter": "Mr. Dell"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jacob Batalon",
+      "karakter": "Ned Leeds"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Martin Starr",
+      "karakter": "Mr. Harrington"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Marisa Tomei",
+      "karakter": "May Parker"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jake Gyllenhaal",
+      "karakter": "Quentin Beck / Mysterio"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Angourie Rice",
+      "karakter": "Betty Brant"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Remy Hii",
+      "karakter": "Brad Davis"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tony Revolori",
+      "karakter": "Flash Thompson"
+    }
+  ]
+
+            },
             
+"spidermannowayhome": {
+                "title": "Spider-Man: No Way Home",
+                "terjemah": "Marvel",
+                "rating": "8.2",
+                "type": "HD+",
+                "studio": "Marvel Studios",
+                "rilis": "15 Desember 2021",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Fantasy",
+                "description": "Pertama kalinya dalam sejarah layar lebar Spider-Man, identitas asli dari pahlawan nan ramah ini terbongkar, sehingga membuat tanggung jawabnya sebagai seorang berkekuatan super berbenturan dengan kehidupan normalnya, dan menempatkan semua orang terdekatnya dalam posisi paling terancam.",
+                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSa5nX9y1mCCiw-AHpKdltFrld-oL0DbWJ4nwFxlbtX72hlQ7Jl48Nnx5DItvYX_k-gpgWDxY1PiD3NHqUQ",
+                "trailer": "https://www.youtube.coml/embed/JfVOs4VSpmA",
+                "duration": "2 jam 28m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Spider-Man: No Way Home",
+"description": "Pertama kalinya dalam sejarah layar lebar Spider-Man, identitas asli dari pahlawan nan ramah ini terbongkar, sehingga membuat tanggung jawabnya sebagai seorang berkekuatan super berbenturan dengan kehidupan normalnya, dan menempatkan semua orang terdekatnya dalam posisi paling terancam.",
+       "episodeUrl": "https://drive.google.com/file/d/1zkHR7ZifJa6kug8iRnt6LZFGo3owdMuR/preview",
+"duration": "2 jam 28m",
+
+                    
+       }
+        ],
+
+  "aktor": [
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tom Holland",
+      "karakter": "Peter Parker / Spider-Man"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Zendaya",
+      "karakter": "MJ"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Benedict Cumberbatch",
+      "karakter": "Doctor Strange"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jacob Batalon",
+      "karakter": "Ned Leeds"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jon Favreau",
+      "karakter": "Happy Hogan"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Marisa Tomei",
+      "karakter": "May Parker"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Jamie Foxx",
+      "karakter": "Max Dillon / Electro"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Willem Dafoe",
+      "karakter": "Norman Osborn / Green Goblin"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Alfred Molina",
+      "karakter": "Otto Octavius / Doctor Octopus"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Thomas Haden Church",
+      "karakter": "Flint Marko / Sandman"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Rhys Ifans",
+      "karakter": "Curt Connors / Lizard"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Benedict Wong",
+      "karakter": "Wong"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tony Revolori",
+      "karakter": "Flash Thompson"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Andrew Garfield",
+      "karakter": "Peter Parker / Spider-Man"
+    },
+    {
+      "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
+      "namaAktor": "Tobey Maguire",
+      "karakter": "Peter Parker / Spider-Man"
+    }
+  ]
+
+            },
             
 };
 
