@@ -5630,7 +5630,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Train To Busan Presents Peninsula",
 "description": "Ketika wabah zombie melanda, Jung-seok (GANG Dong-won) nyaris tidak lolos dari Korea Selatan hidup-hidup. Ketika hidup dalam keputusasaan di Hong Kong, ia menerima tawaran yang menarik untuk kembali ke semenanjung yang dikarantina. Misinya adalah untuk mengambil truk yang ditinggalkan di tengah Seoul dalam batas waktu dan melarikan diri dari semenanjung dengan diam-diam.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1q7hxoKeRhUAVRgHCXIvE4dmUg8B-GPGV/preview",
 "duration": "1 jam 56m",
 
                     
