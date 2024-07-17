@@ -1,13 +1,15 @@
-const allSkeleton = document.querySelectorAll('.skeleton');
+document.addEventListener("DOMContentLoaded", function() {
+    const allSkeletons = document.querySelectorAll('.skeleton');
 
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    allSkeleton.forEach(item => {
-      item.classList.remove('skeleton');
+    allSkeletons.forEach(img => {
+        const tempImg = new Image();
+        tempImg.src = img.dataset.src;
+        tempImg.onload = function() {
+            img.src = tempImg.src;
+            img.classList.remove('skeleton');
+        };
     });
-  }, 1000);
 });
-
 function addOverlay(event) {
   var overlay = event.currentTarget.querySelector('.overlay');
   overlay.classList.add('active');
