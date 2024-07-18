@@ -236,9 +236,7 @@ display: flex;
     height: 100%;
     z-index: 10;
     border-radius: 10px;
-    background: linear-gradient(to right, #090909, rgba(205, 205, 205, 1), #090909);
-  animation: skeleton 1.5s linear infinite;
-    background-size: 200%;
+    
     
 }
 @keyframes skeleton {
