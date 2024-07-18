@@ -1,15 +1,73 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const allSkeletons = document.querySelectorAll('.skeleton');
+// Function to set a cookie
+function setCookie(name, value, days) {
+  const d = new Date();
+  d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+  const expires = "expires=" + d.toUTCString();
+  document.cookie = name + "=" + value + ";" + expires + ";path=/";
+}
 
-    allSkeletons.forEach(img => {
-        const tempImg = new Image();
-        tempImg.src = img.dataset.src;
-        tempImg.onload = function() {
-            img.src = tempImg.src;
-            img.classList.remove('skeleton');
-        };
-    });
+// Function to get a cookie by name
+function getCookie(name) {
+  const cname = name + "=";
+  const decodedCookie = decodeURIComponent(document.cookie);
+  const ca = decodedCookie.split(';');
+  for (let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(cname) == 0) {
+      return c.substring(cname.length, c.length);
+    }
+  }
+  return "";
+}
+
+// Function to load images from cookies
+function loadImagesFromCookies() {
+  document.querySelectorAll('.movies-box img').forEach(img => {
+    const cookieName = img.dataset.src.split('/').pop(); // Use image name as cookie key
+    const savedSrc = getCookie(cookieName);
+    if (savedSrc) {
+      img.src = savedSrc;
+    }
+  });
+}
+
+// Function to save images to cookies
+function saveImageToCookie(img) {
+  const cookieName = img.dataset.src.split('/').pop(); // Use image name as cookie key
+  setCookie(cookieName, img.src, 7); // Save for 7 days
+}
+
+// Function to handle image load event
+function handleImageLoad(event) {
+  saveImageToCookie(event.target);
+}
+
+// Function to add event listeners to images
+function addImageEventListeners() {
+  document.querySelectorAll('.movies-box img').forEach(img => {
+    img.addEventListener('load', handleImageLoad);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadImagesFromCookies();
+  addImageEventListeners();
+
+  const allSkeletons = document.querySelectorAll('.skeleton');
+
+  allSkeletons.forEach(img => {
+    const tempImg = new Image();
+    tempImg.src = img.dataset.src;
+    tempImg.onload = function() {
+      img.src = tempImg.src;
+      img.classList.remove('skeleton');
+    };
+  });
 });
+
 function addOverlay(event) {
   var overlay = event.currentTarget.querySelector('.overlay');
   overlay.classList.add('active');
@@ -19,7 +77,6 @@ function removeOverlay(event) {
   var overlay = event.currentTarget.querySelector('.overlay');
   overlay.classList.remove('active');
 }
-
 
 function addOverlayNavbar(event) {
   var overlayNavbar = event.currentTarget.querySelector('.overlay-navbar');
@@ -31,14 +88,11 @@ function removeOverlayNavbar(event) {
   overlayNavbar.classList.remove('active');
 }
 
-
-
 function goToError(websiteURL) {
-      //window.location.href = websiteURL;
-      alert("Fitur segera hadir!");
-    }
-    
-    const searchInput = document.getElementById("searchInput");
+  alert("Fitur segera hadir!");
+}
+
+const searchInput = document.getElementById("searchInput");
 const dataItems = document.querySelectorAll(".data-item");
 
 searchInput.addEventListener("input", function() {
@@ -51,14 +105,11 @@ searchInput.addEventListener("input", function() {
       item.style.display = "block";
     } else {
       item.style.display = "none";
-      
     }
   });
 });
 
-
 function tampilkanSection(id) {
-  // Menampilkan section yang dipilih
   var sections = document.querySelectorAll('.container, .filterbutton');
   
   sections.forEach(function(section) {
@@ -69,7 +120,6 @@ function tampilkanSection(id) {
     }
   });
 
-  // Menghapus kelas active dari semua tombol
   var buttons = document.querySelectorAll('.button');
   buttons.forEach(function(button) {
     button.classList.remove('active');
@@ -78,125 +128,125 @@ function tampilkanSection(id) {
     }
   });
 }
-function goToWebsite(websiteURL) {
-      window.location.href = websiteURL;
-//alert("Server sedang diperbaiki, mohon menunggu.");
-    }
-function goToLink(websiteURL) {
-      window.location.href = websiteURL;
 
-    }
+function goToWebsite(websiteURL) {
+  window.location.href = websiteURL;
+}
+
+function goToLink(websiteURL) {
+  window.location.href = websiteURL;
+}
+
 var selectedStudios = new Set();
 var selectedGenres = new Set();
 var selectedFormats = new Set();
 const MAX_GENRE_SELECTION = 3;
 
 function tampilkanStudio(studioId) {
-    var studios = document.querySelectorAll('.movies-box');
+  var studios = document.querySelectorAll('.movies-box');
 
-    if (studioId === 'all') {
-        selectedStudios.clear();
-        selectedGenres.clear();
-        selectedFormats.clear();
-        studios.forEach(function(studio) {
-            studio.style.display = 'flex';
-        });
-        var buttons = document.querySelectorAll('.studio-button, .genre-button, .format-button');
-        buttons.forEach(function(button) {
-            button.classList.remove('active');
-        });
-        var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-        var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-        allButton.classList.add('active');
-        allButton1.classList.add('active');
+  if (studioId === 'all') {
+    selectedStudios.clear();
+    selectedGenres.clear();
+    selectedFormats.clear();
+    studios.forEach(function(studio) {
+      studio.style.display = 'flex';
+    });
+    var buttons = document.querySelectorAll('.studio-button, .genre-button, .format-button');
+    buttons.forEach(function(button) {
+      button.classList.remove('active');
+    });
+    var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+    var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+    allButton.classList.add('active');
+    allButton1.classList.add('active');
+  } else {
+    var button = document.querySelector(`.studio-button[data-studio-id="${studioId}"]`);
+    if (button.classList.contains('active')) {
+      button.classList.remove('active');
+      selectedStudios.delete(studioId);
     } else {
-        var button = document.querySelector(`.studio-button[data-studio-id="${studioId}"]`);
-        if (button.classList.contains('active')) {
-            button.classList.remove('active');
-            selectedStudios.delete(studioId);
-        } else {
-            button.classList.add('active');
-            selectedStudios.add(studioId);
-        }
-
-        updateAllButtonState();
-        filterAndDisplayStudios();
+      button.classList.add('active');
+      selectedStudios.add(studioId);
     }
+      updateAllButtonState();
+    filterAndDisplayStudios();
+  }
 }
 
 function tampilkanGenre(genreId) {
-    var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
+  var genreButtons = document.querySelectorAll(`.genre-button[data-genre-id="${genreId}"]`);
 
-    if (selectedGenres.has(genreId)) {
-        genreButtons.forEach(function(genreButton) {
-            genreButton.classList.remove('active');
-        });
-        selectedGenres.delete(genreId);
-    } else if (selectedGenres.size < MAX_GENRE_SELECTION) {
-        genreButtons.forEach(function(genreButton) {
-            genreButton.classList.add('active');
-        });
-        selectedGenres.add(genreId);
-    } else {
-        alert(`Kamu hanya bisa memilih ${MAX_GENRE_SELECTION} genre.`);
-    }
+  if (selectedGenres.has(genreId)) {
+    genreButtons.forEach(function(genreButton) {
+      genreButton.classList.remove('active');
+    });
+    selectedGenres.delete(genreId);
+  } else if (selectedGenres.size < MAX_GENRE_SELECTION) {
+    genreButtons.forEach(function(genreButton) {
+      genreButton.classList.add('active');
+    });
+    selectedGenres.add(genreId);
+  } else {
+    alert(`Kamu hanya bisa memilih ${MAX_GENRE_SELECTION} genre.`);
+  }
 
-    updateAllButtonState();
-    filterAndDisplayStudios();
+  updateAllButtonState();
+  filterAndDisplayStudios();
 }
 
 function tampilkanFormat(formatId) {
-    var formatButtons = document.querySelectorAll(`.format-button[data-format-id="${formatId}"]`);
-    formatButtons.forEach(function(formatButton) {
-        if (formatButton.classList.contains('active')) {
-            formatButton.classList.remove('active');
-            selectedFormats.delete(formatId);
-        } else {
-            formatButton.classList.add('active');
-            selectedFormats.add(formatId);
-        }
-    });
+  var formatButtons = document.querySelectorAll(`.format-button[data-format-id="${formatId}"]`);
+  formatButtons.forEach(function(formatButton) {
+    if (formatButton.classList.contains('active')) {
+      formatButton.classList.remove('active');
+      selectedFormats.delete(formatId);
+    } else {
+      formatButton.classList.add('active');
+      selectedFormats.add(formatId);
+    }
+  });
 
-    updateAllButtonState();
-    filterAndDisplayStudios();
+  updateAllButtonState();
+  filterAndDisplayStudios();
 }
 
 function updateAllButtonState() {
-    var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
-    var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
-    if (selectedStudios.size === 0 && selectedGenres.size === 0 && selectedFormats.size === 0) {
-        allButton.classList.add('active');
-        allButton1.classList.add('active');
-    } else {
-        allButton.classList.remove('active');
-        allButton1.classList.remove('active');
-    }
+  var allButton = document.querySelector('.studio-button[data-studio-id="all"]');
+  var allButton1 = document.querySelector('.studio-button[data-studio-id="all1"]');
+  if (selectedStudios.size === 0 && selectedGenres.size === 0 && selectedFormats.size === 0) {
+    allButton.classList.add('active');
+    allButton1.classList.add('active');
+  } else {
+    allButton.classList.remove('active');
+    allButton1.classList.remove('active');
+  }
 }
 
 function filterAndDisplayStudios() {
-    var studios = document.querySelectorAll('.movies-box');
+  var studios = document.querySelectorAll('.movies-box');
 
-    studios.forEach(function(studio) {
-        let shouldDisplay = true;
+  studios.forEach(function(studio) {
+    let shouldDisplay = true;
 
-        if (selectedStudios.size > 0) {
-            shouldDisplay = Array.from(selectedStudios).some(function(filter) {
-                return studio.classList.contains(filter);
-            });
-        }
+    if (selectedStudios.size > 0) {
+      shouldDisplay = Array.from(selectedStudios).some(function(filter) {
+        return studio.classList.contains(filter);
+      });
+    }
 
-        if (shouldDisplay && selectedGenres.size > 0) {
-            shouldDisplay = Array.from(selectedGenres).every(function(filter) {
-                return studio.classList.contains(filter);
-            });
-        }
+    if (shouldDisplay && selectedGenres.size > 0) {
+      shouldDisplay = Array.from(selectedGenres).every(function(filter) {
+        return studio.classList.contains(filter);
+      });
+    }
 
-        if (shouldDisplay && selectedFormats.size > 0) {
-            shouldDisplay = Array.from(selectedFormats).some(function(filter) {
-                return studio.classList.contains(filter);
-            });
-        }
+    if (shouldDisplay && selectedFormats.size > 0) {
+      shouldDisplay = Array.from(selectedFormats).some(function(filter) {
+        return studio.classList.contains(filter);
+      });
+    }
 
-        studio.style.display = shouldDisplay ? 'flex' : 'none';
-    });
+    studio.style.display = shouldDisplay ? 'flex' : 'none';
+  });
 }
