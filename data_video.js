@@ -6389,7 +6389,7 @@
        "episodeTitle": "Tonton", 
        "episodeJudul": "Kimetsu no Yaiba: Mugen Ressha-hen",
 "description": "Tanjiro Kamado, bergabung dengan Inosuke Hashibira, seorang anak laki-laki yang dibesarkan oleh babi hutan yang memakai kepala babi hutan, dan Zenitsu Agatsuma, seorang anak laki-laki ketakutan yang mengeluarkan kekuatan sejatinya ketika dia tidur, di dalam Kereta Infinity dalam misi baru dengan seorang Pilar Api, Kyojuro Rengoku , Untuk mengalahkan iblis yang telah menyiksa orang-orang dan membunuh pembunuh iblis yang menentangnya!",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1grMcL5k-cJPoEYWcM1paF_QziDw-4ojC/preview",
 "duration": "1 jam 57m",
 
                     
