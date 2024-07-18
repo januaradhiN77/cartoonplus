@@ -6370,7 +6370,33 @@
   ]
 
             },
-            
+"kimetsunoyaibamugenressha": {
+                "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+                "terjemah": "Demon Slayer",
+                "rating": "8.5",
+                "type": "HD+",
+                "studio": "Aniplex",
+                "rilis": "16 Oktober 2020",
+                "gendre1": "Animasi",
+                "gendre2": "Action",
+                "gendre3": "Adventure",
+                "description": "Tanjiro Kamado, bergabung dengan Inosuke Hashibira, seorang anak laki-laki yang dibesarkan oleh babi hutan yang memakai kepala babi hutan, dan Zenitsu Agatsuma, seorang anak laki-laki ketakutan yang mengeluarkan kekuatan sejatinya ketika dia tidur, di dalam Kereta Infinity dalam misi baru dengan seorang Pilar Api, Kyojuro Rengoku , Untuk mengalahkan iblis yang telah menyiksa orang-orang dan membunuh pembunuh iblis yang menentangnya!",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAyWNye9aSNiaa8OxXo8_k6LGIeEjwu7Q6Q&usqp=CAU",
+                "trailer": "https://www.youtube.com/embed/bFwdl2PDAFM",
+                "duration": "1 jam 57m",
+"episodes": [
+        {
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Kimetsu no Yaiba: Mugen Ressha-hen",
+"description": "Tanjiro Kamado, bergabung dengan Inosuke Hashibira, seorang anak laki-laki yang dibesarkan oleh babi hutan yang memakai kepala babi hutan, dan Zenitsu Agatsuma, seorang anak laki-laki ketakutan yang mengeluarkan kekuatan sejatinya ketika dia tidur, di dalam Kereta Infinity dalam misi baru dengan seorang Pilar Api, Kyojuro Rengoku , Untuk mengalahkan iblis yang telah menyiksa orang-orang dan membunuh pembunuh iblis yang menentangnya!",
+       "episodeUrl": "",
+"duration": "1 jam 57m",
+
+                    
+       }
+        ]
+                
+            },
 };
 
 
