@@ -6419,7 +6419,7 @@
        "episodeJudul": "Kimetsu no Yaiba Season 4 - EP 8",
 "description": "Melanjutkan perjalanan Tanjiro Kamado dan teman-temannya saat mereka menjalani pelatihan ketat bersama para Hashira, pembasmi iblis elit, untuk mempersiapkan pertempuran melawan iblis yang lebih kuat. Musim ini menggali latar belakang dan kemampuan unik para Hashira, sementara Tanjiro dan kawan-kawannya berusaha meningkatkan keterampilan mereka dan menghadapi tantangan baru. Arc ini menjanjikan aksi intens, pengembangan karakter, dan wawasan lebih dalam tentang Korps Pembasmi Iblis.",
        "episodeUrl": "https://drive.google.com/file/d/1IESCkgR8rUbCEuq_YOr9VrpaWiTxTFh-/preview",
-"duration": "23 menit",
+"duration": "40 menit",
 
                     
        },
@@ -6428,7 +6428,7 @@
                 "episodeJudul": "Kimetsu no Yaiba Season 4 - EP 7",
                 "description": "Melanjutkan perjalanan Tanjiro Kamado dan teman-temannya saat mereka menjalani pelatihan ketat bersama para Hashira, pembasmi iblis elit, untuk mempersiapkan pertempuran melawan iblis yang lebih kuat. Musim ini menggali latar belakang dan kemampuan unik para Hashira, sementara Tanjiro dan kawan-kawannya berusaha meningkatkan keterampilan mereka dan menghadapi tantangan baru. Arc ini menjanjikan aksi intens, pengembangan karakter, dan wawasan lebih dalam tentang Korps Pembasmi Iblis.",
                 "episodeUrl": "https://drive.google.com/file/d/1ICZjGgdv8FrMLZQrlN-8yn16U79eCRrl/preview",
-                "duration": "23 menit",
+                "duration": "31 menit",
 
 
         },
