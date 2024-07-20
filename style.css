@@ -162,9 +162,9 @@ html {
 }
 
 .movies-box img{
-  width: 130px;
+  width: 120px;
   margin-top: 0px;
-  height: 195px;
+  height: 185px;
   border-radius: 10px;
   z-index: 2;
   object-fit: cover;
@@ -210,16 +210,17 @@ display: flex;
         align-items: left;
         width: 100%;
         justify-content: left;
-        margin-top: 8px;
+        margin-top: 3px;
 
 }
 .judul-movies h1{
         font-family: 'Barlow Condensed';
         font-weight: 500;
-        font-size: 17px;
+        font-size: 15px;
+        margin-left: 5px;
         display: -webkit-box;
         -webkit-box-orient: vertical;
-        -webkit-line-clamp: 1;
+        -webkit-line-clamp: 2;
         overflow: hidden;
 }
 .skeleton {
