@@ -5760,7 +5760,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Sci-Fi",
                 "description": "The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.",
-                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRPqu5CFULF7WI0Jat_dD069aqpmvXDkOJZfFSWOghJeJ_z1DiJriLS-5Le6SuoWNXWe7wTiI-q-TdNnPrT",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxz0LhSKqHU-R65d87S4NodRCManWOpJUTSw&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/GlPk8YhN4Pk",
                 "duration": "2 jam 29m",
 "episodes": [
