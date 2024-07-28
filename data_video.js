@@ -5823,7 +5823,7 @@
         "gendre2": "Adventure",
         "gendre3": "Drama",
         "description": "Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?",
-        "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQKZaDrPyukwP6hfQutDvNCCtqk2CwMPDG2u-qWCX7SQaMDhuNxlNFNlGjuyaenj-Df78Pcnb9F9DpJUpUf",
+        "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMz4LPDGpspR0nxXujk4D2KjKGL3qjxJJy2w&usqp=CAU",
         "trailer": "https://www.youtube.com/embed/iKaruCq6ZY8",
         "duration": "3 jam 01m",
         "episodes": [
