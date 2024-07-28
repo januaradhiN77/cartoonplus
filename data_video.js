@@ -5312,7 +5312,7 @@
                 "gendre2": "Family",
                 "gendre3": "Fantasy",
                 "description": "Dengan Lord Voldemort semakin kuat, Harry, Ron & Hermione harus menemukan dan menghancurkan Horcrux, demi melindungi Hogwarts. Tapi dengan Pelahap Maut jahat mengejar mereka, akankah mereka berhasil?",
-                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcThvj25x4OscLqZMiIg1okHhsaN9yJYY-RRmzU80hjYXebetxkePSb4jA0-q1Lps1mlzWX7L7NuufK1p4_J",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_.jpg",
                 "trailer": "https://www.youtube.com/embed/HgZZsnleZJQ",
                 "duration": "2 jam 26m",
 "episodes": [
