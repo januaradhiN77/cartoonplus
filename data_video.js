@@ -6276,7 +6276,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Fantasy",
                 "description": "Pertama kalinya dalam sejarah layar lebar Spider-Man, identitas asli dari pahlawan nan ramah ini terbongkar, sehingga membuat tanggung jawabnya sebagai seorang berkekuatan super berbenturan dengan kehidupan normalnya, dan menempatkan semua orang terdekatnya dalam posisi paling terancam.",
-                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSa5nX9y1mCCiw-AHpKdltFrld-oL0DbWJ4nwFxlbtX72hlQ7Jl48Nnx5DItvYX_k-gpgWDxY1PiD3NHqUQ",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BZjI5NmFmOWUtZWY0ZS00NTc5LWE0YjgtMjk3YmNiM2EwM2U4XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_FMjpg_UX1000_.jpg",
                 "trailer": "https://www.youtube.coml/embed/JfVOs4VSpmA",
                 "duration": "2 jam 28m",
 "episodes": [
