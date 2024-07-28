@@ -6153,7 +6153,7 @@
                 "gendre2": "Action",
                 "gendre3": "Adventure",
                 "description": "Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Men dari dimensi-dimensi tersebut untuk menghentikan ancaman terhadap semua realitas.",
-                "bgimg": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTqjCpollPATlgbDFbQToY_FbaEyddjWBccJnHXIZKZq8ZAJKqSCMrq2HNNw4R72fzOWu1wZTLaDxwOlzuh",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1pq1WisOQJcuksq5LWQuaq1FqCZLrSFrZg&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/g4Hbz2jLxvQ",
                 "duration": "1 jam 53m",
 "episodes": [
