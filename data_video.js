@@ -1487,7 +1487,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Comedy",
                 "description": "Koleksi celana pendek Minion dari waralaba “Despicable Me” ini mencakup film mini seperti “Training Wheels,” “Puppy” dan “Yellow Is the New Black.”",
-                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0AI76CR1UH0poUac07RnLtT2nGwvGhAnGIQdXoirYA&s",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJUECVQzF8BLl-sqIB91xyKC3Vq_lt9Qf0A&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/Bi2hMGJpRJA?si=PRrYFulZUtD80-ZP",
                 "duration": "48m", 
 "episodes": [
