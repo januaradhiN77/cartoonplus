@@ -5218,7 +5218,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Family",
                 "description": "Harry menemukan sebuah buku misterius milik Half-Blood Prince. Sementara itu, Horace Slughorn kembali sebagai guru ramuan. Dan kini, Harry dan Dumbledore harus menelusuri masa lalu kelam Voldemort.",
-                "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRE-RQj1YvZMxB9M-7OCYuuQrVoWPMWmVmA-ddHOPw0yypdGSMfRVKrEg4-YkxZk5t2ha4aTkwtNs_14tIp",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpf1TNsp3pKYslMCIRav4zK7JtEaoMNQuBQ&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/tAiy66Xrsz4?feature=shared",
                 "duration": "2 jam 33m",
 "episodes": [
