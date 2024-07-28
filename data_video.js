@@ -5961,7 +5961,7 @@
                 "gendre2": "Sci-Fi",
                 "gendre3": "Thriller",
                 "description": "Sebuah pertarungan epic dalam sinematik Monsterverse antara Godzilla dan Kong.Pertarungan Godzilla vs. Kong membuat umat manusia harus bertahan dengan berbagai cara. Salah satunya adalah memusnahkan kedua raksasa tersebut.Siapa yang akan menang?",
-                "bgimg": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSteCahohhuE-zNN8mUTgERVK3UAiYTik90HIv7Y46HEP6-Jj72AupB1NYvvSOuVuQ0X9ewmxrhB1cOwpW9",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BMzk2ZmYxNTUtODlhMi00NzE2LTkwMTctYjg0ODQ1ZjkyNzJmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
                 "trailer": "https://www.youtube.com/embed/odM92ap8_c0",
                 "duration": "1 jam 55m",
 "episodes": [
@@ -6043,7 +6043,7 @@
                 "gendre3": "Sci-Fi",
                 "description": "Peter Parker berusaha menyeimbangkan dua kehidupannya yang sangat bertolak belakang - menghentikan aksi penjualan senjata Chitauri oleh Adrian Toomes dan menjalani hari-hari selayaknya murid SMA.",
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RlRxPM2TQP58lvvD5DM7IwFgPtl3n17Ijg&usqp=CAU",
-                "trailer": "https://www.youtube.com/embed/XFj8KnTq278?si=1x5s6zO_KVxDWxB5",
+                "trailer": "https://www.youtube.com/embed/XFj8KnTq278?si=__4MNhlpN1wYZIvj",
                 "duration": "2 jam 13m",
 "episodes": [
         {
