@@ -6180,7 +6180,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Comedy",
                 "description": "Peter Parker (Tom Holland) tengah mengunjungi Eropa untuk liburan panjang bersama temaan-temanya. Sayangnya , Parker tidak bisa dengan tenang menikmati liburannya, karena Nick Fury datang secara tiba-tiba di kamar hotelnya. Selama di Eropa pun Peter harus menghadapi banyak musuh mulai dari Hydro Man, Sandman dan Molten Man.",
-                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTrti8DEO_KLXMCXtOKopWvExna4bprw07uQJnNkU48C4F20j5vMJUAaKEB7mr39nwEo95yD_a9FNiuwvu7",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCM1S94viM32fowoBJ5iicPlO93tv4_cSrng&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/Nt9L1jCKGnE",
                 "duration": "2 jam 09m",
 "episodes": [
@@ -6277,7 +6277,7 @@
                 "gendre3": "Fantasy",
                 "description": "Pertama kalinya dalam sejarah layar lebar Spider-Man, identitas asli dari pahlawan nan ramah ini terbongkar, sehingga membuat tanggung jawabnya sebagai seorang berkekuatan super berbenturan dengan kehidupan normalnya, dan menempatkan semua orang terdekatnya dalam posisi paling terancam.",
                 "bgimg": "https://m.media-amazon.com/images/M/MV5BZjI5NmFmOWUtZWY0ZS00NTc5LWE0YjgtMjk3YmNiM2EwM2U4XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_FMjpg_UX1000_.jpg",
-                "trailer": "https://www.youtube.coml/embed/JfVOs4VSpmA",
+                "trailer": "https://www.youtube.com/embed/hpQQmyvDDqs",
                 "duration": "2 jam 28m",
 "episodes": [
         {
