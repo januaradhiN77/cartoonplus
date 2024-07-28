@@ -5506,7 +5506,7 @@
                 "gendre2": "Family",
                 "gendre3": "Fantasy",
                 "description": "Harry kembali ke Hogwarts di tahun ketiganya, dan bukan saja memiliki guru baru pertahanan terhadap ilmu sihir hitam, ia juga berhadapan langsung dengan Sirius Black, yang berhasil kabur dari Azkaban.",
-                "bgimg": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcStwRinddrOMwpc31yIJb4TzmuX9P0wabvfjlSmDhC6kWTeaW3s6vlMfMvlMYBmEj1vkjp00aKiNC6SDfE7",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlfwAk8Xa6aElLIQZ-SkNVTRYEgrvgeD0FA&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/lAxgztbYDbs",
                 "duration": "2 jam 22m",
 "episodes": [
