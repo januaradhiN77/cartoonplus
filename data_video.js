@@ -5622,7 +5622,7 @@
                 "gendre2": "Horror",
                 "gendre3": "Thriller",
                 "description": "Ketika wabah zombie melanda, Jung-seok (GANG Dong-won) nyaris tidak lolos dari Korea Selatan hidup-hidup. Ketika hidup dalam keputusasaan di Hong Kong, ia menerima tawaran yang menarik untuk kembali ke semenanjung yang dikarantina. Misinya adalah untuk mengambil truk yang ditinggalkan di tengah Seoul dalam batas waktu dan melarikan diri dari semenanjung dengan diam-diam.",
-                "bgimg": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcR3aN2F-jpgOtFrUHClGOWlJUHWOqeUCikgfSLH-8HEguUdrVjtWEM8OcJhSSkHHK4p5l7Fjwjx80TVdjoI",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFH48xkO560JjzTlxPZnPGsX_DSbGtN_Gqtw&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/3YDO5TX9llQ?si=jizWSNyyKuhZfmKE",
                 "duration": "1 jam 56m",
 "episodes": [
