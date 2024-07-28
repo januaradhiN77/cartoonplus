@@ -5453,7 +5453,7 @@
                 "gendre2": "Adventure",
                 "gendre3": "Fantasy",
                 "description": "Kisah baru ini mengikuti upaya heroik agensi kripto zoologi Monarch ketika anggotanya berhadapan dengan monster seukuran dewa, termasuk Godzilla yang perkasa, yang harus berhadapan dengan Mothra, Rodan, dan musuh bebuyutannya, si kepala tiga King Ghidorah. Ketika super spesies purba iniyang sebelumnya hanya dianggap mitosbangkit kembali, mereka semua bersaing untuk supremasi, membuat keberadaan manusia tergantung dalam keseimbangan.",
-                "bgimg": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSF72EI77yh0SIrscm2KBjws0zlMzqcX6kDCRmd57swf5SG2zZwULzaOXvODAonQPeS_dHe_6oNZ8boiB-e",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQO68B3QtiZ2TSfGTFX3SHuuDbVfRNU-uk9g&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/pH7lV9_2uUk",
                 "duration": "2 jam 12m",
 "episodes": [
