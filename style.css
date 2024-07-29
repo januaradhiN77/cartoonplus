@@ -191,11 +191,11 @@ display: flex;
     position: absolute;
 
     bottom: 0;
-    margin-top: -40px;
+    margin-top: -45px;
     left: 0;
     width: 100%;
     z-index: 2;
-    
+    border-radius: 7px;
     height: 100%;
     background: #00000061;
 }
