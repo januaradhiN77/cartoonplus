@@ -6394,8 +6394,9 @@
 
                     
        }
-        ]
-                
+        ],
+        "relatedMovies": 
+        ["kimetsunoyaibaseason4"],
             },
             
             
@@ -6488,7 +6489,11 @@
         },
 
 
-        ]
+        ],
+        "relatedMovies": 
+        ["kimetsunoyaibamugenressha"],
+
+        
                 
             },
 };
@@ -6498,11 +6503,10 @@
 const urlParams = new URLSearchParams(window.location.search);
 const animation = urlParams.get("animation");
 
-// Mengatur konten detail animasi berdasarkan animasi yang dipilih
 if (animation && data.hasOwnProperty(animation)) {
     const trailerIframe = document.getElementById("trailer");
     const detailContainer = document.getElementById("detailContainer");
-    const titleElements = document.querySelectorAll(".title"); // Menggunakan querySelectorAll
+    const titleElements = document.querySelectorAll(".title");
     const terjemahElement = document.getElementById("terjemah");
     const rilisElement = document.getElementById("rilis");
     const durationElement = document.getElementById("duration");
@@ -6515,6 +6519,7 @@ if (animation && data.hasOwnProperty(animation)) {
     const gendre1Element = document.getElementById("g1");
     const gendre2Element = document.getElementById("g2");
     const gendre3Element = document.getElementById("g3");
+    const relatedMoviesContainer = document.getElementById("relatedMovies");
 
     // Mengambil data episode dari objek data
     const episodes = data[animation].episodes;
@@ -6529,33 +6534,31 @@ if (animation && data.hasOwnProperty(animation)) {
         episodeButton.textContent = episode.episodeTitle;
 
         episodeButton.addEventListener("click", function() {
-  const episodeUrl = encodeURIComponent(episode.episodeUrl);
-  const episodeJudul = encodeURIComponent(episode.episodeJudul);
-  const episodeTitle = encodeURIComponent(episode.episodeTitle);
-  const description = encodeURIComponent(episode.description);
-  // Use bgimg instead of episodeImg
-  const episodeImg = encodeURIComponent(data[animation].bgimg);
-  const episodeStudio = encodeURIComponent(data[animation].studio);
-  const episodeBintang = encodeURIComponent(data[animation].rating);
-  const episodeDurasi = encodeURIComponent(episode.duration);
-  
-  // Simpan riwayat tontonan ke localStorage
-  let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
-  history.push({
-    title: episode.episodeJudul,
-    img: data[animation].bgimg, // Use bgimg here as well
-    durasi: duration,
-    studio: data[animation].studio,
-    animation: animation,
-    bintang: data[animation].rating,
-    description: episode.description,
-    episode: episode.episodeTitle
-  });
-  localStorage.setItem('watchHistory', JSON.stringify(history));
+            const episodeUrl = encodeURIComponent(episode.episodeUrl);
+            const episodeJudul = encodeURIComponent(episode.episodeJudul);
+            const episodeTitle = encodeURIComponent(episode.episodeTitle);
+            const description = encodeURIComponent(episode.description);
+            const episodeImg = encodeURIComponent(data[animation].bgimg);
+            const episodeStudio = encodeURIComponent(data[animation].studio);
+            const episodeBintang = encodeURIComponent(data[animation].rating);
+            const episodeDurasi = encodeURIComponent(episode.duration);
 
-  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}&episodeStudio=${episodeStudio}&episodeBintang=${episodeBintang}&episodeDurasi=${episodeDurasi}`;
-});
+            // Simpan riwayat tontonan ke localStorage
+            let history = JSON.parse(localStorage.getItem('watchHistory')) || [];
+            history.push({
+                title: episode.episodeJudul,
+                img: data[animation].bgimg,
+                durasi: duration,
+                studio: data[animation].studio,
+                animation: animation,
+                bintang: data[animation].rating,
+                description: episode.description,
+                episode: episode.episodeTitle
+            });
+            localStorage.setItem('watchHistory', JSON.stringify(history));
 
+            window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}&episodeImg=${episodeImg}&episodeTitle=${episodeTitle}&episodeStudio=${episodeStudio}&episodeBintang=${episodeBintang}&episodeDurasi=${episodeDurasi}`;
+        });
 
         episodeButton.insertBefore(iconElement, episodeButton.firstChild);
         episodeContainer.appendChild(episodeButton);
@@ -6578,13 +6581,41 @@ if (animation && data.hasOwnProperty(animation)) {
     trailerIframe.src = data[animation].trailer;
     typeElement.innerHTML = data[animation].type;
 
+    // Menampilkan film terkait
+    const relatedMovies = data[animation].relatedMovies;
+    if (relatedMovies && relatedMovies.length > 0) {
+        relatedMovies.forEach((relatedMovieKey) => {
+            if (data.hasOwnProperty(relatedMovieKey)) {
+                const relatedMovie = data[relatedMovieKey];
+                const relatedMovieElement = document.createElement("div");
+                relatedMovieElement.classList.add("related-movie");
+
+                const relatedMovieImg = document.createElement("img");
+                relatedMovieImg.src = relatedMovie.bgimg;
+                relatedMovieImg.alt = relatedMovie.title;
+                relatedMovieElement.appendChild(relatedMovieImg);
+
+                const relatedMovieTitle = document.createElement("h3");
+                relatedMovieTitle.textContent = relatedMovie.title;
+                relatedMovieElement.appendChild(relatedMovieTitle);
+
+                relatedMovieElement.addEventListener("click", () => {
+                    window.location.href = `videos_detail.html?animation=${relatedMovieKey}`;
+                });
+
+                relatedMoviesContainer.appendChild(relatedMovieElement);
+            }
+        });
+    } else {
+        relatedMoviesContainer.style.display = "none";
+    }
+
     // Memeriksa apakah animasi yang dipilih memiliki data aktor
     if (data.hasOwnProperty(animation)) {
         displayActors(data[animation]);
     }
 }
 
-// Fungsi untuk menampilkan data aktor jika tersedia
 function displayActors(film) {
     const aktorContainer = document.getElementById("aktorContainer");
     const aktorTitle = document.getElementById("aktorTitle");

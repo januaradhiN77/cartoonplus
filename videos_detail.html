@@ -234,7 +234,7 @@
   <div class="inner-container">
     <h1 style="font-family: 'Zen Maru Gothic'; margin-bottom: auto;">Movie Terkait</h1>
                  <div style="height: 380px; overflow-y:auto;width: 100%;display: flex;flex-direction: column; margin-bottom: auto;scroll-behavior: smooth;">
-              <div style="display: flex; width: 100%; margin-top: 15px; flex-wrap: wrap; gap: 10px; padding-bottom: 10px;justify-content: left; align-items: center;">
+              <div id="relatedMovies" style="display: flex; width: 100%; margin-top: 15px; flex-wrap: wrap; gap: 10px; padding-bottom: 10px;justify-content: left; align-items: center;">
                 <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
                         
                   <img src="asset/cplus_bg.png">
@@ -352,10 +352,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Tambahkan kode untuk menampilkan episode
     displayEpisodes(filmData.episodes);
-  });
 
-  // Fungsi untuk menampilkan episode
-  function displayEpisodes(episodes) {
+    // Tampilkan film terkait
+    displayRelatedMovies(filmData.relatedMovies);
+});
+
+// Fungsi untuk menampilkan episode
+function displayEpisodes(episodes) {
     const episodeContainer = document.getElementById("episodeContainer");
     episodeContainer.innerHTML = ''; // Kosongkan kontainer episode sebelum menambahkan yang baru
 
@@ -403,37 +406,81 @@ document.addEventListener('DOMContentLoaded', function() {
     // Tambahkan informasi jumlah episode
     const episodeCountElement = document.getElementById("episodeCount");
     episodeCountElement.textContent = `Mulai Menonton (${episodes.length})`;
-    
 
     // Tambahkan semua tombol episode ke kontainer
     episodeButtons.forEach(button => {
         episodeContainer.appendChild(button);
     });
-  }
+}
 
-  // Fungsi untuk mengurutkan episode
-  let isAscending = true; // Untuk melacak urutan episode saat ini
 
-  function sortEpisodes() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const animation = urlParams.get("animation");
+// Fungsi untuk menampilkan film terkait
+// Fungsi untuk menampilkan film terkait
+function displayRelatedMovies(relatedMovies) {
+    const relatedMoviesContainer = document.getElementById("relatedMovies");
+    relatedMoviesContainer.innerHTML = ''; // Kosongkan kontainer film terkait sebelum menambahkan yang baru
 
-    if (animation && data.hasOwnProperty(animation)) {
-        const episodes = data[animation].episodes;
+    if (relatedMovies.length === 0) {
+        // Jika tidak ada film terkait
+        const noRelatedMoviesMessage = document.createElement("p");
+        noRelatedMoviesMessage.textContent = "Tidak ada movie terkait";
+        noRelatedMoviesMessage.style.textAlign = "center"; // Menempatkan teks di tengah
+        noRelatedMoviesMessage.style.fontSize = "18px"; // Ukuran font
+        noRelatedMoviesMessage.style.color = "#ffffff"; // Warna teks putih
+        noRelatedMoviesMessage.style.marginTop = "20px"; // Jarak atas
+        noRelatedMoviesMessage.style.marginBottom = "20px"; // Jarak bawah
+        relatedMoviesContainer.appendChild(noRelatedMoviesMessage);
+    } else {
+        relatedMovies.forEach(movieKey => {
+            if (data.hasOwnProperty(movieKey)) {
+                const movie = data[movieKey];
 
-        // Balik urutan episode
-        episodes.reverse();
-        isAscending = !isAscending; // Ubah status urutan
+                const movieButton = document.createElement("button");
+                movieButton.classList.add("buttongoweb");
+                movieButton.addEventListener("click", function() {
+                    window.location.href = `videos_detail.html?animation=${movieKey}`;
+                });
 
-        // Hapus episode yang ada
-        const episodeContainer = document.getElementById("episodeContainer");
-        episodeContainer.innerHTML = '';
+                const movieDiv = document.createElement("div");
+                movieDiv.classList.add("data-item");
 
-        // Tambahkan episode yang sudah diurutkan
-        displayEpisodes(episodes);
+                const movieBox = document.createElement("div");
+                movieBox.classList.add("movies-box", "skeleton");
+
+                const movieImg = document.createElement("img");
+                movieImg.src = movie.bgimg;
+                movieImg.alt = movie.title;
+
+                const imageOverlay = document.createElement("div");
+                imageOverlay.classList.add("image-overlay");
+
+                const overlay = document.createElement("div");
+                overlay.classList.add("overlay");
+
+                const judulMovies = document.createElement("div");
+                judulMovies.classList.add("judul-movies", "skeleton");
+
+                const movieTitle = document.createElement("h1");
+                movieTitle.textContent = movie.title;
+
+                judulMovies.appendChild(movieTitle);
+
+                movieBox.appendChild(movieImg);
+                movieBox.appendChild(imageOverlay);
+                movieBox.appendChild(overlay);
+                movieBox.appendChild(judulMovies);
+
+                movieDiv.appendChild(movieBox);
+
+                movieButton.appendChild(movieDiv);
+                relatedMoviesContainer.appendChild(movieButton);
+            }
+        });
     }
-  }
+}
 
+// Pastikan fungsi ini dipanggil dengan data yang sesuai
+// displayRelatedMovies([]);
 </script>
 </body>
 </html>
