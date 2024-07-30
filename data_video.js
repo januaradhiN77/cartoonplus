@@ -1103,6 +1103,8 @@
                     
        }
         ],
+                "relatedMovies": 
+        ["godzillakingofthemonster", "godzillavskong"],
 "aktor":[
         {
                 "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
@@ -5456,6 +5458,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQO68B3QtiZ2TSfGTFX3SHuuDbVfRNU-uk9g&usqp=CAU",
                 "trailer": "https://www.youtube.com/embed/pH7lV9_2uUk",
                 "duration": "2 jam 12m",
+                
 "episodes": [
         {
        "episodeTitle": "Tonton", 
@@ -5467,6 +5470,8 @@
                     
        }
         ],
+                        "relatedMovies": 
+        ["godzilaxkingkongtne", "godzillavskong"],
 "aktor":[
         {
                 "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",
@@ -5975,6 +5980,8 @@
                     
        }
         ],
+                        "relatedMovies": 
+        ["godzillakingofthemonster", "godzilaxkingkongtne"],
 "aktor":[
     {
         "image aktor": "https://www.gstatic.com/knowledgecard/person-95.png",

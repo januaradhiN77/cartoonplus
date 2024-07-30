@@ -235,47 +235,12 @@
     <h1 style="font-family: 'Zen Maru Gothic'; margin-bottom: auto;">Movie Terkait</h1>
                  <div style="height: 380px; overflow-y:auto;width: 100%;display: flex;flex-direction: column; margin-bottom: auto;scroll-behavior: smooth;">
               <div id="relatedMovies" style="display: flex; width: 100%; margin-top: 15px; flex-wrap: wrap; gap: 10px; padding-bottom: 10px;justify-content: left; align-items: center;">
-                <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
-                <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
-                                  <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
-                                  <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
-                                  <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
-                                  <button class="buttongoweb" onclick="goToError('')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton">
-                        
-                  <img src="asset/cplus_bg.png">
-                  <div class="image-overlay"></div>
-                       <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Cartoon+</h1></div></div>
+
                       </div>
               </div>
-
-  </div>
       <button class="close-button" onclick="closeMovieTerkait()">Tutup</button>
+  </div>
+
 </div>
 <script src="cookie.js"></script>
 <script src="movie_terkait.js"></script>
@@ -422,8 +387,9 @@ function displayRelatedMovies(relatedMovies) {
 
     if (relatedMovies.length === 0) {
         // Jika tidak ada film terkait
-        const noRelatedMoviesMessage = document.createElement("p");
+        const noRelatedMoviesMessage = document.createElement("h1");
         noRelatedMoviesMessage.textContent = "Tidak ada movie terkait";
+
         noRelatedMoviesMessage.style.textAlign = "center"; // Menempatkan teks di tengah
         noRelatedMoviesMessage.style.fontSize = "18px"; // Ukuran font
         noRelatedMoviesMessage.style.color = "#ffffff"; // Warna teks putih
